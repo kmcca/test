@@ -1,0 +1,136 @@
+---
+"ft:title" : "Veracode Greenlight for Visual Studio Components"
+"ft:prettyUrl" : "Veracode_Greenlight_for_Visual_Studio_Components"
+---
+This section lists the third-party components included in Veracode Greenlight for Visual Studio with links to the license agreements.
+
+## Release 	2.1.4674.294
+
+- Microsoft
+    - EnvDTE	8.0.0
+    - EnvDTE100	10.0.1
+    - EnvDTE80	8.0.0
+    - EnvDTE90	9.0.0
+    - Microsoft.VisualStudio.CommandBars	8.0.0
+    - Microsoft.VisualStudio.ComponentModelHost	14.0.25424
+    - Microsoft.VisualStudio.OLE.Interop	7.10.6070-pre
+    - Microsoft.VisualStudio.Shell.Interop.11.0	11.0.61030-pre
+    - Microsoft.VisualStudio.Shell.Interop.12.0	12.0.30110-pre
+    - Microsoft.VisualStudio.Shell.Interop.8.0	8.0.50727-pre
+    - Microsoft.VisualStudio.Shell.Interop.9.0	9.0.30729-pre
+    - Microsoft.VisualStudio.TextManager.Interop	7.10.6070-pre
+    - Microsoft.VisualStudio.TextManager.Interop.8.0	8.0.50727-pre
+    - stdole	7.0.3300
+- [Microsoft .NET Library EULA](https://www.microsoft.com/web/webpi/eula/net_library_eula_enu.htm)
+    - Microsoft.Build	14.3.0-prerelease02
+    - Microsoft.Build.Framework	15.9.20
+    - Microsoft.Build.Utilities.Core	14.3.0-prerelease02
+    - Microsoft.CodeAnalysis.Common	1.0.0
+    - Microsoft.CodeAnalysis.CSharp	1.0.0
+    - Microsoft.CodeAnalysis.CSharp.Workspaces	1.0.0
+    - Microsoft.CodeAnalysis.VisualBasic	1.0.0
+    - Microsoft.CodeAnalysis.VisualBasic.Workspaces	1.0.0
+    - Microsoft.CodeAnalysis.Workspaces.Common	1.0.0
+    - Microsoft.Composition	1.0.27
+    - Microsoft.VisualStudio.CoreUtility	14.3.25407
+    - Microsoft.VisualStudio.Imaging	14.3.25407
+    - Microsoft.VisualStudio.LanguageServices	1.0.0
+    - Microsoft.VisualStudio.Settings.14.0	14.3.25407
+    - Microsoft.VisualStudio.Shell.14.0	14.3.25407
+    - Microsoft.VisualStudio.Shell.Immutable.10.0	10.0.30319
+    - Microsoft.VisualStudio.Shell.Immutable.11.0	11.0.50727
+    - Microsoft.VisualStudio.Shell.Immutable.12.0	12.0.21003
+    - Microsoft.VisualStudio.Shell.Immutable.14.0	14.3.25407
+    - Microsoft.VisualStudio.Text.Data	14.3.25407
+    - Microsoft.VisualStudio.Text.Logic	14.3.25407
+    - Microsoft.VisualStudio.Text.UI	14.3.25407
+    - Microsoft.VisualStudio.Text.UI.Wpf	14.3.25407
+    - Microsoft.VisualStudio.Threading	14.1.111
+    - Microsoft.VisualStudio.Utilities	14.3.25407
+    - Microsoft.VisualStudio.Validation	14.1.111
+    - System.AppContext	4.3.0
+    - System.Collections.Immutable	1.1.37
+    - System.Composition.Convention	1.0.31
+    - System.Composition.Hosting	1.0.31
+    - System.Composition.TypedParts	1.0.31
+    - System.Console	4.0.0
+    - System.Diagnostics.FileVersionInfo	4.0.0
+    - System.Diagnostics.StackTrace	4.0.1
+    - System.IO.FileSystem	4.0.1
+    - System.IO.FileSystem.Primitives	4.0.1
+    - System.Reflection.Metadata	1.2.0
+    - System.Security.Cryptography.Algorithms	4.2.0
+    - System.Security.Cryptography.Encoding	4.0.0
+    - System.Security.Cryptography.Primitives	4.0.0
+    - System.Security.Cryptography.X509Certificates	4.1.0
+    - System.Text.Encoding.CodePages	4.0.1
+    - System.Threading.Thread	4.0.0
+    - System.Xml.XmlDocument	4.0.1
+    - System.Xml.XPath	4.0.1
+    - System.Xml.XPath.XDocument	4.0.1
+- [Microsoft .NET Library License](https://dotnet.microsoft.com/en-us/dotnet_library_license.htm)
+    - Microsoft.Build	14.3.0-prerelease02
+    - Microsoft.Build.Framework	15.9.20
+    - Microsoft.Build.Utilities.Core	14.3.0-prerelease02
+    - Microsoft.CodeAnalysis.Common	1.0.0
+    - Microsoft.CodeAnalysis.CSharp	1.0.0
+    - Microsoft.CodeAnalysis.CSharp.Workspaces	1.0.0
+    - Microsoft.CodeAnalysis.VisualBasic	1.0.0
+    - Microsoft.CodeAnalysis.VisualBasic.Workspaces	1.0.0
+    - Microsoft.CodeAnalysis.Workspaces.Common	1.0.0
+    - Microsoft.Composition	1.0.27
+    - Microsoft.VisualStudio.CoreUtility	14.3.25407
+    - Microsoft.VisualStudio.Imaging	14.3.25407
+    - Microsoft.VisualStudio.LanguageServices	1.0.0
+    - Microsoft.VisualStudio.Settings.14.0	14.3.25407
+    - Microsoft.VisualStudio.Shell.14.0	14.3.25407
+    - Microsoft.VisualStudio.Shell.Immutable.10.0	10.0.30319
+    - Microsoft.VisualStudio.Shell.Immutable.11.0	11.0.50727
+    - Microsoft.VisualStudio.Shell.Immutable.12.0	12.0.21003
+    - Microsoft.VisualStudio.Shell.Immutable.14.0	14.3.25407
+    - Microsoft.VisualStudio.Text.Data	14.3.25407
+    - Microsoft.VisualStudio.Text.Logic	14.3.25407
+    - Microsoft.VisualStudio.Text.UI	14.3.25407
+    - Microsoft.VisualStudio.Text.UI.Wpf	14.3.25407
+    - Microsoft.VisualStudio.Threading	14.1.111
+    - Microsoft.VisualStudio.Utilities	14.3.25407
+    - Microsoft.VisualStudio.Validation	14.1.111
+    - System.AppContext	4.3.0
+    - System.Collections.Immutable	1.1.37
+    - System.Composition.Convention	1.0.31
+    - System.Composition.Hosting	1.0.31
+    - System.Composition.TypedParts	1.0.31
+    - System.Console	4.0.0
+    - System.Diagnostics.FileVersionInfo	4.0.0
+    - System.Diagnostics.StackTrace	4.0.1
+    - System.IO.FileSystem	4.0.1
+    - System.IO.FileSystem.Primitives	4.0.1
+    - System.Reflection.Metadata	1.2.0
+    - System.Security.Cryptography.Algorithms	4.2.0
+    - System.Security.Cryptography.Encoding	4.0.0
+    - System.Security.Cryptography.Primitives	4.0.0
+    - System.Security.Cryptography.X509Certificates	4.1.0
+    - System.Text.Encoding.CodePages	4.0.1
+    - System.Threading.Thread	4.0.0
+    - System.Xml.XmlDocument	4.0.1
+    - System.Xml.XPath	4.0.1
+    - System.Xml.XPath.XDocument	4.0.1
+- [Microsoft Production Performance SDK License](https://aka.ms/productionperformancenugeteula)
+    - Microsoft.VisualStudio.CoreUtility	14.3.25407
+    - Microsoft.VisualStudio.Imaging	14.3.25407
+    - Microsoft.VisualStudio.Settings.14.0	14.3.25407
+    - Microsoft.VisualStudio.Shell.14.0	14.3.25407
+    - Microsoft.VisualStudio.Shell.Immutable.10.0	10.0.30319
+    - Microsoft.VisualStudio.Shell.Immutable.11.0	11.0.50727
+    - Microsoft.VisualStudio.Shell.Immutable.12.0	12.0.21003
+    - Microsoft.VisualStudio.Shell.Immutable.14.0	14.3.25407
+    - Microsoft.VisualStudio.Text.Data	14.3.25407
+    - Microsoft.VisualStudio.Text.Logic	14.3.25407
+    - Microsoft.VisualStudio.Text.UI	14.3.25407
+    - Microsoft.VisualStudio.Text.UI.Wpf	14.3.25407
+    - Microsoft.VisualStudio.Threading	14.1.111
+    - Microsoft.VisualStudio.Utilities	14.3.25407
+    - Microsoft.VisualStudio.Validation	14.1.111
+- [Microsoft Visual Studio 2017 Tools, Add-ons and Extensions License](https://visualstudio.microsoft.com/license-terms/mlt552233/)
+    - Microsoft.VisualStudio.Shell.Interop	7.10.6071-pre
+    - Microsoft.VisualStudio.Shell.Interop.10.0	10.0.30319-pre
