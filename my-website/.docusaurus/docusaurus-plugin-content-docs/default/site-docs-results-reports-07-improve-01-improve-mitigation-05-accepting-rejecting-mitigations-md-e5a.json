@@ -1,0 +1,28 @@
+{
+  "unversionedId": "results_reports/improve/improve_mitigation/accepting_rejecting_mitigations",
+  "id": "results_reports/improve/improve_mitigation/accepting_rejecting_mitigations",
+  "title": "accepting_rejecting_mitigations",
+  "description": "To accept or reject a proposed mitigation, you must have the Mitigation Approver role. To remove mitigations from the policy evaluation and security score calculation, you must accept all proposed mitigations.",
+  "source": "@site/docs/results_reports/07_improve/01_improve_mitigation/05_accepting_rejecting_mitigations.md",
+  "sourceDirName": "results_reports/07_improve/01_improve_mitigation",
+  "slug": "/results_reports/improve/improve_mitigation/accepting_rejecting_mitigations",
+  "permalink": "/docs/results_reports/improve/improve_mitigation/accepting_rejecting_mitigations",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/07_improve/01_improve_mitigation/05_accepting_rejecting_mitigations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "Accepting and Rejecting Mitigations",
+    "ft:prettyUrl": "Accepting_and_Rejecting_Mitigations"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "propose_mitigating_factors",
+    "permalink": "/docs/results_reports/improve/improve_mitigation/propose_mitigating_factors"
+  },
+  "next": {
+    "title": "accept_reject_mitigations_triage",
+    "permalink": "/docs/results_reports/improve/improve_mitigation/accept_reject_mitigations_triage"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "unversionedId": "Security_Labs/getting_started/README",
+  "id": "Security_Labs/getting_started/README",
+  "title": "README",
+  "description": "As the administrator, you are the contact person in your organization for all Security Labs questions and information. Veracode creates the first Security Labs user account for your organization. You use this account as the Security Labs administrator.",
+  "source": "@site/docs/Security_Labs/01_getting_started/README.md",
+  "sourceDirName": "Security_Labs/01_getting_started",
+  "slug": "/Security_Labs/getting_started/",
+  "permalink": "/docs/Security_Labs/getting_started/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Security_Labs/01_getting_started/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Scott Jordan"
+    ],
+    "ft:lang": "en-US",
+    "ft:title": "Get Started with Veracode Security Labs Administration",
+    "ft:prettyUrl": "t_seclabs_getstarted",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/Security_Labs/"
+  },
+  "next": {
+    "title": "saml",
+    "permalink": "/docs/Security_Labs/getting_started/saml"
+  }
+}

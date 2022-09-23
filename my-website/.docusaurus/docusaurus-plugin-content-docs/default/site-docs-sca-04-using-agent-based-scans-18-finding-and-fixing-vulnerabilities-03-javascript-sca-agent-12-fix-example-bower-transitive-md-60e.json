@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/javascript_sca_agent/fix_example_bower_transitive",
+  "id": "SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/javascript_sca_agent/fix_example_bower_transitive",
+  "title": "fix_example_bower_transitive",
+  "description": "To fix a transitive library for Bower, override the transitive dependency by specifying how to resolve the dependency.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/03_javascript_sca_agent/12_fix_example_bower_transitive.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/03_javascript_sca_agent",
+  "slug": "/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/javascript_sca_agent/fix_example_bower_transitive",
+  "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/javascript_sca_agent/fix_example_bower_transitive",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/03_javascript_sca_agent/12_fix_example_bower_transitive.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "ft:title": "Fix Example Transitive Vulnerability for Bower",
+    "ft:prettyUrl": "Fix_Example_Transitive_Vulnerability_for_Bower"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fix_example_bower_direct",
+    "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/javascript_sca_agent/fix_example_bower_direct"
+  },
+  "next": {
+    "title": "go_sca_agent",
+    "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/go_sca_agent"
+  }
+}

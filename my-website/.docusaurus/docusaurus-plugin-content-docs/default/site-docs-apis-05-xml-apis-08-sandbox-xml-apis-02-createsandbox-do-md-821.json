@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/xml_apis/sandbox_xml_apis/createsandbox_do",
+  "id": "apis/xml_apis/sandbox_xml_apis/createsandbox_do",
+  "title": "createsandbox_do",
+  "description": "The createsandbox.do call creates a sandbox for the specified application. If you have already reached the maximum number of sandboxes for the application, this call fails.",
+  "source": "@site/docs/apis/05_xml_apis/08_sandbox_xml_apis/02_createsandbox_do.md",
+  "sourceDirName": "apis/05_xml_apis/08_sandbox_xml_apis",
+  "slug": "/apis/xml_apis/sandbox_xml_apis/createsandbox_do",
+  "permalink": "/docs/apis/xml_apis/sandbox_xml_apis/createsandbox_do",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/05_xml_apis/08_sandbox_xml_apis/02_createsandbox_do.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "createsandbox.do",
+    "ft:prettyUrl": "r_createsandbox"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sandbox_xml_apis_quickref",
+    "permalink": "/docs/apis/xml_apis/sandbox_xml_apis/sandbox_xml_apis_quickref"
+  },
+  "next": {
+    "title": "getsandboxlist_do",
+    "permalink": "/docs/apis/xml_apis/sandbox_xml_apis/getsandboxlist_do"
+  }
+}

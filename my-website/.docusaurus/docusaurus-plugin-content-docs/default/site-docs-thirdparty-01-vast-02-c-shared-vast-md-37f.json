@@ -1,0 +1,28 @@
+{
+  "unversionedId": "thirdparty/vast/c_shared_VAST",
+  "id": "thirdparty/vast/c_shared_VAST",
+  "title": "c_shared_VAST",
+  "description": "Third-party vendors can make the results of their Veracode scans available to enterprise clients. To enable the sharing of Veracode reports, contact Veracode Technical Support.",
+  "source": "@site/docs/thirdparty/01_vast/02_c_shared_VAST.md",
+  "sourceDirName": "thirdparty/01_vast",
+  "slug": "/thirdparty/vast/c_shared_VAST",
+  "permalink": "/docs/thirdparty/vast/c_shared_VAST",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/thirdparty/01_vast/02_c_shared_VAST.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Reviewing VAST Shared Reports",
+    "ft:prettyUrl": "c_shared_VAST"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/thirdparty/vast/"
+  },
+  "next": {
+    "title": "c_shared_sca",
+    "permalink": "/docs/thirdparty/vast/c_shared_sca"
+  }
+}

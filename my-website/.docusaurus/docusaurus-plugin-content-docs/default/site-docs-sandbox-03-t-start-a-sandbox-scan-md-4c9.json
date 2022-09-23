@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Sandbox/t_start_a_sandbox_scan",
+  "id": "Sandbox/t_start_a_sandbox_scan",
+  "title": "t_start_a_sandbox_scan",
+  "description": "You can start a scan of an existing sandbox to measure the results against policy rules.",
+  "source": "@site/docs/Sandbox/03_t_start_a_sandbox_scan.md",
+  "sourceDirName": "Sandbox",
+  "slug": "/Sandbox/t_start_a_sandbox_scan",
+  "permalink": "/docs/Sandbox/t_start_a_sandbox_scan",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Sandbox/03_t_start_a_sandbox_scan.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Start a Sandbox Scan",
+    "ft:prettyUrl": "Start_a_Sandbox_Scan"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "t_create_sandbox",
+    "permalink": "/docs/Sandbox/t_create_sandbox"
+  },
+  "next": {
+    "title": "t_review_sandbox_scan_results",
+    "permalink": "/docs/Sandbox/t_review_sandbox_scan_results"
+  }
+}

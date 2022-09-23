@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Sandbox/using_dev_sandboxes_ides/t_eclipse_sandbox",
+  "id": "Sandbox/using_dev_sandboxes_ides/t_eclipse_sandbox",
+  "title": "t_eclipse_sandbox",
+  "description": "Within Eclipse, you create a development sandbox into which you upload your files and, then, you can run a scan from the sandbox.",
+  "source": "@site/docs/Sandbox/09_using_dev_sandboxes_ides/01_t_eclipse_sandbox.md",
+  "sourceDirName": "Sandbox/09_using_dev_sandboxes_ides",
+  "slug": "/Sandbox/using_dev_sandboxes_ides/t_eclipse_sandbox",
+  "permalink": "/docs/Sandbox/using_dev_sandboxes_ides/t_eclipse_sandbox",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Sandbox/09_using_dev_sandboxes_ides/01_t_eclipse_sandbox.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Using Development Sandboxes with the Eclipse Plugin",
+    "ft:prettyUrl": "t_eclipse_sandbox"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/Sandbox/using_dev_sandboxes_ides/"
+  },
+  "next": {
+    "title": "c_intelliJ_sandbox",
+    "permalink": "/docs/Sandbox/using_dev_sandboxes_ides/c_intelliJ_sandbox"
+  }
+}

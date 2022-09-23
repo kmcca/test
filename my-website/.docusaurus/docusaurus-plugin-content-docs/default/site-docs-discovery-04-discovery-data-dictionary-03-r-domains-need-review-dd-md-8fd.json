@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Discovery/discovery_data_dictionary/r_domains_need_review_dd",
+  "id": "Discovery/discovery_data_dictionary/r_domains_need_review_dd",
+  "title": "r_domains_need_review_dd",
+  "description": "This topic describes the data and graphs in the Domains Needing Review worksheet included in the Discovery scan extract. Veracode generates this extract after you run a Discovery scan.",
+  "source": "@site/docs/Discovery/04_discovery_data_dictionary/03_r_domains_need_review_dd.md",
+  "sourceDirName": "Discovery/04_discovery_data_dictionary",
+  "slug": "/Discovery/discovery_data_dictionary/r_domains_need_review_dd",
+  "permalink": "/docs/Discovery/discovery_data_dictionary/r_domains_need_review_dd",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Discovery/04_discovery_data_dictionary/03_r_domains_need_review_dd.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Data Dictionary for Domains Needing Review Worksheet",
+    "ft:prettyUrl": "Domains_Needing_Review_Data_Dictionary"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "r_discovery_scan_dashboard",
+    "permalink": "/docs/Discovery/discovery_data_dictionary/r_discovery_scan_dashboard"
+  },
+  "next": {
+    "title": "c_action_items_dd",
+    "permalink": "/docs/Discovery/discovery_data_dictionary/c_action_items_dd"
+  }
+}

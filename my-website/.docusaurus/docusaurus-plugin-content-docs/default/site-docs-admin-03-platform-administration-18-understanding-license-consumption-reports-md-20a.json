@@ -1,0 +1,28 @@
+{
+  "unversionedId": "admin/platform_administration/understanding_license_consumption_reports",
+  "id": "admin/platform_administration/understanding_license_consumption_reports",
+  "title": "understanding_license_consumption_reports",
+  "description": "The license consumption reports in the Veracode Platform provide consumption data associated with your Veracode licenses. Each report provides different details about the Static Analysis and Dynamic Analysis scan activity that uses your license.",
+  "source": "@site/docs/admin/03_platform_administration/18_understanding_license_consumption_reports.md",
+  "sourceDirName": "admin/03_platform_administration",
+  "slug": "/admin/platform_administration/understanding_license_consumption_reports",
+  "permalink": "/docs/admin/platform_administration/understanding_license_consumption_reports",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/admin/03_platform_administration/18_understanding_license_consumption_reports.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 18,
+  "frontMatter": {
+    "ft:title": "Understanding the License Consumption Reports",
+    "ft:prettyUrl": "c_license_consumption"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "access_license_consumption_reports",
+    "permalink": "/docs/admin/platform_administration/access_license_consumption_reports"
+  },
+  "next": {
+    "title": "custom_cleanser_administration",
+    "permalink": "/docs/admin/platform_administration/custom_cleanser_administration"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "pipeline_scan/pipeline_scan_gitlab_examples/r_gitlab_gradle_example",
+  "id": "pipeline_scan/pipeline_scan_gitlab_examples/r_gitlab_gradle_example",
+  "title": "r_gitlab_gradle_example",
+  "description": "This example YAML code shows how to add a Pipeline Scan and automatic issue generation as a build stage in a GitLab build pipeline using Gradle.",
+  "source": "@site/docs/pipeline_scan/08_pipeline_scan_gitlab_examples/04_r_gitlab_gradle_example.md",
+  "sourceDirName": "pipeline_scan/08_pipeline_scan_gitlab_examples",
+  "slug": "/pipeline_scan/pipeline_scan_gitlab_examples/r_gitlab_gradle_example",
+  "permalink": "/docs/pipeline_scan/pipeline_scan_gitlab_examples/r_gitlab_gradle_example",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/pipeline_scan/08_pipeline_scan_gitlab_examples/04_r_gitlab_gradle_example.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "Pipeline Scan Example for Using GitLab and Gradle with Automatic Issue Generation",
+    "ft:prettyUrl": "Pipeline_Scan_Example_for_Using_GitLab_and_Gradle_with_Automatic_Issue_Generation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "r_gitlab_gradle",
+    "permalink": "/docs/pipeline_scan/pipeline_scan_gitlab_examples/r_gitlab_gradle"
+  },
+  "next": {
+    "title": "r_gitlab_gradle_vulnerability_example",
+    "permalink": "/docs/pipeline_scan/pipeline_scan_gitlab_examples/r_gitlab_gradle_vulnerability_example"
+  }
+}

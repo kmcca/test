@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/about_organization_rules_agent",
+  "id": "SCA/using_agent_based_scans/about_organization_rules_agent",
+  "title": "about_organization_rules_agent",
+  "description": "Organization rules allow you to apply the same set of controls to all of your workspaces. If your organization enforces organization rules, you cannot set custom rules at the workspace level. If your organization has configured organization rules but does not enforce them, you can select the organization rules when configuring the rules for a workspace.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/13_about_organization_rules_agent.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans",
+  "slug": "/SCA/using_agent_based_scans/about_organization_rules_agent",
+  "permalink": "/docs/SCA/using_agent_based_scans/about_organization_rules_agent",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/13_about_organization_rules_agent.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "ft:title": "About Organization Rules for Agent-Based Scanning",
+    "ft:prettyUrl": "About_Organization_Rules_for_Agent_Based_Scanning"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "agent_custom_rule_examples",
+    "permalink": "/docs/SCA/using_agent_based_scans/custom_rules_agent/agent_custom_rule_examples"
+  },
+  "next": {
+    "title": "configure_organization_rules_agent",
+    "permalink": "/docs/SCA/using_agent_based_scans/configure_organization_rules_agent"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/api_wrappers/wrappers_composite_actions/uploadandscanbyappid",
+  "id": "apis/api_wrappers/wrappers_composite_actions/uploadandscanbyappid",
+  "title": "uploadandscanbyappid",
+  "description": "The uploadandscanbyappid composite action enables you to upload files to Veracode for scanning.",
+  "source": "@site/docs/apis/06_api_wrappers/06_wrappers_composite_actions/02_uploadandscanbyappid.md",
+  "sourceDirName": "apis/06_api_wrappers/06_wrappers_composite_actions",
+  "slug": "/apis/api_wrappers/wrappers_composite_actions/uploadandscanbyappid",
+  "permalink": "/docs/apis/api_wrappers/wrappers_composite_actions/uploadandscanbyappid",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/06_api_wrappers/06_wrappers_composite_actions/02_uploadandscanbyappid.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "uploadandscanbyappid",
+    "ft:prettyUrl": "uploadandscanbyappid"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "uploadandscan",
+    "permalink": "/docs/apis/api_wrappers/wrappers_composite_actions/uploadandscan"
+  },
+  "next": {
+    "title": "alldetailedreports",
+    "permalink": "/docs/apis/api_wrappers/wrappers_composite_actions/alldetailedreports"
+  }
+}

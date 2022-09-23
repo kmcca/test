@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/rest_apis/dev_sandbox_rest_api/sandbox_api_delete",
+  "id": "apis/rest_apis/dev_sandbox_rest_api/sandbox_api_delete",
+  "title": "sandbox_api_delete",
+  "description": "Use this command to delete the specified sandbox:",
+  "source": "@site/docs/apis/04_rest_apis/03_dev_sandbox_rest_api/04_sandbox_api_delete.md",
+  "sourceDirName": "apis/04_rest_apis/03_dev_sandbox_rest_api",
+  "slug": "/apis/rest_apis/dev_sandbox_rest_api/sandbox_api_delete",
+  "permalink": "/docs/apis/rest_apis/dev_sandbox_rest_api/sandbox_api_delete",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/04_rest_apis/03_dev_sandbox_rest_api/04_sandbox_api_delete.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "Deleting a Development Sandbox with the REST API",
+    "ft:prettyUrl": "c_sandbox_delete_rest"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sandbox_api_update",
+    "permalink": "/docs/apis/rest_apis/dev_sandbox_rest_api/sandbox_api_update"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/apis/rest_apis/dynamic_rest_apis/"
+  }
+}

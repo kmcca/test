@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/project_management/enable_notifications_watched_projects",
+  "id": "SCA/using_agent_based_scans/project_management/enable_notifications_watched_projects",
+  "title": "enable_notifications_watched_projects",
+  "description": "You can receive notifications for a watched project if you are a member of a team assigned to the workspace that contains the project.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/21_project_management/04_enable_notifications_watched_projects.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/21_project_management",
+  "slug": "/SCA/using_agent_based_scans/project_management/enable_notifications_watched_projects",
+  "permalink": "/docs/SCA/using_agent_based_scans/project_management/enable_notifications_watched_projects",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/21_project_management/04_enable_notifications_watched_projects.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "Enable Notifications for Watched Projects",
+    "ft:prettyUrl": "Enable Notifications for Watched Projects"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "watching_sca_project",
+    "permalink": "/docs/SCA/using_agent_based_scans/project_management/watching_sca_project"
+  },
+  "next": {
+    "title": "understanding_webhooks",
+    "permalink": "/docs/SCA/using_agent_based_scans/project_management/understanding_webhooks"
+  }
+}

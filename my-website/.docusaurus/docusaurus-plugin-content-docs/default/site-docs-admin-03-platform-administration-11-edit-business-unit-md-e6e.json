@@ -1,0 +1,28 @@
+{
+  "unversionedId": "admin/platform_administration/edit_business_unit",
+  "id": "admin/platform_administration/edit_business_unit",
+  "title": "edit_business_unit",
+  "description": "You can edit the name of the business unit or update the list of teams assigned to the business unit.",
+  "source": "@site/docs/admin/03_platform_administration/11_edit_business_unit.md",
+  "sourceDirName": "admin/03_platform_administration",
+  "slug": "/admin/platform_administration/edit_business_unit",
+  "permalink": "/docs/admin/platform_administration/edit_business_unit",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/admin/03_platform_administration/11_edit_business_unit.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "ft:title": "Edit a Business Unit",
+    "ft:prettyUrl": "t_edit_business_unit"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "add_business_unit",
+    "permalink": "/docs/admin/platform_administration/add_business_unit"
+  },
+  "next": {
+    "title": "delete_business_unit",
+    "permalink": "/docs/admin/platform_administration/delete_business_unit"
+  }
+}

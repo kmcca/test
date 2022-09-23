@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apisec/create_scan/apisec_create_scan",
+  "id": "apisec/create_scan/apisec_create_scan",
+  "title": "apisec_create_scan",
+  "description": "You can create an API specification scan in the Veracode Platform to perform a Dynamic Analysis of all endpoints in one or more API specifications.",
+  "source": "@site/docs/apisec/03_create_scan/01_apisec_create_scan.md",
+  "sourceDirName": "apisec/03_create_scan",
+  "slug": "/apisec/create_scan/apisec_create_scan",
+  "permalink": "/docs/apisec/create_scan/apisec_create_scan",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apisec/03_create_scan/01_apisec_create_scan.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Create an API Specification Scan",
+    "ft:prettyUrl": "Create_an_API_Specification_Scan"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/apisec/create_scan/"
+  },
+  "next": {
+    "title": "video_create_api_scan",
+    "permalink": "/docs/apisec/create_scan/video_create_api_scan"
+  }
+}

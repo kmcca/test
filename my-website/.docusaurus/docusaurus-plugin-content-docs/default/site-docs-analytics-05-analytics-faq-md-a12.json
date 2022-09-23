@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Analytics/analytics_FAQ",
+  "id": "Analytics/analytics_FAQ",
+  "title": "analytics_FAQ",
+  "description": "Veracode provides answers to Veracode Analytics frequently asked questions.",
+  "source": "@site/docs/Analytics/05_analytics_FAQ.md",
+  "sourceDirName": "Analytics",
+  "slug": "/Analytics/analytics_FAQ",
+  "permalink": "/docs/Analytics/analytics_FAQ",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Analytics/05_analytics_FAQ.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "About Veracode Analytics Frequently Asked Questions (FAQ)",
+    "ft:prettyUrl": "About_Veracode_Analytics_Frequently_Asked_Questions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "analytics_embed_video_personal_dashboards",
+    "permalink": "/docs/Analytics/save_dashboards/analytics_embed_video_personal_dashboards"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/Analytics/using_explore/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ticketing/jira_integration/install_jira_integration/jira_upgrade_old_version",
+  "id": "ticketing/jira_integration/install_jira_integration/jira_upgrade_old_version",
+  "title": "jira_upgrade_old_version",
+  "description": "Use this procedure only if you are upgrading to the latest version of the Veracode Integration for Jira from a version earlier than 3.5.0.",
+  "source": "@site/docs/ticketing/04_jira_integration/02_install_jira_integration/02_jira_upgrade_old_version.md",
+  "sourceDirName": "ticketing/04_jira_integration/02_install_jira_integration",
+  "slug": "/ticketing/jira_integration/install_jira_integration/jira_upgrade_old_version",
+  "permalink": "/docs/ticketing/jira_integration/install_jira_integration/jira_upgrade_old_version",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ticketing/04_jira_integration/02_install_jira_integration/02_jira_upgrade_old_version.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Upgrade an Old Version of the Veracode Integration for Jira",
+    "ft:prettyUrl": "t_jira_upgrade"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jira_update",
+    "permalink": "/docs/ticketing/jira_integration/install_jira_integration/jira_update"
+  },
+  "next": {
+    "title": "jira_remove_duplicate_issues",
+    "permalink": "/docs/ticketing/jira_integration/install_jira_integration/jira_remove_duplicate_issues"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/using_sca_agent/enable_agent_behind_proxy",
+  "id": "SCA/using_agent_based_scans/using_sca_agent/enable_agent_behind_proxy",
+  "title": "enable_agent_behind_proxy",
+  "description": "If you use the Veracode Software Composition Analysis agent with a CI tool that is behind a proxy, you must establish communication between the agent and your proxy server.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/09_using_sca_agent/02_enable_agent_behind_proxy.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/09_using_sca_agent",
+  "slug": "/SCA/using_agent_based_scans/using_sca_agent/enable_agent_behind_proxy",
+  "permalink": "/docs/SCA/using_agent_based_scans/using_sca_agent/enable_agent_behind_proxy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/09_using_sca_agent/02_enable_agent_behind_proxy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Enable Agent-Based Scanning Behind a Proxy",
+    "ft:prettyUrl": "t_sc_agent_proxy"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "use_agent_scm_other",
+    "permalink": "/docs/SCA/using_agent_based_scans/using_sca_agent/use_agent_scm_other"
+  },
+  "next": {
+    "title": "veracode_sca_agent_commands",
+    "permalink": "/docs/SCA/using_agent_based_scans/using_sca_agent/veracode_sca_agent_commands"
+  }
+}

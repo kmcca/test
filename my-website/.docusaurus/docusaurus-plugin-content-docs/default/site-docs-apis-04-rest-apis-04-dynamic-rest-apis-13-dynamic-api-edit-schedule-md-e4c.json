@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/rest_apis/dynamic_rest_apis/dynamic_api_edit_schedule",
+  "id": "apis/rest_apis/dynamic_rest_apis/dynamic_api_edit_schedule",
+  "title": "dynamic_api_edit_schedule",
+  "description": "You can use the Dynamic Analysis API to update the schedule of an analysis.",
+  "source": "@site/docs/apis/04_rest_apis/04_dynamic_rest_apis/13_dynamic_api_edit_schedule.md",
+  "sourceDirName": "apis/04_rest_apis/04_dynamic_rest_apis",
+  "slug": "/apis/rest_apis/dynamic_rest_apis/dynamic_api_edit_schedule",
+  "permalink": "/docs/apis/rest_apis/dynamic_rest_apis/dynamic_api_edit_schedule",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/04_rest_apis/04_dynamic_rest_apis/13_dynamic_api_edit_schedule.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "ft:title": "Edit the Schedule of a Dynamic Analysis with the REST API",
+    "ft:prettyUrl": "t_dynamic_edit_schedule"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dynamic_api_pause_resume_schedule",
+    "permalink": "/docs/apis/rest_apis/dynamic_rest_apis/dynamic_api_pause_resume_schedule"
+  },
+  "next": {
+    "title": "dynamic_api_link_results",
+    "permalink": "/docs/apis/rest_apis/dynamic_rest_apis/dynamic_api_link_results"
+  }
+}

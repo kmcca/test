@@ -1,0 +1,27 @@
+{
+  "unversionedId": "build_systems/ant_integration/README",
+  "id": "build_systems/ant_integration/README",
+  "title": "README",
+  "description": "You can use the Veracode Java API wrapper to integrate Veracode Static Analysis with Apache Ant. The integration seamlessly adds static scanning into the existing build processes that you use in your Software Development Life Cycle (SDLC).",
+  "source": "@site/docs/build_systems/02_ant_integration/README.md",
+  "sourceDirName": "build_systems/02_ant_integration",
+  "slug": "/build_systems/ant_integration/",
+  "permalink": "/docs/build_systems/ant_integration/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/build_systems/02_ant_integration/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Veracode Ant Integration",
+    "ft:prettyUrl": "c_integration_ANT"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "integrating_build_systems",
+    "permalink": "/docs/build_systems/integrating_build_systems"
+  },
+  "next": {
+    "title": "integrate_ant",
+    "permalink": "/docs/build_systems/ant_integration/integrate_ant"
+  }
+}

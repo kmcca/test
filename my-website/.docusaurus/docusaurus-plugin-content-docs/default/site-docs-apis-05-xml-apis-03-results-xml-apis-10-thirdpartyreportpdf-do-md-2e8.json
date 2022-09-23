@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/xml_apis/results_xml_apis/thirdpartyreportpdf_do",
+  "id": "apis/xml_apis/results_xml_apis/thirdpartyreportpdf_do",
+  "title": "thirdpartyreportpdf_do",
+  "description": "The thirdpartyreportpdf.do call downloads a PDF file of the scan results for the specified build of a third-party application.",
+  "source": "@site/docs/apis/05_xml_apis/03_results_xml_apis/10_thirdpartyreportpdf_do.md",
+  "sourceDirName": "apis/05_xml_apis/03_results_xml_apis",
+  "slug": "/apis/xml_apis/results_xml_apis/thirdpartyreportpdf_do",
+  "permalink": "/docs/apis/xml_apis/results_xml_apis/thirdpartyreportpdf_do",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/05_xml_apis/03_results_xml_apis/10_thirdpartyreportpdf_do.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "ft:title": "thirdpartyreportpdf.do",
+    "ft:prettyUrl": "r_thirdpartyreportpdf"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "summaryreportpdf_do",
+    "permalink": "/docs/apis/xml_apis/results_xml_apis/summaryreportpdf_do"
+  },
+  "next": {
+    "title": "xml_api_results_tutorial",
+    "permalink": "/docs/apis/xml_apis/results_xml_apis/xml_api_results_tutorial"
+  }
+}

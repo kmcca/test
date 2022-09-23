@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ides/mobile_app_packager/README",
+  "id": "ides/mobile_app_packager/README",
+  "title": "README",
+  "description": "The Veracode Mobile Application Packager helps you prepare your iOS applications developed in Xcode for Veracode Static Analysis.",
+  "source": "@site/docs/ides/02_mobile_app_packager/README.md",
+  "sourceDirName": "ides/02_mobile_app_packager",
+  "slug": "/ides/mobile_app_packager/",
+  "permalink": "/docs/ides/mobile_app_packager/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/02_mobile_app_packager/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Veracode Mobile Application Packager",
+    "ft:prettyUrl": "Veracode_Mobile_Application_Packager"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ide_integrations",
+    "permalink": "/docs/ides/ide_integrations"
+  },
+  "next": {
+    "title": "install_mobile_app_pkgr",
+    "permalink": "/docs/ides/mobile_app_packager/install_mobile_app_pkgr"
+  }
+}

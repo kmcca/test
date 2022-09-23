@@ -1,0 +1,33 @@
+{
+  "unversionedId": "packaging/ios_tvos/resolve_missing_bitcode_ios/README",
+  "id": "packaging/ios_tvos/resolve_missing_bitcode_ios/README",
+  "title": "README",
+  "description": "Veracode provides solutions to resolve third-party dependencies that prevent Xcode from building iOS applications with the accompanying bitcode.",
+  "source": "@site/docs/packaging/14_ios_tvos/resolve_missing_bitcode_ios/README.md",
+  "sourceDirName": "packaging/14_ios_tvos/resolve_missing_bitcode_ios",
+  "slug": "/packaging/ios_tvos/resolve_missing_bitcode_ios/",
+  "permalink": "/docs/packaging/ios_tvos/resolve_missing_bitcode_ios/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/packaging/14_ios_tvos/resolve_missing_bitcode_ios/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Scott Jordan"
+    ],
+    "ft:originID": "resolving_missing_bitcode_in_iosS_applications",
+    "ft:lang": "en-US",
+    "ft:title": "Resolving Missing Bitcode in iOS Applications",
+    "ft:prettyUrl": "Resolving_Missing_Bitcode_in_iOS_Applications",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/packaging/ios_tvos/"
+  },
+  "next": {
+    "title": "c_replace_library_conditionals",
+    "permalink": "/docs/packaging/ios_tvos/resolve_missing_bitcode_ios/c_replace_library_conditionals"
+  }
+}

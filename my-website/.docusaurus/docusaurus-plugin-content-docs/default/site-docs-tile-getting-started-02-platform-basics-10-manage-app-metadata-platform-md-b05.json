@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tile_getting_started/platform_basics/manage_app_metadata_platform",
+  "id": "tile_getting_started/platform_basics/manage_app_metadata_platform",
+  "title": "manage_app_metadata_platform",
+  "description": "Metadata provides detailed information about the application to enable you to analyze the security performance of all the applications in your portfolio. Use the metadata to group and sort your portfolio data by any of the standard categories to measure performance and policy compliance across the portfolio. Use the custom fields to create metadata fields of your own.",
+  "source": "@site/docs/tile_getting_started/02_platform_basics/10_manage_app_metadata_platform.md",
+  "sourceDirName": "tile_getting_started/02_platform_basics",
+  "slug": "/tile_getting_started/platform_basics/manage_app_metadata_platform",
+  "permalink": "/docs/tile_getting_started/platform_basics/manage_app_metadata_platform",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tile_getting_started/02_platform_basics/10_manage_app_metadata_platform.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "ft:title": "Add and Edit Application Metadata in the Veracode Platform",
+    "ft:prettyUrl": "t_add_metadata"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bookmarking_reports_platform",
+    "permalink": "/docs/tile_getting_started/platform_basics/bookmarking_reports_platform"
+  },
+  "next": {
+    "title": "create_custom_metadata_fields_platform",
+    "permalink": "/docs/tile_getting_started/platform_basics/create_custom_metadata_fields_platform"
+  }
+}

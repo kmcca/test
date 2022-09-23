@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ticketing/jira_integration/jira_enable_logging",
+  "id": "ticketing/jira_integration/jira_enable_logging",
+  "title": "jira_enable_logging",
+  "description": "You can configure Jira to log the actions that the Veracode Integration for Jira performs. The log messages are located in the standard Jira log.",
+  "source": "@site/docs/ticketing/04_jira_integration/08_jira_enable_logging.md",
+  "sourceDirName": "ticketing/04_jira_integration",
+  "slug": "/ticketing/jira_integration/jira_enable_logging",
+  "permalink": "/docs/ticketing/jira_integration/jira_enable_logging",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ticketing/04_jira_integration/08_jira_enable_logging.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "ft:title": "Enable Logging in Jira",
+    "ft:prettyUrl": "t_debug_jira"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jira_selective_findings_import",
+    "permalink": "/docs/ticketing/jira_integration/jira_import_findings/jira_selective_findings_import"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/ticketing/jira_cloud_integration/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "container/container_commands",
+  "id": "container/container_commands",
+  "title": "container_commands",
+  "description": "@@@@@@@2 every command uses this format veracode",
+  "source": "@site/docs/container/container_commands.md",
+  "sourceDirName": "container",
+  "slug": "/container/container_commands",
+  "permalink": "/docs/container/container_commands",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/container/container_commands.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/container/"
+  },
+  "next": {
+    "title": "container_scanning_requirements",
+    "permalink": "/docs/container/container_scanning_requirements"
+  }
+}

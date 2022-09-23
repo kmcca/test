@@ -1,0 +1,28 @@
+{
+  "unversionedId": "packaging/groovy",
+  "id": "packaging/groovy",
+  "title": "groovy",
+  "description": "Your Groovy applications must meet specific packaging requirements before you can submit them for scanning.",
+  "source": "@site/docs/packaging/11_groovy.md",
+  "sourceDirName": "packaging",
+  "slug": "/packaging/groovy",
+  "permalink": "/docs/packaging/groovy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/packaging/11_groovy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "ft:title": "Groovy Application Packaging",
+    "ft:prettyUrl": "c_compilation_groovy"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "winccpp",
+    "permalink": "/docs/packaging/winccpp"
+  },
+  "next": {
+    "title": "go",
+    "permalink": "/docs/packaging/go"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/setting_up_agent_based_scans/continuous_integration/bitbucket/set_bitbucket_repo_variable",
+  "id": "SCA/setting_up_agent_based_scans/continuous_integration/bitbucket/set_bitbucket_repo_variable",
+  "title": "set_bitbucket_repo_variable",
+  "description": "Environment variables added on the repository level can be accessed by any users with the push permission in the repository. You can set a repository environment variable to perform scans on each new build.",
+  "source": "@site/docs/SCA/03_setting_up_agent_based_scans/01_continuous_integration/03_bitbucket/03_set_bitbucket_repo_variable.md",
+  "sourceDirName": "SCA/03_setting_up_agent_based_scans/01_continuous_integration/03_bitbucket",
+  "slug": "/SCA/setting_up_agent_based_scans/continuous_integration/bitbucket/set_bitbucket_repo_variable",
+  "permalink": "/docs/SCA/setting_up_agent_based_scans/continuous_integration/bitbucket/set_bitbucket_repo_variable",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/03_setting_up_agent_based_scans/01_continuous_integration/03_bitbucket/03_set_bitbucket_repo_variable.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Set a Bitbucket Repository Environment Variable",
+    "ft:prettyUrl": "Set_a_Bitbucket_Repository_Environment_Variable"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "set_bitbucket_account_variable",
+    "permalink": "/docs/SCA/setting_up_agent_based_scans/continuous_integration/bitbucket/set_bitbucket_account_variable"
+  },
+  "next": {
+    "title": "configuring_pipelines_directory",
+    "permalink": "/docs/SCA/setting_up_agent_based_scans/continuous_integration/bitbucket/configuring_pipelines_directory"
+  }
+}

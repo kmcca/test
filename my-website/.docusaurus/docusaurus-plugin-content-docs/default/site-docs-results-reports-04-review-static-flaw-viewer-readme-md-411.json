@@ -1,0 +1,33 @@
+{
+  "unversionedId": "results_reports/review_static_flaw_viewer/README",
+  "id": "results_reports/review_static_flaw_viewer/README",
+  "title": "README",
+  "description": "The triage flaws task allows you to review static flaws in the context of their local copy of the source code for the application. This section describes static flaws and explains how to:",
+  "source": "@site/docs/results_reports/04_review_static_flaw_viewer/README.md",
+  "sourceDirName": "results_reports/04_review_static_flaw_viewer",
+  "slug": "/results_reports/review_static_flaw_viewer/",
+  "permalink": "/docs/results_reports/review_static_flaw_viewer/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/04_review_static_flaw_viewer/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Kevin McCarthy"
+    ],
+    "ft:originID": "review_static_flaw_viewer",
+    "ft:lang": "en-US",
+    "ft:title": "Reviewing Static Flaws",
+    "ft:prettyUrl": "review_static_flaw_viewer",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "c_video_reviewing_scan_results",
+    "permalink": "/docs/results_reports/reviewing_scan_results/c_video_reviewing_scan_results"
+  },
+  "next": {
+    "title": "reviewing_module_selection",
+    "permalink": "/docs/results_reports/review_static_flaw_viewer/reviewing_module_selection"
+  }
+}

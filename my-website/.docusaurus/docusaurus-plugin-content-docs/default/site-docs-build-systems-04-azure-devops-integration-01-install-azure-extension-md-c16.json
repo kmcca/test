@@ -1,0 +1,28 @@
+{
+  "unversionedId": "build_systems/azure_devops_integration/install_azure_extension",
+  "id": "build_systems/azure_devops_integration/install_azure_extension",
+  "title": "install_azure_extension",
+  "description": "You can install the Veracode Azure DevOps Extension from the Microsoft Visual Studio Marketplace.",
+  "source": "@site/docs/build_systems/04_azure_devops_integration/01_install_azure_extension.md",
+  "sourceDirName": "build_systems/04_azure_devops_integration",
+  "slug": "/build_systems/azure_devops_integration/install_azure_extension",
+  "permalink": "/docs/build_systems/azure_devops_integration/install_azure_extension",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/build_systems/04_azure_devops_integration/01_install_azure_extension.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Install the Veracode Azure DevOps Extension",
+    "ft:prettyUrl": "t_install_azure_devops_extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/build_systems/azure_devops_integration/"
+  },
+  "next": {
+    "title": "azure_check_version",
+    "permalink": "/docs/build_systems/azure_devops_integration/azure_check_version"
+  }
+}

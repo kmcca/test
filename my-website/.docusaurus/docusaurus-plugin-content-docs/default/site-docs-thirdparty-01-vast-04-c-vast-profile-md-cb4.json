@@ -1,0 +1,28 @@
+{
+  "unversionedId": "thirdparty/vast/c_VAST_profile",
+  "id": "thirdparty/vast/c_VAST_profile",
+  "title": "c_VAST_profile",
+  "description": "Enterprise clients can edit the Profile and Metadata pages of a vendor application to collect useful metadata.",
+  "source": "@site/docs/thirdparty/01_vast/04_c_VAST_profile.md",
+  "sourceDirName": "thirdparty/01_vast",
+  "slug": "/thirdparty/vast/c_VAST_profile",
+  "permalink": "/docs/thirdparty/vast/c_VAST_profile",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/thirdparty/01_vast/04_c_VAST_profile.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "Editing the VAST Vendor Application",
+    "ft:prettyUrl": "c_VAST_profile"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "c_shared_sca",
+    "permalink": "/docs/thirdparty/vast/c_shared_sca"
+  },
+  "next": {
+    "title": "c_VAST_vendor",
+    "permalink": "/docs/thirdparty/vast/c_VAST_vendor"
+  }
+}

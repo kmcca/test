@@ -1,0 +1,27 @@
+{
+  "unversionedId": "apis/rest_apis/healthcheck_rest_apis/README",
+  "id": "apis/rest_apis/healthcheck_rest_apis/README",
+  "title": "README",
+  "description": "You can use the Healthcheck API to perform a simple test for verifying authenticated connectivity to Veracode.",
+  "source": "@site/docs/apis/04_rest_apis/08_healthcheck_rest_apis/README.md",
+  "sourceDirName": "apis/04_rest_apis/08_healthcheck_rest_apis",
+  "slug": "/apis/rest_apis/healthcheck_rest_apis/",
+  "permalink": "/docs/apis/rest_apis/healthcheck_rest_apis/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/04_rest_apis/08_healthcheck_rest_apis/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Healthcheck REST APIs",
+    "ft:prettyUrl": "c_healthcheck_intro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/apis/rest_apis/greenlight_rest_apis/"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/apis/rest_apis/identity_rest_api/"
+  }
+}

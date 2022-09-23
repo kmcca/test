@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/ruby_sca_agent/fix_example_ruby_transitive",
+  "id": "SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/ruby_sca_agent/fix_example_ruby_transitive",
+  "title": "fix_example_ruby_transitive",
+  "description": "To fix a transitive library for Ruby, override the transitive dependency by adding the appropriately versioned dependency as a direct library to your Gemfile.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/07_ruby_sca_agent/02_fix_example_ruby_transitive.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/07_ruby_sca_agent",
+  "slug": "/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/ruby_sca_agent/fix_example_ruby_transitive",
+  "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/ruby_sca_agent/fix_example_ruby_transitive",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/07_ruby_sca_agent/02_fix_example_ruby_transitive.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Fix Example Transitive Vulnerability for Ruby",
+    "ft:prettyUrl": "Fix_Example_Transitive_Vulnerability_for_Ruby"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fix_example_ruby_direct",
+    "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/ruby_sca_agent/fix_example_ruby_direct"
+  },
+  "next": {
+    "title": "fix_example_ruby_vulnerable_method",
+    "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/ruby_sca_agent/fix_example_ruby_vulnerable_method"
+  }
+}

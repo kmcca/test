@@ -1,0 +1,28 @@
+{
+  "unversionedId": "eLearning/elearningUsers/elearning_wbcourselist",
+  "id": "eLearning/elearningUsers/elearning_wbcourselist",
+  "title": "elearning_wbcourselist",
+  "description": "If you are a learner, you can view your progress in eLearning training.",
+  "source": "@site/docs/eLearning/04_elearningUsers/02_elearning_wbcourselist.md",
+  "sourceDirName": "eLearning/04_elearningUsers",
+  "slug": "/eLearning/elearningUsers/elearning_wbcourselist",
+  "permalink": "/docs/eLearning/elearningUsers/elearning_wbcourselist",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/eLearning/04_elearningUsers/02_elearning_wbcourselist.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "About Veracode eLearning Courses",
+    "ft:prettyUrl": "elearning_wbcourselist"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "elearning_aboutkb",
+    "permalink": "/docs/eLearning/elearningUsers/elearning_aboutkb"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/eLearning/elearningUsers/understanding_levels/"
+  }
+}

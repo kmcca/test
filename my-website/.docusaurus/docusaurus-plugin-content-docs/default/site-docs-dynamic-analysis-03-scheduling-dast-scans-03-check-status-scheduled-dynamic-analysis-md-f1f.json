@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dynamic_analysis/scheduling_dast_scans/check_status_scheduled_dynamic_analysis",
+  "id": "dynamic_analysis/scheduling_dast_scans/check_status_scheduled_dynamic_analysis",
+  "title": "check_status_scheduled_dynamic_analysis",
+  "description": "After you submit the Dynamic Analysis, the summary of the schedule displays at the top of the summary of the Dynamic Analysis. You receive an email notification of any verification errors and also when the Dynamic Analysis is complete.",
+  "source": "@site/docs/dynamic_analysis/03_scheduling_dast_scans/03_check_status_scheduled_dynamic_analysis.md",
+  "sourceDirName": "dynamic_analysis/03_scheduling_dast_scans",
+  "slug": "/dynamic_analysis/scheduling_dast_scans/check_status_scheduled_dynamic_analysis",
+  "permalink": "/docs/dynamic_analysis/scheduling_dast_scans/check_status_scheduled_dynamic_analysis",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dynamic_analysis/03_scheduling_dast_scans/03_check_status_scheduled_dynamic_analysis.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Check the Status of Scheduled Dynamic Analyses",
+    "ft:prettyUrl": "t_was_check_status"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "schedule_recurring_dynamic_analysis",
+    "permalink": "/docs/dynamic_analysis/scheduling_dast_scans/schedule_recurring_dynamic_analysis"
+  },
+  "next": {
+    "title": "stop_scheduled_dynamic_analysis",
+    "permalink": "/docs/dynamic_analysis/scheduling_dast_scans/stop_scheduled_dynamic_analysis"
+  }
+}

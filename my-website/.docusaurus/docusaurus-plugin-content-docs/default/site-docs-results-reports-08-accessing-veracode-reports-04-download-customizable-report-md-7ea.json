@@ -1,0 +1,28 @@
+{
+  "unversionedId": "results_reports/accessing_veracode_reports/download_customizable_report",
+  "id": "results_reports/accessing_veracode_reports/download_customizable_report",
+  "title": "download_customizable_report",
+  "description": "You can customize the PDF document of the application security findings in your latest policy scan to include only the contents that you need.",
+  "source": "@site/docs/results_reports/08_accessing_veracode_reports/04_download_customizable_report.md",
+  "sourceDirName": "results_reports/08_accessing_veracode_reports",
+  "slug": "/results_reports/accessing_veracode_reports/download_customizable_report",
+  "permalink": "/docs/results_reports/accessing_veracode_reports/download_customizable_report",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/08_accessing_veracode_reports/04_download_customizable_report.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "Download a Customizable Report",
+    "ft:prettyUrl": "t_download_custom_report"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "understanding_customizable_report",
+    "permalink": "/docs/results_reports/accessing_veracode_reports/understanding_customizable_report"
+  },
+  "next": {
+    "title": "download_detailed_veracode_report",
+    "permalink": "/docs/results_reports/accessing_veracode_reports/download_detailed_veracode_report"
+  }
+}

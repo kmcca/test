@@ -1,0 +1,28 @@
+{
+  "unversionedId": "results_reports/review_static_flaw_viewer/view_flaws_nondebug_code",
+  "id": "results_reports/review_static_flaw_viewer/view_flaws_nondebug_code",
+  "title": "view_flaws_nondebug_code",
+  "description": "The Veracode Platform allows you to view flaws found in code without debug symbols. Since source file and line number information is unavailable for these flaws, Veracode Provides other location information.",
+  "source": "@site/docs/results_reports/04_review_static_flaw_viewer/05_view_flaws_nondebug_code.md",
+  "sourceDirName": "results_reports/04_review_static_flaw_viewer",
+  "slug": "/results_reports/review_static_flaw_viewer/view_flaws_nondebug_code",
+  "permalink": "/docs/results_reports/review_static_flaw_viewer/view_flaws_nondebug_code",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/04_review_static_flaw_viewer/05_view_flaws_nondebug_code.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "View Flaws Found in Non-Debug Code",
+    "ft:prettyUrl": "View_Flaws_Found_in_Non_Debug_Code"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "use_source_code_view",
+    "permalink": "/docs/results_reports/review_static_flaw_viewer/use_source_code_view"
+  },
+  "next": {
+    "title": "matching_filenames_scans",
+    "permalink": "/docs/results_reports/review_static_flaw_viewer/matching_filenames_scans"
+  }
+}

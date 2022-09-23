@@ -1,0 +1,28 @@
+{
+  "unversionedId": "greenlight/greenlight_eclipse/greenlight_eclipse_filter_findings",
+  "id": "greenlight/greenlight_eclipse/greenlight_eclipse_filter_findings",
+  "title": "greenlight_eclipse_filter_findings",
+  "description": "You can filter results so that you can focus on the findings that are the most relevant and important.",
+  "source": "@site/docs/greenlight/04_greenlight_eclipse/03_greenlight_eclipse_filter_findings.md",
+  "sourceDirName": "greenlight/04_greenlight_eclipse",
+  "slug": "/greenlight/greenlight_eclipse/greenlight_eclipse_filter_findings",
+  "permalink": "/docs/greenlight/greenlight_eclipse/greenlight_eclipse_filter_findings",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/greenlight/04_greenlight_eclipse/03_greenlight_eclipse_filter_findings.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Filter Findings in Greenlight for Eclipse Results",
+    "ft:prettyUrl": "t_filter_greenlight"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "greenlight_eclipse_status_icons",
+    "permalink": "/docs/greenlight/greenlight_eclipse/scan_greenlight_eclipse/greenlight_eclipse_status_icons"
+  },
+  "next": {
+    "title": "greenlight_eclipse_ignore_findings",
+    "permalink": "/docs/greenlight/greenlight_eclipse/greenlight_eclipse_ignore_findings"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "integrations_troubleshootting/using_ssl_certs/c_identify_trust_store",
+  "id": "integrations_troubleshootting/using_ssl_certs/c_identify_trust_store",
+  "title": "c_identify_trust_store",
+  "description": "After creating an SSL certificate you want to use with Veracode integrations, verify which Java Runtime Environment to use with the TrustStore.",
+  "source": "@site/docs/integrations_troubleshootting/02_using_ssl_certs/04_c_identify_trust_store.md",
+  "sourceDirName": "integrations_troubleshootting/02_using_ssl_certs",
+  "slug": "/integrations_troubleshootting/using_ssl_certs/c_identify_trust_store",
+  "permalink": "/docs/integrations_troubleshootting/using_ssl_certs/c_identify_trust_store",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/integrations_troubleshootting/02_using_ssl_certs/04_c_identify_trust_store.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "Identifying a Relevant TrustStore for SSL Certificates",
+    "ft:prettyUrl": "c_identify_trust_store"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "t_obtain_certificate_firefox",
+    "permalink": "/docs/integrations_troubleshootting/using_ssl_certs/t_obtain_certificate_firefox"
+  },
+  "next": {
+    "title": "t_import_certificate",
+    "permalink": "/docs/integrations_troubleshootting/using_ssl_certs/t_import_certificate"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "results_reports/improve/generate_link_to_latest_instance_of_flaw",
+  "id": "results_reports/improve/generate_link_to_latest_instance_of_flaw",
+  "title": "generate_link_to_latest_instance_of_flaw",
+  "description": "You can provide a URL directly to the latest instance of a flaw to save your team the time of navigating through the Veracode Platform to find it.",
+  "source": "@site/docs/results_reports/07_improve/07_generate_link_to_latest_instance_of_flaw.md",
+  "sourceDirName": "results_reports/07_improve",
+  "slug": "/results_reports/improve/generate_link_to_latest_instance_of_flaw",
+  "permalink": "/docs/results_reports/improve/generate_link_to_latest_instance_of_flaw",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/07_improve/07_generate_link_to_latest_instance_of_flaw.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "ft:title": "Generate Link to Latest Instance of a Flaw",
+    "ft:prettyUrl": "t_share_flaw_link"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "searching_for_specific_flaw",
+    "permalink": "/docs/results_reports/improve/searching_for_specific_flaw"
+  },
+  "next": {
+    "title": "matching_flaws_between_scans",
+    "permalink": "/docs/results_reports/improve/matching_flaws_between_scans"
+  }
+}

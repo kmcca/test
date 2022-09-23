@@ -1,0 +1,28 @@
+{
+  "unversionedId": "build_systems/teamcity_integration/config_teamcity_plugin",
+  "id": "build_systems/teamcity_integration/config_teamcity_plugin",
+  "title": "config_teamcity_plugin",
+  "description": "You can configure TeamCity to customize the integration of the Veracode TeamCity Plugin.",
+  "source": "@site/docs/build_systems/09_teamcity_integration/02_config_teamcity_plugin.md",
+  "sourceDirName": "build_systems/09_teamcity_integration",
+  "slug": "/build_systems/teamcity_integration/config_teamcity_plugin",
+  "permalink": "/docs/build_systems/teamcity_integration/config_teamcity_plugin",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/build_systems/09_teamcity_integration/02_config_teamcity_plugin.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Configure TeamCity Global Settings",
+    "ft:prettyUrl": "c_config_teamcity"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "install_teamcity_plugin",
+    "permalink": "/docs/build_systems/teamcity_integration/install_teamcity_plugin"
+  },
+  "next": {
+    "title": "config_teamcity_scan",
+    "permalink": "/docs/build_systems/teamcity_integration/config_teamcity_scan"
+  }
+}

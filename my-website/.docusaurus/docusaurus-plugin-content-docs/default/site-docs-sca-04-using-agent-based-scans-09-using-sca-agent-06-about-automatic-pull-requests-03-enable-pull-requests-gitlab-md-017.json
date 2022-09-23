@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/using_sca_agent/about_automatic_pull_requests/enable_pull_requests_gitlab",
+  "id": "SCA/using_agent_based_scans/using_sca_agent/about_automatic_pull_requests/enable_pull_requests_gitlab",
+  "title": "enable_pull_requests_gitlab",
+  "description": "To use automatic pull requests for Veracode Software Composition Analysis (SCA) agent-based scanning, you need permission to create merge requests in GitLab.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/09_using_sca_agent/06_about_automatic_pull_requests/03_enable_pull_requests_gitlab.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/09_using_sca_agent/06_about_automatic_pull_requests",
+  "slug": "/SCA/using_agent_based_scans/using_sca_agent/about_automatic_pull_requests/enable_pull_requests_gitlab",
+  "permalink": "/docs/SCA/using_agent_based_scans/using_sca_agent/about_automatic_pull_requests/enable_pull_requests_gitlab",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/09_using_sca_agent/06_about_automatic_pull_requests/03_enable_pull_requests_gitlab.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Enable Pull Requests for GitLab",
+    "ft:prettyUrl": "t_configure_pr_gitlab"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "video_enable_pull_requests_github",
+    "permalink": "/docs/SCA/using_agent_based_scans/using_sca_agent/about_automatic_pull_requests/video_enable_pull_requests_github"
+  },
+  "next": {
+    "title": "video_enable_pull_requests_gitlab",
+    "permalink": "/docs/SCA/using_agent_based_scans/using_sca_agent/about_automatic_pull_requests/video_enable_pull_requests_gitlab"
+  }
+}

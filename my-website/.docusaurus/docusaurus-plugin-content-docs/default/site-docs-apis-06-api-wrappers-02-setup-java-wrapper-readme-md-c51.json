@@ -1,0 +1,27 @@
+{
+  "unversionedId": "apis/api_wrappers/setup_java_wrapper/README",
+  "id": "apis/api_wrappers/setup_java_wrapper/README",
+  "title": "README",
+  "description": "You can download the Java API wrapper from Maven Central or obtain it as a container image from Docker Hub.",
+  "source": "@site/docs/apis/06_api_wrappers/02_setup_java_wrapper/README.md",
+  "sourceDirName": "apis/06_api_wrappers/02_setup_java_wrapper",
+  "slug": "/apis/api_wrappers/setup_java_wrapper/",
+  "permalink": "/docs/apis/api_wrappers/setup_java_wrapper/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/06_api_wrappers/02_setup_java_wrapper/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Install the Java API Wrapper from Maven Central",
+    "ft:prettyUrl": "t_working_with_java_wrapper"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "install_csharp_wrapper",
+    "permalink": "/docs/apis/api_wrappers/install_csharp_wrapper"
+  },
+  "next": {
+    "title": "java_wrapper_verify_authenticity",
+    "permalink": "/docs/apis/api_wrappers/setup_java_wrapper/java_wrapper_verify_authenticity"
+  }
+}

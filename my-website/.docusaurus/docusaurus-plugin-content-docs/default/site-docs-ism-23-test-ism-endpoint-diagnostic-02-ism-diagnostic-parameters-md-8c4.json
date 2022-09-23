@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ism/test_ism_endpoint_diagnostic/ism_diagnostic_parameters",
+  "id": "ism/test_ism_endpoint_diagnostic/ism_diagnostic_parameters",
+  "title": "ism_diagnostic_parameters",
+  "description": "You can set your preferred parameters for the Veracode Internal Scanning Management (ISM) endpoint diagnostic tool in your application.properties file to avoid having to set them every time you run a test.",
+  "source": "@site/docs/ism/23_test_ism_endpoint_diagnostic/02_ism_diagnostic_parameters.md",
+  "sourceDirName": "ism/23_test_ism_endpoint_diagnostic",
+  "slug": "/ism/test_ism_endpoint_diagnostic/ism_diagnostic_parameters",
+  "permalink": "/docs/ism/test_ism_endpoint_diagnostic/ism_diagnostic_parameters",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ism/23_test_ism_endpoint_diagnostic/02_ism_diagnostic_parameters.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "ISM Diagnostic Tool Parameters",
+    "ft:prettyUrl": "r_ism_diagnostic_parameters"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ism_diagnostic_results",
+    "permalink": "/docs/ism/test_ism_endpoint_diagnostic/ism_diagnostic_results"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/packaging/"
+  }
+}

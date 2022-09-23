@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tile_integrations/api_creds_file/configure_creds_file_variable_mac_linux",
+  "id": "tile_integrations/api_creds_file/configure_creds_file_variable_mac_linux",
+  "title": "configure_creds_file_variable_mac_linux",
+  "description": "You can store your Veracode API credentials as environment variables on macOS, Linux, or UNIX. You can use either an API credentials file or environment variables, but not both.",
+  "source": "@site/docs/tile_integrations/05_api_creds_file/05_configure_creds_file_variable_mac_linux.md",
+  "sourceDirName": "tile_integrations/05_api_creds_file",
+  "slug": "/tile_integrations/api_creds_file/configure_creds_file_variable_mac_linux",
+  "permalink": "/docs/tile_integrations/api_creds_file/configure_creds_file_variable_mac_linux",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tile_integrations/05_api_creds_file/05_configure_creds_file_variable_mac_linux.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "Configure the API Credentials as Environment Variables on macOS and Linux",
+    "ft:prettyUrl": "t_store_creds_linux_env"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "video_configure_creds_file_mac_linux",
+    "permalink": "/docs/tile_integrations/api_creds_file/video_configure_creds_file_mac_linux"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/tile_training/"
+  }
+}

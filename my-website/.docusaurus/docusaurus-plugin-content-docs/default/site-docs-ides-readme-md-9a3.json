@@ -1,0 +1,33 @@
+{
+  "unversionedId": "ides/README",
+  "id": "ides/README",
+  "title": "README",
+  "description": "",
+  "source": "@site/docs/ides/README.md",
+  "sourceDirName": "ides",
+  "slug": "/ides/",
+  "permalink": "/docs/ides/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Mike Howes"
+    ],
+    "ft:originID": "ide_integrations",
+    "ft:lang": "en-US",
+    "ft:title": "IDEs",
+    "ft:prettyUrl": "IDEs",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "greenlight_scan_usage_reports",
+    "permalink": "/docs/greenlight/greenlight_scan_usage_reports"
+  },
+  "next": {
+    "title": "ide_integrations",
+    "permalink": "/docs/ides/ide_integrations"
+  }
+}

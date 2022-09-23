@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ides/static_for_intellij_android_studio/scan_static_intellij_android/upload_files_sandbox_static_intellij",
+  "id": "ides/static_for_intellij_android_studio/scan_static_intellij_android/upload_files_sandbox_static_intellij",
+  "title": "upload_files_sandbox_static_intellij",
+  "description": "You can create a sandbox into which you upload your application files from your IDE. You can then scan your application from the sandbox.",
+  "source": "@site/docs/ides/04_static_for_intellij_android_studio/03_scan_static_intellij_android/02_upload_files_sandbox_static_intellij.md",
+  "sourceDirName": "ides/04_static_for_intellij_android_studio/03_scan_static_intellij_android",
+  "slug": "/ides/static_for_intellij_android_studio/scan_static_intellij_android/upload_files_sandbox_static_intellij",
+  "permalink": "/docs/ides/static_for_intellij_android_studio/scan_static_intellij_android/upload_files_sandbox_static_intellij",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/04_static_for_intellij_android_studio/03_scan_static_intellij_android/02_upload_files_sandbox_static_intellij.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Use Sandboxes with Veracode Static for IntelliJ",
+    "ft:prettyUrl": "c_intelliJ_sandbox"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "video_upload_files_static_intellij",
+    "permalink": "/docs/ides/static_for_intellij_android_studio/scan_static_intellij_android/video_upload_files_static_intellij"
+  },
+  "next": {
+    "title": "run_prescan_static_intellij",
+    "permalink": "/docs/ides/static_for_intellij_android_studio/scan_static_intellij_android/run_prescan_static_intellij"
+  }
+}

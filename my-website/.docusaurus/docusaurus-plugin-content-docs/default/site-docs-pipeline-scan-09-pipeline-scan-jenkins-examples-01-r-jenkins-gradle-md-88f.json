@@ -1,0 +1,28 @@
+{
+  "unversionedId": "pipeline_scan/pipeline_scan_jenkins_examples/r_jenkins_gradle",
+  "id": "pipeline_scan/pipeline_scan_jenkins_examples/r_jenkins_gradle",
+  "title": "r_jenkins_gradle",
+  "description": "This example Groovy code shows how to add a Pipeline Scan as a build stage in a Jenkins build pipeline that uses Gradle.",
+  "source": "@site/docs/pipeline_scan/09_pipeline_scan_jenkins_examples/01_r_jenkins_gradle.md",
+  "sourceDirName": "pipeline_scan/09_pipeline_scan_jenkins_examples",
+  "slug": "/pipeline_scan/pipeline_scan_jenkins_examples/r_jenkins_gradle",
+  "permalink": "/docs/pipeline_scan/pipeline_scan_jenkins_examples/r_jenkins_gradle",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/pipeline_scan/09_pipeline_scan_jenkins_examples/01_r_jenkins_gradle.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Pipeline Scan Example for Using Gradle with Jenkins",
+    "ft:prettyUrl": "Pipeline_Scan_Example_for_Using_Gradle_with_Jenkins"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/pipeline_scan/pipeline_scan_jenkins_examples/"
+  },
+  "next": {
+    "title": "r_jenkins_maven",
+    "permalink": "/docs/pipeline_scan/pipeline_scan_jenkins_examples/r_jenkins_maven"
+  }
+}

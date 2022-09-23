@@ -1,0 +1,28 @@
+{
+  "unversionedId": "packaging/kotlin",
+  "id": "packaging/kotlin",
+  "title": "kotlin",
+  "description": "Your Kotlin applications must meet specific packaging and compilation requirements before you can submit them for scanning.",
+  "source": "@site/docs/packaging/17_kotlin.md",
+  "sourceDirName": "packaging",
+  "slug": "/packaging/kotlin",
+  "permalink": "/docs/packaging/kotlin",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/packaging/17_kotlin.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 17,
+  "frontMatter": {
+    "ft:title": "Kotlin Application Packaging",
+    "ft:prettyUrl": "c_compilation_kotlin"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jscript",
+    "permalink": "/docs/packaging/jscript"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/packaging/net/"
+  }
+}

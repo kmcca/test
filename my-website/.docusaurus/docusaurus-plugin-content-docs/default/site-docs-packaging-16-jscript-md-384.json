@@ -1,0 +1,28 @@
+{
+  "unversionedId": "packaging/jscript",
+  "id": "packaging/jscript",
+  "title": "jscript",
+  "description": "Your JavaScript and TypeScript applications must meet specific packaging and compilation requirements before you can submit them for scanning.",
+  "source": "@site/docs/packaging/16_jscript.md",
+  "sourceDirName": "packaging",
+  "slug": "/packaging/jscript",
+  "permalink": "/docs/packaging/jscript",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/packaging/16_jscript.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "ft:title": "JavaScript and TypeScript Application Packaging",
+    "ft:prettyUrl": "compilation_jscript"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "java",
+    "permalink": "/docs/packaging/java"
+  },
+  "next": {
+    "title": "kotlin",
+    "permalink": "/docs/packaging/kotlin"
+  }
+}

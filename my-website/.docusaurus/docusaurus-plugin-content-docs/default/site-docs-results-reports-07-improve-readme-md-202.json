@@ -1,0 +1,33 @@
+{
+  "unversionedId": "results_reports/improve/README",
+  "id": "results_reports/improve/README",
+  "title": "README",
+  "description": "After you have the report for your application, you can improve its security quality using the Veracode Platform:",
+  "source": "@site/docs/results_reports/07_improve/README.md",
+  "sourceDirName": "results_reports/07_improve",
+  "slug": "/results_reports/improve/",
+  "permalink": "/docs/results_reports/improve/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/07_improve/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Kevin McCarthy"
+    ],
+    "ft:originID": "improve_main",
+    "ft:lang": "en-US",
+    "ft:title": "Improving Application Security",
+    "ft:prettyUrl": "improve_main",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "understanding_mpt_results",
+    "permalink": "/docs/results_reports/understanding_mpt_results"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/results_reports/improve/improve_mitigation/"
+  }
+}

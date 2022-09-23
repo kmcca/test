@@ -1,0 +1,27 @@
+{
+  "unversionedId": "apis/xml_apis/results_xml_apis/README",
+  "id": "apis/xml_apis/results_xml_apis/README",
+  "title": "README",
+  "description": "You can use the Veracode Results API to access your application assessment data from another application or a script.",
+  "source": "@site/docs/apis/05_xml_apis/03_results_xml_apis/README.md",
+  "sourceDirName": "apis/05_xml_apis/03_results_xml_apis",
+  "slug": "/apis/xml_apis/results_xml_apis/",
+  "permalink": "/docs/apis/xml_apis/results_xml_apis/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/05_xml_apis/03_results_xml_apis/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Results XML APIs",
+    "ft:prettyUrl": "c_results_main"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "xml_api_upload_tutorial",
+    "permalink": "/docs/apis/xml_apis/upload_xml_apis/xml_api_upload_tutorial"
+  },
+  "next": {
+    "title": "results_xml_apis_quickref",
+    "permalink": "/docs/apis/xml_apis/results_xml_apis/results_xml_apis_quickref"
+  }
+}

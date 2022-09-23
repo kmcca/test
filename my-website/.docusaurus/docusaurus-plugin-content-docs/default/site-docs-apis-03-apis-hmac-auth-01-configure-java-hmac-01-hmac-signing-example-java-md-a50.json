@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/apis_hmac_auth/configure_java_hmac/hmac_signing_example_java",
+  "id": "apis/apis_hmac_auth/configure_java_hmac/hmac_signing_example_java",
+  "title": "hmac_signing_example_java",
+  "description": "This is a Java example of how to enable HMAC signing within your application. The example implementation of the HMAC signing algorithm allows you to authenticate with the Veracode APIs.",
+  "source": "@site/docs/apis/03_apis_hmac_auth/01_configure_java_hmac/01_hmac_signing_example_java.md",
+  "sourceDirName": "apis/03_apis_hmac_auth/01_configure_java_hmac",
+  "slug": "/apis/apis_hmac_auth/configure_java_hmac/hmac_signing_example_java",
+  "permalink": "/docs/apis/apis_hmac_auth/configure_java_hmac/hmac_signing_example_java",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/03_apis_hmac_auth/01_configure_java_hmac/01_hmac_signing_example_java.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "HMAC Signing Example in Java",
+    "ft:prettyUrl": "c_hmac_signing_example"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/apis/apis_hmac_auth/configure_java_hmac/"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/apis/apis_hmac_auth/configure_python_hmac/"
+  }
+}

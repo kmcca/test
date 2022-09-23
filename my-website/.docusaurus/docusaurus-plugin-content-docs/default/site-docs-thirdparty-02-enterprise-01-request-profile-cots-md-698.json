@@ -1,0 +1,28 @@
+{
+  "unversionedId": "thirdparty/enterprise/request_profile_cots",
+  "id": "thirdparty/enterprise/request_profile_cots",
+  "title": "request_profile_cots",
+  "description": "To request vendors or third-party providers to upload their code to Veracode for scanning, you must perform these steps:",
+  "source": "@site/docs/thirdparty/02_enterprise/01_request_profile_cots.md",
+  "sourceDirName": "thirdparty/02_enterprise",
+  "slug": "/thirdparty/enterprise/request_profile_cots",
+  "permalink": "/docs/thirdparty/enterprise/request_profile_cots",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/thirdparty/02_enterprise/01_request_profile_cots.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Requesting a Third-Party Application Scan",
+    "ft:prettyUrl": "request_profile_cots"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/thirdparty/enterprise/"
+  },
+  "next": {
+    "title": "c_COTS_actions",
+    "permalink": "/docs/thirdparty/enterprise/c_COTS_actions"
+  }
+}

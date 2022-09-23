@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dynamic_analysis/configuring_waf_rules/create_da_waf_imperva",
+  "id": "dynamic_analysis/configuring_waf_rules/create_da_waf_imperva",
+  "title": "create_da_waf_imperva",
+  "description": "You can create web application firewalls \\(WAF\\) rules using Imperva. You can use these rules to block potential attacks based on the results of your dynamic scans.",
+  "source": "@site/docs/dynamic_analysis/07_configuring_waf_rules/01_create_da_waf_imperva.md",
+  "sourceDirName": "dynamic_analysis/07_configuring_waf_rules",
+  "slug": "/dynamic_analysis/configuring_waf_rules/create_da_waf_imperva",
+  "permalink": "/docs/dynamic_analysis/configuring_waf_rules/create_da_waf_imperva",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dynamic_analysis/07_configuring_waf_rules/01_create_da_waf_imperva.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Creating Imperva WAF Rules for Dynamic Analysis",
+    "ft:prettyUrl": "c_waf_imperva"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/dynamic_analysis/configuring_waf_rules/"
+  },
+  "next": {
+    "title": "create_da_waf_modsec",
+    "permalink": "/docs/dynamic_analysis/configuring_waf_rules/create_da_waf_modsec"
+  }
+}

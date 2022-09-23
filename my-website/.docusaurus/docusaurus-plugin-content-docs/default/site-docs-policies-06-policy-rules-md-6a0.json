@@ -1,0 +1,28 @@
+{
+  "unversionedId": "policies/policy_rules",
+  "id": "policies/policy_rules",
+  "title": "policy_rules",
+  "description": "When creating a policy, you can add several rules that applications must follow to pass the policy.",
+  "source": "@site/docs/policies/06_policy_rules.md",
+  "sourceDirName": "policies",
+  "slug": "/policies/policy_rules",
+  "permalink": "/docs/policies/policy_rules",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/policies/06_policy_rules.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "ft:title": "Applying Rules to a Policy",
+    "ft:prettyUrl": "c_policy_rules"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "video_create_policy",
+    "permalink": "/docs/policies/create_policy/video_create_policy"
+  },
+  "next": {
+    "title": "policy_eval_time",
+    "permalink": "/docs/policies/policy_eval_time"
+  }
+}

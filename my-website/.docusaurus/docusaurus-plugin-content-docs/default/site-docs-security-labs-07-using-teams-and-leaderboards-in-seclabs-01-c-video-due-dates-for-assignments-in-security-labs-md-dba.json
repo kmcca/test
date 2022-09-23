@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Security_Labs/using_teams_and_leaderboards_in_seclabs/c_video_due_dates_for_assignments_in_security_labs",
+  "id": "Security_Labs/using_teams_and_leaderboards_in_seclabs/c_video_due_dates_for_assignments_in_security_labs",
+  "title": "c_video_due_dates_for_assignments_in_security_labs",
+  "description": "Watch this video to learn how to:",
+  "source": "@site/docs/Security_Labs/07_using_teams_and_leaderboards_in_seclabs/01_c_video_due_dates_for_assignments_in_security_labs.md",
+  "sourceDirName": "Security_Labs/07_using_teams_and_leaderboards_in_seclabs",
+  "slug": "/Security_Labs/using_teams_and_leaderboards_in_seclabs/c_video_due_dates_for_assignments_in_security_labs",
+  "permalink": "/docs/Security_Labs/using_teams_and_leaderboards_in_seclabs/c_video_due_dates_for_assignments_in_security_labs",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Security_Labs/07_using_teams_and_leaderboards_in_seclabs/01_c_video_due_dates_for_assignments_in_security_labs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Video: Add and View Due Dates for Assignments in Veracode Security Labs",
+    "ft:prettyUrl": "Add_and_View_Due_Dates_for_Assignments_in_Security_Labs"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/Security_Labs/using_teams_and_leaderboards_in_seclabs/"
+  },
+  "next": {
+    "title": "enable_certification_badge",
+    "permalink": "/docs/Security_Labs/using_teams_and_leaderboards_in_seclabs/enable_certification_badge"
+  }
+}

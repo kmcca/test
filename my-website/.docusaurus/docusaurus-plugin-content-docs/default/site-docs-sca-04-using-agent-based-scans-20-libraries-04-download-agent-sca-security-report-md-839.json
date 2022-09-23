@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/libraries/download_agent_sca_security_report",
+  "id": "SCA/using_agent_based_scans/libraries/download_agent_sca_security_report",
+  "title": "download_agent_sca_security_report",
+  "description": "You can download a PDF report of your agent-based scan workspace findings that provides vulnerability statistics for your application.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/20_libraries/04_download_agent_sca_security_report.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/20_libraries",
+  "slug": "/SCA/using_agent_based_scans/libraries/download_agent_sca_security_report",
+  "permalink": "/docs/SCA/using_agent_based_scans/libraries/download_agent_sca_security_report",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/20_libraries/04_download_agent_sca_security_report.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "Download an Agent-Based Scan SCA Security Report",
+    "ft:prettyUrl": "Download_an_Agent_Based_Scan_SCA_Security_Report"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "understanding_agent_vulnerabilities",
+    "permalink": "/docs/SCA/using_agent_based_scans/libraries/understanding_agent_vulnerabilities"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/SCA/using_agent_based_scans/project_management/"
+  }
+}

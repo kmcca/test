@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ides/static_for_visual_studio_legacy/manage_results_static_vs_legacy/mitigate_flaws_static_vs_legacy",
+  "id": "ides/static_for_visual_studio_legacy/manage_results_static_vs_legacy/mitigate_flaws_static_vs_legacy",
+  "title": "mitigate_flaws_static_vs_legacy",
+  "description": "You can mitigate flaws, including approving and rejecting existing mitigations, from within your IDE.",
+  "source": "@site/docs/ides/06_static_for_visual_studio_legacy/07_manage_results_static_vs_legacy/04_mitigate_flaws_static_vs_legacy.md",
+  "sourceDirName": "ides/06_static_for_visual_studio_legacy/07_manage_results_static_vs_legacy",
+  "slug": "/ides/static_for_visual_studio_legacy/manage_results_static_vs_legacy/mitigate_flaws_static_vs_legacy",
+  "permalink": "/docs/ides/static_for_visual_studio_legacy/manage_results_static_vs_legacy/mitigate_flaws_static_vs_legacy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/06_static_for_visual_studio_legacy/07_manage_results_static_vs_legacy/04_mitigate_flaws_static_vs_legacy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "Mitigate Flaws from Within Visual Studio (Legacy)",
+    "ft:prettyUrl": "c_mitigate_VS"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "import_results_platform_static_vs_legacy",
+    "permalink": "/docs/ides/static_for_visual_studio_legacy/manage_results_static_vs_legacy/import_results_platform_static_vs_legacy"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/integrations_troubleshootting/"
+  }
+}

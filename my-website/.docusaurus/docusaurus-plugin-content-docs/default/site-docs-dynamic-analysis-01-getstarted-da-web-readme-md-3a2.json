@@ -1,0 +1,33 @@
+{
+  "unversionedId": "dynamic_analysis/getstarted_da_web/README",
+  "id": "dynamic_analysis/getstarted_da_web/README",
+  "title": "README",
+  "description": "Veracode Dynamic Analysis is a Dynamic Application Security Testing \\(DAST\\) solution that delivers an automated and scalable dynamic scanning capability that enables broad coverage at speed. You can scan web applications or API specifications.",
+  "source": "@site/docs/dynamic_analysis/01_getstarted_da_web/README.md",
+  "sourceDirName": "dynamic_analysis/01_getstarted_da_web",
+  "slug": "/dynamic_analysis/getstarted_da_web/",
+  "permalink": "/docs/dynamic_analysis/getstarted_da_web/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dynamic_analysis/01_getstarted_da_web/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Mike Howes"
+    ],
+    "ft:originID": "dynamic_web",
+    "ft:lang": "en-US",
+    "ft:title": "Getting Started with Veracode Dynamic Analysis",
+    "ft:prettyUrl": "c_was_intro",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/dynamic_analysis/"
+  },
+  "next": {
+    "title": "da_workflow",
+    "permalink": "/docs/dynamic_analysis/getstarted_da_web/da_workflow"
+  }
+}

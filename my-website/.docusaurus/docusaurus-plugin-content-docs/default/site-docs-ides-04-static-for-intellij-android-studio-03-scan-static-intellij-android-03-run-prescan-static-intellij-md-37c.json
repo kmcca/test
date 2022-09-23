@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ides/static_for_intellij_android_studio/scan_static_intellij_android/run_prescan_static_intellij",
+  "id": "ides/static_for_intellij_android_studio/scan_static_intellij_android/run_prescan_static_intellij",
+  "title": "run_prescan_static_intellij",
+  "description": "You can begin a prescan of your application binaries immediately after you upload all files to Veracode. Prescans send email notifications when they complete. You can also check for prescan results using the getprescanresults.do call.",
+  "source": "@site/docs/ides/04_static_for_intellij_android_studio/03_scan_static_intellij_android/03_run_prescan_static_intellij.md",
+  "sourceDirName": "ides/04_static_for_intellij_android_studio/03_scan_static_intellij_android",
+  "slug": "/ides/static_for_intellij_android_studio/scan_static_intellij_android/run_prescan_static_intellij",
+  "permalink": "/docs/ides/static_for_intellij_android_studio/scan_static_intellij_android/run_prescan_static_intellij",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/04_static_for_intellij_android_studio/03_scan_static_intellij_android/03_run_prescan_static_intellij.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Run a Prescan from Within IntelliJ or Android Studio",
+    "ft:prettyUrl": "c_intellij_prescan"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "upload_files_sandbox_static_intellij",
+    "permalink": "/docs/ides/static_for_intellij_android_studio/scan_static_intellij_android/upload_files_sandbox_static_intellij"
+  },
+  "next": {
+    "title": "debug_prescan_static_intellij",
+    "permalink": "/docs/ides/static_for_intellij_android_studio/scan_static_intellij_android/debug_prescan_static_intellij"
+  }
+}

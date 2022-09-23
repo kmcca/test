@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tile_getting_started/platform_basics/README",
+  "id": "tile_getting_started/platform_basics/README",
+  "title": "README",
+  "description": "Learn the basics around using the Veracode Platform to manage your application security program.",
+  "source": "@site/docs/tile_getting_started/02_platform_basics/README.md",
+  "sourceDirName": "tile_getting_started/02_platform_basics",
+  "slug": "/tile_getting_started/platform_basics/",
+  "permalink": "/docs/tile_getting_started/platform_basics/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tile_getting_started/02_platform_basics/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Basics of the Veracode Platform",
+    "ft:prettyUrl": "Basics_of_the_Veracode_Platform"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "navigate_app_menu_platform",
+    "permalink": "/docs/tile_getting_started/geting_started_veracode/getting_started_appsec/navigate_app_menu_platform"
+  },
+  "next": {
+    "title": "using_passwords_platform",
+    "permalink": "/docs/tile_getting_started/platform_basics/using_passwords_platform"
+  }
+}

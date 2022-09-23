@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/xml_apis/upload_xml_apis/xml_api_prescan_status",
+  "id": "apis/xml_apis/upload_xml_apis/xml_api_prescan_status",
+  "title": "xml_api_prescan_status",
+  "description": "The getprescanresults.do call returns the prescanresults.xml file. This file contains three types of information about any issues with your uploaded files and modules.",
+  "source": "@site/docs/apis/05_xml_apis/02_upload_xml_apis/22_xml_api_prescan_status.md",
+  "sourceDirName": "apis/05_xml_apis/02_upload_xml_apis",
+  "slug": "/apis/xml_apis/upload_xml_apis/xml_api_prescan_status",
+  "permalink": "/docs/apis/xml_apis/upload_xml_apis/xml_api_prescan_status",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/05_xml_apis/02_upload_xml_apis/22_xml_api_prescan_status.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 22,
+  "frontMatter": {
+    "ft:title": "XML API Prescan Status",
+    "ft:prettyUrl": "c_prescan_table"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "uploadlargefile_do",
+    "permalink": "/docs/apis/xml_apis/upload_xml_apis/uploadlargefile_do"
+  },
+  "next": {
+    "title": "xml_api_buildinfo_table",
+    "permalink": "/docs/apis/xml_apis/upload_xml_apis/xml_api_buildinfo_table"
+  }
+}

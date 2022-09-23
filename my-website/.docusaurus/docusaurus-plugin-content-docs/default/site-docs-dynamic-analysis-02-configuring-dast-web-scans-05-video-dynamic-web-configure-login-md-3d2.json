@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dynamic_analysis/configuring_dast_web_scans/video_dynamic_web_configure_login",
+  "id": "dynamic_analysis/configuring_dast_web_scans/video_dynamic_web_configure_login",
+  "title": "video_dynamic_web_configure_login",
+  "description": "Watch the following video to learn about the different types of authentication that Veracode Dynamic Analysis can require to log in to your application and how to configure your Dynamic Analysis so that Veracode can log in.",
+  "source": "@site/docs/dynamic_analysis/02_configuring_dast_web_scans/05_video_dynamic_web_configure_login.md",
+  "sourceDirName": "dynamic_analysis/02_configuring_dast_web_scans",
+  "slug": "/dynamic_analysis/configuring_dast_web_scans/video_dynamic_web_configure_login",
+  "permalink": "/docs/dynamic_analysis/configuring_dast_web_scans/video_dynamic_web_configure_login",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dynamic_analysis/02_configuring_dast_web_scans/05_video_dynamic_web_configure_login.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "Video: Configure Dynamic Analysis Login Settings",
+    "ft:prettyUrl": "c_was_configure_dynamic_login_settings"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dynamic_web_auth_recommend",
+    "permalink": "/docs/dynamic_analysis/configuring_dast_web_scans/dynamic_web_auth_recommend"
+  },
+  "next": {
+    "title": "dynamic_web_provide_crawl_script",
+    "permalink": "/docs/dynamic_analysis/configuring_dast_web_scans/dynamic_web_provide_crawl_script"
+  }
+}

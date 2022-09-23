@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/using_sca_agent/veracode_sca_agent_config_values",
+  "id": "SCA/using_agent_based_scans/using_sca_agent/veracode_sca_agent_config_values",
+  "title": "veracode_sca_agent_config_values",
+  "description": "You configure these key names for agent-based scanning in the agent.yml file, which is created when you activate the Veracode Software Composition Analysis (SCA) agent.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/09_using_sca_agent/05_veracode_sca_agent_config_values.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/09_using_sca_agent",
+  "slug": "/SCA/using_agent_based_scans/using_sca_agent/veracode_sca_agent_config_values",
+  "permalink": "/docs/SCA/using_agent_based_scans/using_sca_agent/veracode_sca_agent_config_values",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/09_using_sca_agent/05_veracode_sca_agent_config_values.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "Veracode SCA Agent Configuration Values",
+    "ft:prettyUrl": "Veracode_SCA_Agent_Configuration_Values"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "veracode_sca_agent_global_options",
+    "permalink": "/docs/SCA/using_agent_based_scans/using_sca_agent/veracode_sca_agent_global_options"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/SCA/using_agent_based_scans/using_sca_agent/about_automatic_pull_requests/"
+  }
+}

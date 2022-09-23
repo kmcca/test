@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dynamic_analysis/viewing_dynamic_results/understand_da_coverage_report",
+  "id": "dynamic_analysis/viewing_dynamic_results/understand_da_coverage_report",
+  "title": "understand_da_coverage_report",
+  "description": "You can see a simplified view of attack and non-attack traffic that Dynamic Analysis detects in the Dynamic Analysis Coverage Report. Dynamic Analysis generates the Coverage Report after a URL scan is complete and results are available.",
+  "source": "@site/docs/dynamic_analysis/04_viewing_dynamic_results/09_understand_da_coverage_report.md",
+  "sourceDirName": "dynamic_analysis/04_viewing_dynamic_results",
+  "slug": "/dynamic_analysis/viewing_dynamic_results/understand_da_coverage_report",
+  "permalink": "/docs/dynamic_analysis/viewing_dynamic_results/understand_da_coverage_report",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dynamic_analysis/04_viewing_dynamic_results/09_understand_da_coverage_report.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "ft:title": "Understanding the Dynamic Analysis Coverage Report",
+    "ft:prettyUrl": "Understanding_the_DA_Coverage_Report"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "view_download_da_coverage_rpt",
+    "permalink": "/docs/dynamic_analysis/viewing_dynamic_results/view_download_da_coverage_rpt"
+  },
+  "next": {
+    "title": "view_da_history",
+    "permalink": "/docs/dynamic_analysis/viewing_dynamic_results/view_da_history"
+  }
+}

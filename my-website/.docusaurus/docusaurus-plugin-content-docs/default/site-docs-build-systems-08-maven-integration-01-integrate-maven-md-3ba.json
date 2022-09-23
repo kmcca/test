@@ -1,0 +1,28 @@
+{
+  "unversionedId": "build_systems/maven_integration/integrate_maven",
+  "id": "build_systems/maven_integration/integrate_maven",
+  "title": "integrate_maven",
+  "description": "You can add the Java API wrapper to your Maven build server to integrate Static Analysis in your Ant build process. When using Ant to build Java applications, the API wrapper uploads your Java source code to Veracode for scanning.",
+  "source": "@site/docs/build_systems/08_maven_integration/01_integrate_maven.md",
+  "sourceDirName": "build_systems/08_maven_integration",
+  "slug": "/build_systems/maven_integration/integrate_maven",
+  "permalink": "/docs/build_systems/maven_integration/integrate_maven",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/build_systems/08_maven_integration/01_integrate_maven.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Integrate Veracode with Maven",
+    "ft:prettyUrl": "Configure_Maven_Integration"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/build_systems/maven_integration/"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/build_systems/teamcity_integration/"
+  }
+}

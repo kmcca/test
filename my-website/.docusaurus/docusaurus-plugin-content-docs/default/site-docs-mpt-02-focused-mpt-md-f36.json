@@ -1,0 +1,28 @@
+{
+  "unversionedId": "MPT/focused_mpt",
+  "id": "MPT/focused_mpt",
+  "title": "focused_mpt",
+  "description": "In some situations, timing restraints, budgetary considerations, or strategic planning purposes may require limiting the level of effort for penetration testing.",
+  "source": "@site/docs/MPT/02_focused_mpt.md",
+  "sourceDirName": "MPT",
+  "slug": "/MPT/focused_mpt",
+  "permalink": "/docs/MPT/focused_mpt",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/MPT/02_focused_mpt.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Veracode Time-Boxed Manual Penetration Testing",
+    "ft:prettyUrl": "c_focused_mpt"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "devops_penetration_testing",
+    "permalink": "/docs/MPT/devops_penetration_testing"
+  },
+  "next": {
+    "title": "request_manual",
+    "permalink": "/docs/MPT/request_manual"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "unversionedId": "packaging/supported_framworks_cleansers/review_cleansers/README",
+  "id": "packaging/supported_framworks_cleansers/review_cleansers/README",
+  "title": "README",
+  "description": "If you suspect that an attacker compromised data in your applications, you can use cleansing functions to resolve the modifications before the data reaches a potentially vulnerable location.",
+  "source": "@site/docs/packaging/32_supported_framworks_cleansers/03_review_cleansers/README.md",
+  "sourceDirName": "packaging/32_supported_framworks_cleansers/03_review_cleansers",
+  "slug": "/packaging/supported_framworks_cleansers/review_cleansers/",
+  "permalink": "/docs/packaging/supported_framworks_cleansers/review_cleansers/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/packaging/32_supported_framworks_cleansers/03_review_cleansers/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Kevin McCarthy"
+    ],
+    "ft:lang": "en-US",
+    "ft:title": "About Supported Cleansing Functions",
+    "ft:prettyUrl": "review_cleansers",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "annotate_net_code",
+    "permalink": "/docs/packaging/supported_framworks_cleansers/customcleansers/annotate_net_code"
+  },
+  "next": {
+    "title": "supported_net_cleansing",
+    "permalink": "/docs/packaging/supported_framworks_cleansers/review_cleansers/supported_net_cleansing"
+  }
+}

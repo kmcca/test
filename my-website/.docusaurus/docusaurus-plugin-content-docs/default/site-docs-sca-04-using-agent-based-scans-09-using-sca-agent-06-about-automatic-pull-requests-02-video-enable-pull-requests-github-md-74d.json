@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/using_sca_agent/about_automatic_pull_requests/video_enable_pull_requests_github",
+  "id": "SCA/using_agent_based_scans/using_sca_agent/about_automatic_pull_requests/video_enable_pull_requests_github",
+  "title": "video_enable_pull_requests_github",
+  "description": "Watch this short video to learn how to enable pull requests in GitHub so that you can use automatic pull requests for use with Veracode SCA agent-based scans.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/09_using_sca_agent/06_about_automatic_pull_requests/02_video_enable_pull_requests_github.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/09_using_sca_agent/06_about_automatic_pull_requests",
+  "slug": "/SCA/using_agent_based_scans/using_sca_agent/about_automatic_pull_requests/video_enable_pull_requests_github",
+  "permalink": "/docs/SCA/using_agent_based_scans/using_sca_agent/about_automatic_pull_requests/video_enable_pull_requests_github",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/09_using_sca_agent/06_about_automatic_pull_requests/02_video_enable_pull_requests_github.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Video: Enable Pull Requests for GitHub for Use in Agent-Based Scans",
+    "ft:prettyUrl": "c_sc_video__enable_pull_requests_for_github"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "enable_pull_requests_github",
+    "permalink": "/docs/SCA/using_agent_based_scans/using_sca_agent/about_automatic_pull_requests/enable_pull_requests_github"
+  },
+  "next": {
+    "title": "enable_pull_requests_gitlab",
+    "permalink": "/docs/SCA/using_agent_based_scans/using_sca_agent/about_automatic_pull_requests/enable_pull_requests_gitlab"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/rest_apis/findings_rest_apis/using_static_flaw_data_path_endpoint",
+  "id": "apis/rest_apis/findings_rest_apis/using_static_flaw_data_path_endpoint",
+  "title": "using_static_flaw_data_path_endpoint",
+  "description": "You can use the staticflawinfo endpoint of the Findings API to get additional information about a single finding discovered during a static analysis.",
+  "source": "@site/docs/apis/04_rest_apis/06_findings_rest_apis/02_using_static_flaw_data_path_endpoint.md",
+  "sourceDirName": "apis/04_rest_apis/06_findings_rest_apis",
+  "slug": "/apis/rest_apis/findings_rest_apis/using_static_flaw_data_path_endpoint",
+  "permalink": "/docs/apis/rest_apis/findings_rest_apis/using_static_flaw_data_path_endpoint",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/04_rest_apis/06_findings_rest_apis/02_using_static_flaw_data_path_endpoint.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Using the Static Flaw Information Endpoint",
+    "ft:prettyUrl": "c_rest_static_finding_data_path_intro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "using_dynamic_flaw_endpoint",
+    "permalink": "/docs/apis/rest_apis/findings_rest_apis/using_dynamic_flaw_endpoint"
+  },
+  "next": {
+    "title": "findings_api_examples",
+    "permalink": "/docs/apis/rest_apis/findings_rest_apis/findings_api_examples"
+  }
+}

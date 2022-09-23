@@ -1,0 +1,27 @@
+{
+  "unversionedId": "greenlight/greenlight_vs_code/scan_greenlight_vs_code/README",
+  "id": "greenlight/greenlight_vs_code/scan_greenlight_vs_code/README",
+  "title": "README",
+  "description": "You can use Veracode for VS Code to scan either a single file or all files in a folder.",
+  "source": "@site/docs/greenlight/07_greenlight_vs_code/02_scan_greenlight_vs_code/README.md",
+  "sourceDirName": "greenlight/07_greenlight_vs_code/02_scan_greenlight_vs_code",
+  "slug": "/greenlight/greenlight_vs_code/scan_greenlight_vs_code/",
+  "permalink": "/docs/greenlight/greenlight_vs_code/scan_greenlight_vs_code/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/greenlight/07_greenlight_vs_code/02_scan_greenlight_vs_code/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Scanning Source Code Using Veracode for VS Code",
+    "ft:prettyUrl": "c_scanning_with_vs_code"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "uninstall_vs_code_extension",
+    "permalink": "/docs/greenlight/greenlight_vs_code/install_greenlight_vs_code/uninstall_vs_code_extension"
+  },
+  "next": {
+    "title": "video_scanning_with_vs_code",
+    "permalink": "/docs/greenlight/greenlight_vs_code/scan_greenlight_vs_code/video_scanning_with_vs_code"
+  }
+}

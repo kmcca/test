@@ -1,0 +1,32 @@
+{
+  "unversionedId": "eLearning/README",
+  "id": "eLearning/README",
+  "title": "README",
+  "description": "",
+  "source": "@site/docs/eLearning/README.md",
+  "sourceDirName": "eLearning",
+  "slug": "/eLearning/",
+  "permalink": "/docs/eLearning/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/eLearning/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Scott Jordan"
+    ],
+    "ft:originID": "eLearning",
+    "ft:lang": "en-US",
+    "ft:title": "eLearning",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "create_da_waf_modsec",
+    "permalink": "/docs/dynamic_analysis/configuring_waf_rules/create_da_waf_modsec"
+  },
+  "next": {
+    "title": "elearning_master",
+    "permalink": "/docs/eLearning/elearning_master"
+  }
+}

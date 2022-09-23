@@ -1,0 +1,28 @@
+{
+  "unversionedId": "greenlight/greenlight_intellij_android_studio/review_results_greenlight_intellij/greenlight_intellij_ignore_flaws",
+  "id": "greenlight/greenlight_intellij_android_studio/review_results_greenlight_intellij/greenlight_intellij_ignore_flaws",
+  "title": "greenlight_intellij_ignore_flaws",
+  "description": "If there are known findings in your code that continually appear in your Greenlight results, you can ignore them to temporarily remove them from future results.",
+  "source": "@site/docs/greenlight/05_greenlight_intellij_android_studio/03_review_results_greenlight_intellij/03_greenlight_intellij_ignore_flaws.md",
+  "sourceDirName": "greenlight/05_greenlight_intellij_android_studio/03_review_results_greenlight_intellij",
+  "slug": "/greenlight/greenlight_intellij_android_studio/review_results_greenlight_intellij/greenlight_intellij_ignore_flaws",
+  "permalink": "/docs/greenlight/greenlight_intellij_android_studio/review_results_greenlight_intellij/greenlight_intellij_ignore_flaws",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/greenlight/05_greenlight_intellij_android_studio/03_review_results_greenlight_intellij/03_greenlight_intellij_ignore_flaws.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Ignore Findings in Results from Greenlight for IntelliJ",
+    "ft:prettyUrl": "t_ignoreflaws_greenlight_intellij"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "greenlight_intellij_filter_findings",
+    "permalink": "/docs/greenlight/greenlight_intellij_android_studio/review_results_greenlight_intellij/greenlight_intellij_filter_findings"
+  },
+  "next": {
+    "title": "greenlight_intellij_sync_gradle",
+    "permalink": "/docs/greenlight/greenlight_intellij_android_studio/greenlight_intellij_sync_gradle"
+  }
+}

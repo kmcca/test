@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/api_wrappers/setup_java_wrapper/java_wrapper_verify_authenticity",
+  "id": "apis/api_wrappers/setup_java_wrapper/java_wrapper_verify_authenticity",
+  "title": "java_wrapper_verify_authenticity",
+  "description": "Each Java artifact in the Java API wrapper is associated with an ASC signature file for verifying that the publication source is Veracode. You can download the ASC file for the appropriate version of the Java wrapper.",
+  "source": "@site/docs/apis/06_api_wrappers/02_setup_java_wrapper/01_java_wrapper_verify_authenticity.md",
+  "sourceDirName": "apis/06_api_wrappers/02_setup_java_wrapper",
+  "slug": "/apis/api_wrappers/setup_java_wrapper/java_wrapper_verify_authenticity",
+  "permalink": "/docs/apis/api_wrappers/setup_java_wrapper/java_wrapper_verify_authenticity",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/06_api_wrappers/02_setup_java_wrapper/01_java_wrapper_verify_authenticity.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Verify the Authenticity of Java API Wrapper Artifacts",
+    "ft:prettyUrl": "t_verifying_authenticity"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/apis/api_wrappers/setup_java_wrapper/"
+  },
+  "next": {
+    "title": "java_wrapper_config_params",
+    "permalink": "/docs/apis/api_wrappers/setup_java_wrapper/java_wrapper_config_params"
+  }
+}

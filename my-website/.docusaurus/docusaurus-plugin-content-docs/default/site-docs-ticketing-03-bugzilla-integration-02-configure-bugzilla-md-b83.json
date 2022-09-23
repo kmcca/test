@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ticketing/bugzilla_integration/configure_bugzilla",
+  "id": "ticketing/bugzilla_integration/configure_bugzilla",
+  "title": "configure_bugzilla",
+  "description": "You can configure the Veracode for Bugzilla integration to import findings that Veracode detects in your application.",
+  "source": "@site/docs/ticketing/03_bugzilla_integration/02_configure_bugzilla.md",
+  "sourceDirName": "ticketing/03_bugzilla_integration",
+  "slug": "/ticketing/bugzilla_integration/configure_bugzilla",
+  "permalink": "/docs/ticketing/bugzilla_integration/configure_bugzilla",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ticketing/03_bugzilla_integration/02_configure_bugzilla.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Configure Veracode for Bugzilla",
+    "ft:prettyUrl": "Configure_Bugzilla"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "integrate_bugzilla",
+    "permalink": "/docs/ticketing/bugzilla_integration/integrate_bugzilla"
+  },
+  "next": {
+    "title": "map_bugzilla_fields",
+    "permalink": "/docs/ticketing/bugzilla_integration/map_bugzilla_fields"
+  }
+}

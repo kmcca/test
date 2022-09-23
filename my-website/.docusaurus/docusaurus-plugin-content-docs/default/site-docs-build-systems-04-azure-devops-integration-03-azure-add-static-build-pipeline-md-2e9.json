@@ -1,0 +1,28 @@
+{
+  "unversionedId": "build_systems/azure_devops_integration/azure_add_static_build_pipeline",
+  "id": "build_systems/azure_devops_integration/azure_add_static_build_pipeline",
+  "title": "azure_add_static_build_pipeline",
+  "description": "You can use the Veracode Azure DevOps Extension to integrate Veracode Static Analysis into your Azure DevOps and Team Foundation Server \\(TFS\\) build pipelines.",
+  "source": "@site/docs/build_systems/04_azure_devops_integration/03_azure_add_static_build_pipeline.md",
+  "sourceDirName": "build_systems/04_azure_devops_integration",
+  "slug": "/build_systems/azure_devops_integration/azure_add_static_build_pipeline",
+  "permalink": "/docs/build_systems/azure_devops_integration/azure_add_static_build_pipeline",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/build_systems/04_azure_devops_integration/03_azure_add_static_build_pipeline.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Add Veracode Static Analysis to Azure DevOps Pipelines",
+    "ft:prettyUrl": "t_TFS_config_build_pipe"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "azure_check_version",
+    "permalink": "/docs/build_systems/azure_devops_integration/azure_check_version"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/build_systems/azure_devops_integration/azure_add_static_build_pipeline_yaml/"
+  }
+}

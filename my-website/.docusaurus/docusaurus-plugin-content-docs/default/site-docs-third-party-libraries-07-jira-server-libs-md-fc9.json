@@ -1,0 +1,28 @@
+{
+  "unversionedId": "third_party_libraries/jira_server_libs",
+  "id": "third_party_libraries/jira_server_libs",
+  "title": "jira_server_libs",
+  "description": "This section lists the third-party components included in the Veracode Integration for Jira with links to the license agreements. This integration supports Jira Server and Jira Data Center.",
+  "source": "@site/docs/third_party_libraries/07_jira_server_libs.md",
+  "sourceDirName": "third_party_libraries",
+  "slug": "/third_party_libraries/jira_server_libs",
+  "permalink": "/docs/third_party_libraries/jira_server_libs",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/third_party_libraries/07_jira_server_libs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "ft:title": "Veracode Integration for Jira Components",
+    "ft:prettyUrl": "Veracode_Integration_for_Jira_Components"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "gl_vs_code_libs",
+    "permalink": "/docs/third_party_libraries/gl_vs_code_libs"
+  },
+  "next": {
+    "title": "jira_cloud_libs",
+    "permalink": "/docs/third_party_libraries/jira_cloud_libs"
+  }
+}

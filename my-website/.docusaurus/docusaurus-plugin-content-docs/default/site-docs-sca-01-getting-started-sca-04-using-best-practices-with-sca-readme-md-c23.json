@@ -1,0 +1,33 @@
+{
+  "unversionedId": "SCA/getting_started_sca/using_best_practices_with_sca/README",
+  "id": "SCA/getting_started_sca/using_best_practices_with_sca/README",
+  "title": "README",
+  "description": "Veracode recommends that you comply with the best practices to make the most effective use of Veracode Software Composition Analysis.",
+  "source": "@site/docs/SCA/01_getting_started_sca/04_using_best_practices_with_sca/README.md",
+  "sourceDirName": "SCA/01_getting_started_sca/04_using_best_practices_with_sca",
+  "slug": "/SCA/getting_started_sca/using_best_practices_with_sca/",
+  "permalink": "/docs/SCA/getting_started_sca/using_best_practices_with_sca/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/01_getting_started_sca/04_using_best_practices_with_sca/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Kevin McCarthy"
+    ],
+    "ft:originID": "Using_Best_Practices_with_Veracode_SCA",
+    "ft:lang": "en-US",
+    "ft:title": "Using Best Practices with Veracode SCA",
+    "ft:prettyUrl": "Using_Best_Practices_with_Veracode_SCA",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "integrating_sca_with_tools",
+    "permalink": "/docs/SCA/getting_started_sca/integrating_sca_with_tools"
+  },
+  "next": {
+    "title": "sca_best_practices_for_cicd",
+    "permalink": "/docs/SCA/getting_started_sca/using_best_practices_with_sca/sca_best_practices_for_cicd"
+  }
+}

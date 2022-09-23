@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/api_wrappers/xml_wrappers_creds_file",
+  "id": "apis/api_wrappers/xml_wrappers_creds_file",
+  "title": "xml_wrappers_creds_file",
+  "description": "You can use a Veracode API credentials file to provide your Veracode API credentials to the Veracode API wrappers.",
+  "source": "@site/docs/apis/06_api_wrappers/03_xml_wrappers_creds_file.md",
+  "sourceDirName": "apis/06_api_wrappers",
+  "slug": "/apis/api_wrappers/xml_wrappers_creds_file",
+  "permalink": "/docs/apis/api_wrappers/xml_wrappers_creds_file",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/06_api_wrappers/03_xml_wrappers_creds_file.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Using an API Credentials File with the API Wrappers",
+    "ft:prettyUrl": "c_wrappers_using_api_creds_file"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "java_wrapper_config_params",
+    "permalink": "/docs/apis/api_wrappers/setup_java_wrapper/java_wrapper_config_params"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/apis/api_wrappers/wrappers_command_line/"
+  }
+}

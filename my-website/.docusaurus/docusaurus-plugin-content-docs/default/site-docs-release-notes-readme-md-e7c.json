@@ -1,0 +1,32 @@
+{
+  "unversionedId": "release_notes/README",
+  "id": "release_notes/README",
+  "title": "README",
+  "description": "",
+  "source": "@site/docs/release_notes/README.md",
+  "sourceDirName": "release_notes",
+  "slug": "/release_notes/",
+  "permalink": "/docs/release_notes/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/release_notes/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Scott Jordan"
+    ],
+    "ft:originID": "veracode_release_notes",
+    "ft:lang": "en-US",
+    "ft:title": "Veracode Release Notes",
+    "ft:prettyUrl": "Veracode_Release_Notes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sca_policy",
+    "permalink": "/docs/policies/sca_policy"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/release_notes/usregion/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/agent_based_scans/using_agent_scanning_reports",
+  "id": "SCA/agent_based_scans/using_agent_scanning_reports",
+  "title": "using_agent_scanning_reports",
+  "description": "Scan reports help you identify and resolve security issues in your applications.",
+  "source": "@site/docs/SCA/02_agent_based_scans/02_using_agent_scanning_reports.md",
+  "sourceDirName": "SCA/02_agent_based_scans",
+  "slug": "/SCA/agent_based_scans/using_agent_scanning_reports",
+  "permalink": "/docs/SCA/agent_based_scans/using_agent_scanning_reports",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/02_agent_based_scans/02_using_agent_scanning_reports.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Using the Agent-Based Scanning Report Features",
+    "ft:prettyUrl": "c_sc_scan_report"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "accessing_sca_agent_scanning_platform",
+    "permalink": "/docs/SCA/agent_based_scans/accessing_sca_agent_scanning_platform"
+  },
+  "next": {
+    "title": "create_sca_workspace",
+    "permalink": "/docs/SCA/agent_based_scans/create_sca_workspace"
+  }
+}

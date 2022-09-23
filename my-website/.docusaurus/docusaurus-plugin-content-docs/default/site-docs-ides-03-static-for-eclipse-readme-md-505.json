@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ides/static_for_eclipse/README",
+  "id": "ides/static_for_eclipse/README",
+  "title": "README",
+  "description": "Veracode Static for Eclipse is a plugin for the Eclipse IDE that enables you to upload binaries to Veracode for static analysis. You can work with the scan results from within Eclipse to review and mitigate security findings in your applications.",
+  "source": "@site/docs/ides/03_static_for_eclipse/README.md",
+  "sourceDirName": "ides/03_static_for_eclipse",
+  "slug": "/ides/static_for_eclipse/",
+  "permalink": "/docs/ides/static_for_eclipse/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/03_static_for_eclipse/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Veracode Static for Eclipse",
+    "ft:prettyUrl": "api_eclipse"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mobile_app_pkgr_cli_tool_options",
+    "permalink": "/docs/ides/mobile_app_packager/mobile_app_pkgr_cli_tool_options"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/ides/static_for_eclipse/install_static_eclipse/"
+  }
+}

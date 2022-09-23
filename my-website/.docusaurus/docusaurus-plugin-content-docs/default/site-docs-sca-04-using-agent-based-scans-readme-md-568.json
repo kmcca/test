@@ -1,0 +1,32 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/README",
+  "id": "SCA/using_agent_based_scans/README",
+  "title": "README",
+  "description": "What Agent-Based Scanning Does",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/README.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans",
+  "slug": "/SCA/using_agent_based_scans/",
+  "permalink": "/docs/SCA/using_agent_based_scans/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Kevin McCarthy"
+    ],
+    "ft:lang": "en-US",
+    "ft:title": "Using Agent-Based Scans",
+    "ft:prettyUrl": "c_sc_what_is",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "creating_agent_github_issues",
+    "permalink": "/docs/SCA/setting_up_agent_based_scans/desktop/issues_integration/creating_agent_github_issues"
+  },
+  "next": {
+    "title": "understanding_deployment_agent",
+    "permalink": "/docs/SCA/using_agent_based_scans/understanding_deployment_agent"
+  }
+}

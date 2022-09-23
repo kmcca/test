@@ -1,0 +1,28 @@
+{
+  "unversionedId": "build_systems/jenkins_integration/jenkins_using_dynamic_analysis/jenkins_configure_da_resubmit_freestyle",
+  "id": "build_systems/jenkins_integration/jenkins_using_dynamic_analysis/jenkins_configure_da_resubmit_freestyle",
+  "title": "jenkins_configure_da_resubmit_freestyle",
+  "description": "You can add a post-build action to your Jenkins freestyle project that submits your application for Dynamic Analysis.",
+  "source": "@site/docs/build_systems/07_jenkins_integration/08_jenkins_using_dynamic_analysis/02_jenkins_configure_da_resubmit_freestyle.md",
+  "sourceDirName": "build_systems/07_jenkins_integration/08_jenkins_using_dynamic_analysis",
+  "slug": "/build_systems/jenkins_integration/jenkins_using_dynamic_analysis/jenkins_configure_da_resubmit_freestyle",
+  "permalink": "/docs/build_systems/jenkins_integration/jenkins_using_dynamic_analysis/jenkins_configure_da_resubmit_freestyle",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/build_systems/07_jenkins_integration/08_jenkins_using_dynamic_analysis/02_jenkins_configure_da_resubmit_freestyle.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Configure a Post-Build Action to Resubmit Dynamic Analysis with Freestyle Builds",
+    "ft:prettyUrl": "t_jenkins_configure_da_resubmit_freestyle"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jenkins_configure_global_credentials_freestyle",
+    "permalink": "/docs/build_systems/jenkins_integration/jenkins_using_dynamic_analysis/jenkins_configure_global_credentials_freestyle"
+  },
+  "next": {
+    "title": "jenkins_configure_da_review_freestyle",
+    "permalink": "/docs/build_systems/jenkins_integration/jenkins_using_dynamic_analysis/jenkins_configure_da_review_freestyle"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Static/getting_started_static/static_nextsteps",
+  "id": "Static/getting_started_static/static_nextsteps",
+  "title": "static_nextsteps",
+  "description": "After you have performed a static scan, here is what you can do next:",
+  "source": "@site/docs/Static/01_getting_started_static/04_static_nextsteps.md",
+  "sourceDirName": "Static/01_getting_started_static",
+  "slug": "/Static/getting_started_static/static_nextsteps",
+  "permalink": "/docs/Static/getting_started_static/static_nextsteps",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Static/01_getting_started_static/04_static_nextsteps.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "Taking Next Steps after Static Analysis",
+    "ft:prettyUrl": "Taking_Next_Steps_after_Static_Analysis"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "edit_application_profile",
+    "permalink": "/docs/Static/getting_started_static/edit_application_profile"
+  },
+  "next": {
+    "title": "request_master",
+    "permalink": "/docs/Static/request_master"
+  }
+}

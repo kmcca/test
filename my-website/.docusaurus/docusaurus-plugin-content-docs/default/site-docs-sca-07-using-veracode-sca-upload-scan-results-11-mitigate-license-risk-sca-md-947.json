@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_veracode_sca_upload_scan_results/mitigate_license_risk_sca",
+  "id": "SCA/using_veracode_sca_upload_scan_results/mitigate_license_risk_sca",
+  "title": "mitigate_license_risk_sca",
+  "description": "You can take mitigation actions to temporarily address license risks found in Veracode Software Composition Analysis \\(SCA\\).",
+  "source": "@site/docs/SCA/07_using_veracode_sca_upload_scan_results/11_mitigate_license_risk_sca.md",
+  "sourceDirName": "SCA/07_using_veracode_sca_upload_scan_results",
+  "slug": "/SCA/using_veracode_sca_upload_scan_results/mitigate_license_risk_sca",
+  "permalink": "/docs/SCA/using_veracode_sca_upload_scan_results/mitigate_license_risk_sca",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/07_using_veracode_sca_upload_scan_results/11_mitigate_license_risk_sca.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "ft:title": "Mitigate License Risk with Veracode SCA",
+    "ft:prettyUrl": "Mitigate_License_Risk_with_Veracode_SCA"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "address_sca_vulnerabilties",
+    "permalink": "/docs/SCA/using_veracode_sca_upload_scan_results/address_sca_vulnerabilties"
+  },
+  "next": {
+    "title": "approve_reject_sca_mitigations",
+    "permalink": "/docs/SCA/using_veracode_sca_upload_scan_results/approve_reject_sca_mitigations"
+  }
+}

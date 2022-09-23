@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/api_wrappers/wrappers_command_line/api_wrapper_parameters",
+  "id": "apis/api_wrappers/wrappers_command_line/api_wrapper_parameters",
+  "title": "api_wrapper_parameters",
+  "description": "Most actions in the Veracode Java and C# API wrappers expose required or optional parameters. Some parameters apply to every action that the wrapper supports.",
+  "source": "@site/docs/apis/06_api_wrappers/04_wrappers_command_line/02_api_wrapper_parameters.md",
+  "sourceDirName": "apis/06_api_wrappers/04_wrappers_command_line",
+  "slug": "/apis/api_wrappers/wrappers_command_line/api_wrapper_parameters",
+  "permalink": "/docs/apis/api_wrappers/wrappers_command_line/api_wrapper_parameters",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/06_api_wrappers/04_wrappers_command_line/02_api_wrapper_parameters.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "API Wrapper Parameters",
+    "ft:prettyUrl": "r_wrapper_parameters"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "api_wrapper_run_command_line",
+    "permalink": "/docs/apis/api_wrappers/wrappers_command_line/api_wrapper_run_command_line"
+  },
+  "next": {
+    "title": "wrappers_use_simple_actions",
+    "permalink": "/docs/apis/api_wrappers/wrappers_use_simple_actions"
+  }
+}

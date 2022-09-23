@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ism/about_ism_gateway_retention",
+  "id": "ism/about_ism_gateway_retention",
+  "title": "about_ism_gateway_retention",
+  "description": "Veracode automatically deletes an Internal Scanning Management gateway and its associated endpoints if it has no scan activity for four months.",
+  "source": "@site/docs/ism/13_about_ism_gateway_retention.md",
+  "sourceDirName": "ism",
+  "slug": "/ism/about_ism_gateway_retention",
+  "permalink": "/docs/ism/about_ism_gateway_retention",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ism/13_about_ism_gateway_retention.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "ft:title": "About ISM Gateway Retention",
+    "ft:prettyUrl": "c_ism_gateway_retention"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "manually_update_endpoint",
+    "permalink": "/docs/ism/manually_update_endpoint"
+  },
+  "next": {
+    "title": "ism_endpoint_release_history",
+    "permalink": "/docs/ism/ism_endpoint_release_history"
+  }
+}

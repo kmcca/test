@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/rest_apis/mpt_rest_api",
+  "id": "apis/rest_apis/mpt_rest_api",
+  "title": "mpt_rest_api",
+  "description": "The Manual Testing REST API provides access to details about published Manual Penetration Testing (MPT) scans and findings.",
+  "source": "@site/docs/apis/04_rest_apis/10_mpt_rest_api.md",
+  "sourceDirName": "apis/04_rest_apis",
+  "slug": "/apis/rest_apis/mpt_rest_api",
+  "permalink": "/docs/apis/rest_apis/mpt_rest_api",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/04_rest_apis/10_mpt_rest_api.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "ft:title": "Manual Testing REST APIs",
+    "ft:prettyUrl": "c_mpt_rest_api"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "identity_api_delete_bu",
+    "permalink": "/docs/apis/rest_apis/identity_rest_api/identity_api_delete_bu"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/apis/rest_apis/pipeline_scan_rest_apis/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Static/request_master",
+  "id": "Static/request_master",
+  "title": "request_master",
+  "description": "Veracode supports scan processes for these two types of workflows:",
+  "source": "@site/docs/Static/02_request_master.md",
+  "sourceDirName": "Static",
+  "slug": "/Static/request_master",
+  "permalink": "/docs/Static/request_master",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Static/02_request_master.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Veracode Scan Workflows",
+    "ft:prettyUrl": "request_main"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "static_nextsteps",
+    "permalink": "/docs/Static/getting_started_static/static_nextsteps"
+  },
+  "next": {
+    "title": "request_static_scan_options",
+    "permalink": "/docs/Static/request_static_scan_options"
+  }
+}

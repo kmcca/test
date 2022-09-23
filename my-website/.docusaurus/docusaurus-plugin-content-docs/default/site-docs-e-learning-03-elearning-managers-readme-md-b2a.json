@@ -1,0 +1,33 @@
+{
+  "unversionedId": "eLearning/elearningManagers/README",
+  "id": "eLearning/elearningManagers/README",
+  "title": "README",
+  "description": "",
+  "source": "@site/docs/eLearning/03_elearningManagers/README.md",
+  "sourceDirName": "eLearning/03_elearningManagers",
+  "slug": "/eLearning/elearningManagers/",
+  "permalink": "/docs/eLearning/elearningManagers/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/eLearning/03_elearningManagers/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Scott Jordan"
+    ],
+    "ft:originID": "eLearning_Managers",
+    "ft:lang": "en-US",
+    "ft:title": "eLearning Managers",
+    "ft:prettyUrl": "2ax6FEMQ46x6ikV9Z5FLRA/J3C~elRg3ca30J5cte_9ag",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "t_enable_levels",
+    "permalink": "/docs/eLearning/elearningAdministrators/t_enable_levels"
+  },
+  "next": {
+    "title": "elearning_manager",
+    "permalink": "/docs/eLearning/elearningManagers/elearning_manager"
+  }
+}

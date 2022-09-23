@@ -1,0 +1,28 @@
+{
+  "unversionedId": "admin/platform_administration/delete_application_profile",
+  "id": "admin/platform_administration/delete_application_profile",
+  "title": "delete_application_profile",
+  "description": "You can delete an application profile to permanently deletes its data from your Veracode account.",
+  "source": "@site/docs/admin/03_platform_administration/09_delete_application_profile.md",
+  "sourceDirName": "admin/03_platform_administration",
+  "slug": "/admin/platform_administration/delete_application_profile",
+  "permalink": "/docs/admin/platform_administration/delete_application_profile",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/admin/03_platform_administration/09_delete_application_profile.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "ft:title": "Delete an Application Profile",
+    "ft:prettyUrl": "t_delete_application"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "view_application_profile",
+    "permalink": "/docs/admin/platform_administration/view_application_profile"
+  },
+  "next": {
+    "title": "add_business_unit",
+    "permalink": "/docs/admin/platform_administration/add_business_unit"
+  }
+}

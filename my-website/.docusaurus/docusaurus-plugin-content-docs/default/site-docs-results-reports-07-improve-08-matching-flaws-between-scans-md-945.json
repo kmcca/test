@@ -1,0 +1,28 @@
+{
+  "unversionedId": "results_reports/improve/matching_flaws_between_scans",
+  "id": "results_reports/improve/matching_flaws_between_scans",
+  "title": "matching_flaws_between_scans",
+  "description": "Carrying mitigations and comments forward from one scan to the next requires that the flaws match from one scan to the next of the same application.",
+  "source": "@site/docs/results_reports/07_improve/08_matching_flaws_between_scans.md",
+  "sourceDirName": "results_reports/07_improve",
+  "slug": "/results_reports/improve/matching_flaws_between_scans",
+  "permalink": "/docs/results_reports/improve/matching_flaws_between_scans",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/07_improve/08_matching_flaws_between_scans.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "ft:title": "Matching Flaws Between Scans of the Same Application",
+    "ft:prettyUrl": "c_review_matchflaws"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "generate_link_to_latest_instance_of_flaw",
+    "permalink": "/docs/results_reports/improve/generate_link_to_latest_instance_of_flaw"
+  },
+  "next": {
+    "title": "working_collaboratively_in_triage_flaws",
+    "permalink": "/docs/results_reports/improve/working_collaboratively_in_triage_flaws"
+  }
+}

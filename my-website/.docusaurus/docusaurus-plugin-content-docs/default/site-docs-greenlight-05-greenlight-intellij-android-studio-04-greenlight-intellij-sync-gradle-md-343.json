@@ -1,0 +1,28 @@
+{
+  "unversionedId": "greenlight/greenlight_intellij_android_studio/greenlight_intellij_sync_gradle",
+  "id": "greenlight/greenlight_intellij_android_studio/greenlight_intellij_sync_gradle",
+  "title": "greenlight_intellij_sync_gradle",
+  "description": "You can synchronize IntelliJ or Android Studio with Gradle project files to attempt to resolve build errors when using Veracode Greenlight for IntelliJ to scan Gradle projects built outside the IDE.",
+  "source": "@site/docs/greenlight/05_greenlight_intellij_android_studio/04_greenlight_intellij_sync_gradle.md",
+  "sourceDirName": "greenlight/05_greenlight_intellij_android_studio",
+  "slug": "/greenlight/greenlight_intellij_android_studio/greenlight_intellij_sync_gradle",
+  "permalink": "/docs/greenlight/greenlight_intellij_android_studio/greenlight_intellij_sync_gradle",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/greenlight/05_greenlight_intellij_android_studio/04_greenlight_intellij_sync_gradle.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "Synchronize IntelliJ or Android Studio with Gradle Projects",
+    "ft:prettyUrl": "c_intellij_thirdparty"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "greenlight_intellij_ignore_flaws",
+    "permalink": "/docs/greenlight/greenlight_intellij_android_studio/review_results_greenlight_intellij/greenlight_intellij_ignore_flaws"
+  },
+  "next": {
+    "title": "greenlight_intellij_enable_logs",
+    "permalink": "/docs/greenlight/greenlight_intellij_android_studio/greenlight_intellij_enable_logs"
+  }
+}

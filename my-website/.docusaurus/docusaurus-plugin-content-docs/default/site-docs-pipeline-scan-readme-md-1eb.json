@@ -1,0 +1,33 @@
+{
+  "unversionedId": "pipeline_scan/README",
+  "id": "pipeline_scan/README",
+  "title": "README",
+  "description": "",
+  "source": "@site/docs/pipeline_scan/README.md",
+  "sourceDirName": "pipeline_scan",
+  "slug": "/pipeline_scan/",
+  "permalink": "/docs/pipeline_scan/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/pipeline_scan/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Mike Howes"
+    ],
+    "ft:originID": "pipeline_scan_main",
+    "ft:lang": "en-US",
+    "ft:title": "Pipeline Scan",
+    "ft:prettyUrl": "Pipeline_Scan",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "supported_ruby_cleansing",
+    "permalink": "/docs/packaging/supported_framworks_cleansers/review_cleansers/supported_ruby_cleansing"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/pipeline_scan/getstarted_pipeline_scan/"
+  }
+}

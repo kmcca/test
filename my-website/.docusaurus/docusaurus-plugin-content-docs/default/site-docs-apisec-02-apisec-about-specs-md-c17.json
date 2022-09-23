@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apisec/apisec_about_specs",
+  "id": "apisec/apisec_about_specs",
+  "title": "apisec_about_specs",
+  "description": "Veracode API Scanning supports API specification files in OpenAPI 2.0 (Swagger), OpenAPI 3.0, and HTTP Archive (HAR) format. An OpenAPI specification must be valid YAML or JSON.",
+  "source": "@site/docs/apisec/02_apisec_about_specs.md",
+  "sourceDirName": "apisec",
+  "slug": "/apisec/apisec_about_specs",
+  "permalink": "/docs/apisec/apisec_about_specs",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apisec/02_apisec_about_specs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "About API Scanning and API Specifications",
+    "ft:prettyUrl": "About_API_Scanning_and_API_Specifications"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "apisec_intro",
+    "permalink": "/docs/apisec/apisec_intro"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/apisec/create_scan/"
+  }
+}

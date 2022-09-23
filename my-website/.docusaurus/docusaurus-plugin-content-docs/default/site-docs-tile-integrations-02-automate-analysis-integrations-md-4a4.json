@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tile_integrations/automate_analysis_integrations",
+  "id": "tile_integrations/automate_analysis_integrations",
+  "title": "automate_analysis_integrations",
+  "description": "If you are using the Veracode integrations to automate Veracode Static Analysis or Veracode Software Composition Analysis of your applications, you must follow certain guidelines to ensure that your automations run successfully.",
+  "source": "@site/docs/tile_integrations/02_automate_analysis_integrations.md",
+  "sourceDirName": "tile_integrations",
+  "slug": "/tile_integrations/automate_analysis_integrations",
+  "permalink": "/docs/tile_integrations/automate_analysis_integrations",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tile_integrations/02_automate_analysis_integrations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Automating Analysis with Veracode Integrations",
+    "ft:prettyUrl": "c_automate_scans"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "about_integrations",
+    "permalink": "/docs/tile_integrations/about_integrations"
+  },
+  "next": {
+    "title": "docker_images",
+    "permalink": "/docs/tile_integrations/docker_images"
+  }
+}

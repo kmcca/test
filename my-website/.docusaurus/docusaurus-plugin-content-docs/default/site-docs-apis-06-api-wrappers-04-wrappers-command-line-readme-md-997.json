@@ -1,0 +1,27 @@
+{
+  "unversionedId": "apis/api_wrappers/wrappers_command_line/README",
+  "id": "apis/api_wrappers/wrappers_command_line/README",
+  "title": "README",
+  "description": "The Veracode XML APIs allow you to access Veracode and perform actions such as creating application profiles, uploading files, starting scans, and downloading reports. You can interact with the APIs programmatically or through a web browser.",
+  "source": "@site/docs/apis/06_api_wrappers/04_wrappers_command_line/README.md",
+  "sourceDirName": "apis/06_api_wrappers/04_wrappers_command_line",
+  "slug": "/apis/api_wrappers/wrappers_command_line/",
+  "permalink": "/docs/apis/api_wrappers/wrappers_command_line/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/06_api_wrappers/04_wrappers_command_line/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Using the Veracode API Wrappers from the Command Line",
+    "ft:prettyUrl": "c_wrapper_CL"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "xml_wrappers_creds_file",
+    "permalink": "/docs/apis/api_wrappers/xml_wrappers_creds_file"
+  },
+  "next": {
+    "title": "api_wrapper_run_command_line",
+    "permalink": "/docs/apis/api_wrappers/wrappers_command_line/api_wrapper_run_command_line"
+  }
+}

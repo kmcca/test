@@ -1,0 +1,27 @@
+{
+  "unversionedId": "release_notes/usregion/README",
+  "id": "release_notes/usregion/README",
+  "title": "README",
+  "description": "Release notes for the United States Region describe the new Veracode features and updates available to organizations that use the United States domains. The new features available to organizations that have their Veracode account data hosted in Europe are described in the European Region Release Notes.",
+  "source": "@site/docs/release_notes/01_usregion/README.md",
+  "sourceDirName": "release_notes/01_usregion",
+  "slug": "/release_notes/usregion/",
+  "permalink": "/docs/release_notes/usregion/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/release_notes/01_usregion/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "United States Region",
+    "ft:prettyUrl": "United_States_Region"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/release_notes/"
+  },
+  "next": {
+    "title": "usregion_intro",
+    "permalink": "/docs/release_notes/usregion/usregion_intro"
+  }
+}

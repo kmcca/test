@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/using_my_workspace_sca",
+  "id": "SCA/using_agent_based_scans/using_my_workspace_sca",
+  "title": "using_my_workspace_sca",
+  "description": "All Veracode Software Composition Analysis users have access to a personal workspace for local scanning, called My Workspace. You can use this workspace to quickly experiment with agent-based scanning and test changes to your code without affecting the pipeline builds or compliance status of your projects.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/05_using_my_workspace_sca.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans",
+  "slug": "/SCA/using_agent_based_scans/using_my_workspace_sca",
+  "permalink": "/docs/SCA/using_agent_based_scans/using_my_workspace_sca",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/05_using_my_workspace_sca.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "Using My Workspace for Veracode SCA",
+    "ft:prettyUrl": "Using_My_Workspace_for_Veracode_SCA"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "understanding_sca_workspaces",
+    "permalink": "/docs/SCA/using_agent_based_scans/understanding_sca_workspaces"
+  },
+  "next": {
+    "title": "deleting_workspaces",
+    "permalink": "/docs/SCA/using_agent_based_scans/deleting_workspaces"
+  }
+}

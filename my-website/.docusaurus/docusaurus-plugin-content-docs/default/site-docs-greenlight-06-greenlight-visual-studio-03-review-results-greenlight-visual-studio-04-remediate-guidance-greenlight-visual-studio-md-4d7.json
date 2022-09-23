@@ -1,0 +1,28 @@
+{
+  "unversionedId": "greenlight/greenlight_visual_studio/review_results_greenlight_visual_studio/remediate_guidance_greenlight_visual_studio",
+  "id": "greenlight/greenlight_visual_studio/review_results_greenlight_visual_studio/remediate_guidance_greenlight_visual_studio",
+  "title": "remediate_guidance_greenlight_visual_studio",
+  "description": "When you click Details in the Actions column for a specific finding, the information provided in the Findings pane includes summary information about the finding, remediation guidance, and a reference section that lists links to further reading. Where applicable for specific CWE findings, you can also access the Veracode AppSec tutorials to learn more.",
+  "source": "@site/docs/greenlight/06_greenlight_visual_studio/03_review_results_greenlight_visual_studio/04_remediate_guidance_greenlight_visual_studio.md",
+  "sourceDirName": "greenlight/06_greenlight_visual_studio/03_review_results_greenlight_visual_studio",
+  "slug": "/greenlight/greenlight_visual_studio/review_results_greenlight_visual_studio/remediate_guidance_greenlight_visual_studio",
+  "permalink": "/docs/greenlight/greenlight_visual_studio/review_results_greenlight_visual_studio/remediate_guidance_greenlight_visual_studio",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/greenlight/06_greenlight_visual_studio/03_review_results_greenlight_visual_studio/04_remediate_guidance_greenlight_visual_studio.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "About Remediation Guidance for Veracode Greenlight for Visual Studio",
+    "ft:prettyUrl": "c_vs_remediation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "greenlight_visual_studio_unignore_findings",
+    "permalink": "/docs/greenlight/greenlight_visual_studio/review_results_greenlight_visual_studio/greenlight_visual_studio_unignore_findings"
+  },
+  "next": {
+    "title": "greenlight_vs_vscode_view_debug_logs",
+    "permalink": "/docs/greenlight/greenlight_visual_studio/greenlight_vs_vscode_view_debug_logs"
+  }
+}

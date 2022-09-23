@@ -1,0 +1,27 @@
+{
+  "unversionedId": "apis/rest_apis/policy_rest_apis/README",
+  "id": "apis/rest_apis/policy_rest_apis/README",
+  "title": "README",
+  "description": "You can use the Veracode Policy API to create, update, delete, and read policies. You can also use this API to evaluate an application or a development sandbox against any policy.",
+  "source": "@site/docs/apis/04_rest_apis/12_policy_rest_apis/README.md",
+  "sourceDirName": "apis/04_rest_apis/12_policy_rest_apis",
+  "slug": "/apis/rest_apis/policy_rest_apis/",
+  "permalink": "/docs/apis/rest_apis/policy_rest_apis/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/04_rest_apis/12_policy_rest_apis/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Policy REST APIs",
+    "ft:prettyUrl": "c_policy_rest_api"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pipeline_scan_api_set_timeout",
+    "permalink": "/docs/apis/rest_apis/pipeline_scan_rest_apis/pipeline_scan_api_set_timeout"
+  },
+  "next": {
+    "title": "policy_api_create",
+    "permalink": "/docs/apis/rest_apis/policy_rest_apis/policy_api_create"
+  }
+}

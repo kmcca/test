@@ -1,0 +1,28 @@
+{
+  "unversionedId": "packaging/react",
+  "id": "packaging/react",
+  "title": "react",
+  "description": "Your React Native applications must meet specific compilation requirements before you can submit them for scanning.",
+  "source": "@site/docs/packaging/24_react.md",
+  "sourceDirName": "packaging",
+  "slug": "/packaging/react",
+  "permalink": "/docs/packaging/react",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/packaging/24_react.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 24,
+  "frontMatter": {
+    "ft:title": "React Native Application Packaging",
+    "ft:prettyUrl": "c_compilation_react"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "python",
+    "permalink": "/docs/packaging/python"
+  },
+  "next": {
+    "title": "rpg",
+    "permalink": "/docs/packaging/rpg"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/fix_example_ant_direct",
+  "id": "SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/fix_example_ant_direct",
+  "title": "fix_example_ant_direct",
+  "description": "When your configuration file specifically references a library, or you add the library to your project as a JAR file, Veracode SCA refers to the library as a direct dependency.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/02_java_sca_agent/11_fix_example_ant_direct.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/02_java_sca_agent",
+  "slug": "/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/fix_example_ant_direct",
+  "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/fix_example_ant_direct",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/02_java_sca_agent/11_fix_example_ant_direct.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "ft:title": "Fix Example Direct Vulnerability for Ant",
+    "ft:prettyUrl": "Fix_Example_Direct_Vulnerability_for_Ant"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "run_agent_scan_ant",
+    "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/run_agent_scan_ant"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/javascript_sca_agent/"
+  }
+}

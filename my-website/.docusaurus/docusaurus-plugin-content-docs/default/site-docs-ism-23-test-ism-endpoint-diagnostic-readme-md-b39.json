@@ -1,0 +1,32 @@
+{
+  "unversionedId": "ism/test_ism_endpoint_diagnostic/README",
+  "id": "ism/test_ism_endpoint_diagnostic/README",
+  "title": "README",
+  "description": "You can use the Veracode Internal Scanning Management endpoint diagnostic tool to test both of the connections necessary to complete a Dynamic Analysis with ISM: the connection between the endpoint and the Veracode gateway and the connection between the endpoint and your application URL.",
+  "source": "@site/docs/ism/23_test_ism_endpoint_diagnostic/README.md",
+  "sourceDirName": "ism/23_test_ism_endpoint_diagnostic",
+  "slug": "/ism/test_ism_endpoint_diagnostic/",
+  "permalink": "/docs/ism/test_ism_endpoint_diagnostic/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ism/23_test_ism_endpoint_diagnostic/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Kevin mcCarthy"
+    ],
+    "ft:lang": "en-US",
+    "ft:title": "Test Your ISM Endpoint with the Diagnostic Tool",
+    "ft:prettyUrl": "t_ism_run_diagnostics",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "view_ism_endpoint_logs",
+    "permalink": "/docs/ism/view_ism_endpoint_logs"
+  },
+  "next": {
+    "title": "ism_diagnostic_results",
+    "permalink": "/docs/ism/test_ism_endpoint_diagnostic/ism_diagnostic_results"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dynamic_analysis/scheduling_dast_scans/schedule_recurring_dynamic_analysis",
+  "id": "dynamic_analysis/scheduling_dast_scans/schedule_recurring_dynamic_analysis",
+  "title": "schedule_recurring_dynamic_analysis",
+  "description": "You can configure a recurring schedule of your Dynamic Analysis in the Veracode Platform to run on a set day and time each week or month. You can also schedule the analysis to automatically pause and resume at specific times, such as IT downtimes or high-traffic timeframes.",
+  "source": "@site/docs/dynamic_analysis/03_scheduling_dast_scans/02_schedule_recurring_dynamic_analysis.md",
+  "sourceDirName": "dynamic_analysis/03_scheduling_dast_scans",
+  "slug": "/dynamic_analysis/scheduling_dast_scans/schedule_recurring_dynamic_analysis",
+  "permalink": "/docs/dynamic_analysis/scheduling_dast_scans/schedule_recurring_dynamic_analysis",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dynamic_analysis/03_scheduling_dast_scans/02_schedule_recurring_dynamic_analysis.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Schedule a Recurring Dynamic Analysis Scan",
+    "ft:prettyUrl": "t_was_recurring"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "schedule_dynamic_analysis.",
+    "permalink": "/docs/dynamic_analysis/scheduling_dast_scans/schedule_dynamic_analysis."
+  },
+  "next": {
+    "title": "check_status_scheduled_dynamic_analysis",
+    "permalink": "/docs/dynamic_analysis/scheduling_dast_scans/check_status_scheduled_dynamic_analysis"
+  }
+}

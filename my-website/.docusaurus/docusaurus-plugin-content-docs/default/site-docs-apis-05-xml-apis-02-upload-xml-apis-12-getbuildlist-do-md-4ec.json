@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/xml_apis/upload_xml_apis/getbuildlist_do",
+  "id": "apis/xml_apis/upload_xml_apis/getbuildlist_do",
+  "title": "getbuildlist_do",
+  "description": "The getbuildlist.do call produces a list of the application policy or sandbox scans in progress or already complete.",
+  "source": "@site/docs/apis/05_xml_apis/02_upload_xml_apis/12_getbuildlist_do.md",
+  "sourceDirName": "apis/05_xml_apis/02_upload_xml_apis",
+  "slug": "/apis/xml_apis/upload_xml_apis/getbuildlist_do",
+  "permalink": "/docs/apis/xml_apis/upload_xml_apis/getbuildlist_do",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/05_xml_apis/02_upload_xml_apis/12_getbuildlist_do.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "ft:title": "getbuildlist.do",
+    "ft:prettyUrl": "r_getbuildlist"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "getbuildinfo_do",
+    "permalink": "/docs/apis/xml_apis/upload_xml_apis/getbuildinfo_do"
+  },
+  "next": {
+    "title": "getfilelist_do",
+    "permalink": "/docs/apis/xml_apis/upload_xml_apis/getfilelist_do"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ides/static_for_visual_studio_new/custom_workflow_visual_studio_new/change_scan_name_visual_studio_new",
+  "id": "ides/static_for_visual_studio_new/custom_workflow_visual_studio_new/change_scan_name_visual_studio_new",
+  "title": "change_scan_name_visual_studio_new",
+  "description": "You can rename a scan from the name Veracode assigned to it during scanning. For example, you might need to add a unique identifier to each scan name for tracking purposes.",
+  "source": "@site/docs/ides/05_static_for_visual_studio_new/06_custom_workflow_visual_studio_new/01_change_scan_name_visual_studio_new.md",
+  "sourceDirName": "ides/05_static_for_visual_studio_new/06_custom_workflow_visual_studio_new",
+  "slug": "/ides/static_for_visual_studio_new/custom_workflow_visual_studio_new/change_scan_name_visual_studio_new",
+  "permalink": "/docs/ides/static_for_visual_studio_new/custom_workflow_visual_studio_new/change_scan_name_visual_studio_new",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/05_static_for_visual_studio_new/06_custom_workflow_visual_studio_new/01_change_scan_name_visual_studio_new.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Change the Scan Name in Visual Studio",
+    "ft:prettyUrl": "Change_the_Scan_Name_in_Visual_Studio_New"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/ides/static_for_visual_studio_new/custom_workflow_visual_studio_new/"
+  },
+  "next": {
+    "title": "settings_scripts_static_vs_2019_2022_new",
+    "permalink": "/docs/ides/static_for_visual_studio_new/settings_scripts_static_vs_2019_2022_new"
+  }
+}

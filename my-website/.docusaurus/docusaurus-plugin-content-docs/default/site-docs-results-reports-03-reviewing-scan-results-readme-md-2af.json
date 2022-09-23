@@ -1,0 +1,33 @@
+{
+  "unversionedId": "results_reports/reviewing_scan_results/README",
+  "id": "results_reports/reviewing_scan_results/README",
+  "title": "README",
+  "description": "The Results page provides a single point of reference for the results of all completed scans. From this page you can download reports, bookmark reports, and schedule a consultation call with Veracode Technical Support.",
+  "source": "@site/docs/results_reports/03_reviewing_scan_results/README.md",
+  "sourceDirName": "results_reports/03_reviewing_scan_results",
+  "slug": "/results_reports/reviewing_scan_results/",
+  "permalink": "/docs/results_reports/reviewing_scan_results/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/03_reviewing_scan_results/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Kevin McCarthy"
+    ],
+    "ft:originID": "review_results",
+    "ft:lang": "en-US",
+    "ft:title": "Reviewing Scan Results",
+    "ft:prettyUrl": "review_results",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "about_summarized_results",
+    "permalink": "/docs/results_reports/about_summarized_results"
+  },
+  "next": {
+    "title": "c_video_reviewing_scan_results",
+    "permalink": "/docs/results_reports/reviewing_scan_results/c_video_reviewing_scan_results"
+  }
+}

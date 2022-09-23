@@ -1,0 +1,28 @@
+{
+  "unversionedId": "packaging/net/asp_net_web_apps/t_MVC2_VS",
+  "id": "packaging/net/asp_net_web_apps/t_MVC2_VS",
+  "title": "t_MVC2_VS",
+  "description": "You can use Veracode Static for Visual Studio to precompile and publish your ASP.NET Core web applications.",
+  "source": "@site/docs/packaging/18_net/01_asp_net_web_apps/01_t_MVC2_VS.md",
+  "sourceDirName": "packaging/18_net/01_asp_net_web_apps",
+  "slug": "/packaging/net/asp_net_web_apps/t_MVC2_VS",
+  "permalink": "/docs/packaging/net/asp_net_web_apps/t_MVC2_VS",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/packaging/18_net/01_asp_net_web_apps/01_t_MVC2_VS.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Precompile ASP.NET Core MVC Views with Visual Studio 2017 or Later",
+    "ft:prettyUrl": "t_MVC2_VS"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/packaging/net/asp_net_web_apps/"
+  },
+  "next": {
+    "title": "c_precomp_VS",
+    "permalink": "/docs/packaging/net/asp_net_web_apps/c_precomp_VS"
+  }
+}

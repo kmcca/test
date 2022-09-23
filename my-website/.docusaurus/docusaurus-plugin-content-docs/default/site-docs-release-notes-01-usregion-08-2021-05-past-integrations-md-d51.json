@@ -1,0 +1,28 @@
+{
+  "unversionedId": "release_notes/usregion/08_2021/past_integrations",
+  "id": "release_notes/usregion/08_2021/past_integrations",
+  "title": "past_integrations",
+  "description": "View the list below for highlights of previous releases.",
+  "source": "@site/docs/release_notes/01_usregion/08_2021/05_past_integrations.md",
+  "sourceDirName": "release_notes/01_usregion/08_2021",
+  "slug": "/release_notes/usregion/08_2021/past_integrations",
+  "permalink": "/docs/release_notes/usregion/08_2021/past_integrations",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/release_notes/01_usregion/08_2021/05_past_integrations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "Veracode Integrations 2021 Release Notes",
+    "ft:prettyUrl": "c_past_int"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "past_SCA",
+    "permalink": "/docs/release_notes/usregion/08_2021/past_SCA"
+  },
+  "next": {
+    "title": "past_training",
+    "permalink": "/docs/release_notes/usregion/08_2021/past_training"
+  }
+}

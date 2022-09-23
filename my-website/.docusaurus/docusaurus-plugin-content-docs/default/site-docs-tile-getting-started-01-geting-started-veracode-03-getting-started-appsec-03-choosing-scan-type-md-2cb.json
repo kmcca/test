@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tile_getting_started/geting_started_veracode/getting_started_appsec/choosing_scan_type",
+  "id": "tile_getting_started/geting_started_veracode/getting_started_appsec/choosing_scan_type",
+  "title": "choosing_scan_type",
+  "description": "Veracode offers application scans as an integral part of any company-wide security policy. You can use Veracode to enforce consistent application security policies across your entire inventory of applications, both those that you develop and third-party applications.",
+  "source": "@site/docs/tile_getting_started/01_geting_started_veracode/03_getting_started_appsec/03_choosing_scan_type.md",
+  "sourceDirName": "tile_getting_started/01_geting_started_veracode/03_getting_started_appsec",
+  "slug": "/tile_getting_started/geting_started_veracode/getting_started_appsec/choosing_scan_type",
+  "permalink": "/docs/tile_getting_started/geting_started_veracode/getting_started_appsec/choosing_scan_type",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tile_getting_started/01_geting_started_veracode/03_getting_started_appsec/03_choosing_scan_type.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Choosing a Scan Type",
+    "ft:prettyUrl": "scantype"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "managing_app_portfolio",
+    "permalink": "/docs/tile_getting_started/geting_started_veracode/getting_started_appsec/managing_app_portfolio"
+  },
+  "next": {
+    "title": "static_scan_overview",
+    "permalink": "/docs/tile_getting_started/geting_started_veracode/getting_started_appsec/static_scan_overview"
+  }
+}

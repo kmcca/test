@@ -1,0 +1,28 @@
+{
+  "unversionedId": "results_reports/view_accelerated_results_for_static",
+  "id": "results_reports/view_accelerated_results_for_static",
+  "title": "view_accelerated_results_for_static",
+  "description": "Veracode publishes static scan results incrementally by top-level module so that you can begin reviewing your results while the remainder of your application is scanned.",
+  "source": "@site/docs/results_reports/05_view_accelerated_results_for_static.md",
+  "sourceDirName": "results_reports",
+  "slug": "/results_reports/view_accelerated_results_for_static",
+  "permalink": "/docs/results_reports/view_accelerated_results_for_static",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/05_view_accelerated_results_for_static.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "View Accelerated Results for Static Scans",
+    "ft:prettyUrl": "t_incremental_results"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "video_review_static_flaws",
+    "permalink": "/docs/results_reports/review_static_flaw_viewer/video_review_static_flaws"
+  },
+  "next": {
+    "title": "understanding_mpt_results",
+    "permalink": "/docs/results_reports/understanding_mpt_results"
+  }
+}

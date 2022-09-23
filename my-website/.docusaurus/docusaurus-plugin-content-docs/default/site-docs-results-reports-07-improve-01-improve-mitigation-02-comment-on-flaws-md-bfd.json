@@ -1,0 +1,28 @@
+{
+  "unversionedId": "results_reports/improve/improve_mitigation/comment_on_flaws",
+  "id": "results_reports/improve/improve_mitigation/comment_on_flaws",
+  "title": "comment_on_flaws",
+  "description": "When you comment on a flaw, other team members can review the comment to share your opinions and offer possible remediation methods, work assignments, and other shared ideas. User comments are not exported on the scan reports. Therefore, you can consider the comments as a private type of working area while you and your team remediate flaws.",
+  "source": "@site/docs/results_reports/07_improve/01_improve_mitigation/02_comment_on_flaws.md",
+  "sourceDirName": "results_reports/07_improve/01_improve_mitigation",
+  "slug": "/results_reports/improve/improve_mitigation/comment_on_flaws",
+  "permalink": "/docs/results_reports/improve/improve_mitigation/comment_on_flaws",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/07_improve/01_improve_mitigation/02_comment_on_flaws.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Comment on Flaws",
+    "ft:prettyUrl": "Comment_on_Flaws"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reviewing_flaws_as_team",
+    "permalink": "/docs/results_reports/improve/improve_mitigation/reviewing_flaws_as_team"
+  },
+  "next": {
+    "title": "reviewing_user_feedback_on_flaw",
+    "permalink": "/docs/results_reports/improve/improve_mitigation/reviewing_user_feedback_on_flaw"
+  }
+}

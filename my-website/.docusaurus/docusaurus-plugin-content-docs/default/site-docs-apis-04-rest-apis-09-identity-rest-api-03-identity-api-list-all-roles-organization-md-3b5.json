@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/rest_apis/identity_rest_api/identity_api_list_all_roles_organization",
+  "id": "apis/rest_apis/identity_rest_api/identity_api_list_all_roles_organization",
+  "title": "identity_api_list_all_roles_organization",
+  "description": "This use case scenario provides the Identity REST API commands for listing all the roles in an organization. These commands apply to both user accounts and API service accounts.",
+  "source": "@site/docs/apis/04_rest_apis/09_identity_rest_api/03_identity_api_list_all_roles_organization.md",
+  "sourceDirName": "apis/04_rest_apis/09_identity_rest_api",
+  "slug": "/apis/rest_apis/identity_rest_api/identity_api_list_all_roles_organization",
+  "permalink": "/docs/apis/rest_apis/identity_rest_api/identity_api_list_all_roles_organization",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/04_rest_apis/09_identity_rest_api/03_identity_api_list_all_roles_organization.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Listing All Roles in an Organization with the Identity API",
+    "ft:prettyUrl": "Listing_All_Roles_in_an_Organization_with_the_Identity_API"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "video_create_api_service_accounts_identity_api",
+    "permalink": "/docs/apis/rest_apis/identity_rest_api/identity_api_create_service_account/video_create_api_service_accounts_identity_api"
+  },
+  "next": {
+    "title": "identity_api_list_users",
+    "permalink": "/docs/apis/rest_apis/identity_rest_api/identity_api_list_users"
+  }
+}

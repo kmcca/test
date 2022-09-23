@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/api_wrappers/wrappers_composite_actions/passfail",
+  "id": "apis/api_wrappers/wrappers_composite_actions/passfail",
+  "title": "passfail",
+  "description": "The passfail composite action retrieves the latest detailed report for the application with the specified appname parameter. It prints to the console the name of the submitter, the latest build, and the policy compliance status of the scan.",
+  "source": "@site/docs/apis/06_api_wrappers/06_wrappers_composite_actions/04_passfail.md",
+  "sourceDirName": "apis/06_api_wrappers/06_wrappers_composite_actions",
+  "slug": "/apis/api_wrappers/wrappers_composite_actions/passfail",
+  "permalink": "/docs/apis/api_wrappers/wrappers_composite_actions/passfail",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/06_api_wrappers/06_wrappers_composite_actions/04_passfail.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "passfail",
+    "ft:prettyUrl": "r_passfail"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "alldetailedreports",
+    "permalink": "/docs/apis/api_wrappers/wrappers_composite_actions/alldetailedreports"
+  },
+  "next": {
+    "title": "switchtosaml",
+    "permalink": "/docs/apis/api_wrappers/wrappers_composite_actions/switchtosaml"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/scan_dependency_tree_maven",
+  "id": "SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/scan_dependency_tree_maven",
+  "title": "scan_dependency_tree_maven",
+  "description": "The Veracode SCA agent can scan the output of the Maven dependency:tree command. For dependency tree scanning, the agent requires you to specify the --stdin=maven input option.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/02_java_sca_agent/02_scan_dependency_tree_maven.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/02_java_sca_agent",
+  "slug": "/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/scan_dependency_tree_maven",
+  "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/scan_dependency_tree_maven",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/02_java_sca_agent/02_scan_dependency_tree_maven.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Scanning the Dependency Tree for Maven",
+    "ft:prettyUrl": "Scanning_the_Dependency_Tree_for_Maven"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "run_agent_scan_maven",
+    "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/run_agent_scan_maven"
+  },
+  "next": {
+    "title": "fix_example_maven_direct",
+    "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/fix_example_maven_direct"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "build_systems/jenkins_integration/jenkins_using_dynamic_analysis/video_jenkins_configure_da_resubmit_freestyle",
+  "id": "build_systems/jenkins_integration/jenkins_using_dynamic_analysis/video_jenkins_configure_da_resubmit_freestyle",
+  "title": "video_jenkins_configure_da_resubmit_freestyle",
+  "description": "Watch the following short video to learn how to add post-build actions in your Jenkins freestyle build to resubmit a Veracode Dynamic Analysis and review Dynamic Analysis results from within your freestyle project.",
+  "source": "@site/docs/build_systems/07_jenkins_integration/08_jenkins_using_dynamic_analysis/04_video_jenkins_configure_da_resubmit_freestyle.md",
+  "sourceDirName": "build_systems/07_jenkins_integration/08_jenkins_using_dynamic_analysis",
+  "slug": "/build_systems/jenkins_integration/jenkins_using_dynamic_analysis/video_jenkins_configure_da_resubmit_freestyle",
+  "permalink": "/docs/build_systems/jenkins_integration/jenkins_using_dynamic_analysis/video_jenkins_configure_da_resubmit_freestyle",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/build_systems/07_jenkins_integration/08_jenkins_using_dynamic_analysis/04_video_jenkins_configure_da_resubmit_freestyle.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "Video: Configure Jenkins Freestyle Post-Build Actions for Dynamic Analysis",
+    "ft:prettyUrl": "c_video_Jenkins_configure_da_resubmitreview_freestyle"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jenkins_configure_da_review_freestyle",
+    "permalink": "/docs/build_systems/jenkins_integration/jenkins_using_dynamic_analysis/jenkins_configure_da_review_freestyle"
+  },
+  "next": {
+    "title": "jenkins_configure_da_resubmit_pipeline",
+    "permalink": "/docs/build_systems/jenkins_integration/jenkins_using_dynamic_analysis/jenkins_configure_da_resubmit_pipeline"
+  }
+}

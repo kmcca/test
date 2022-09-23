@@ -1,0 +1,32 @@
+{
+  "unversionedId": "SCA/using_veracode_sca_upload_scan_results/README",
+  "id": "SCA/using_veracode_sca_upload_scan_results/README",
+  "title": "README",
+  "description": "You may want to review your application portfolio to determine which applications are passing or failing policy.",
+  "source": "@site/docs/SCA/07_using_veracode_sca_upload_scan_results/README.md",
+  "sourceDirName": "SCA/07_using_veracode_sca_upload_scan_results",
+  "slug": "/SCA/using_veracode_sca_upload_scan_results/",
+  "permalink": "/docs/SCA/using_veracode_sca_upload_scan_results/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/07_using_veracode_sca_upload_scan_results/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Kevin McCarthy"
+    ],
+    "ft:lang": "en-US",
+    "ft:title": "Using Veracode SCA Upload Scan Results",
+    "ft:prettyUrl": "Reviewing_Your_Application_Portfolio_with_Veracode_SCA",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "scan_statuses_sca_upload_scans",
+    "permalink": "/docs/SCA/requesting_sca_upload_scan/scan_statuses_sca_upload_scans"
+  },
+  "next": {
+    "title": "meeting_sca_policy_compliance",
+    "permalink": "/docs/SCA/using_veracode_sca_upload_scan_results/meeting_sca_policy_compliance"
+  }
+}

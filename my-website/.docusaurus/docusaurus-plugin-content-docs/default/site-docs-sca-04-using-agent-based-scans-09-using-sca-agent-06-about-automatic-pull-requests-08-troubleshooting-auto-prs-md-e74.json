@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/using_sca_agent/about_automatic_pull_requests/troubleshooting_auto_prs",
+  "id": "SCA/using_agent_based_scans/using_sca_agent/about_automatic_pull_requests/troubleshooting_auto_prs",
+  "title": "troubleshooting_auto_prs",
+  "description": "If the Veracode Software Composition Analysis (SCA) agent is not able to generate an automatic pull request, it displays this message: No pull request was generated.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/09_using_sca_agent/06_about_automatic_pull_requests/08_troubleshooting_auto_prs.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/09_using_sca_agent/06_about_automatic_pull_requests",
+  "slug": "/SCA/using_agent_based_scans/using_sca_agent/about_automatic_pull_requests/troubleshooting_auto_prs",
+  "permalink": "/docs/SCA/using_agent_based_scans/using_sca_agent/about_automatic_pull_requests/troubleshooting_auto_prs",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/09_using_sca_agent/06_about_automatic_pull_requests/08_troubleshooting_auto_prs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "ft:title": "Troubleshooting Automatic Pull Requests for SCA",
+    "ft:prettyUrl": "Troubleshooting_Automatic_Pull_Requests_for_SCA"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "video_update_advisor_agent_auto_prs",
+    "permalink": "/docs/SCA/using_agent_based_scans/using_sca_agent/about_automatic_pull_requests/video_update_advisor_agent_auto_prs"
+  },
+  "next": {
+    "title": "veracode_sca_agent_env_variables",
+    "permalink": "/docs/SCA/using_agent_based_scans/using_sca_agent/veracode_sca_agent_env_variables"
+  }
+}

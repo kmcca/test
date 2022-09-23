@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dynamic_analysis/prescan_da_web_urls/video_troubleshoot_prescan_errors_authenticate",
+  "id": "dynamic_analysis/prescan_da_web_urls/video_troubleshoot_prescan_errors_authenticate",
+  "title": "video_troubleshoot_prescan_errors_authenticate",
+  "description": "Watch the following short video to learn how to address common authentication errors that have resulted in an unsuccessful prescan as well as how to troubleshoot and resubmit the prescan.",
+  "source": "@site/docs/dynamic_analysis/06_prescan_da_web_urls/05_video_troubleshoot_prescan_errors_authenticate.md",
+  "sourceDirName": "dynamic_analysis/06_prescan_da_web_urls",
+  "slug": "/dynamic_analysis/prescan_da_web_urls/video_troubleshoot_prescan_errors_authenticate",
+  "permalink": "/docs/dynamic_analysis/prescan_da_web_urls/video_troubleshoot_prescan_errors_authenticate",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dynamic_analysis/06_prescan_da_web_urls/05_video_troubleshoot_prescan_errors_authenticate.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "Video: Troubleshoot Dynamic Analysis Prescan Authentication Errors",
+    "ft:prettyUrl": "c_was_video_prescan_errors_authentication"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "video_troubleshoot_da_prescan_errors_connect",
+    "permalink": "/docs/dynamic_analysis/prescan_da_web_urls/video_troubleshoot_da_prescan_errors_connect"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/dynamic_analysis/configuring_waf_rules/"
+  }
+}

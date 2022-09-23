@@ -1,0 +1,27 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/README",
+  "id": "SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/README",
+  "title": "README",
+  "description": "You can find vulnerabilities in your Java applications using Veracode Software Composition Analysis agent-based scanning. You can run a scan on Maven, Gradle, and Ant repositories using the agent-based scanning command-line interface or the CI integrations.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/02_java_sca_agent/README.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/02_java_sca_agent",
+  "slug": "/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/",
+  "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/02_java_sca_agent/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Java SCA Agent-Based Scanning",
+    "ft:prettyUrl": "c_sc_java"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "net_sca_agent",
+    "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/net_sca_agent"
+  },
+  "next": {
+    "title": "run_agent_scan_maven",
+    "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/run_agent_scan_maven"
+  }
+}

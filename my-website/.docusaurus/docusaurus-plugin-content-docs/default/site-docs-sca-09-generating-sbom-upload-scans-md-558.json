@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/generating_sbom_upload_scans",
+  "id": "SCA/generating_sbom_upload_scans",
+  "title": "generating_sbom_upload_scans",
+  "description": "You can use the Veracode SCA Agent REST API to generate a software bill of materials (SBOM) based on the latest results from your Veracode Software Composition Analysis upload scans or agent-based scans that you have linked to an application profile.",
+  "source": "@site/docs/SCA/09_generating_sbom_upload_scans.md",
+  "sourceDirName": "SCA",
+  "slug": "/SCA/generating_sbom_upload_scans",
+  "permalink": "/docs/SCA/generating_sbom_upload_scans",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/09_generating_sbom_upload_scans.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "ft:title": "Generating a Software Bill of Materials (SBOM) for Application Profiles",
+    "ft:prettyUrl": "Generating_a_Software_Bill_of_Materials_SBOM_for_Upload_Scans"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "generating_sbom_agent",
+    "permalink": "/docs/SCA/generating_sbom_agent"
+  },
+  "next": {
+    "title": "About Veracode SCA {#c_integrated_benefits .concept}",
+    "permalink": "/docs/SCA/images/c_integrated_benefits"
+  }
+}

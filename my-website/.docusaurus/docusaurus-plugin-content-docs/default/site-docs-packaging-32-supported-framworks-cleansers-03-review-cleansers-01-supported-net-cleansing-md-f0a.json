@@ -1,0 +1,28 @@
+{
+  "unversionedId": "packaging/supported_framworks_cleansers/review_cleansers/supported_net_cleansing",
+  "id": "packaging/supported_framworks_cleansers/review_cleansers/supported_net_cleansing",
+  "title": "supported_net_cleansing",
+  "description": "|Function|Flaw Class|",
+  "source": "@site/docs/packaging/32_supported_framworks_cleansers/03_review_cleansers/01_supported_net_cleansing.md",
+  "sourceDirName": "packaging/32_supported_framworks_cleansers/03_review_cleansers",
+  "slug": "/packaging/supported_framworks_cleansers/review_cleansers/supported_net_cleansing",
+  "permalink": "/docs/packaging/supported_framworks_cleansers/review_cleansers/supported_net_cleansing",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/packaging/32_supported_framworks_cleansers/03_review_cleansers/01_supported_net_cleansing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Supported .NET Cleansing Functions",
+    "ft:prettyUrl": "Supported_NET_Cleansing_Functions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/packaging/supported_framworks_cleansers/review_cleansers/"
+  },
+  "next": {
+    "title": "supported_java_cleansing",
+    "permalink": "/docs/packaging/supported_framworks_cleansers/review_cleansers/supported_java_cleansing"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tile_integrations/api_creds_file/video_configure_creds_file_mac_linux",
+  "id": "tile_integrations/api_creds_file/video_configure_creds_file_mac_linux",
+  "title": "video_configure_creds_file_mac_linux",
+  "description": "Watch the following video to learn how to generate Veracode API credentials in the Veracode Platform and configure a Veracode API credentials file for storing your API credentials on macOS and Linux.",
+  "source": "@site/docs/tile_integrations/05_api_creds_file/04_video_configure_creds_file_mac_linux.md",
+  "sourceDirName": "tile_integrations/05_api_creds_file",
+  "slug": "/tile_integrations/api_creds_file/video_configure_creds_file_mac_linux",
+  "permalink": "/docs/tile_integrations/api_creds_file/video_configure_creds_file_mac_linux",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tile_integrations/05_api_creds_file/04_video_configure_creds_file_mac_linux.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "Video: Configure the API Credentials File on macOS and Linux",
+    "ft:prettyUrl": "c_video_configure_api_credentials_file_macos"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "configure_creds_file_mac_linux",
+    "permalink": "/docs/tile_integrations/api_creds_file/configure_creds_file_mac_linux"
+  },
+  "next": {
+    "title": "configure_creds_file_variable_mac_linux",
+    "permalink": "/docs/tile_integrations/api_creds_file/configure_creds_file_variable_mac_linux"
+  }
+}

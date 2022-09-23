@@ -1,0 +1,28 @@
+{
+  "unversionedId": "greenlight/greenlight_vs_code/review_results_greenlight_vs_code/vs_code_filter_findings",
+  "id": "greenlight/greenlight_vs_code/review_results_greenlight_vs_code/vs_code_filter_findings",
+  "title": "vs_code_filter_findings",
+  "description": "You can filter results in VS Code so that you can focus on the findings that are the most relevant and important to you.",
+  "source": "@site/docs/greenlight/07_greenlight_vs_code/03_review_results_greenlight_vs_code/03_vs_code_filter_findings.md",
+  "sourceDirName": "greenlight/07_greenlight_vs_code/03_review_results_greenlight_vs_code",
+  "slug": "/greenlight/greenlight_vs_code/review_results_greenlight_vs_code/vs_code_filter_findings",
+  "permalink": "/docs/greenlight/greenlight_vs_code/review_results_greenlight_vs_code/vs_code_filter_findings",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/greenlight/07_greenlight_vs_code/03_review_results_greenlight_vs_code/03_vs_code_filter_findings.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Filter Findings in VS Code",
+    "ft:prettyUrl": "t_filter_findings"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "link_vs_code_findings_source_code",
+    "permalink": "/docs/greenlight/greenlight_vs_code/review_results_greenlight_vs_code/link_vs_code_findings_source_code"
+  },
+  "next": {
+    "title": "vs_code_ignore_findings",
+    "permalink": "/docs/greenlight/greenlight_vs_code/review_results_greenlight_vs_code/vs_code_ignore_findings"
+  }
+}

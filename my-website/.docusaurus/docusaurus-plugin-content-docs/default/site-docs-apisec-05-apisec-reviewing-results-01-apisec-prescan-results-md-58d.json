@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apisec/apisec_reviewing_results/apisec_prescan_results",
+  "id": "apisec/apisec_reviewing_results/apisec_prescan_results",
+  "title": "apisec_prescan_results",
+  "description": "In the Veracode Platform, you can review prescan results of your scanned API specifications. The prescan results indicate whether Veracode successfully reached and, if required, authenticated with the target server for each API endpoint included in the scan.",
+  "source": "@site/docs/apisec/05_apisec_reviewing_results/01_apisec_prescan_results.md",
+  "sourceDirName": "apisec/05_apisec_reviewing_results",
+  "slug": "/apisec/apisec_reviewing_results/apisec_prescan_results",
+  "permalink": "/docs/apisec/apisec_reviewing_results/apisec_prescan_results",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apisec/05_apisec_reviewing_results/01_apisec_prescan_results.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Review API Scanning Prescan Results",
+    "ft:prettyUrl": "Review_API_Scanning_Prescan_Results"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/apisec/apisec_reviewing_results/"
+  },
+  "next": {
+    "title": "apisec_video_prescan_results",
+    "permalink": "/docs/apisec/apisec_reviewing_results/apisec_video_prescan_results"
+  }
+}

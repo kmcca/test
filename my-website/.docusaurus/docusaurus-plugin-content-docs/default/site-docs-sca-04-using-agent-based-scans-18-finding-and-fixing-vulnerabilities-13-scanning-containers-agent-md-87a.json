@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/scanning_containers_agent",
+  "id": "SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/scanning_containers_agent",
+  "title": "scanning_containers_agent",
+  "description": "Container scanning extends the Veracode vulnerability database and SCA technology to system libraries in Docker containers.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/13_scanning_containers_agent.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities",
+  "slug": "/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/scanning_containers_agent",
+  "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/scanning_containers_agent",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/13_scanning_containers_agent.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "ft:title": "Scanning Containers with Agent-Based Scanning",
+    "ft:prettyUrl": "c_sc_container_scan"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "agent_language_support_matrix",
+    "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/agent_language_support_matrix"
+  },
+  "next": {
+    "title": "video_scan_container_agent",
+    "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/video_scan_container_agent"
+  }
+}

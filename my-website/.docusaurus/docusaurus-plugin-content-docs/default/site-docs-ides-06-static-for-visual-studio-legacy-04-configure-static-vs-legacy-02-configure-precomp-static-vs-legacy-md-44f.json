@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ides/static_for_visual_studio_legacy/configure_static_vs_legacy/configure_precomp_static_vs_legacy",
+  "id": "ides/static_for_visual_studio_legacy/configure_static_vs_legacy/configure_precomp_static_vs_legacy",
+  "title": "configure_precomp_static_vs_legacy",
+  "description": "In the Veracode Static for Visual Studio Options window, you can use the settings on the Precompilation tab to configure MSBuild and select a legacy precompilation method. You can usually accept the default values.",
+  "source": "@site/docs/ides/06_static_for_visual_studio_legacy/04_configure_static_vs_legacy/02_configure_precomp_static_vs_legacy.md",
+  "sourceDirName": "ides/06_static_for_visual_studio_legacy/04_configure_static_vs_legacy",
+  "slug": "/ides/static_for_visual_studio_legacy/configure_static_vs_legacy/configure_precomp_static_vs_legacy",
+  "permalink": "/docs/ides/static_for_visual_studio_legacy/configure_static_vs_legacy/configure_precomp_static_vs_legacy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/06_static_for_visual_studio_legacy/04_configure_static_vs_legacy/02_configure_precomp_static_vs_legacy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Configuring Precompilation Options for Visual Studio (Legacy)",
+    "ft:prettyUrl": "c_precompilation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "configure_proxy_static_vs_legacy",
+    "permalink": "/docs/ides/static_for_visual_studio_legacy/configure_static_vs_legacy/configure_proxy_static_vs_legacy"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/ides/static_for_visual_studio_legacy/configure_static_vs_legacy/msbuild_paths_static_vs_legacy/"
+  }
+}

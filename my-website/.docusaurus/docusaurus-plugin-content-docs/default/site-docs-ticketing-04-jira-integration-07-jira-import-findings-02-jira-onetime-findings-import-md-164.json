@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ticketing/jira_integration/jira_import_findings/jira_onetime_findings_import",
+  "id": "ticketing/jira_integration/jira_import_findings/jira_onetime_findings_import",
+  "title": "jira_onetime_findings_import",
+  "description": "You can use the Veracode Integration for Jira to perform one-time imports of findings from the Veracode Platform to Jira.",
+  "source": "@site/docs/ticketing/04_jira_integration/07_jira_import_findings/02_jira_onetime_findings_import.md",
+  "sourceDirName": "ticketing/04_jira_integration/07_jira_import_findings",
+  "slug": "/ticketing/jira_integration/jira_import_findings/jira_onetime_findings_import",
+  "permalink": "/docs/ticketing/jira_integration/jira_import_findings/jira_onetime_findings_import",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ticketing/04_jira_integration/07_jira_import_findings/02_jira_onetime_findings_import.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Perform a One-Time Finding Import in Jira",
+    "ft:prettyUrl": "t_jira_onetime_finding_import"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jira_schedule_auto_findings_import",
+    "permalink": "/docs/ticketing/jira_integration/jira_import_findings/jira_schedule_auto_findings_import"
+  },
+  "next": {
+    "title": "jira_selective_findings_import",
+    "permalink": "/docs/ticketing/jira_integration/jira_import_findings/jira_selective_findings_import"
+  }
+}

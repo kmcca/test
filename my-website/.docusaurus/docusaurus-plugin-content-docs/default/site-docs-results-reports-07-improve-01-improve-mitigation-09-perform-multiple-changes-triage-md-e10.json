@@ -1,0 +1,28 @@
+{
+  "unversionedId": "results_reports/improve/improve_mitigation/perform_multiple_changes_triage",
+  "id": "results_reports/improve/improve_mitigation/perform_multiple_changes_triage",
+  "title": "perform_multiple_changes_triage",
+  "description": "You can change more than one flaw at once from the Triage Flaws page.",
+  "source": "@site/docs/results_reports/07_improve/01_improve_mitigation/09_perform_multiple_changes_triage.md",
+  "sourceDirName": "results_reports/07_improve/01_improve_mitigation",
+  "slug": "/results_reports/improve/improve_mitigation/perform_multiple_changes_triage",
+  "permalink": "/docs/results_reports/improve/improve_mitigation/perform_multiple_changes_triage",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/07_improve/01_improve_mitigation/09_perform_multiple_changes_triage.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "ft:title": "Perform Multiple Changes from the Triage Flaws Page",
+    "ft:prettyUrl": "Perform_Multiple_Changes_from_the_Triage_Flaws_Page"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "managing_mitigations_several_flaws",
+    "permalink": "/docs/results_reports/improve/improve_mitigation/managing_mitigations_several_flaws"
+  },
+  "next": {
+    "title": "perform_multiples_changes_mitigated_flaws",
+    "permalink": "/docs/results_reports/improve/improve_mitigation/perform_multiples_changes_mitigated_flaws"
+  }
+}

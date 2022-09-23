@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Static/video_request_a_static_scan",
+  "id": "Static/video_request_a_static_scan",
+  "title": "video_request_a_static_scan",
+  "description": "Watch the following short video to learn how to upload your binaries and request a static scan in the Veracode Platform.",
+  "source": "@site/docs/Static/04_video_request_a_static_scan.md",
+  "sourceDirName": "Static",
+  "slug": "/Static/video_request_a_static_scan",
+  "permalink": "/docs/Static/video_request_a_static_scan",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Static/04_video_request_a_static_scan.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "Video: Request a Static Scan",
+    "ft:prettyUrl": "c_video_request_a_static_scan"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "request_static_scan_options",
+    "permalink": "/docs/Static/request_static_scan_options"
+  },
+  "next": {
+    "title": "upload_packaged",
+    "permalink": "/docs/Static/upload_packaged"
+  }
+}

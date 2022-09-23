@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/setting_up_agent_based_scans/desktop/issues_integration/creating_agent_github_issues",
+  "id": "SCA/setting_up_agent_based_scans/desktop/issues_integration/creating_agent_github_issues",
+  "title": "creating_agent_github_issues",
+  "description": "Create Issues from Vulnerability Reports",
+  "source": "@site/docs/SCA/03_setting_up_agent_based_scans/02_desktop/04_issues_integration/05_creating_agent_github_issues.md",
+  "sourceDirName": "SCA/03_setting_up_agent_based_scans/02_desktop/04_issues_integration",
+  "slug": "/SCA/setting_up_agent_based_scans/desktop/issues_integration/creating_agent_github_issues",
+  "permalink": "/docs/SCA/setting_up_agent_based_scans/desktop/issues_integration/creating_agent_github_issues",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/03_setting_up_agent_based_scans/02_desktop/04_issues_integration/05_creating_agent_github_issues.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "Creating and Fixing Agent-Based Scanning GitHub Issues",
+    "ft:prettyUrl": "Creating_and_Fixing_Veracode_SCA_GitHub_Issues"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "create_agent_integration_github",
+    "permalink": "/docs/SCA/setting_up_agent_based_scans/desktop/issues_integration/create_agent_integration_github"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/SCA/using_agent_based_scans/"
+  }
+}

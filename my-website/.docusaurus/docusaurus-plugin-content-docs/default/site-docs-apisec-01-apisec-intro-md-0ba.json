@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apisec/apisec_intro",
+  "id": "apisec/apisec_intro",
+  "title": "apisec_intro",
+  "description": "You use API Scanning to perform a Dynamic Analysis of one or more API specifications. The analysis tests the security of the API endpoints in the specification and returns scan results with discovered security findings.",
+  "source": "@site/docs/apisec/01_apisec_intro.md",
+  "sourceDirName": "apisec",
+  "slug": "/apisec/apisec_intro",
+  "permalink": "/docs/apisec/apisec_intro",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apisec/01_apisec_intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "About Veracode API Scanning",
+    "ft:prettyUrl": "About_Veracode_API_Scanning"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/apisec/"
+  },
+  "next": {
+    "title": "apisec_about_specs",
+    "permalink": "/docs/apisec/apisec_about_specs"
+  }
+}

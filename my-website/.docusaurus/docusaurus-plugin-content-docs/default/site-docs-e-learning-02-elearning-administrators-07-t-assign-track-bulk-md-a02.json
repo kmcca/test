@@ -1,0 +1,28 @@
+{
+  "unversionedId": "eLearning/elearningAdministrators/t_assign_track_bulk",
+  "id": "eLearning/elearningAdministrators/t_assign_track_bulk",
+  "title": "t_assign_track_bulk",
+  "description": "You can manage course access and manager assignments for groups of eLearning learners.",
+  "source": "@site/docs/eLearning/02_elearningAdministrators/07_t_assign_track_bulk.md",
+  "sourceDirName": "eLearning/02_elearningAdministrators",
+  "slug": "/eLearning/elearningAdministrators/t_assign_track_bulk",
+  "permalink": "/docs/eLearning/elearningAdministrators/t_assign_track_bulk",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/eLearning/02_elearningAdministrators/07_t_assign_track_bulk.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "ft:title": "Apply Actions to Multiple Learners",
+    "ft:prettyUrl": "t_assign_track_bulk"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "c_about_auto_extend",
+    "permalink": "/docs/eLearning/elearningAdministrators/c_about_auto_extend"
+  },
+  "next": {
+    "title": "t_manage_elearning_managers",
+    "permalink": "/docs/eLearning/elearningAdministrators/t_manage_elearning_managers"
+  }
+}

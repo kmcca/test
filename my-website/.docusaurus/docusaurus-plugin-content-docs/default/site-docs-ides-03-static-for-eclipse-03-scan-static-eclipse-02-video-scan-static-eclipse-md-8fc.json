@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ides/static_for_eclipse/scan_static_eclipse/video_scan_static_eclipse",
+  "id": "ides/static_for_eclipse/scan_static_eclipse/video_scan_static_eclipse",
+  "title": "video_scan_static_eclipse",
+  "description": "Watch this video to learn how to prepare a build of your application using Veracode Static for Eclipse and upload the build to a new or existing application profile in your Veracode portfolio.",
+  "source": "@site/docs/ides/03_static_for_eclipse/03_scan_static_eclipse/02_video_scan_static_eclipse.md",
+  "sourceDirName": "ides/03_static_for_eclipse/03_scan_static_eclipse",
+  "slug": "/ides/static_for_eclipse/scan_static_eclipse/video_scan_static_eclipse",
+  "permalink": "/docs/ides/static_for_eclipse/scan_static_eclipse/video_scan_static_eclipse",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/03_static_for_eclipse/03_scan_static_eclipse/02_video_scan_static_eclipse.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Video: Upload Binaries to Scan with Veracode Static for Eclipse",
+    "ft:prettyUrl": "Upload_Binaries_to_Scan_with_Veracode_Static_for_Eclipse"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "use_sandbox_static_eclipse",
+    "permalink": "/docs/ides/static_for_eclipse/scan_static_eclipse/use_sandbox_static_eclipse"
+  },
+  "next": {
+    "title": "run_prescan_static_eclipse",
+    "permalink": "/docs/ides/static_for_eclipse/scan_static_eclipse/run_prescan_static_eclipse"
+  }
+}

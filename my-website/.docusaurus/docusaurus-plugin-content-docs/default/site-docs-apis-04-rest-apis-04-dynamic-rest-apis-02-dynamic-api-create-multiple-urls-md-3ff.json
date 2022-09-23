@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/rest_apis/dynamic_rest_apis/dynamic_api_create_multiple_urls",
+  "id": "apis/rest_apis/dynamic_rest_apis/dynamic_api_create_multiple_urls",
+  "title": "dynamic_api_create_multiple_urls",
+  "description": "You can use the Dynamic Analysis API to create an analysis of multiple URLs with visibility, organization, and schedule restrictions.",
+  "source": "@site/docs/apis/04_rest_apis/04_dynamic_rest_apis/02_dynamic_api_create_multiple_urls.md",
+  "sourceDirName": "apis/04_rest_apis/04_dynamic_rest_apis",
+  "slug": "/apis/rest_apis/dynamic_rest_apis/dynamic_api_create_multiple_urls",
+  "permalink": "/docs/apis/rest_apis/dynamic_rest_apis/dynamic_api_create_multiple_urls",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/04_rest_apis/04_dynamic_rest_apis/02_dynamic_api_create_multiple_urls.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Create a Dynamic Analysis of Multiple URLs with the REST API",
+    "ft:prettyUrl": "t_dynamic_multiple"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dynamic_api_create_single_url",
+    "permalink": "/docs/apis/rest_apis/dynamic_rest_apis/dynamic_api_create_single_url"
+  },
+  "next": {
+    "title": "dynamic_api_create_single_url_with_prescan",
+    "permalink": "/docs/apis/rest_apis/dynamic_rest_apis/dynamic_api_create_single_url_with_prescan"
+  }
+}

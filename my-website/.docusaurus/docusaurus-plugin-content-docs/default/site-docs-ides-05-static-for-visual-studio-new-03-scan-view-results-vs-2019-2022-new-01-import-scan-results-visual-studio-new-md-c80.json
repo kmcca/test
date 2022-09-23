@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ides/static_for_visual_studio_new/scan_view_results_vs_2019_2022_new/import_scan_results_visual_studio_new",
+  "id": "ides/static_for_visual_studio_new/scan_view_results_vs_2019_2022_new/import_scan_results_visual_studio_new",
+  "title": "import_scan_results_visual_studio_new",
+  "description": "You can import scan results, in XML format, from the Veracode Platform to Visual Studio to review the results from within the IDE. You can also download results with the Results XML API.",
+  "source": "@site/docs/ides/05_static_for_visual_studio_new/03_scan_view_results_vs_2019_2022_new/01_import_scan_results_visual_studio_new.md",
+  "sourceDirName": "ides/05_static_for_visual_studio_new/03_scan_view_results_vs_2019_2022_new",
+  "slug": "/ides/static_for_visual_studio_new/scan_view_results_vs_2019_2022_new/import_scan_results_visual_studio_new",
+  "permalink": "/docs/ides/static_for_visual_studio_new/scan_view_results_vs_2019_2022_new/import_scan_results_visual_studio_new",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/05_static_for_visual_studio_new/03_scan_view_results_vs_2019_2022_new/01_import_scan_results_visual_studio_new.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Import Scan Results Into Visual Studio",
+    "ft:prettyUrl": "Import_Scan_Results_Into_Visual_Studio_New"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/ides/static_for_visual_studio_new/scan_view_results_vs_2019_2022_new/"
+  },
+  "next": {
+    "title": "one_time_setup_vs_2019_2022_new",
+    "permalink": "/docs/ides/static_for_visual_studio_new/one_time_setup_vs_2019_2022_new"
+  }
+}

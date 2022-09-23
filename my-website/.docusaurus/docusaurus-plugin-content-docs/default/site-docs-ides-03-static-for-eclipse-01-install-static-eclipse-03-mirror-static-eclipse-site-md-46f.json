@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ides/static_for_eclipse/install_static_eclipse/mirror_static_eclipse_site",
+  "id": "ides/static_for_eclipse/install_static_eclipse/mirror_static_eclipse_site",
+  "title": "mirror_static_eclipse_site",
+  "description": "You can create a local instance of the Veracode Eclipse update site that allows you to use and update Veracode Static for Eclipse without internet access.",
+  "source": "@site/docs/ides/03_static_for_eclipse/01_install_static_eclipse/03_mirror_static_eclipse_site.md",
+  "sourceDirName": "ides/03_static_for_eclipse/01_install_static_eclipse",
+  "slug": "/ides/static_for_eclipse/install_static_eclipse/mirror_static_eclipse_site",
+  "permalink": "/docs/ides/static_for_eclipse/install_static_eclipse/mirror_static_eclipse_site",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/03_static_for_eclipse/01_install_static_eclipse/03_mirror_static_eclipse_site.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Mirror the Eclipse Plugin Update Site",
+    "ft:prettyUrl": "c_Eclipse_mirror"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "update_static_eclipse",
+    "permalink": "/docs/ides/static_for_eclipse/install_static_eclipse/update_static_eclipse"
+  },
+  "next": {
+    "title": "install_mirrored_static_eclipse_site",
+    "permalink": "/docs/ides/static_for_eclipse/install_static_eclipse/install_mirrored_static_eclipse_site"
+  }
+}

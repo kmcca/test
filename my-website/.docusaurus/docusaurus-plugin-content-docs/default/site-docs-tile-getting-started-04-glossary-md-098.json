@@ -1,0 +1,33 @@
+{
+  "unversionedId": "tile_getting_started/glossary",
+  "id": "tile_getting_started/glossary",
+  "title": "glossary",
+  "description": "This glossary provides definitions for general application security terms and terms specific to Veracode products.",
+  "source": "@site/docs/tile_getting_started/04_glossary.md",
+  "sourceDirName": "tile_getting_started",
+  "slug": "/tile_getting_started/glossary",
+  "permalink": "/docs/tile_getting_started/glossary",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tile_getting_started/04_glossary.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "author": [
+      "Doc Team"
+    ],
+    "ft:lang": "en-US",
+    "ft:title": "Veracode Glossary",
+    "ft:prettyUrl": "Veracode_Glossary",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "use_docs",
+    "permalink": "/docs/tile_getting_started/use_docs"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/tile_integrations/"
+  }
+}

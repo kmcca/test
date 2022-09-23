@@ -1,0 +1,28 @@
+{
+  "unversionedId": "results_reports/review_methodology/understanding_veracode_and_cwe",
+  "id": "results_reports/review_methodology/understanding_veracode_and_cwe",
+  "title": "understanding_veracode_and_cwe",
+  "description": "Veracode references the Common Weakness Enumeration \\(CWE\\) standard to map the flaws found in its static and dynamic scans.",
+  "source": "@site/docs/results_reports/09_review_methodology/05_understanding_veracode_and_cwe.md",
+  "sourceDirName": "results_reports/09_review_methodology",
+  "slug": "/results_reports/review_methodology/understanding_veracode_and_cwe",
+  "permalink": "/docs/results_reports/review_methodology/understanding_veracode_and_cwe",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/09_review_methodology/05_understanding_veracode_and_cwe.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "Understanding Veracode and the CWE",
+    "ft:prettyUrl": "c_review_cwe"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "scoring_methodology",
+    "permalink": "/docs/results_reports/review_methodology/scoring_methodology"
+  },
+  "next": {
+    "title": "understanding_severity_exploitability_effort",
+    "permalink": "/docs/results_reports/review_methodology/understanding_severity_exploitability_effort"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "build_systems/jenkins_integration/jenkins_using_dynamic_analysis/video_jenkins_configure_da_resubmit_review_pipeline",
+  "id": "build_systems/jenkins_integration/jenkins_using_dynamic_analysis/video_jenkins_configure_da_resubmit_review_pipeline",
+  "title": "video_jenkins_configure_da_resubmit_review_pipeline",
+  "description": "Watch the following short video to learn how to add to post-build actions in your Jenkins pipeline build to resubmit a Veracode Dynamic Analysis and review Dynamic Analysis results from within your pipeline project.",
+  "source": "@site/docs/build_systems/07_jenkins_integration/08_jenkins_using_dynamic_analysis/07_video_jenkins_configure_da_resubmit_review_pipeline.md",
+  "sourceDirName": "build_systems/07_jenkins_integration/08_jenkins_using_dynamic_analysis",
+  "slug": "/build_systems/jenkins_integration/jenkins_using_dynamic_analysis/video_jenkins_configure_da_resubmit_review_pipeline",
+  "permalink": "/docs/build_systems/jenkins_integration/jenkins_using_dynamic_analysis/video_jenkins_configure_da_resubmit_review_pipeline",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/build_systems/07_jenkins_integration/08_jenkins_using_dynamic_analysis/07_video_jenkins_configure_da_resubmit_review_pipeline.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "ft:title": "Video: Configure Jenkins Pipeline Post-Build Actions for Dynamic Analysis",
+    "ft:prettyUrl": "c_video_Jenkins_configure_da_resubmitreview_pipeline"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jenkins_configure_da_review_pipeline",
+    "permalink": "/docs/build_systems/jenkins_integration/jenkins_using_dynamic_analysis/jenkins_configure_da_review_pipeline"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/build_systems/maven_integration/"
+  }
+}

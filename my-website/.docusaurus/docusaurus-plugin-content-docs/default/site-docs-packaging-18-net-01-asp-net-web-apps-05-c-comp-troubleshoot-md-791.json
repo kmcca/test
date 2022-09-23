@@ -1,0 +1,28 @@
+{
+  "unversionedId": "packaging/net/asp_net_web_apps/c_comp_troubleshoot",
+  "id": "packaging/net/asp_net_web_apps/c_comp_troubleshoot",
+  "title": "c_comp_troubleshoot",
+  "description": "This topic lists the known errors reported to Veracode Technical Support, and provides solutions. If you encounter an error not listed here, contact Veracode Technical Support.",
+  "source": "@site/docs/packaging/18_net/01_asp_net_web_apps/05_c_comp_troubleshoot.md",
+  "sourceDirName": "packaging/18_net/01_asp_net_web_apps",
+  "slug": "/packaging/net/asp_net_web_apps/c_comp_troubleshoot",
+  "permalink": "/docs/packaging/net/asp_net_web_apps/c_comp_troubleshoot",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/packaging/18_net/01_asp_net_web_apps/05_c_comp_troubleshoot.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "Troubleshooting Precompilation Errors",
+    "ft:prettyUrl": "c_comp_troubleshoot"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "c_precomp_MS",
+    "permalink": "/docs/packaging/net/asp_net_web_apps/c_precomp_MS"
+  },
+  "next": {
+    "title": "perl",
+    "permalink": "/docs/packaging/perl"
+  }
+}

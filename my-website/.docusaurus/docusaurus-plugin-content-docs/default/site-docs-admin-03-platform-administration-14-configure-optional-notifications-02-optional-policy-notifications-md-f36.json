@@ -1,0 +1,28 @@
+{
+  "unversionedId": "admin/platform_administration/configure_optional_notifications/optional_policy_notifications",
+  "id": "admin/platform_administration/configure_optional_notifications/optional_policy_notifications",
+  "title": "optional_policy_notifications",
+  "description": "You can subscribe to notifications for specific events that impact your policies to receive the emails listed in these tables.",
+  "source": "@site/docs/admin/03_platform_administration/14_configure_optional_notifications/02_optional_policy_notifications.md",
+  "sourceDirName": "admin/03_platform_administration/14_configure_optional_notifications",
+  "slug": "/admin/platform_administration/configure_optional_notifications/optional_policy_notifications",
+  "permalink": "/docs/admin/platform_administration/configure_optional_notifications/optional_policy_notifications",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/admin/03_platform_administration/14_configure_optional_notifications/02_optional_policy_notifications.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Optional Policy Notifications",
+    "ft:prettyUrl": "c_optional_policy_emails"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "optional_scan_notifications",
+    "permalink": "/docs/admin/platform_administration/configure_optional_notifications/optional_scan_notifications"
+  },
+  "next": {
+    "title": "turn_off_optional_notifications",
+    "permalink": "/docs/admin/platform_administration/turn_off_optional_notifications"
+  }
+}

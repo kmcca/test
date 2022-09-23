@@ -1,0 +1,28 @@
+{
+  "unversionedId": "results_reports/about_summarized_results",
+  "id": "results_reports/about_summarized_results",
+  "title": "about_summarized_results",
+  "description": "The Summarized Results section of the Results page provides an overview of all the flaws by severity and status, as well as a summary of the top risks and how your metrics data is trending.",
+  "source": "@site/docs/results_reports/02_about_summarized_results.md",
+  "sourceDirName": "results_reports",
+  "slug": "/results_reports/about_summarized_results",
+  "permalink": "/docs/results_reports/about_summarized_results",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/02_about_summarized_results.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "About Summarized Results",
+    "ft:prettyUrl": "c_results_summaryresults"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "understanding_scan_results",
+    "permalink": "/docs/results_reports/understanding_scan_results"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/results_reports/reviewing_scan_results/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/rest_apis/identity_rest_api/identity_api_update_team",
+  "id": "apis/rest_apis/identity_rest_api/identity_api_update_team",
+  "title": "identity_api_update_team",
+  "description": "This use case scenario provides the Identity REST API command and payload for changing the name of a team.",
+  "source": "@site/docs/apis/04_rest_apis/09_identity_rest_api/17_identity_api_update_team.md",
+  "sourceDirName": "apis/04_rest_apis/09_identity_rest_api",
+  "slug": "/apis/rest_apis/identity_rest_api/identity_api_update_team",
+  "permalink": "/docs/apis/rest_apis/identity_rest_api/identity_api_update_team",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/04_rest_apis/09_identity_rest_api/17_identity_api_update_team.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 17,
+  "frontMatter": {
+    "ft:title": "Updating a Team with the Identity API",
+    "ft:prettyUrl": "c_identity_update_team"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "identity_api_view_team_details",
+    "permalink": "/docs/apis/rest_apis/identity_rest_api/identity_api_view_team_details"
+  },
+  "next": {
+    "title": "identity_api_delete_team",
+    "permalink": "/docs/apis/rest_apis/identity_rest_api/identity_api_delete_team"
+  }
+}

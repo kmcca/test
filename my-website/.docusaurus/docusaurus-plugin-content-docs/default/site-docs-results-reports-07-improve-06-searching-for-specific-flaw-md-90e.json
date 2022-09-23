@@ -1,0 +1,28 @@
+{
+  "unversionedId": "results_reports/improve/searching_for_specific_flaw",
+  "id": "results_reports/improve/searching_for_specific_flaw",
+  "title": "searching_for_specific_flaw",
+  "description": "The Triage Flaws view in the Veracode Platform shows detailed information on each flaw detected during Veracode analyses of your application. You can search for flaws using one or several criteria, including negative criteria and wildcards.",
+  "source": "@site/docs/results_reports/07_improve/06_searching_for_specific_flaw.md",
+  "sourceDirName": "results_reports/07_improve",
+  "slug": "/results_reports/improve/searching_for_specific_flaw",
+  "permalink": "/docs/results_reports/improve/searching_for_specific_flaw",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/07_improve/06_searching_for_specific_flaw.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "ft:title": "Searching for a Specific Flaw in the Triage Flaws Page",
+    "ft:prettyUrl": "improve_search"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "schedule_next_day_consultation",
+    "permalink": "/docs/results_reports/improve/schedule_next_day_consultation"
+  },
+  "next": {
+    "title": "generate_link_to_latest_instance_of_flaw",
+    "permalink": "/docs/results_reports/improve/generate_link_to_latest_instance_of_flaw"
+  }
+}

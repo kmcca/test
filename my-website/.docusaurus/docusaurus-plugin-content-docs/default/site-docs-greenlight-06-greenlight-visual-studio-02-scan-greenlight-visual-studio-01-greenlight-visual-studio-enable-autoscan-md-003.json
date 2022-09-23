@@ -1,0 +1,28 @@
+{
+  "unversionedId": "greenlight/greenlight_visual_studio/scan_greenlight_visual_studio/greenlight_visual_studio_enable_autoscan",
+  "id": "greenlight/greenlight_visual_studio/scan_greenlight_visual_studio/greenlight_visual_studio_enable_autoscan",
+  "title": "greenlight_visual_studio_enable_autoscan",
+  "description": "You can enable auto-scan to automatically scan any saved, successfully compiled file that is in focus in your IDE.",
+  "source": "@site/docs/greenlight/06_greenlight_visual_studio/02_scan_greenlight_visual_studio/01_greenlight_visual_studio_enable_autoscan.md",
+  "sourceDirName": "greenlight/06_greenlight_visual_studio/02_scan_greenlight_visual_studio",
+  "slug": "/greenlight/greenlight_visual_studio/scan_greenlight_visual_studio/greenlight_visual_studio_enable_autoscan",
+  "permalink": "/docs/greenlight/greenlight_visual_studio/scan_greenlight_visual_studio/greenlight_visual_studio_enable_autoscan",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/greenlight/06_greenlight_visual_studio/02_scan_greenlight_visual_studio/01_greenlight_visual_studio_enable_autoscan.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Enable Auto-Scan in Greenlight for Visual Studio",
+    "ft:prettyUrl": "c_vs_autoscan"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/greenlight/greenlight_visual_studio/scan_greenlight_visual_studio/"
+  },
+  "next": {
+    "title": "video_greenlight_visual_studio_scan_csharp",
+    "permalink": "/docs/greenlight/greenlight_visual_studio/scan_greenlight_visual_studio/video_greenlight_visual_studio_scan_csharp"
+  }
+}

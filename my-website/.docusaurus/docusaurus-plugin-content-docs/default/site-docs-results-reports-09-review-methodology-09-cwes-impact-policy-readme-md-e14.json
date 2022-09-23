@@ -1,0 +1,33 @@
+{
+  "unversionedId": "results_reports/review_methodology/cwes_impact_policy/README",
+  "id": "results_reports/review_methodology/cwes_impact_policy/README",
+  "title": "README",
+  "description": "This appendix lists all the CWEs that violate the security standards you can apply to your policies in the Veracode Platform. It also indicates which CWEs are supported by Veracode Static Analysis and Dynamic Analysis. Veracode Manual Penetration Testing scans may report any valid CWE, including those not listed here.",
+  "source": "@site/docs/results_reports/09_review_methodology/09_cwes_impact_policy/README.md",
+  "sourceDirName": "results_reports/09_review_methodology/09_cwes_impact_policy",
+  "slug": "/results_reports/review_methodology/cwes_impact_policy/",
+  "permalink": "/docs/results_reports/review_methodology/cwes_impact_policy/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/09_review_methodology/09_cwes_impact_policy/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Kevin McCarthy"
+    ],
+    "ft:originID": "r_cwes_impact_policy",
+    "ft:lang": "en-US",
+    "ft:title": "Appendix: CWEs That Violate Security Standards",
+    "ft:prettyUrl": "r_cwes_impact_policy",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "policy_evaluation",
+    "permalink": "/docs/results_reports/review_methodology/policy_evaluation"
+  },
+  "next": {
+    "title": "cwes_owasp_2021",
+    "permalink": "/docs/results_reports/review_methodology/cwes_impact_policy/cwes_owasp_2021"
+  }
+}

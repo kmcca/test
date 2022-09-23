@@ -1,0 +1,28 @@
+{
+  "unversionedId": "policies/veracodedefault",
+  "id": "policies/veracodedefault",
+  "title": "veracodedefault",
+  "description": "Veracode provides default policies to make it easier for organizations to begin measuring their applications against policies. There are these two sets of default policies:",
+  "source": "@site/docs/policies/17_veracodedefault.md",
+  "sourceDirName": "policies",
+  "slug": "/policies/veracodedefault",
+  "permalink": "/docs/policies/veracodedefault",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/policies/17_veracodedefault.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 17,
+  "frontMatter": {
+    "ft:title": "Reviewing the Veracode Default Policies",
+    "ft:prettyUrl": "policy_veracodedefault"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "understand",
+    "permalink": "/docs/policies/understand"
+  },
+  "next": {
+    "title": "veracodelevel",
+    "permalink": "/docs/policies/veracodelevel"
+  }
+}

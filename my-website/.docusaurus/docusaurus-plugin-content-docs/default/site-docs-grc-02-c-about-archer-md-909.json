@@ -1,0 +1,28 @@
+{
+  "unversionedId": "grc/c_about_archer",
+  "id": "grc/c_about_archer",
+  "title": "c_about_archer",
+  "description": "The Archer dashboard is a platform for Governance, Risk, and Compliance \\(GRC\\) solutions. The Archer dashboard consumes XML data feeds to integrate data from a variety of sources into a unified view of enterprise-wide risk.",
+  "source": "@site/docs/grc/02_c_about_archer.md",
+  "sourceDirName": "grc",
+  "slug": "/grc/c_about_archer",
+  "permalink": "/docs/grc/c_about_archer",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/grc/02_c_about_archer.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Using the Archer API",
+    "ft:prettyUrl": "c_about_archer"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "c_about_grc",
+    "permalink": "/docs/grc/c_about_grc"
+  },
+  "next": {
+    "title": "archer_xml_apis_quickref",
+    "permalink": "/docs/grc/archer_xml_apis_quickref"
+  }
+}

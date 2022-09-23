@@ -1,0 +1,28 @@
+{
+  "unversionedId": "packaging/supported_framworks_cleansers/review_cleansers/supported_c_cleansing",
+  "id": "packaging/supported_framworks_cleansers/review_cleansers/supported_c_cleansing",
+  "title": "supported_c_cleansing",
+  "description": "|Function|Flaw Class|",
+  "source": "@site/docs/packaging/32_supported_framworks_cleansers/03_review_cleansers/03_supported_c_cleansing.md",
+  "sourceDirName": "packaging/32_supported_framworks_cleansers/03_review_cleansers",
+  "slug": "/packaging/supported_framworks_cleansers/review_cleansers/supported_c_cleansing",
+  "permalink": "/docs/packaging/supported_framworks_cleansers/review_cleansers/supported_c_cleansing",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/packaging/32_supported_framworks_cleansers/03_review_cleansers/03_supported_c_cleansing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Supported C Cleansing Functions",
+    "ft:prettyUrl": "Supported_C_Cleansing_Functions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "supported_java_cleansing",
+    "permalink": "/docs/packaging/supported_framworks_cleansers/review_cleansers/supported_java_cleansing"
+  },
+  "next": {
+    "title": "supported_classic_asp_cleansing",
+    "permalink": "/docs/packaging/supported_framworks_cleansers/review_cleansers/supported_classic_asp_cleansing"
+  }
+}

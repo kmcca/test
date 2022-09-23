@@ -1,0 +1,28 @@
+{
+  "unversionedId": "greenlight/greenlight_vs_code/review_results_greenlight_vs_code/vs_code_ignore_findings",
+  "id": "greenlight/greenlight_vs_code/review_results_greenlight_vs_code/vs_code_ignore_findings",
+  "title": "vs_code_ignore_findings",
+  "description": "You can ignore findings from Greenlight scans in VS Code to temporarily remove them from the scan results. For example, you might want to ignore findings that continually appear in your results.",
+  "source": "@site/docs/greenlight/07_greenlight_vs_code/03_review_results_greenlight_vs_code/04_vs_code_ignore_findings.md",
+  "sourceDirName": "greenlight/07_greenlight_vs_code/03_review_results_greenlight_vs_code",
+  "slug": "/greenlight/greenlight_vs_code/review_results_greenlight_vs_code/vs_code_ignore_findings",
+  "permalink": "/docs/greenlight/greenlight_vs_code/review_results_greenlight_vs_code/vs_code_ignore_findings",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/greenlight/07_greenlight_vs_code/03_review_results_greenlight_vs_code/04_vs_code_ignore_findings.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "Ignore Findings in Veracode for VS Code Results",
+    "ft:prettyUrl": "t_ignoreflaws_vs_code"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vs_code_filter_findings",
+    "permalink": "/docs/greenlight/greenlight_vs_code/review_results_greenlight_vs_code/vs_code_filter_findings"
+  },
+  "next": {
+    "title": "vs_code_unignore_findings",
+    "permalink": "/docs/greenlight/greenlight_vs_code/review_results_greenlight_vs_code/vs_code_unignore_findings"
+  }
+}

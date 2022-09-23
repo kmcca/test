@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/getting_started_sca/using_sca_programming_languages/about_supported_languages_agent",
+  "id": "SCA/getting_started_sca/using_sca_programming_languages/about_supported_languages_agent",
+  "title": "about_supported_languages_agent",
+  "description": "Veracode Software Composition Analysis agent-based scanning integrates with many build systems. This section provides a list of the package managers and integrations that agent-based scanning supports.",
+  "source": "@site/docs/SCA/01_getting_started_sca/02_using_sca_programming_languages/01_about_supported_languages_agent.md",
+  "sourceDirName": "SCA/01_getting_started_sca/02_using_sca_programming_languages",
+  "slug": "/SCA/getting_started_sca/using_sca_programming_languages/about_supported_languages_agent",
+  "permalink": "/docs/SCA/getting_started_sca/using_sca_programming_languages/about_supported_languages_agent",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/01_getting_started_sca/02_using_sca_programming_languages/01_about_supported_languages_agent.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "About Supported Languages and Tools for Agent-Based Scans",
+    "ft:prettyUrl": "c_sc_supported_lang"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/SCA/getting_started_sca/using_sca_programming_languages/"
+  },
+  "next": {
+    "title": "understanding_language_support_upload",
+    "permalink": "/docs/SCA/getting_started_sca/using_sca_programming_languages/understanding_language_support_upload"
+  }
+}

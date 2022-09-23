@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ides/static_for_eclipse/manage_flaws_static_eclipse/eclipse_view_results",
+  "id": "ides/static_for_eclipse/manage_flaws_static_eclipse/eclipse_view_results",
+  "title": "eclipse_view_results",
+  "description": "You can view detailed information of Veracode scan results in the Flaw Details view from within Eclipse.",
+  "source": "@site/docs/ides/03_static_for_eclipse/04_manage_flaws_static_eclipse/03_eclipse_view_results.md",
+  "sourceDirName": "ides/03_static_for_eclipse/04_manage_flaws_static_eclipse",
+  "slug": "/ides/static_for_eclipse/manage_flaws_static_eclipse/eclipse_view_results",
+  "permalink": "/docs/ides/static_for_eclipse/manage_flaws_static_eclipse/eclipse_view_results",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/03_static_for_eclipse/04_manage_flaws_static_eclipse/03_eclipse_view_results.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "View Flaw Details in Eclipse",
+    "ft:prettyUrl": "View_Flaw_Details_in_Eclipse"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "import_results_api_static_eclipse",
+    "permalink": "/docs/ides/static_for_eclipse/manage_flaws_static_eclipse/import_results_api_static_eclipse"
+  },
+  "next": {
+    "title": "eclipse_viewing_flaws_source_files",
+    "permalink": "/docs/ides/static_for_eclipse/manage_flaws_static_eclipse/eclipse_viewing_flaws_source_files"
+  }
+}

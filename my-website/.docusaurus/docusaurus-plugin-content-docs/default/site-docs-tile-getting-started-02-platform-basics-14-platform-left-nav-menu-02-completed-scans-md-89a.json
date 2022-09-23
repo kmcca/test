@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tile_getting_started/platform_basics/platform_left_nav_menu/completed_scans",
+  "id": "tile_getting_started/platform_basics/platform_left_nav_menu/completed_scans",
+  "title": "completed_scans",
+  "description": "From the Completed Scans you can see a list of all the scans that have finished.",
+  "source": "@site/docs/tile_getting_started/02_platform_basics/14_platform_left_nav_menu/02_completed_scans.md",
+  "sourceDirName": "tile_getting_started/02_platform_basics/14_platform_left_nav_menu",
+  "slug": "/tile_getting_started/platform_basics/platform_left_nav_menu/completed_scans",
+  "permalink": "/docs/tile_getting_started/platform_basics/platform_left_nav_menu/completed_scans",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tile_getting_started/02_platform_basics/14_platform_left_nav_menu/02_completed_scans.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "View Completed Scans in the Veracode Platform",
+    "ft:prettyUrl": "c_completed_scans"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "in_progress_scans",
+    "permalink": "/docs/tile_getting_started/platform_basics/platform_left_nav_menu/in_progress_scans"
+  },
+  "next": {
+    "title": "subscribe_news_platform",
+    "permalink": "/docs/tile_getting_started/platform_basics/subscribe_news_platform"
+  }
+}

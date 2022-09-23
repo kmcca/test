@@ -1,0 +1,27 @@
+{
+  "unversionedId": "SCA/setting_up_agent_based_scans/desktop/cli/README",
+  "id": "SCA/setting_up_agent_based_scans/desktop/cli/README",
+  "title": "README",
+  "description": "Setting up Veracode Software Composition Analysis agent-based scanning for your desktop allows you to view open-source vulnerability and component information for your personal repositories in one central location.",
+  "source": "@site/docs/SCA/03_setting_up_agent_based_scans/02_desktop/01_cli/README.md",
+  "sourceDirName": "SCA/03_setting_up_agent_based_scans/02_desktop/01_cli",
+  "slug": "/SCA/setting_up_agent_based_scans/desktop/cli/",
+  "permalink": "/docs/SCA/setting_up_agent_based_scans/desktop/cli/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/03_setting_up_agent_based_scans/02_desktop/01_cli/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Using the Veracode SCA Command-Line Agent",
+    "ft:prettyUrl": "Using_the_Veracode_SCA_Command_Line_Agent"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/SCA/setting_up_agent_based_scans/desktop/"
+  },
+  "next": {
+    "title": "install_sca_cli_agent",
+    "permalink": "/docs/SCA/setting_up_agent_based_scans/desktop/cli/install_sca_cli_agent"
+  }
+}

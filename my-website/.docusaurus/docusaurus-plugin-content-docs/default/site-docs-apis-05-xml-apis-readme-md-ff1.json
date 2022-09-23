@@ -1,0 +1,27 @@
+{
+  "unversionedId": "apis/xml_apis/README",
+  "id": "apis/xml_apis/README",
+  "title": "README",
+  "description": "Veracode provides both XML and REST APIs for automating application security testing tasks. The XML APIs are also available as wrappers. Veracode strongly recommends that you use the REST APIs. For new integrations, always use the REST APIs.",
+  "source": "@site/docs/apis/05_xml_apis/README.md",
+  "sourceDirName": "apis/05_xml_apis",
+  "slug": "/apis/xml_apis/",
+  "permalink": "/docs/apis/xml_apis/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/05_xml_apis/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "XML APIs",
+    "ft:prettyUrl": "c_api_main"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "summary_report_api_generate",
+    "permalink": "/docs/apis/rest_apis/summary_report_rest_api/summary_report_api_generate"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/apis/xml_apis/upload_xml_apis/"
+  }
+}

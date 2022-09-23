@@ -1,0 +1,28 @@
+{
+  "unversionedId": "results_reports/review_static_flaw_viewer/reviewing_module_selection",
+  "id": "results_reports/review_static_flaw_viewer/reviewing_module_selection",
+  "title": "reviewing_module_selection",
+  "description": "If you have scanned an application before, you can view the differences between the files you uploaded last time, and the files you uploaded this time. This view allows you to verify you are reviewing the same files as the previous upload. For the most consistent results, Veracode recommends that you scan the same files between scans.",
+  "source": "@site/docs/results_reports/04_review_static_flaw_viewer/01_reviewing_module_selection.md",
+  "sourceDirName": "results_reports/04_review_static_flaw_viewer",
+  "slug": "/results_reports/review_static_flaw_viewer/reviewing_module_selection",
+  "permalink": "/docs/results_reports/review_static_flaw_viewer/reviewing_module_selection",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/04_review_static_flaw_viewer/01_reviewing_module_selection.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Reviewing the Module Selection",
+    "ft:prettyUrl": "Reviewing_the_Module_Selection"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/results_reports/review_static_flaw_viewer/"
+  },
+  "next": {
+    "title": "view_static_results_application",
+    "permalink": "/docs/results_reports/review_static_flaw_viewer/view_static_results_application"
+  }
+}

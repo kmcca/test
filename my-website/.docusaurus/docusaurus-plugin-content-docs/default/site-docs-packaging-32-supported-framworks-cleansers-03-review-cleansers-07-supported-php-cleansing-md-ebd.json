@@ -1,0 +1,28 @@
+{
+  "unversionedId": "packaging/supported_framworks_cleansers/review_cleansers/supported_php_cleansing",
+  "id": "packaging/supported_framworks_cleansers/review_cleansers/supported_php_cleansing",
+  "title": "supported_php_cleansing",
+  "description": "|Function|Flaw Class|",
+  "source": "@site/docs/packaging/32_supported_framworks_cleansers/03_review_cleansers/07_supported_php_cleansing.md",
+  "sourceDirName": "packaging/32_supported_framworks_cleansers/03_review_cleansers",
+  "slug": "/packaging/supported_framworks_cleansers/review_cleansers/supported_php_cleansing",
+  "permalink": "/docs/packaging/supported_framworks_cleansers/review_cleansers/supported_php_cleansing",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/packaging/32_supported_framworks_cleansers/03_review_cleansers/07_supported_php_cleansing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "ft:title": "Supported PHP Cleansing Functions",
+    "ft:prettyUrl": "Supported_PHP_Cleansing_Functions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "supported_perl_cleansing",
+    "permalink": "/docs/packaging/supported_framworks_cleansers/review_cleansers/supported_perl_cleansing"
+  },
+  "next": {
+    "title": "supported_ruby_cleansing",
+    "permalink": "/docs/packaging/supported_framworks_cleansers/review_cleansers/supported_ruby_cleansing"
+  }
+}

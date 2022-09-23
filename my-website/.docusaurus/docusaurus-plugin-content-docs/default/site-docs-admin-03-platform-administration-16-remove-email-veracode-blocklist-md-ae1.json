@@ -1,0 +1,28 @@
+{
+  "unversionedId": "admin/platform_administration/remove_email_veracode_blocklist",
+  "id": "admin/platform_administration/remove_email_veracode_blocklist",
+  "title": "remove_email_veracode_blocklist",
+  "description": "Veracode sends notifications to your email address for policy events and scan status updates relevant to your role and team membership. If three consecutive attempts to deliver these emails to you fail, Veracode blocklists your email address. If you want to continue receiving these emails from Veracode, you can remove your address from the blocklist.",
+  "source": "@site/docs/admin/03_platform_administration/16_remove_email_veracode_blocklist.md",
+  "sourceDirName": "admin/03_platform_administration",
+  "slug": "/admin/platform_administration/remove_email_veracode_blocklist",
+  "permalink": "/docs/admin/platform_administration/remove_email_veracode_blocklist",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/admin/03_platform_administration/16_remove_email_veracode_blocklist.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "ft:title": "Remove Your Email Address from the Veracode Blocklist",
+    "ft:prettyUrl": "Remove_Your_Email_Address_from_the_Veracode_Blocklist"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "turn_off_optional_notifications",
+    "permalink": "/docs/admin/platform_administration/turn_off_optional_notifications"
+  },
+  "next": {
+    "title": "access_license_consumption_reports",
+    "permalink": "/docs/admin/platform_administration/access_license_consumption_reports"
+  }
+}

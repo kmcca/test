@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/api_wrappers/wrappers_composite_actions/switchtosaml",
+  "id": "apis/api_wrappers/wrappers_composite_actions/switchtosaml",
+  "title": "switchtosaml",
+  "description": "The switchtosaml composite action calls getuserlist.do. It searches users on the list whose issamluser parameter is not set to true and whose loginaccounttype parameter is not api. The action then changes the issamluser parameter to true for those users. The parameter customid or username is required.",
+  "source": "@site/docs/apis/06_api_wrappers/06_wrappers_composite_actions/05_switchtosaml.md",
+  "sourceDirName": "apis/06_api_wrappers/06_wrappers_composite_actions",
+  "slug": "/apis/api_wrappers/wrappers_composite_actions/switchtosaml",
+  "permalink": "/docs/apis/api_wrappers/wrappers_composite_actions/switchtosaml",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/06_api_wrappers/06_wrappers_composite_actions/05_switchtosaml.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "switchtosaml",
+    "ft:prettyUrl": "r_switchtosaml"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "passfail",
+    "permalink": "/docs/apis/api_wrappers/wrappers_composite_actions/passfail"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/apis/api_wrappers/use_wrappers_library/"
+  }
+}

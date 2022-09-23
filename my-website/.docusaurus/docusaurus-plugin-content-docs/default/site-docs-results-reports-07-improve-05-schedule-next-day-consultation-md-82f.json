@@ -1,0 +1,28 @@
+{
+  "unversionedId": "results_reports/improve/schedule_next_day_consultation",
+  "id": "results_reports/improve/schedule_next_day_consultation",
+  "title": "schedule_next_day_consultation",
+  "description": "You can schedule a consultation for the following day if you have a next-day consultation subscription. A consultation call with Veracode can help answer specific questions you have about your scan results, help you understand the significance of the findings, and provide guidance on remediation and mitigations.",
+  "source": "@site/docs/results_reports/07_improve/05_schedule_next_day_consultation.md",
+  "sourceDirName": "results_reports/07_improve",
+  "slug": "/results_reports/improve/schedule_next_day_consultation",
+  "permalink": "/docs/results_reports/improve/schedule_next_day_consultation",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/07_improve/05_schedule_next_day_consultation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "Schedule a Next-Day Consultation",
+    "ft:prettyUrl": "t_next_day_consultation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "schedule_consultation",
+    "permalink": "/docs/results_reports/improve/schedule_consultation"
+  },
+  "next": {
+    "title": "searching_for_specific_flaw",
+    "permalink": "/docs/results_reports/improve/searching_for_specific_flaw"
+  }
+}

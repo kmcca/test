@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dynamic_analysis/getstarted_da_web/run_authenticated_da_scan_web",
+  "id": "dynamic_analysis/getstarted_da_web/run_authenticated_da_scan_web",
+  "title": "run_authenticated_da_scan_web",
+  "description": "You can use the basic steps in this use case to perform an authenticated Dynamic Analysis of a single URL. When running an authenticated analysis, you provide login credentials for access to the target URLs.",
+  "source": "@site/docs/dynamic_analysis/01_getstarted_da_web/10_run_authenticated_da_scan_web.md",
+  "sourceDirName": "dynamic_analysis/01_getstarted_da_web",
+  "slug": "/dynamic_analysis/getstarted_da_web/run_authenticated_da_scan_web",
+  "permalink": "/docs/dynamic_analysis/getstarted_da_web/run_authenticated_da_scan_web",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dynamic_analysis/01_getstarted_da_web/10_run_authenticated_da_scan_web.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "ft:title": "Run an Authenticated Dynamic Analysis of a Web Application",
+    "ft:prettyUrl": "c_was_use_case2"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "video_run_unauthenticated_da_scan_web",
+    "permalink": "/docs/dynamic_analysis/getstarted_da_web/video_run_unauthenticated_da_scan_web"
+  },
+  "next": {
+    "title": "configure_da_ism_scan_web",
+    "permalink": "/docs/dynamic_analysis/getstarted_da_web/configure_da_ism_scan_web"
+  }
+}

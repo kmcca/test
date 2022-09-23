@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ides/static_for_visual_studio_legacy/configure_static_vs_legacy/msbuild_paths_static_vs_legacy/README",
+  "id": "ides/static_for_visual_studio_legacy/configure_static_vs_legacy/msbuild_paths_static_vs_legacy/README",
+  "title": "README",
+  "description": "This section lists the default MSBuild paths for Visual Studio and is intended for informational purposes only.",
+  "source": "@site/docs/ides/06_static_for_visual_studio_legacy/04_configure_static_vs_legacy/03_msbuild_paths_static_vs_legacy/README.md",
+  "sourceDirName": "ides/06_static_for_visual_studio_legacy/04_configure_static_vs_legacy/03_msbuild_paths_static_vs_legacy",
+  "slug": "/ides/static_for_visual_studio_legacy/configure_static_vs_legacy/msbuild_paths_static_vs_legacy/",
+  "permalink": "/docs/ides/static_for_visual_studio_legacy/configure_static_vs_legacy/msbuild_paths_static_vs_legacy/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/06_static_for_visual_studio_legacy/04_configure_static_vs_legacy/03_msbuild_paths_static_vs_legacy/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Using Standard MSBuild Paths with Visual Studio",
+    "ft:prettyUrl": "c_msbuild_paths"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "configure_precomp_static_vs_legacy",
+    "permalink": "/docs/ides/static_for_visual_studio_legacy/configure_static_vs_legacy/configure_precomp_static_vs_legacy"
+  },
+  "next": {
+    "title": "msbuild_paths_vs2019_legacy",
+    "permalink": "/docs/ides/static_for_visual_studio_legacy/configure_static_vs_legacy/msbuild_paths_static_vs_legacy/msbuild_paths_vs2019_legacy"
+  }
+}

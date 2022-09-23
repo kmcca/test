@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ticketing/jira_integration/install_jira_integration/jira_remove_duplicate_issues",
+  "id": "ticketing/jira_integration/install_jira_integration/jira_remove_duplicate_issues",
+  "title": "jira_remove_duplicate_issues",
+  "description": "If you are upgrading from a version of the Veracode Integration for Jira that is earlier than 3.5.0 and notice duplicate Jira issues during the upgrade, use this procedure to remove duplicate issues.",
+  "source": "@site/docs/ticketing/04_jira_integration/02_install_jira_integration/03_jira_remove_duplicate_issues.md",
+  "sourceDirName": "ticketing/04_jira_integration/02_install_jira_integration",
+  "slug": "/ticketing/jira_integration/install_jira_integration/jira_remove_duplicate_issues",
+  "permalink": "/docs/ticketing/jira_integration/install_jira_integration/jira_remove_duplicate_issues",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ticketing/04_jira_integration/02_install_jira_integration/03_jira_remove_duplicate_issues.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Remove Duplicate Jira Issues",
+    "ft:prettyUrl": "t_jira_remove_dups"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jira_upgrade_old_version",
+    "permalink": "/docs/ticketing/jira_integration/install_jira_integration/jira_upgrade_old_version"
+  },
+  "next": {
+    "title": "jira_uninstall",
+    "permalink": "/docs/ticketing/jira_integration/install_jira_integration/jira_uninstall"
+  }
+}

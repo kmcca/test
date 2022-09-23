@@ -1,0 +1,28 @@
+{
+  "unversionedId": "thirdparty/enterprise/request_cots_accept",
+  "id": "thirdparty/enterprise/request_cots_accept",
+  "title": "request_cots_accept",
+  "description": "If a Veracode customer requests an assessment of your code through the third-party scan process, you must first review the request. Ensure that you can provide the code requested before uploading code for static analysis and providing information for Dynamic Analysis.",
+  "source": "@site/docs/thirdparty/02_enterprise/03_request_cots_accept.md",
+  "sourceDirName": "thirdparty/02_enterprise",
+  "slug": "/thirdparty/enterprise/request_cots_accept",
+  "permalink": "/docs/thirdparty/enterprise/request_cots_accept",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/thirdparty/02_enterprise/03_request_cots_accept.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Reviewing and Accepting a Third-Party Scan Request",
+    "ft:prettyUrl": "request_cots_accept"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "c_COTS_actions",
+    "permalink": "/docs/thirdparty/enterprise/c_COTS_actions"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/ticketing/"
+  }
+}

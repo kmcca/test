@@ -1,0 +1,33 @@
+{
+  "unversionedId": "apisec/apisec_reviewing_results/README",
+  "id": "apisec/apisec_reviewing_results/README",
+  "title": "README",
+  "description": "",
+  "source": "@site/docs/apisec/05_apisec_reviewing_results/README.md",
+  "sourceDirName": "apisec/05_apisec_reviewing_results",
+  "slug": "/apisec/apisec_reviewing_results/",
+  "permalink": "/docs/apisec/apisec_reviewing_results/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apisec/05_apisec_reviewing_results/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Mike Howes"
+    ],
+    "ft:originID": "apisec_reviewing_results",
+    "ft:lang": "en-US",
+    "ft:title": "Reviewing API Scanning Results",
+    "ft:prettyUrl": "Reviewing_API_Scanning_Results",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "apisec_config",
+    "permalink": "/docs/apisec/apisec_config"
+  },
+  "next": {
+    "title": "apisec_prescan_results",
+    "permalink": "/docs/apisec/apisec_reviewing_results/apisec_prescan_results"
+  }
+}

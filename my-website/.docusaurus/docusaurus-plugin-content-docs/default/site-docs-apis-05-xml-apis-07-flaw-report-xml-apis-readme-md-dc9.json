@@ -1,0 +1,27 @@
+{
+  "unversionedId": "apis/xml_apis/flaw_report_xml_apis/README",
+  "id": "apis/xml_apis/flaw_report_xml_apis/README",
+  "title": "README",
+  "description": "The Flaw Report API has two calls that enable you to generate and download a summarized history of all findings for one, several, or all applications.",
+  "source": "@site/docs/apis/05_xml_apis/07_flaw_report_xml_apis/README.md",
+  "sourceDirName": "apis/05_xml_apis/07_flaw_report_xml_apis",
+  "slug": "/apis/xml_apis/flaw_report_xml_apis/",
+  "permalink": "/docs/apis/xml_apis/flaw_report_xml_apis/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/05_xml_apis/07_flaw_report_xml_apis/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Flaw Report XML APIs",
+    "ft:prettyUrl": "c_about_flawreport"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/apis/xml_apis/dynamic_xml_apis/"
+  },
+  "next": {
+    "title": "flaw_report_xml_apis_quickref",
+    "permalink": "/docs/apis/xml_apis/flaw_report_xml_apis/flaw_report_xml_apis_quickref"
+  }
+}

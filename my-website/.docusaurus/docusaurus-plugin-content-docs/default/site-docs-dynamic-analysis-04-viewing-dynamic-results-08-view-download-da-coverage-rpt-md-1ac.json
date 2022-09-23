@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dynamic_analysis/viewing_dynamic_results/view_download_da_coverage_rpt",
+  "id": "dynamic_analysis/viewing_dynamic_results/view_download_da_coverage_rpt",
+  "title": "view_download_da_coverage_rpt",
+  "description": "You can access the Dynamic Analysis Coverage Report from the Veracode Platform. The report provides details about the attack and non-attack traffic that Dynamic Analysis detected during scanning.",
+  "source": "@site/docs/dynamic_analysis/04_viewing_dynamic_results/08_view_download_da_coverage_rpt.md",
+  "sourceDirName": "dynamic_analysis/04_viewing_dynamic_results",
+  "slug": "/dynamic_analysis/viewing_dynamic_results/view_download_da_coverage_rpt",
+  "permalink": "/docs/dynamic_analysis/viewing_dynamic_results/view_download_da_coverage_rpt",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dynamic_analysis/04_viewing_dynamic_results/08_view_download_da_coverage_rpt.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "ft:title": "View and Download the Dynamic Analysis Coverage Report",
+    "ft:prettyUrl": "t_view_DA_linksreport"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "autolink_da_to_apps",
+    "permalink": "/docs/dynamic_analysis/viewing_dynamic_results/autolink_da_to_apps"
+  },
+  "next": {
+    "title": "understand_da_coverage_report",
+    "permalink": "/docs/dynamic_analysis/viewing_dynamic_results/understand_da_coverage_report"
+  }
+}

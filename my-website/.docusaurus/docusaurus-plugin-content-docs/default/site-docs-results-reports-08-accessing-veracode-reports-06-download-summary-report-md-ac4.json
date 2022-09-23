@@ -1,0 +1,28 @@
+{
+  "unversionedId": "results_reports/accessing_veracode_reports/download_summary_report",
+  "id": "results_reports/accessing_veracode_reports/download_summary_report",
+  "title": "download_summary_report",
+  "description": "You can download a Summary Report to share summary information about the security quality of your application without sharing the details of the discovered findings.",
+  "source": "@site/docs/results_reports/08_accessing_veracode_reports/06_download_summary_report.md",
+  "sourceDirName": "results_reports/08_accessing_veracode_reports",
+  "slug": "/results_reports/accessing_veracode_reports/download_summary_report",
+  "permalink": "/docs/results_reports/accessing_veracode_reports/download_summary_report",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/08_accessing_veracode_reports/06_download_summary_report.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "ft:title": "Download a Summary Report",
+    "ft:prettyUrl": "t_download_summary_report"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "download_detailed_veracode_report",
+    "permalink": "/docs/results_reports/accessing_veracode_reports/download_detailed_veracode_report"
+  },
+  "next": {
+    "title": "download_pci_report",
+    "permalink": "/docs/results_reports/accessing_veracode_reports/download_pci_report"
+  }
+}

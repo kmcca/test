@@ -1,0 +1,28 @@
+{
+  "unversionedId": "results_reports/improve/improve_mitigation/propose_mitigating_factors",
+  "id": "results_reports/improve/improve_mitigation/propose_mitigating_factors",
+  "title": "propose_mitigating_factors",
+  "description": "Before You Begin",
+  "source": "@site/docs/results_reports/07_improve/01_improve_mitigation/04_propose_mitigating_factors.md",
+  "sourceDirName": "results_reports/07_improve/01_improve_mitigation",
+  "slug": "/results_reports/improve/improve_mitigation/propose_mitigating_factors",
+  "permalink": "/docs/results_reports/improve/improve_mitigation/propose_mitigating_factors",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/07_improve/01_improve_mitigation/04_propose_mitigating_factors.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "Propose Mitigating Factors for a Flaw",
+    "ft:prettyUrl": "Propose_Mitigating_Factors_for_a_Flaw"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reviewing_user_feedback_on_flaw",
+    "permalink": "/docs/results_reports/improve/improve_mitigation/reviewing_user_feedback_on_flaw"
+  },
+  "next": {
+    "title": "accepting_rejecting_mitigations",
+    "permalink": "/docs/results_reports/improve/improve_mitigation/accepting_rejecting_mitigations"
+  }
+}

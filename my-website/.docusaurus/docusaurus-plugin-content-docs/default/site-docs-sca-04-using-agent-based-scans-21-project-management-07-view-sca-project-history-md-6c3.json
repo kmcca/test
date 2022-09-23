@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/project_management/view_sca_project_history",
+  "id": "SCA/using_agent_based_scans/project_management/view_sca_project_history",
+  "title": "view_sca_project_history",
+  "description": "Veracode Software Composition Analysis provides a history of scan results for your projects that allows you to review how your issues have changed since you created the project.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/21_project_management/07_view_sca_project_history.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/21_project_management",
+  "slug": "/SCA/using_agent_based_scans/project_management/view_sca_project_history",
+  "permalink": "/docs/SCA/using_agent_based_scans/project_management/view_sca_project_history",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/21_project_management/07_view_sca_project_history.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "ft:title": "View a Veracode SCA Project History",
+    "ft:prettyUrl": "View_a_Veracode_SCA_Project_History"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "add_webhook_project",
+    "permalink": "/docs/SCA/using_agent_based_scans/project_management/add_webhook_project"
+  },
+  "next": {
+    "title": "delete_sca_project",
+    "permalink": "/docs/SCA/using_agent_based_scans/project_management/delete_sca_project"
+  }
+}

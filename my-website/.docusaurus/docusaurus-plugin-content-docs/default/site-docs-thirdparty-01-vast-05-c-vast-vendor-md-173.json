@@ -1,0 +1,28 @@
+{
+  "unversionedId": "thirdparty/vast/c_VAST_vendor",
+  "id": "thirdparty/vast/c_VAST_vendor",
+  "title": "c_VAST_vendor",
+  "description": "As a third-party software vendor, your enterprise customer has asked you to submit your applications for scanning with Veracode. Log in to the Veracode Platform, using the credentials Veracode sent you in an email.",
+  "source": "@site/docs/thirdparty/01_vast/05_c_VAST_vendor.md",
+  "sourceDirName": "thirdparty/01_vast",
+  "slug": "/thirdparty/vast/c_VAST_vendor",
+  "permalink": "/docs/thirdparty/vast/c_VAST_vendor",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/thirdparty/01_vast/05_c_VAST_vendor.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "Using Veracode as a Vendor",
+    "ft:prettyUrl": "c_VAST_vendor"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "c_VAST_profile",
+    "permalink": "/docs/thirdparty/vast/c_VAST_profile"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/thirdparty/enterprise/"
+  }
+}

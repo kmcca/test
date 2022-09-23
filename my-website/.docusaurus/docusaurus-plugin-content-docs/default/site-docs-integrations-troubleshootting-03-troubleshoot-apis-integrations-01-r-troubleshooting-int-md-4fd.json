@@ -1,0 +1,28 @@
+{
+  "unversionedId": "integrations_troubleshootting/troubleshoot_apis_integrations/r_troubleshooting_int",
+  "id": "integrations_troubleshootting/troubleshoot_apis_integrations/r_troubleshooting_int",
+  "title": "r_troubleshooting_int",
+  "description": "This section helps you remedy common problems and understand how better to use Veracode integration authentication.",
+  "source": "@site/docs/integrations_troubleshootting/03_troubleshoot_apis_integrations/01_r_troubleshooting_int.md",
+  "sourceDirName": "integrations_troubleshootting/03_troubleshoot_apis_integrations",
+  "slug": "/integrations_troubleshootting/troubleshoot_apis_integrations/r_troubleshooting_int",
+  "permalink": "/docs/integrations_troubleshootting/troubleshoot_apis_integrations/r_troubleshooting_int",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/integrations_troubleshootting/03_troubleshoot_apis_integrations/01_r_troubleshooting_int.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Troubleshooting Veracode Integration Authentication",
+    "ft:prettyUrl": "Troubleshooting_Veracode_Integration_Authentication"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/integrations_troubleshootting/troubleshoot_apis_integrations/"
+  },
+  "next": {
+    "title": "r_troubleshooting_apis",
+    "permalink": "/docs/integrations_troubleshootting/troubleshoot_apis_integrations/r_troubleshooting_apis"
+  }
+}

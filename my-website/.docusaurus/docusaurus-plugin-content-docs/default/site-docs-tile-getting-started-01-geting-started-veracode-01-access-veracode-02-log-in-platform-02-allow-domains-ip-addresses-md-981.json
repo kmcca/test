@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tile_getting_started/geting_started_veracode/access_veracode/log_in_platform/allow_domains_ip_addresses",
+  "id": "tile_getting_started/geting_started_veracode/access_veracode/log_in_platform/allow_domains_ip_addresses",
+  "title": "allow_domains_ip_addresses",
+  "description": "If you block internet addresses in your organization, Veracode recommends that you allow Veracode domains and, in some limited cases, IP addresses to ensure there is no disruption in your ability to access Veracode features and products. If you have questions, contact support@veracode.com.",
+  "source": "@site/docs/tile_getting_started/01_geting_started_veracode/01_access_veracode/02_log_in_platform/02_allow_domains_ip_addresses.md",
+  "sourceDirName": "tile_getting_started/01_geting_started_veracode/01_access_veracode/02_log_in_platform",
+  "slug": "/tile_getting_started/geting_started_veracode/access_veracode/log_in_platform/allow_domains_ip_addresses",
+  "permalink": "/docs/tile_getting_started/geting_started_veracode/access_veracode/log_in_platform/allow_domains_ip_addresses",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tile_getting_started/01_geting_started_veracode/01_access_veracode/02_log_in_platform/02_allow_domains_ip_addresses.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Allowing Veracode Domains and IP Addresses",
+    "ft:prettyUrl": "IP_addresses"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "region_domains_services",
+    "permalink": "/docs/tile_getting_started/geting_started_veracode/access_veracode/log_in_platform/region_domains_services"
+  },
+  "next": {
+    "title": "configure_mfa",
+    "permalink": "/docs/tile_getting_started/geting_started_veracode/access_veracode/log_in_platform/configure_mfa"
+  }
+}

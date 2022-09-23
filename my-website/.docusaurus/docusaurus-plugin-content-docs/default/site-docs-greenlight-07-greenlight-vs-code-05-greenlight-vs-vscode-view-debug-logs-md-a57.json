@@ -1,0 +1,28 @@
+{
+  "unversionedId": "greenlight/greenlight_vs_code/greenlight_vs_vscode_view_debug_logs",
+  "id": "greenlight/greenlight_vs_code/greenlight_vs_vscode_view_debug_logs",
+  "title": "greenlight_vs_vscode_view_debug_logs",
+  "description": "You can view debug logs to troubleshoot issues on your own or provide them to Veracode Technical Support.",
+  "source": "@site/docs/greenlight/07_greenlight_vs_code/05_greenlight_vs_vscode_view_debug_logs.md",
+  "sourceDirName": "greenlight/07_greenlight_vs_code",
+  "slug": "/greenlight/greenlight_vs_code/greenlight_vs_vscode_view_debug_logs",
+  "permalink": "/docs/greenlight/greenlight_vs_code/greenlight_vs_vscode_view_debug_logs",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/greenlight/07_greenlight_vs_code/05_greenlight_vs_vscode_view_debug_logs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "View Debug Logs in Veracode Greenlight for Visual Studio and Veracode for VS Code",
+    "ft:prettyUrl": "View_Debug_Logs_in_Veracode_Greenlight_for_Visual_Studio_and_Veracode_for_VS_Code"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "veracode_vs_code_commands",
+    "permalink": "/docs/greenlight/greenlight_vs_code/veracode_vs_code_commands"
+  },
+  "next": {
+    "title": "greenlight_scan_usage_reports",
+    "permalink": "/docs/greenlight/greenlight_scan_usage_reports"
+  }
+}

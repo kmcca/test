@@ -1,0 +1,28 @@
+{
+  "unversionedId": "results_reports/improve/developing_remediation_plan",
+  "id": "results_reports/improve/developing_remediation_plan",
+  "title": "developing_remediation_plan",
+  "description": "After you review the flaws identified in a Veracode automated scan, you can use the guidance in the Triage Flaws page and the report to fix the flaws.",
+  "source": "@site/docs/results_reports/07_improve/03_developing_remediation_plan.md",
+  "sourceDirName": "results_reports/07_improve",
+  "slug": "/results_reports/improve/developing_remediation_plan",
+  "permalink": "/docs/results_reports/improve/developing_remediation_plan",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/07_improve/03_developing_remediation_plan.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Developing a Remediation Plan",
+    "ft:prettyUrl": "review_remediationplan"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "understanding_veracode_mprs",
+    "permalink": "/docs/results_reports/improve/understanding_veracode_mprs"
+  },
+  "next": {
+    "title": "schedule_consultation",
+    "permalink": "/docs/results_reports/improve/schedule_consultation"
+  }
+}

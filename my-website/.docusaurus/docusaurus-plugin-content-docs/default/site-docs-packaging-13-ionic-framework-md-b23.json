@@ -1,0 +1,28 @@
+{
+  "unversionedId": "packaging/ionic_framework",
+  "id": "packaging/ionic_framework",
+  "title": "ionic_framework",
+  "description": "Your Ionic applications must meet specific compilation requirements before you can submit them for scanning.",
+  "source": "@site/docs/packaging/13_ionic_framework.md",
+  "sourceDirName": "packaging",
+  "slug": "/packaging/ionic_framework",
+  "permalink": "/docs/packaging/ionic_framework",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/packaging/13_ionic_framework.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "ft:title": "Ionic Application Packaging",
+    "ft:prettyUrl": "compilation_ionic_framework"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "go",
+    "permalink": "/docs/packaging/go"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/packaging/ios_tvos/"
+  }
+}

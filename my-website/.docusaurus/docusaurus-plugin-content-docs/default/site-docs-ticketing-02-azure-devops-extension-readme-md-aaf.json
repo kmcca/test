@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ticketing/azure_devops_extension/README",
+  "id": "ticketing/azure_devops_extension/README",
+  "title": "README",
+  "description": "Veracode provides an extension for Azure DevOps and Team Foundation Server (TFS). You can use the extension to automatically import flaws and vulnerabilities as work items. Veracode discovers flaws during Static Analysis scans and vulnerabilities during Dynamic Analysis or Software Composition Analysis (SCA) scans.",
+  "source": "@site/docs/ticketing/02_azure_devops_extension/README.md",
+  "sourceDirName": "ticketing/02_azure_devops_extension",
+  "slug": "/ticketing/azure_devops_extension/",
+  "permalink": "/docs/ticketing/azure_devops_extension/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ticketing/02_azure_devops_extension/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Veracode Azure DevOps Extension",
+    "ft:prettyUrl": "About_the_Veracode_Azure_DevOps_Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "about_ticketing_systems",
+    "permalink": "/docs/ticketing/about_ticketing_systems"
+  },
+  "next": {
+    "title": "azure_import_flaws",
+    "permalink": "/docs/ticketing/azure_devops_extension/azure_import_flaws"
+  }
+}

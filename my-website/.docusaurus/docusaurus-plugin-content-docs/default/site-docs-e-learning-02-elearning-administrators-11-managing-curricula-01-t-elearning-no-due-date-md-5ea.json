@@ -1,0 +1,28 @@
+{
+  "unversionedId": "eLearning/elearningAdministrators/managing_curricula/t_elearning_no_due_date",
+  "id": "eLearning/elearningAdministrators/managing_curricula/t_elearning_no_due_date",
+  "title": "t_elearning_no_due_date",
+  "description": "You can create a new curriculum without specifying a due date for learners to complete the courses.",
+  "source": "@site/docs/eLearning/02_elearningAdministrators/11_managing_curricula/01_t_elearning_no_due_date.md",
+  "sourceDirName": "eLearning/02_elearningAdministrators/11_managing_curricula",
+  "slug": "/eLearning/elearningAdministrators/managing_curricula/t_elearning_no_due_date",
+  "permalink": "/docs/eLearning/elearningAdministrators/managing_curricula/t_elearning_no_due_date",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/eLearning/02_elearningAdministrators/11_managing_curricula/01_t_elearning_no_due_date.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Create an eLearning Curriculum Without a Due Date",
+    "ft:prettyUrl": "t_elearning_no_due_date"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/eLearning/elearningAdministrators/managing_curricula/"
+  },
+  "next": {
+    "title": "t_elearning_fixed_date",
+    "permalink": "/docs/eLearning/elearningAdministrators/managing_curricula/t_elearning_fixed_date"
+  }
+}

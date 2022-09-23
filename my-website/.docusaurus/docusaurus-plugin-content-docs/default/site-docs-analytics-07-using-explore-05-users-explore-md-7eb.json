@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Analytics/using_explore/users_explore",
+  "id": "Analytics/using_explore/users_explore",
+  "title": "users_explore",
+  "description": "The following definitions describe the dimensions and measures used on the users explore in Veracode Analytics.",
+  "source": "@site/docs/Analytics/07_using_explore/05_users_explore.md",
+  "sourceDirName": "Analytics/07_using_explore",
+  "slug": "/Analytics/using_explore/users_explore",
+  "permalink": "/docs/Analytics/using_explore/users_explore",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Analytics/07_using_explore/05_users_explore.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "Users Explore Data Dictionary",
+    "ft:prettyUrl": "r_users_explore"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "findings_explore",
+    "permalink": "/docs/Analytics/using_explore/findings_explore"
+  },
+  "next": {
+    "title": "sca_agent_based_scans",
+    "permalink": "/docs/Analytics/using_explore/sca_agent_based_scans"
+  }
+}

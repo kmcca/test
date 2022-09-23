@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dynamic_analysis/configuring_dast_web_scans/dynamic_web_provide_crawl_script",
+  "id": "dynamic_analysis/configuring_dast_web_scans/dynamic_web_provide_crawl_script",
+  "title": "dynamic_web_provide_crawl_script",
+  "description": "To ensure a comprehensive scan of your URL, you can provide Veracode with a crawl script that contains the necessary input for the Dynamic Analysis scan engine to be able to access all areas of the application.",
+  "source": "@site/docs/dynamic_analysis/02_configuring_dast_web_scans/06_dynamic_web_provide_crawl_script.md",
+  "sourceDirName": "dynamic_analysis/02_configuring_dast_web_scans",
+  "slug": "/dynamic_analysis/configuring_dast_web_scans/dynamic_web_provide_crawl_script",
+  "permalink": "/docs/dynamic_analysis/configuring_dast_web_scans/dynamic_web_provide_crawl_script",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dynamic_analysis/02_configuring_dast_web_scans/06_dynamic_web_provide_crawl_script.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "ft:title": "Provide a Crawl Script for Dynamic Analysis",
+    "ft:prettyUrl": "t_was_crawl_script"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "video_dynamic_web_configure_login",
+    "permalink": "/docs/dynamic_analysis/configuring_dast_web_scans/video_dynamic_web_configure_login"
+  },
+  "next": {
+    "title": "dynamic_selenium_commands",
+    "permalink": "/docs/dynamic_analysis/configuring_dast_web_scans/dynamic_selenium_commands"
+  }
+}

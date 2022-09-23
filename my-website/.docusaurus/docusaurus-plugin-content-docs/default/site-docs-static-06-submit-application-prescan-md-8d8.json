@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Static/submit_application_prescan",
+  "id": "Static/submit_application_prescan",
+  "title": "submit_application_prescan",
+  "description": "Veracode performs a prescan verification after uploading your application for static analysis. The prescan verification performs an initial analysis of the application to verify you have packaged the application correctly.",
+  "source": "@site/docs/Static/06_submit_application_prescan.md",
+  "sourceDirName": "Static",
+  "slug": "/Static/submit_application_prescan",
+  "permalink": "/docs/Static/submit_application_prescan",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Static/06_submit_application_prescan.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "ft:title": "Understanding Prescan Verification",
+    "ft:prettyUrl": "Understanding_Prescan_Verification"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "upload_packaged",
+    "permalink": "/docs/Static/upload_packaged"
+  },
+  "next": {
+    "title": "toplevel_modules",
+    "permalink": "/docs/Static/toplevel_modules"
+  }
+}

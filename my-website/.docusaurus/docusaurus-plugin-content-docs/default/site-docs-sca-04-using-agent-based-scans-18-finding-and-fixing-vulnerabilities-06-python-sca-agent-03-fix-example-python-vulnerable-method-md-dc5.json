@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/python_sca_agent/fix_example_python_vulnerable_method",
+  "id": "SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/python_sca_agent/fix_example_python_vulnerable_method",
+  "title": "fix_example_python_vulnerable_method",
+  "description": "These example steps provide a fix for a BERserk attack vulnerable method in rsa, which is included in the example-python repository.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/06_python_sca_agent/03_fix_example_python_vulnerable_method.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/06_python_sca_agent",
+  "slug": "/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/python_sca_agent/fix_example_python_vulnerable_method",
+  "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/python_sca_agent/fix_example_python_vulnerable_method",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/06_python_sca_agent/03_fix_example_python_vulnerable_method.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Fix Example Vulnerable Method for Python",
+    "ft:prettyUrl": "Fix_Example_Vulnerable_Method_for_Python"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fix_example_python_transitive",
+    "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/python_sca_agent/fix_example_python_transitive"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/ruby_sca_agent/"
+  }
+}

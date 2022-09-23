@@ -1,0 +1,33 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/project_management/README",
+  "id": "SCA/using_agent_based_scans/project_management/README",
+  "title": "README",
+  "description": "",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/21_project_management/README.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/21_project_management",
+  "slug": "/SCA/using_agent_based_scans/project_management/",
+  "permalink": "/docs/SCA/using_agent_based_scans/project_management/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/21_project_management/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Kevin McCarthy"
+    ],
+    "ft:originID": "yWEmzLVoSzK6HlP~GSch2w/6MeIGFKKFCWRwnRCkeYTxQ",
+    "ft:lang": "en-US",
+    "ft:title": "Project Management",
+    "ft:prettyUrl": "Project_Management",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "download_agent_sca_security_report",
+    "permalink": "/docs/SCA/using_agent_based_scans/libraries/download_agent_sca_security_report"
+  },
+  "next": {
+    "title": "understanding_default_branches_agent_projects",
+    "permalink": "/docs/SCA/using_agent_based_scans/project_management/understanding_default_branches_agent_projects"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "apis/api_wrappers/README",
+  "id": "apis/api_wrappers/README",
+  "title": "README",
+  "description": "Veracode provides API wrappers for Java and C# to simplify the integration of the XML APIs.",
+  "source": "@site/docs/apis/06_api_wrappers/README.md",
+  "sourceDirName": "apis/06_api_wrappers",
+  "slug": "/apis/api_wrappers/",
+  "permalink": "/docs/apis/api_wrappers/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/06_api_wrappers/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "API Wrappers",
+    "ft:prettyUrl": "c_about_wrappers"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "getsharedreportlist_do",
+    "permalink": "/docs/apis/xml_apis/vast_xml_apis/getsharedreportlist_do"
+  },
+  "next": {
+    "title": "install_csharp_wrapper",
+    "permalink": "/docs/apis/api_wrappers/install_csharp_wrapper"
+  }
+}

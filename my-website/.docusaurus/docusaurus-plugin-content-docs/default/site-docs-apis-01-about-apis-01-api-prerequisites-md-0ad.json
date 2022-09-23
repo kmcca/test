@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/about_apis/api_prerequisites",
+  "id": "apis/about_apis/api_prerequisites",
+  "title": "api_prerequisites",
+  "description": "The XML APIs, REST APIs, and API wrappers have specific prerequisites. but there are general guidelines that apply to all APIs.",
+  "source": "@site/docs/apis/01_about_apis/01_api_prerequisites.md",
+  "sourceDirName": "apis/01_about_apis",
+  "slug": "/apis/about_apis/api_prerequisites",
+  "permalink": "/docs/apis/about_apis/api_prerequisites",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/01_about_apis/01_api_prerequisites.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "General Guidelines for Veracode APIs",
+    "ft:prettyUrl": "c_API_usage_guidelines"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/apis/about_apis/"
+  },
+  "next": {
+    "title": "about_api_access",
+    "permalink": "/docs/apis/about_apis/about_api_access"
+  }
+}

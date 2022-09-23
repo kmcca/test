@@ -1,0 +1,28 @@
+{
+  "unversionedId": "admin/managing_users_teams/managing_teams/video_create_manage_users_teams",
+  "id": "admin/managing_users_teams/managing_teams/video_create_manage_users_teams",
+  "title": "video_create_manage_users_teams",
+  "description": "Watch this short video to learn how to create and manage users and teams in the Veracode Platform.",
+  "source": "@site/docs/admin/02_managing_users_teams/04_managing_teams/04_video_create_manage_users_teams.md",
+  "sourceDirName": "admin/02_managing_users_teams/04_managing_teams",
+  "slug": "/admin/managing_users_teams/managing_teams/video_create_manage_users_teams",
+  "permalink": "/docs/admin/managing_users_teams/managing_teams/video_create_manage_users_teams",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/admin/02_managing_users_teams/04_managing_teams/04_video_create_manage_users_teams.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "Video: Create and Manage Users and Teams in the Veracode Platform",
+    "ft:prettyUrl": "c_video_admin_users_and_teams"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "delete_team_platform",
+    "permalink": "/docs/admin/managing_users_teams/managing_teams/delete_team_platform"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/admin/platform_administration/"
+  }
+}

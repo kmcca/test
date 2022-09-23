@@ -1,0 +1,28 @@
+{
+  "unversionedId": "grc/r_archer_deprec",
+  "id": "grc/r_archer_deprec",
+  "title": "r_archer_deprec",
+  "description": "Veracode has deprecated the archer.do call. Although this call is functional, Veracode recommends that you use the asynchronous Archer API calls to avoid lengthy wait times and timeouts when retrieving large data sets.",
+  "source": "@site/docs/grc/07_r_archer_deprec.md",
+  "sourceDirName": "grc",
+  "slug": "/grc/r_archer_deprec",
+  "permalink": "/docs/grc/r_archer_deprec",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/grc/07_r_archer_deprec.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "ft:title": "archer.do",
+    "ft:prettyUrl": "r_archer_deprec"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "r_downloadarcher",
+    "permalink": "/docs/grc/r_downloadarcher"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/greenlight/"
+  }
+}

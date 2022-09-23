@@ -1,0 +1,33 @@
+{
+  "unversionedId": "SCA/getting_started_sca/README",
+  "id": "SCA/getting_started_sca/README",
+  "title": "README",
+  "description": "Veracode Software Composition Analysis (SCA) helps you build an inventory of your third-party components to identify vulnerabilities, including open-source and commercial code.",
+  "source": "@site/docs/SCA/01_getting_started_sca/README.md",
+  "sourceDirName": "SCA/01_getting_started_sca",
+  "slug": "/SCA/getting_started_sca/",
+  "permalink": "/docs/SCA/getting_started_sca/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/01_getting_started_sca/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Kevin McCarthy"
+    ],
+    "ft:originID": "c_integrated_benefits",
+    "ft:lang": "en-US",
+    "ft:title": "Getting Started with Veracode SCA",
+    "ft:prettyUrl": "c_integrated_benefits",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/SCA/"
+  },
+  "next": {
+    "title": "choose_sca_scan_type",
+    "permalink": "/docs/SCA/getting_started_sca/choose_sca_scan_type"
+  }
+}

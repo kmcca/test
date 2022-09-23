@@ -1,0 +1,28 @@
+{
+  "unversionedId": "greenlight/greenlight_visual_studio/review_results_greenlight_visual_studio/greenlight_visual_studio_ignore_flaws",
+  "id": "greenlight/greenlight_visual_studio/review_results_greenlight_visual_studio/greenlight_visual_studio_ignore_flaws",
+  "title": "greenlight_visual_studio_ignore_flaws",
+  "description": "If there are known findings in your code that continually appear in your Veracode Greenlight results, you can ignore them to temporarily remove them from the Greenlight results.",
+  "source": "@site/docs/greenlight/06_greenlight_visual_studio/03_review_results_greenlight_visual_studio/02_greenlight_visual_studio_ignore_flaws.md",
+  "sourceDirName": "greenlight/06_greenlight_visual_studio/03_review_results_greenlight_visual_studio",
+  "slug": "/greenlight/greenlight_visual_studio/review_results_greenlight_visual_studio/greenlight_visual_studio_ignore_flaws",
+  "permalink": "/docs/greenlight/greenlight_visual_studio/review_results_greenlight_visual_studio/greenlight_visual_studio_ignore_flaws",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/greenlight/06_greenlight_visual_studio/03_review_results_greenlight_visual_studio/02_greenlight_visual_studio_ignore_flaws.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Ignore Findings in Greenlight for Visual Studio Results",
+    "ft:prettyUrl": "t_ignoreflaws_greenlight_vs"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "greenlight_visual_studio_filter_results",
+    "permalink": "/docs/greenlight/greenlight_visual_studio/review_results_greenlight_visual_studio/greenlight_visual_studio_filter_results"
+  },
+  "next": {
+    "title": "greenlight_visual_studio_unignore_findings",
+    "permalink": "/docs/greenlight/greenlight_visual_studio/review_results_greenlight_visual_studio/greenlight_visual_studio_unignore_findings"
+  }
+}

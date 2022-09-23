@@ -1,0 +1,27 @@
+{
+  "unversionedId": "apis/rest_apis/dev_sandbox_rest_api/README",
+  "id": "apis/rest_apis/dev_sandbox_rest_api/README",
+  "title": "README",
+  "description": "You can use the Veracode Development Sandbox API to create, update, and delete development sandboxes.",
+  "source": "@site/docs/apis/04_rest_apis/03_dev_sandbox_rest_api/README.md",
+  "sourceDirName": "apis/04_rest_apis/03_dev_sandbox_rest_api",
+  "slug": "/apis/rest_apis/dev_sandbox_rest_api/",
+  "permalink": "/docs/apis/rest_apis/dev_sandbox_rest_api/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/04_rest_apis/03_dev_sandbox_rest_api/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Development Sandbox REST APIs",
+    "ft:prettyUrl": "c_rest_sandbox_intro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "applications_api_list_sandboxes",
+    "permalink": "/docs/apis/rest_apis/applications_rest_api/applications_api_list_sandboxes"
+  },
+  "next": {
+    "title": "sandbox_api_create",
+    "permalink": "/docs/apis/rest_apis/dev_sandbox_rest_api/sandbox_api_create"
+  }
+}

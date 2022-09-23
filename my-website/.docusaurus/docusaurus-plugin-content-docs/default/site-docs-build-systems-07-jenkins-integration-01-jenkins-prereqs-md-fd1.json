@@ -1,0 +1,28 @@
+{
+  "unversionedId": "build_systems/jenkins_integration/jenkins_prereqs",
+  "id": "build_systems/jenkins_integration/jenkins_prereqs",
+  "title": "jenkins_prereqs",
+  "description": "Before you can install and use the Veracode Jenkins Plugin, you must meet these prerequisites and have a Veracode account with the required roles.",
+  "source": "@site/docs/build_systems/07_jenkins_integration/01_jenkins_prereqs.md",
+  "sourceDirName": "build_systems/07_jenkins_integration",
+  "slug": "/build_systems/jenkins_integration/jenkins_prereqs",
+  "permalink": "/docs/build_systems/jenkins_integration/jenkins_prereqs",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/build_systems/07_jenkins_integration/01_jenkins_prereqs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Veracode Jenkins Plugin Prerequisites",
+    "ft:prettyUrl": "c_using_jenkins"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/build_systems/jenkins_integration/"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/build_systems/jenkins_integration/jenkins_installation/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ticketing/jira_integration/jira_mapping_sevs_to_priorities/README",
+  "id": "ticketing/jira_integration/jira_mapping_sevs_to_priorities/README",
+  "title": "README",
+  "description": "The Veracode Integration for Jira can map Veracode flaw severities in the Veracode Platform to your custom priorities in Jira.",
+  "source": "@site/docs/ticketing/04_jira_integration/05_jira_mapping_sevs_to_priorities/README.md",
+  "sourceDirName": "ticketing/04_jira_integration/05_jira_mapping_sevs_to_priorities",
+  "slug": "/ticketing/jira_integration/jira_mapping_sevs_to_priorities/",
+  "permalink": "/docs/ticketing/jira_integration/jira_mapping_sevs_to_priorities/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ticketing/04_jira_integration/05_jira_mapping_sevs_to_priorities/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Mapping Veracode Severities to Jira Priorities",
+    "ft:prettyUrl": "c_jira_map_sevs"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jira_mapping_fields",
+    "permalink": "/docs/ticketing/jira_integration/jira_mapping_fields/jira_mapping_fields"
+  },
+  "next": {
+    "title": "jira_map_priorities_veracode_severities",
+    "permalink": "/docs/ticketing/jira_integration/jira_mapping_sevs_to_priorities/jira_map_priorities_veracode_severities"
+  }
+}

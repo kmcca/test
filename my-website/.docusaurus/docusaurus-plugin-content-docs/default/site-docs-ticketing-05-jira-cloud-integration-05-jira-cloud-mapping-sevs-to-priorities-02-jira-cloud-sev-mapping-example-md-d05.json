@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ticketing/jira_cloud_integration/jira_cloud_mapping_sevs_to_priorities/jira_cloud_sev_mapping_example",
+  "id": "ticketing/jira_cloud_integration/jira_cloud_mapping_sevs_to_priorities/jira_cloud_sev_mapping_example",
+  "title": "jira_cloud_sev_mapping_example",
+  "description": "This section provides an example of using the Veracode Integration for Jira Cloud to map Veracode flaw severities in the Veracode Platform to priorities in Jira Cloud.",
+  "source": "@site/docs/ticketing/05_jira_cloud_integration/05_jira_cloud_mapping_sevs_to_priorities/02_jira_cloud_sev_mapping_example.md",
+  "sourceDirName": "ticketing/05_jira_cloud_integration/05_jira_cloud_mapping_sevs_to_priorities",
+  "slug": "/ticketing/jira_cloud_integration/jira_cloud_mapping_sevs_to_priorities/jira_cloud_sev_mapping_example",
+  "permalink": "/docs/ticketing/jira_cloud_integration/jira_cloud_mapping_sevs_to_priorities/jira_cloud_sev_mapping_example",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ticketing/05_jira_cloud_integration/05_jira_cloud_mapping_sevs_to_priorities/02_jira_cloud_sev_mapping_example.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Mapping Veracode Severities to Jira Cloud Priorities Example",
+    "ft:prettyUrl": "c_jira_cloud_sev_mapping_example"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jira_cloud_config_sev_mapping",
+    "permalink": "/docs/ticketing/jira_cloud_integration/jira_cloud_mapping_sevs_to_priorities/jira_cloud_config_sev_mapping"
+  },
+  "next": {
+    "title": "jira_cloud_associate_fields_to_screens",
+    "permalink": "/docs/ticketing/jira_cloud_integration/jira_cloud_associate_fields_to_screens"
+  }
+}

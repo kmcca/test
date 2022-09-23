@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Analytics/about_dashboards",
+  "id": "Analytics/about_dashboards",
+  "title": "about_dashboards",
+  "description": "From Analytics \\> Veracode Dashboards, visualizations are available to help you understand the security status of your application and how your organization uses the Veracode Platform.",
+  "source": "@site/docs/Analytics/01_about_dashboards.md",
+  "sourceDirName": "Analytics",
+  "slug": "/Analytics/about_dashboards",
+  "permalink": "/docs/Analytics/about_dashboards",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Analytics/01_about_dashboards.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Understanding Veracode Analytics Dashboards",
+    "ft:prettyUrl": "c_about_dashboards"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/Analytics/"
+  },
+  "next": {
+    "title": "customize_dashboards",
+    "permalink": "/docs/Analytics/customize_dashboards"
+  }
+}

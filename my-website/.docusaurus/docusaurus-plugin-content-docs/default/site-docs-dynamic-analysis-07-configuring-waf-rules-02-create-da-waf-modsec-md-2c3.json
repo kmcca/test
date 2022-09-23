@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dynamic_analysis/configuring_waf_rules/create_da_waf_modsec",
+  "id": "dynamic_analysis/configuring_waf_rules/create_da_waf_modsec",
+  "title": "create_da_waf_modsec",
+  "description": "You can create web application firewalls \\(WAF\\) rules using ModSecurity. You can use these rules to block potential attacks based on the results of your dynamic scans.",
+  "source": "@site/docs/dynamic_analysis/07_configuring_waf_rules/02_create_da_waf_modsec.md",
+  "sourceDirName": "dynamic_analysis/07_configuring_waf_rules",
+  "slug": "/dynamic_analysis/configuring_waf_rules/create_da_waf_modsec",
+  "permalink": "/docs/dynamic_analysis/configuring_waf_rules/create_da_waf_modsec",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dynamic_analysis/07_configuring_waf_rules/02_create_da_waf_modsec.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Creating ModSecurity WAF Rules for Dynamic Analysis",
+    "ft:prettyUrl": "c_waf_modsec"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "create_da_waf_imperva",
+    "permalink": "/docs/dynamic_analysis/configuring_waf_rules/create_da_waf_imperva"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/eLearning/"
+  }
+}

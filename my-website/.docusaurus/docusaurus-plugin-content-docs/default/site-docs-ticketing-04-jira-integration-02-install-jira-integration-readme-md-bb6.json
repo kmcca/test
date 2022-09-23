@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ticketing/jira_integration/install_jira_integration/README",
+  "id": "ticketing/jira_integration/install_jira_integration/README",
+  "title": "README",
+  "description": "You can install the Veracode Integration for Jira as a plugin from the Atlassian Marketplace.",
+  "source": "@site/docs/ticketing/04_jira_integration/02_install_jira_integration/README.md",
+  "sourceDirName": "ticketing/04_jira_integration/02_install_jira_integration",
+  "slug": "/ticketing/jira_integration/install_jira_integration/",
+  "permalink": "/docs/ticketing/jira_integration/install_jira_integration/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ticketing/04_jira_integration/02_install_jira_integration/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Install the Veracode Integration for Jira",
+    "ft:prettyUrl": "t_jira_deploy"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jira_finding_life_cycle",
+    "permalink": "/docs/ticketing/jira_integration/jira_finding_life_cycle"
+  },
+  "next": {
+    "title": "jira_update",
+    "permalink": "/docs/ticketing/jira_integration/install_jira_integration/jira_update"
+  }
+}

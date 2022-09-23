@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Static/request_status/understanding_status_values",
+  "id": "Static/request_status/understanding_status_values",
+  "title": "understanding_status_values",
+  "description": "You can review the Veracode Static Analysis messages to determine the status of scans.",
+  "source": "@site/docs/Static/17_request_status/04_understanding_status_values.md",
+  "sourceDirName": "Static/17_request_status",
+  "slug": "/Static/request_status/understanding_status_values",
+  "permalink": "/docs/Static/request_status/understanding_status_values",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Static/17_request_status/04_understanding_status_values.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "Understanding the Scan Status Messages",
+    "ft:prettyUrl": "c_understanding_status_values"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "progress_scans_page",
+    "permalink": "/docs/Static/request_status/progress_scans_page"
+  },
+  "next": {
+    "title": "viewing_detailed_scan_activity",
+    "permalink": "/docs/Static/request_status/viewing_detailed_scan_activity"
+  }
+}

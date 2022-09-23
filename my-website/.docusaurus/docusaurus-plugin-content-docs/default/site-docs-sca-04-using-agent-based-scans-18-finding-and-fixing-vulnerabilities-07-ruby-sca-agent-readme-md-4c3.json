@@ -1,0 +1,27 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/ruby_sca_agent/README",
+  "id": "SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/ruby_sca_agent/README",
+  "title": "README",
+  "description": "You can find vulnerabilities in your Ruby applications using Veracode Software Composition Analysis agent-based scanning. You can run a scan on Ruby Gem repositories using the agent-based scanning command-line interface or the CI integrations.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/07_ruby_sca_agent/README.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/07_ruby_sca_agent",
+  "slug": "/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/ruby_sca_agent/",
+  "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/ruby_sca_agent/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/07_ruby_sca_agent/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Ruby SCA Agent-Based Scanning",
+    "ft:prettyUrl": "c_sc_ruby"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fix_example_python_vulnerable_method",
+    "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/python_sca_agent/fix_example_python_vulnerable_method"
+  },
+  "next": {
+    "title": "fix_example_ruby_direct",
+    "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/ruby_sca_agent/fix_example_ruby_direct"
+  }
+}

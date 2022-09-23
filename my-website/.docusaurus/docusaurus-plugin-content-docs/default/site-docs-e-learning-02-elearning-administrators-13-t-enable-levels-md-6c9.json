@@ -1,0 +1,28 @@
+{
+  "unversionedId": "eLearning/elearningAdministrators/t_enable_levels",
+  "id": "eLearning/elearningAdministrators/t_enable_levels",
+  "title": "t_enable_levels",
+  "description": "You can enable learner levels so that learners can prove their knowledge of secure software development practices.",
+  "source": "@site/docs/eLearning/02_elearningAdministrators/13_t_enable_levels.md",
+  "sourceDirName": "eLearning/02_elearningAdministrators",
+  "slug": "/eLearning/elearningAdministrators/t_enable_levels",
+  "permalink": "/docs/eLearning/elearningAdministrators/t_enable_levels",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/eLearning/02_elearningAdministrators/13_t_enable_levels.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "ft:title": "Enable Learner Levels",
+    "ft:prettyUrl": "t_enable_levels"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "t_notification_settings",
+    "permalink": "/docs/eLearning/elearningAdministrators/t_notification_settings"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/eLearning/elearningManagers/"
+  }
+}

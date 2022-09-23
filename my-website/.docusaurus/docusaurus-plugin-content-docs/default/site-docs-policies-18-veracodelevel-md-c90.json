@@ -1,0 +1,28 @@
+{
+  "unversionedId": "policies/veracodelevel",
+  "id": "policies/veracodelevel",
+  "title": "veracodelevel",
+  "description": "Veracode determines the Veracode Level \\(VL\\) of an application by the type of testing it performs on the application and the severity and types of flaws it detects. A minimum security score is required for each level.",
+  "source": "@site/docs/policies/18_veracodelevel.md",
+  "sourceDirName": "policies",
+  "slug": "/policies/veracodelevel",
+  "permalink": "/docs/policies/veracodelevel",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/policies/18_veracodelevel.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 18,
+  "frontMatter": {
+    "ft:title": "Understanding Veracode Levels",
+    "ft:prettyUrl": "policy_veracodelevel"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "veracodedefault",
+    "permalink": "/docs/policies/veracodedefault"
+  },
+  "next": {
+    "title": "sca_policy",
+    "permalink": "/docs/policies/sca_policy"
+  }
+}

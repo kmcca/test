@@ -1,0 +1,28 @@
+{
+  "unversionedId": "results_reports/review_static_flaw_viewer/view_data_path_info_flaws",
+  "id": "results_reports/review_static_flaw_viewer/view_data_path_info_flaws",
+  "title": "view_data_path_info_flaws",
+  "description": "You can view all paths through the code that lead to the sink, the exploitable point where a flaw is expressed, from a link on the Triage Flaws page.",
+  "source": "@site/docs/results_reports/04_review_static_flaw_viewer/03_view_data_path_info_flaws.md",
+  "sourceDirName": "results_reports/04_review_static_flaw_viewer",
+  "slug": "/results_reports/review_static_flaw_viewer/view_data_path_info_flaws",
+  "permalink": "/docs/results_reports/review_static_flaw_viewer/view_data_path_info_flaws",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/04_review_static_flaw_viewer/03_view_data_path_info_flaws.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "View Data Path Information for Flaws",
+    "ft:prettyUrl": "View_Data_Path_Information_for_Flaws"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "view_static_results_application",
+    "permalink": "/docs/results_reports/review_static_flaw_viewer/view_static_results_application"
+  },
+  "next": {
+    "title": "use_source_code_view",
+    "permalink": "/docs/results_reports/review_static_flaw_viewer/use_source_code_view"
+  }
+}

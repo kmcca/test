@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/xml_apis/mitigation_xml_apis/mitigation_xml_apis_quickref",
+  "id": "apis/xml_apis/mitigation_xml_apis/mitigation_xml_apis_quickref",
+  "title": "mitigation_xml_apis_quickref",
+  "description": "This table lists the XML API calls for mitigating and commenting on findings. For more detailed information, see the topic for a specific call.",
+  "source": "@site/docs/apis/05_xml_apis/05_mitigation_xml_apis/01_mitigation_xml_apis_quickref.md",
+  "sourceDirName": "apis/05_xml_apis/05_mitigation_xml_apis",
+  "slug": "/apis/xml_apis/mitigation_xml_apis/mitigation_xml_apis_quickref",
+  "permalink": "/docs/apis/xml_apis/mitigation_xml_apis/mitigation_xml_apis_quickref",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/05_xml_apis/05_mitigation_xml_apis/01_mitigation_xml_apis_quickref.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Mitigation and Comments XML APIs Quick Reference",
+    "ft:prettyUrl": "c_mitigate_calls"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/apis/xml_apis/mitigation_xml_apis/"
+  },
+  "next": {
+    "title": "getmitigationinfo_do",
+    "permalink": "/docs/apis/xml_apis/mitigation_xml_apis/getmitigationinfo_do"
+  }
+}

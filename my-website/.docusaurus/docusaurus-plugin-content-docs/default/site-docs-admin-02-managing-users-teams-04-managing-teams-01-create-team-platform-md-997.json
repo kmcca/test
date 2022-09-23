@@ -1,0 +1,28 @@
+{
+  "unversionedId": "admin/managing_users_teams/managing_teams/create_team_platform",
+  "id": "admin/managing_users_teams/managing_teams/create_team_platform",
+  "title": "create_team_platform",
+  "description": "You can also create a team with the Veracode Identity APIs.",
+  "source": "@site/docs/admin/02_managing_users_teams/04_managing_teams/01_create_team_platform.md",
+  "sourceDirName": "admin/02_managing_users_teams/04_managing_teams",
+  "slug": "/admin/managing_users_teams/managing_teams/create_team_platform",
+  "permalink": "/docs/admin/managing_users_teams/managing_teams/create_team_platform",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/admin/02_managing_users_teams/04_managing_teams/01_create_team_platform.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Create a Team in the Veracode Platform",
+    "ft:prettyUrl": "Create_a_Team_in_the_Veracode_Platform"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/admin/managing_users_teams/managing_teams/"
+  },
+  "next": {
+    "title": "update_team_platform",
+    "permalink": "/docs/admin/managing_users_teams/managing_teams/update_team_platform"
+  }
+}

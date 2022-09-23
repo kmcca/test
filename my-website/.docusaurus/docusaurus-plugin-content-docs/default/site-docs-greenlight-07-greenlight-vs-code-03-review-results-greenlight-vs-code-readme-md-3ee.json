@@ -1,0 +1,27 @@
+{
+  "unversionedId": "greenlight/greenlight_vs_code/review_results_greenlight_vs_code/README",
+  "id": "greenlight/greenlight_vs_code/review_results_greenlight_vs_code/README",
+  "title": "README",
+  "description": "After Veracode Greenlight for VS Code has scanned a file, a line of code with an issue is underlined red with a red icon at the right of the line of code. The green text indicates code that complies with best practices and is protected against specific CWEs.",
+  "source": "@site/docs/greenlight/07_greenlight_vs_code/03_review_results_greenlight_vs_code/README.md",
+  "sourceDirName": "greenlight/07_greenlight_vs_code/03_review_results_greenlight_vs_code",
+  "slug": "/greenlight/greenlight_vs_code/review_results_greenlight_vs_code/",
+  "permalink": "/docs/greenlight/greenlight_vs_code/review_results_greenlight_vs_code/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/greenlight/07_greenlight_vs_code/03_review_results_greenlight_vs_code/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Reviewing Findings in Veracode for VS Code",
+    "ft:prettyUrl": "c_vs_code_findings"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "scan_queue_vs_code",
+    "permalink": "/docs/greenlight/greenlight_vs_code/scan_greenlight_vs_code/scan_queue_vs_code"
+  },
+  "next": {
+    "title": "video_vs_code_reviewing_findings",
+    "permalink": "/docs/greenlight/greenlight_vs_code/review_results_greenlight_vs_code/video_vs_code_reviewing_findings"
+  }
+}

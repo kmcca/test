@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dynamic_analysis/getstarted_da_web/access_da_in_platform",
+  "id": "dynamic_analysis/getstarted_da_web/access_da_in_platform",
+  "title": "access_da_in_platform",
+  "description": "From the Scans & Analysis menu, select Dynamic Analysis to open the Dynamic Analysis page.",
+  "source": "@site/docs/dynamic_analysis/01_getstarted_da_web/05_access_da_in_platform.md",
+  "sourceDirName": "dynamic_analysis/01_getstarted_da_web",
+  "slug": "/dynamic_analysis/getstarted_da_web/access_da_in_platform",
+  "permalink": "/docs/dynamic_analysis/getstarted_da_web/access_da_in_platform",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dynamic_analysis/01_getstarted_da_web/05_access_da_in_platform.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "Accessing Dynamic Analysis in the Veracode Platform",
+    "ft:prettyUrl": "c_was_access"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "preparing_da",
+    "permalink": "/docs/dynamic_analysis/getstarted_da_web/preparing_da"
+  },
+  "next": {
+    "title": "create_da_scan_web",
+    "permalink": "/docs/dynamic_analysis/getstarted_da_web/create_da_scan_web"
+  }
+}

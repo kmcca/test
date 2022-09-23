@@ -1,0 +1,27 @@
+{
+  "unversionedId": "greenlight/greenlight_intellij_android_studio/review_results_greenlight_intellij/README",
+  "id": "greenlight/greenlight_intellij_android_studio/review_results_greenlight_intellij/README",
+  "title": "README",
+  "description": "You can enable a setting that adds a red underline to the filename of files with detected findings.",
+  "source": "@site/docs/greenlight/05_greenlight_intellij_android_studio/03_review_results_greenlight_intellij/README.md",
+  "sourceDirName": "greenlight/05_greenlight_intellij_android_studio/03_review_results_greenlight_intellij",
+  "slug": "/greenlight/greenlight_intellij_android_studio/review_results_greenlight_intellij/",
+  "permalink": "/docs/greenlight/greenlight_intellij_android_studio/review_results_greenlight_intellij/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/greenlight/05_greenlight_intellij_android_studio/03_review_results_greenlight_intellij/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Review Greenlight Findings in IntelliJ or Android Studio",
+    "ft:prettyUrl": "c_intellij_results"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "greenlight_intellij_autoscan",
+    "permalink": "/docs/greenlight/greenlight_intellij_android_studio/scan_greenlight_intellij/greenlight_intellij_autoscan"
+  },
+  "next": {
+    "title": "greenlight_intellij_review_finding_details",
+    "permalink": "/docs/greenlight/greenlight_intellij_android_studio/review_results_greenlight_intellij/greenlight_intellij_review_finding_details"
+  }
+}

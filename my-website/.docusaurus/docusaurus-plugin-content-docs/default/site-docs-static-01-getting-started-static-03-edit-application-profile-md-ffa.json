@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Static/getting_started_static/edit_application_profile",
+  "id": "Static/getting_started_static/edit_application_profile",
+  "title": "edit_application_profile",
+  "description": "You can edit the data in the application profile at any point in the scan process. You can also edit an application profile with the Applications API.",
+  "source": "@site/docs/Static/01_getting_started_static/03_edit_application_profile.md",
+  "sourceDirName": "Static/01_getting_started_static",
+  "slug": "/Static/getting_started_static/edit_application_profile",
+  "permalink": "/docs/Static/getting_started_static/edit_application_profile",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Static/01_getting_started_static/03_edit_application_profile.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Edit an Application Profile",
+    "ft:prettyUrl": "t_edit_application_profile"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "request_profile",
+    "permalink": "/docs/Static/getting_started_static/request_profile"
+  },
+  "next": {
+    "title": "static_nextsteps",
+    "permalink": "/docs/Static/getting_started_static/static_nextsteps"
+  }
+}

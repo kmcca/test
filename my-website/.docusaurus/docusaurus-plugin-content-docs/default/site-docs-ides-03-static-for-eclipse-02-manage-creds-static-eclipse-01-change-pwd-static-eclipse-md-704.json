@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ides/static_for_eclipse/manage_creds_static_eclipse/change_pwd_static_eclipse",
+  "id": "ides/static_for_eclipse/manage_creds_static_eclipse/change_pwd_static_eclipse",
+  "title": "change_pwd_static_eclipse",
+  "description": "You can change your passphrase at any time.",
+  "source": "@site/docs/ides/03_static_for_eclipse/02_manage_creds_static_eclipse/01_change_pwd_static_eclipse.md",
+  "sourceDirName": "ides/03_static_for_eclipse/02_manage_creds_static_eclipse",
+  "slug": "/ides/static_for_eclipse/manage_creds_static_eclipse/change_pwd_static_eclipse",
+  "permalink": "/docs/ides/static_for_eclipse/manage_creds_static_eclipse/change_pwd_static_eclipse",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/03_static_for_eclipse/02_manage_creds_static_eclipse/01_change_pwd_static_eclipse.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Change a Password in Veracode Static for Eclipse",
+    "ft:prettyUrl": "Change_a_Password_in_Veracode_Static_for_Eclipse"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/ides/static_for_eclipse/manage_creds_static_eclipse/"
+  },
+  "next": {
+    "title": "reset_pwd_static_eclipse",
+    "permalink": "/docs/ides/static_for_eclipse/manage_creds_static_eclipse/reset_pwd_static_eclipse"
+  }
+}

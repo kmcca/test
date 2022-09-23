@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/apis_hmac_auth/configure_python_hmac/prepare_ubuntu_for_python",
+  "id": "apis/apis_hmac_auth/configure_python_hmac/prepare_ubuntu_for_python",
+  "title": "prepare_ubuntu_for_python",
+  "description": "Before installing the Python authentication library on Ubuntu, Veracode recommends that you run these commands to prepare the system:",
+  "source": "@site/docs/apis/03_apis_hmac_auth/02_configure_python_hmac/02_prepare_ubuntu_for_python.md",
+  "sourceDirName": "apis/03_apis_hmac_auth/02_configure_python_hmac",
+  "slug": "/apis/apis_hmac_auth/configure_python_hmac/prepare_ubuntu_for_python",
+  "permalink": "/docs/apis/apis_hmac_auth/configure_python_hmac/prepare_ubuntu_for_python",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/03_apis_hmac_auth/02_configure_python_hmac/02_prepare_ubuntu_for_python.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Prepare Ubuntu for the Python Authentication Library",
+    "ft:prettyUrl": "c_ubuntu_notes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hmac_use_httpie_with_python",
+    "permalink": "/docs/apis/apis_hmac_auth/configure_python_hmac/hmac_use_httpie_with_python"
+  },
+  "next": {
+    "title": "hmac_signing_example_python",
+    "permalink": "/docs/apis/apis_hmac_auth/configure_python_hmac/hmac_signing_example_python"
+  }
+}

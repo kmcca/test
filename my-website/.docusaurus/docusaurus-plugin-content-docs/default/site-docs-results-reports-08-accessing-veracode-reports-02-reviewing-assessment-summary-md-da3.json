@@ -1,0 +1,28 @@
+{
+  "unversionedId": "results_reports/accessing_veracode_reports/reviewing_assessment_summary",
+  "id": "results_reports/accessing_veracode_reports/reviewing_assessment_summary",
+  "title": "reviewing_assessment_summary",
+  "description": "The assessment summary report shows how many modules were included in the Static Analysis, how many call sites were in the modules, and how many of those call sites are vulnerable.",
+  "source": "@site/docs/results_reports/08_accessing_veracode_reports/02_reviewing_assessment_summary.md",
+  "sourceDirName": "results_reports/08_accessing_veracode_reports",
+  "slug": "/results_reports/accessing_veracode_reports/reviewing_assessment_summary",
+  "permalink": "/docs/results_reports/accessing_veracode_reports/reviewing_assessment_summary",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/08_accessing_veracode_reports/02_reviewing_assessment_summary.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Reviewing the Assessment Summary",
+    "ft:prettyUrl": "c_assess_report"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "summarized_results",
+    "permalink": "/docs/results_reports/accessing_veracode_reports/summarized_results"
+  },
+  "next": {
+    "title": "understanding_customizable_report",
+    "permalink": "/docs/results_reports/accessing_veracode_reports/understanding_customizable_report"
+  }
+}

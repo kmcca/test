@@ -1,0 +1,28 @@
+{
+  "unversionedId": "greenlight/greenlight_eclipse/scan_greenlight_eclipse/greenlight_eclipse_scan_jsp_tomcat",
+  "id": "greenlight/greenlight_eclipse/scan_greenlight_eclipse/greenlight_eclipse_scan_jsp_tomcat",
+  "title": "greenlight_eclipse_scan_jsp_tomcat",
+  "description": "You can use Greenlight for Eclipse with Apache Tomcat to scan JSP files. You enable the Tomcat application server to parse and compile the Java embedded in the JSP and create a class file for Greenlight to submit for scanning.",
+  "source": "@site/docs/greenlight/04_greenlight_eclipse/02_scan_greenlight_eclipse/05_greenlight_eclipse_scan_jsp_tomcat.md",
+  "sourceDirName": "greenlight/04_greenlight_eclipse/02_scan_greenlight_eclipse",
+  "slug": "/greenlight/greenlight_eclipse/scan_greenlight_eclipse/greenlight_eclipse_scan_jsp_tomcat",
+  "permalink": "/docs/greenlight/greenlight_eclipse/scan_greenlight_eclipse/greenlight_eclipse_scan_jsp_tomcat",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/greenlight/04_greenlight_eclipse/02_scan_greenlight_eclipse/05_greenlight_eclipse_scan_jsp_tomcat.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "Scan JSP Files from a Tomcat Server with Greenlight for Eclipse",
+    "ft:prettyUrl": "Scan_JSP_Files_from_a_Tomcat_Server_in_Veracode_Greenlight_for_Eclipse"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "greenlight_eclipse_tshoot_maven",
+    "permalink": "/docs/greenlight/greenlight_eclipse/scan_greenlight_eclipse/greenlight_eclipse_scan_maven_gradle/greenlight_eclipse_tshoot_maven"
+  },
+  "next": {
+    "title": "greenlight_eclipse_scan_jsp_webspherer",
+    "permalink": "/docs/greenlight/greenlight_eclipse/scan_greenlight_eclipse/greenlight_eclipse_scan_jsp_webspherer"
+  }
+}

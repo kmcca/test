@@ -1,0 +1,27 @@
+{
+  "unversionedId": "greenlight/greenlight_intellij_android_studio/install_greenlight_intellij/README",
+  "id": "greenlight/greenlight_intellij_android_studio/install_greenlight_intellij/README",
+  "title": "README",
+  "description": "You can install Veracode Greenlight for IntelliJ as a plugin in IntelliJ IDEA or Android Studio. The plugin is available from the JetBrains Marketplace.",
+  "source": "@site/docs/greenlight/05_greenlight_intellij_android_studio/01_install_greenlight_intellij/README.md",
+  "sourceDirName": "greenlight/05_greenlight_intellij_android_studio/01_install_greenlight_intellij",
+  "slug": "/greenlight/greenlight_intellij_android_studio/install_greenlight_intellij/",
+  "permalink": "/docs/greenlight/greenlight_intellij_android_studio/install_greenlight_intellij/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/greenlight/05_greenlight_intellij_android_studio/01_install_greenlight_intellij/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Install Veracode Greenlight for IntelliJ",
+    "ft:prettyUrl": "t_install_GL_intellij"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/greenlight/greenlight_intellij_android_studio/"
+  },
+  "next": {
+    "title": "add_creds_greenlight_intellij",
+    "permalink": "/docs/greenlight/greenlight_intellij_android_studio/install_greenlight_intellij/add_creds_greenlight_intellij"
+  }
+}

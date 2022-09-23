@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ides/static_for_intellij_android_studio/manage_creds_static_intellij_android/README",
+  "id": "ides/static_for_intellij_android_studio/manage_creds_static_intellij_android/README",
+  "title": "README",
+  "description": "You can store your Veracode API credentials securely in a Veracode API credentials file or in your IDE.",
+  "source": "@site/docs/ides/04_static_for_intellij_android_studio/02_manage_creds_static_intellij_android/README.md",
+  "sourceDirName": "ides/04_static_for_intellij_android_studio/02_manage_creds_static_intellij_android",
+  "slug": "/ides/static_for_intellij_android_studio/manage_creds_static_intellij_android/",
+  "permalink": "/docs/ides/static_for_intellij_android_studio/manage_creds_static_intellij_android/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/04_static_for_intellij_android_studio/02_manage_creds_static_intellij_android/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Store Veracode API Credentials in a Keychain for IntelliJ or Android Studio",
+    "ft:prettyUrl": "Store_Veracode_API_Credentials_in_a_Keychain_for_IntelliJ"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "uninstall_static_intellij",
+    "permalink": "/docs/ides/static_for_intellij_android_studio/install_static_intellij_android/uninstall_static_intellij"
+  },
+  "next": {
+    "title": "change_password_intellij",
+    "permalink": "/docs/ides/static_for_intellij_android_studio/manage_creds_static_intellij_android/change_password_intellij"
+  }
+}

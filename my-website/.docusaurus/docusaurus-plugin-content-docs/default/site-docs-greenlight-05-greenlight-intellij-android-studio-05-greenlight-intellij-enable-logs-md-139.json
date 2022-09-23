@@ -1,0 +1,28 @@
+{
+  "unversionedId": "greenlight/greenlight_intellij_android_studio/greenlight_intellij_enable_logs",
+  "id": "greenlight/greenlight_intellij_android_studio/greenlight_intellij_enable_logs",
+  "title": "greenlight_intellij_enable_logs",
+  "description": "You can enable debug logs to get troubleshooting information for Veracode Greenlight. You can use this information to troubleshoot issues on your own or provide it to Veracode Technical Support.",
+  "source": "@site/docs/greenlight/05_greenlight_intellij_android_studio/05_greenlight_intellij_enable_logs.md",
+  "sourceDirName": "greenlight/05_greenlight_intellij_android_studio",
+  "slug": "/greenlight/greenlight_intellij_android_studio/greenlight_intellij_enable_logs",
+  "permalink": "/docs/greenlight/greenlight_intellij_android_studio/greenlight_intellij_enable_logs",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/greenlight/05_greenlight_intellij_android_studio/05_greenlight_intellij_enable_logs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "Enable Greenlight Debug Logs for Android Studio or IntelliJ",
+    "ft:prettyUrl": "Enable_Debug_Logs_for_Veracode_Greenlight"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "greenlight_intellij_sync_gradle",
+    "permalink": "/docs/greenlight/greenlight_intellij_android_studio/greenlight_intellij_sync_gradle"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/greenlight/greenlight_visual_studio/"
+  }
+}

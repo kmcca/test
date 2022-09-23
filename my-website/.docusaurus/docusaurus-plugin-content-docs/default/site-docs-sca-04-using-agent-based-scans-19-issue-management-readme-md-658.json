@@ -1,0 +1,32 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/issue_management/README",
+  "id": "SCA/using_agent_based_scans/issue_management/README",
+  "title": "README",
+  "description": "Issues are the essential components of Veracode Software Composition Analysis agent-based scanning. They allow you to track and take action on vulnerabilities, out-of-date libraries, and software licensing concerns for open-source libraries in a specific software project.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/19_issue_management/README.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/19_issue_management",
+  "slug": "/SCA/using_agent_based_scans/issue_management/",
+  "permalink": "/docs/SCA/using_agent_based_scans/issue_management/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/19_issue_management/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Kevin McCarthy"
+    ],
+    "ft:lang": "en-US",
+    "ft:title": "Managing Issues in Agent-Based Scans",
+    "ft:prettyUrl": "c_sc_issues_overview",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "validating_fixed_vulnerability",
+    "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/validating_fixed_vulnerability"
+  },
+  "next": {
+    "title": "view_sca_issue_details",
+    "permalink": "/docs/SCA/using_agent_based_scans/issue_management/view_sca_issue_details"
+  }
+}

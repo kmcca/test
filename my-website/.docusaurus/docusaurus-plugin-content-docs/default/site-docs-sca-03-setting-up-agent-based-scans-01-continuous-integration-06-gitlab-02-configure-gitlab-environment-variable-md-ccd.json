@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/setting_up_agent_based_scans/continuous_integration/gitlab/configure_gitlab_environment_variable",
+  "id": "SCA/setting_up_agent_based_scans/continuous_integration/gitlab/configure_gitlab_environment_variable",
+  "title": "configure_gitlab_environment_variable",
+  "description": "Setting an environment variable in GitLab CI occurs on a per-repository basis. This example demonstrates how to create a variable for your API token.",
+  "source": "@site/docs/SCA/03_setting_up_agent_based_scans/01_continuous_integration/06_gitlab/02_configure_gitlab_environment_variable.md",
+  "sourceDirName": "SCA/03_setting_up_agent_based_scans/01_continuous_integration/06_gitlab",
+  "slug": "/SCA/setting_up_agent_based_scans/continuous_integration/gitlab/configure_gitlab_environment_variable",
+  "permalink": "/docs/SCA/setting_up_agent_based_scans/continuous_integration/gitlab/configure_gitlab_environment_variable",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/03_setting_up_agent_based_scans/01_continuous_integration/06_gitlab/02_configure_gitlab_environment_variable.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Configure Your GitLab CI Environment Variable",
+    "ft:prettyUrl": "t_sc_gitlab_variable"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "create_agent_token_gitlab",
+    "permalink": "/docs/SCA/setting_up_agent_based_scans/continuous_integration/gitlab/create_agent_token_gitlab"
+  },
+  "next": {
+    "title": "configure_gitlab_repo",
+    "permalink": "/docs/SCA/setting_up_agent_based_scans/continuous_integration/gitlab/configure_gitlab_repo"
+  }
+}

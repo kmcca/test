@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/issue_management/export_agent_results",
+  "id": "SCA/using_agent_based_scans/issue_management/export_agent_results",
+  "title": "export_agent_results",
+  "description": "You can export the results of your agent-based scans as a CSV file. You can filter the results by scan date and by issue type.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/19_issue_management/09_export_agent_results.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/19_issue_management",
+  "slug": "/SCA/using_agent_based_scans/issue_management/export_agent_results",
+  "permalink": "/docs/SCA/using_agent_based_scans/issue_management/export_agent_results",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/19_issue_management/09_export_agent_results.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "ft:title": "Export Agent-Based Scan Results",
+    "ft:prettyUrl": "t_sca_export_results"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "understanding_tags_branches_sca_agent",
+    "permalink": "/docs/SCA/using_agent_based_scans/issue_management/understanding_tags_branches_sca_agent"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/SCA/using_agent_based_scans/libraries/"
+  }
+}

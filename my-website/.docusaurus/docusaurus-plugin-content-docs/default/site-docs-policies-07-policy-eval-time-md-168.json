@@ -1,0 +1,28 @@
+{
+  "unversionedId": "policies/policy_eval_time",
+  "id": "policies/policy_eval_time",
+  "title": "policy_eval_time",
+  "description": "When creating a policy, you can define the dates on which findings can impact the policy compliance of your applications. Findings that are opened or reopened during the evaluation timeframe can cause an application to not pass policy.",
+  "source": "@site/docs/policies/07_policy_eval_time.md",
+  "sourceDirName": "policies",
+  "slug": "/policies/policy_eval_time",
+  "permalink": "/docs/policies/policy_eval_time",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/policies/07_policy_eval_time.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "ft:title": "Applying an Evaluation Timeframe to a Policy",
+    "ft:prettyUrl": "c_policy_eval_time"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "policy_rules",
+    "permalink": "/docs/policies/policy_rules"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/policies/grace_period/"
+  }
+}

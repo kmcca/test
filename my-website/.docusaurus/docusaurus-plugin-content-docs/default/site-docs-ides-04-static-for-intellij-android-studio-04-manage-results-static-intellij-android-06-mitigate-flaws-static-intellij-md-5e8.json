@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ides/static_for_intellij_android_studio/manage_results_static_intellij_android/mitigate_flaws_static_intellij",
+  "id": "ides/static_for_intellij_android_studio/manage_results_static_intellij_android/mitigate_flaws_static_intellij",
+  "title": "mitigate_flaws_static_intellij",
+  "description": "You can mitigate flaws, including approving and rejecting existing mitigations, from within your IDE.",
+  "source": "@site/docs/ides/04_static_for_intellij_android_studio/04_manage_results_static_intellij_android/06_mitigate_flaws_static_intellij.md",
+  "sourceDirName": "ides/04_static_for_intellij_android_studio/04_manage_results_static_intellij_android",
+  "slug": "/ides/static_for_intellij_android_studio/manage_results_static_intellij_android/mitigate_flaws_static_intellij",
+  "permalink": "/docs/ides/static_for_intellij_android_studio/manage_results_static_intellij_android/mitigate_flaws_static_intellij",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/04_static_for_intellij_android_studio/04_manage_results_static_intellij_android/06_mitigate_flaws_static_intellij.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "ft:title": "Mitigate Flaws from Within IntelliJ or Android Studio",
+    "ft:prettyUrl": "Mitigate_Flaws_from_Within_IntelliJ"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "view_call_stacks_static_intellij",
+    "permalink": "/docs/ides/static_for_intellij_android_studio/manage_results_static_intellij_android/view_call_stacks_static_intellij"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/ides/static_for_visual_studio_new/"
+  }
+}

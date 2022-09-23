@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apisec/apisec_config",
+  "id": "apisec/apisec_config",
+  "title": "apisec_config",
+  "description": "After creating an API specification scan in the Veracode Platform, you need to configure the scan with specific settings, such as the target API server, the server authentication method, and, if the server is behind a firewall, an Internal Scan Management (ISM) gateway.",
+  "source": "@site/docs/apisec/04_apisec_config.md",
+  "sourceDirName": "apisec",
+  "slug": "/apisec/apisec_config",
+  "permalink": "/docs/apisec/apisec_config",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apisec/04_apisec_config.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "Configure an API Specification Scan",
+    "ft:prettyUrl": "Configure_and_Run_an_API_Specification_Scan"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "video_manage_api_specifications",
+    "permalink": "/docs/apisec/create_scan/video_manage_api_specifications"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/apisec/apisec_reviewing_results/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ides/mobile_app_packager/mobile_app_pkgr_cli_tool_options",
+  "id": "ides/mobile_app_packager/mobile_app_pkgr_cli_tool_options",
+  "title": "mobile_app_pkgr_cli_tool_options",
+  "description": "These tables describe the packaging actions available in the Veracode Mobile Application Packager Command-Line Tool.",
+  "source": "@site/docs/ides/02_mobile_app_packager/09_mobile_app_pkgr_cli_tool_options.md",
+  "sourceDirName": "ides/02_mobile_app_packager",
+  "slug": "/ides/mobile_app_packager/mobile_app_pkgr_cli_tool_options",
+  "permalink": "/docs/ides/mobile_app_packager/mobile_app_pkgr_cli_tool_options",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/02_mobile_app_packager/09_mobile_app_pkgr_cli_tool_options.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "ft:title": "Mobile Application Packager Command-Line Tool Packaging Options",
+    "ft:prettyUrl": "r_xcode_packaging_options"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "use_mobile_app_pkgr_cli_tool",
+    "permalink": "/docs/ides/mobile_app_packager/use_mobile_app_pkgr_cli_tool"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/ides/static_for_eclipse/"
+  }
+}

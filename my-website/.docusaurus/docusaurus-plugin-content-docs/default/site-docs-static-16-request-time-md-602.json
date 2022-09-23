@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Static/request_time",
+  "id": "Static/request_time",
+  "title": "request_time",
+  "description": "Veracode computes the estimated completion time for static scans of applications based on historical delivery times for applications of similar size and language.",
+  "source": "@site/docs/Static/16_request_time.md",
+  "sourceDirName": "Static",
+  "slug": "/Static/request_time",
+  "permalink": "/docs/Static/request_time",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Static/16_request_time.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "ft:title": "Reviewing the Estimated Completion Time for a Static Scan",
+    "ft:prettyUrl": "request_time"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "static_details",
+    "permalink": "/docs/Static/static_details"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/Static/request_status/"
+  }
+}

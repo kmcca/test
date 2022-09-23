@@ -1,0 +1,28 @@
+{
+  "unversionedId": "packaging/titan",
+  "id": "packaging/titan",
+  "title": "titan",
+  "description": "Your Titanium applications must meet specific compilation requirements before you can submit them for scanning.",
+  "source": "@site/docs/packaging/29_titan.md",
+  "sourceDirName": "packaging",
+  "slug": "/packaging/titan",
+  "permalink": "/docs/packaging/titan",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/packaging/29_titan.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 29,
+  "frontMatter": {
+    "ft:title": "Titanium Application Packaging",
+    "ft:prettyUrl": "compilation_titan"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sql",
+    "permalink": "/docs/packaging/sql"
+  },
+  "next": {
+    "title": "vb6",
+    "permalink": "/docs/packaging/vb6"
+  }
+}

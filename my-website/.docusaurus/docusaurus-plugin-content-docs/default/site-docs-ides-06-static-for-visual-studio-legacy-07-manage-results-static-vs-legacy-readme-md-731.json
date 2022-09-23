@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ides/static_for_visual_studio_legacy/manage_results_static_vs_legacy/README",
+  "id": "ides/static_for_visual_studio_legacy/manage_results_static_vs_legacy/README",
+  "title": "README",
+  "description": "You can use Veracode Static for Visual Studio with the Results API to download and review scan results in Visual Studio. You can also download scan results from the Veracode Platform. Then, you can review and mitigate any discovered flaws from within Visual Studio.",
+  "source": "@site/docs/ides/06_static_for_visual_studio_legacy/07_manage_results_static_vs_legacy/README.md",
+  "sourceDirName": "ides/06_static_for_visual_studio_legacy/07_manage_results_static_vs_legacy",
+  "slug": "/ides/static_for_visual_studio_legacy/manage_results_static_vs_legacy/",
+  "permalink": "/docs/ides/static_for_visual_studio_legacy/manage_results_static_vs_legacy/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/06_static_for_visual_studio_legacy/07_manage_results_static_vs_legacy/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Working with Scan Results in Visual Studio (Legacy)",
+    "ft:prettyUrl": "c_vs_reviewing_results"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "config_sandbox_static_vs_legacy",
+    "permalink": "/docs/ides/static_for_visual_studio_legacy/scan_static_vs_legacy/config_sandbox_static_vs_legacy"
+  },
+  "next": {
+    "title": "video_working_results_static_vs_legacy",
+    "permalink": "/docs/ides/static_for_visual_studio_legacy/manage_results_static_vs_legacy/video_working_results_static_vs_legacy"
+  }
+}

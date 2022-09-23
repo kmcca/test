@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/xml_apis/upload_xml_apis/uploadfile_do",
+  "id": "apis/xml_apis/upload_xml_apis/uploadfile_do",
+  "title": "uploadfile_do",
+  "description": "The uploadfile.do call uploads a file to an existing build or creates a build. Veracode recommends that you use the uploadlargefile.do call to avoid timeout errors when uploading a large file.",
+  "source": "@site/docs/apis/05_xml_apis/02_upload_xml_apis/20_uploadfile_do.md",
+  "sourceDirName": "apis/05_xml_apis/02_upload_xml_apis",
+  "slug": "/apis/xml_apis/upload_xml_apis/uploadfile_do",
+  "permalink": "/docs/apis/xml_apis/upload_xml_apis/uploadfile_do",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/05_xml_apis/02_upload_xml_apis/20_uploadfile_do.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "ft:title": "uploadfile.do",
+    "ft:prettyUrl": "r_uploadfile"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "updatebuild_do",
+    "permalink": "/docs/apis/xml_apis/upload_xml_apis/updatebuild_do"
+  },
+  "next": {
+    "title": "uploadlargefile_do",
+    "permalink": "/docs/apis/xml_apis/upload_xml_apis/uploadlargefile_do"
+  }
+}

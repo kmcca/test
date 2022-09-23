@@ -1,0 +1,32 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/sca_agent_management/README",
+  "id": "SCA/using_agent_based_scans/sca_agent_management/README",
+  "title": "README",
+  "description": "The Veracode Software Composition Analysis (SCA) agent, also referred to as the scanner, is the program that builds and scans your code to find third-party libraries and the vulnerabilities contained in those libraries.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/08_sca_agent_management/README.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/08_sca_agent_management",
+  "slug": "/SCA/using_agent_based_scans/sca_agent_management/",
+  "permalink": "/docs/SCA/using_agent_based_scans/sca_agent_management/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/08_sca_agent_management/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Kevin McCarthy"
+    ],
+    "ft:lang": "en-US",
+    "ft:title": "Veracode SCA Agent Management",
+    "ft:prettyUrl": "c_sc_agent_management",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "faq_for_agent",
+    "permalink": "/docs/SCA/using_agent_based_scans/faq_for_agent"
+  },
+  "next": {
+    "title": "view_workspace_agents",
+    "permalink": "/docs/SCA/using_agent_based_scans/sca_agent_management/view_workspace_agents"
+  }
+}

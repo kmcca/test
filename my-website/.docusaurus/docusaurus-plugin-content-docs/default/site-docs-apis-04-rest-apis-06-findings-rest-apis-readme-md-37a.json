@@ -1,0 +1,27 @@
+{
+  "unversionedId": "apis/rest_apis/findings_rest_apis/README",
+  "id": "apis/rest_apis/findings_rest_apis/README",
+  "title": "README",
+  "description": "The Veracode Findings API enables you to access information about open and mitigated findings associated with applications and development sandboxes.",
+  "source": "@site/docs/apis/04_rest_apis/06_findings_rest_apis/README.md",
+  "sourceDirName": "apis/04_rest_apis/06_findings_rest_apis",
+  "slug": "/apis/rest_apis/findings_rest_apis/",
+  "permalink": "/docs/apis/rest_apis/findings_rest_apis/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/04_rest_apis/06_findings_rest_apis/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Findings REST APIs",
+    "ft:prettyUrl": "c_findings_v2_intro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "elearning_api_progress_reports",
+    "permalink": "/docs/apis/rest_apis/elearning_rest_apis/elearning_api_progress_reports"
+  },
+  "next": {
+    "title": "using_dynamic_flaw_endpoint",
+    "permalink": "/docs/apis/rest_apis/findings_rest_apis/using_dynamic_flaw_endpoint"
+  }
+}

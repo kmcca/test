@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ism/about_ism",
+  "id": "ism/about_ism",
+  "title": "about_ism",
+  "description": "Veracode Internal Scanning Management \\(ISM\\) is a simplified approach to web application scanning for applications hosted within a corporate firewall that cannot be reached from the public internet. ISM allows Veracode to bring uniformity to the scanning of external and internal applications for Veracode Dynamic Analysis users.",
+  "source": "@site/docs/ism/01_about_ism.md",
+  "sourceDirName": "ism",
+  "slug": "/ism/about_ism",
+  "permalink": "/docs/ism/about_ism",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ism/01_about_ism.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "About Internal Scanning Management",
+    "ft:prettyUrl": "c_using_ism"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/ism/"
+  },
+  "next": {
+    "title": "ism_prerequisites",
+    "permalink": "/docs/ism/ism_prerequisites"
+  }
+}

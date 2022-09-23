@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Security_Labs/create_users/bulk_assign_individual_roles",
+  "id": "Security_Labs/create_users/bulk_assign_individual_roles",
+  "title": "bulk_assign_individual_roles",
+  "description": "You can assign differing user roles to individual Security Labs users when you bulk upload new users in a CSV file. You can bulk upload a maximum of 100 users per upload.",
+  "source": "@site/docs/Security_Labs/02_create_users/05_bulk_assign_individual_roles.md",
+  "sourceDirName": "Security_Labs/02_create_users",
+  "slug": "/Security_Labs/create_users/bulk_assign_individual_roles",
+  "permalink": "/docs/Security_Labs/create_users/bulk_assign_individual_roles",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Security_Labs/02_create_users/05_bulk_assign_individual_roles.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "Bulk Upload and Assign Differing Roles to Individual New Users",
+    "ft:prettyUrl": "Bulk_Upload_and_Assign_Differing_Roles_to_Individual_New_Users"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bulk_upload_assign_roles",
+    "permalink": "/docs/Security_Labs/create_users/bulk_upload_assign_roles"
+  },
+  "next": {
+    "title": "c_video_creating_sl_users_in_security_labs",
+    "permalink": "/docs/Security_Labs/create_users/c_video_creating_sl_users_in_security_labs"
+  }
+}

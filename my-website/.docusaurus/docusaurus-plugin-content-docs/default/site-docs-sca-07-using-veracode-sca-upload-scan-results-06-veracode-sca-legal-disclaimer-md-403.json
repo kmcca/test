@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_veracode_sca_upload_scan_results/veracode_sca_legal_disclaimer",
+  "id": "SCA/using_veracode_sca_upload_scan_results/veracode_sca_legal_disclaimer",
+  "title": "veracode_sca_legal_disclaimer",
+  "description": "Veracode, Inc. (“Veracode”) does not provide legal advice. Please be aware that your use of the Veracode solution does not serve as a substitute for your compliance with any applicable laws (including but not limited to any act, statute, regulation, rule, directive, standard, policy, administrative order, or executive order (collectively, (“Laws”))) or any contractual obligations with any third parties. You are responsible for consulting an independent legal counsel regarding any such Laws or contractual obligations. Use of the Veracode solution does not serve as a substitute for your own assessment of business risks associated with the software licenses identified by Veracode.",
+  "source": "@site/docs/SCA/07_using_veracode_sca_upload_scan_results/06_veracode_sca_legal_disclaimer.md",
+  "sourceDirName": "SCA/07_using_veracode_sca_upload_scan_results",
+  "slug": "/SCA/using_veracode_sca_upload_scan_results/veracode_sca_legal_disclaimer",
+  "permalink": "/docs/SCA/using_veracode_sca_upload_scan_results/veracode_sca_legal_disclaimer",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/07_using_veracode_sca_upload_scan_results/06_veracode_sca_legal_disclaimer.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "ft:title": "Veracode SCA Legal Disclaimer",
+    "ft:prettyUrl": "Veracode_SCA_Legal_Disclaimer"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reviewing_sca_license_data",
+    "permalink": "/docs/SCA/using_veracode_sca_upload_scan_results/reviewing_sca_license_data"
+  },
+  "next": {
+    "title": "using_application_data_sca",
+    "permalink": "/docs/SCA/using_veracode_sca_upload_scan_results/using_application_data_sca"
+  }
+}

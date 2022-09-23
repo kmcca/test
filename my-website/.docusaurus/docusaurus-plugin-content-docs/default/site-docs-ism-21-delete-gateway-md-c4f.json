@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ism/delete_gateway",
+  "id": "ism/delete_gateway",
+  "title": "delete_gateway",
+  "description": "If you created a gateway in error or have stopped using it, you can delete it from your ISM configuration.",
+  "source": "@site/docs/ism/21_delete_gateway.md",
+  "sourceDirName": "ism",
+  "slug": "/ism/delete_gateway",
+  "permalink": "/docs/ism/delete_gateway",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ism/21_delete_gateway.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 21,
+  "frontMatter": {
+    "ft:title": "Delete an ISM Gateway",
+    "ft:prettyUrl": "t_delete_gateway"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "configure_ism_endpoint_access",
+    "permalink": "/docs/ism/configure_ism_endpoint_access"
+  },
+  "next": {
+    "title": "view_ism_endpoint_logs",
+    "permalink": "/docs/ism/view_ism_endpoint_logs"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/xml_apis/mitigation_xml_apis/getmitigationinfo_do",
+  "id": "apis/xml_apis/mitigation_xml_apis/getmitigationinfo_do",
+  "title": "getmitigationinfo_do",
+  "description": "The getmitigationinfo.do call retrieves all action information for listed flaws in the specified build.",
+  "source": "@site/docs/apis/05_xml_apis/05_mitigation_xml_apis/02_getmitigationinfo_do.md",
+  "sourceDirName": "apis/05_xml_apis/05_mitigation_xml_apis",
+  "slug": "/apis/xml_apis/mitigation_xml_apis/getmitigationinfo_do",
+  "permalink": "/docs/apis/xml_apis/mitigation_xml_apis/getmitigationinfo_do",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/05_xml_apis/05_mitigation_xml_apis/02_getmitigationinfo_do.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "getmitigationinfo.do",
+    "ft:prettyUrl": "r_getmitigationinfo"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mitigation_xml_apis_quickref",
+    "permalink": "/docs/apis/xml_apis/mitigation_xml_apis/mitigation_xml_apis_quickref"
+  },
+  "next": {
+    "title": "updatemitigationinfo_do",
+    "permalink": "/docs/apis/xml_apis/mitigation_xml_apis/updatemitigationinfo_do"
+  }
+}

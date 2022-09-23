@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tile_integrations/api_creds/revoke_api_creds",
+  "id": "tile_integrations/api_creds/revoke_api_creds",
+  "title": "revoke_api_creds",
+  "description": "You can always revoke Veracode API credentials, if necessary. By default, the Veracode API credentials expire after one calendar year, unless a Veracode administrator resets the expiration date.",
+  "source": "@site/docs/tile_integrations/04_api_creds/02_revoke_api_creds.md",
+  "sourceDirName": "tile_integrations/04_api_creds",
+  "slug": "/tile_integrations/api_creds/revoke_api_creds",
+  "permalink": "/docs/tile_integrations/api_creds/revoke_api_creds",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tile_integrations/04_api_creds/02_revoke_api_creds.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Revoke Veracode API Credentials",
+    "ft:prettyUrl": "t_revoke_creds"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "generate_api_creds",
+    "permalink": "/docs/tile_integrations/api_creds/generate_api_creds"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/tile_integrations/api_creds_file/"
+  }
+}

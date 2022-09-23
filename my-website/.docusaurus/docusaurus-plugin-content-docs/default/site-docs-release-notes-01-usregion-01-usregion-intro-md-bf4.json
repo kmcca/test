@@ -1,0 +1,28 @@
+{
+  "unversionedId": "release_notes/usregion/usregion_intro",
+  "id": "release_notes/usregion/usregion_intro",
+  "title": "usregion_intro",
+  "description": "Select the Release Notes for a Veracode product or scan type:",
+  "source": "@site/docs/release_notes/01_usregion/01_usregion_intro.md",
+  "sourceDirName": "release_notes/01_usregion",
+  "slug": "/release_notes/usregion/usregion_intro",
+  "permalink": "/docs/release_notes/usregion/usregion_intro",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/release_notes/01_usregion/01_usregion_intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Veracode United States Region Release Notes",
+    "ft:prettyUrl": "c_release_notes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/release_notes/usregion/"
+  },
+  "next": {
+    "title": "all_static",
+    "permalink": "/docs/release_notes/usregion/all_static"
+  }
+}

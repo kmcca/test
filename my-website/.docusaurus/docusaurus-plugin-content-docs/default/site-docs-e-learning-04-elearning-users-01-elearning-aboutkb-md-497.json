@@ -1,0 +1,28 @@
+{
+  "unversionedId": "eLearning/elearningUsers/elearning_aboutkb",
+  "id": "eLearning/elearningUsers/elearning_aboutkb",
+  "title": "elearning_aboutkb",
+  "description": "The Veracode eLearning Knowledge Base is a centralized collection of information about security vulnerabilities, and techniques you can use to prevent vulnerabilities. You can also view the CWE information for each flaw category and suggested Veracode eLearning courses you can take to learn more about security practices. On the Veracode eLearning Knowledge Base, you can view flaw category information on topics including:",
+  "source": "@site/docs/eLearning/04_elearningUsers/01_elearning_aboutkb.md",
+  "sourceDirName": "eLearning/04_elearningUsers",
+  "slug": "/eLearning/elearningUsers/elearning_aboutkb",
+  "permalink": "/docs/eLearning/elearningUsers/elearning_aboutkb",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/eLearning/04_elearningUsers/01_elearning_aboutkb.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "About the Veracode eLearning Knowledge Base",
+    "ft:prettyUrl": "elearning_aboutkb"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/eLearning/elearningUsers/"
+  },
+  "next": {
+    "title": "elearning_wbcourselist",
+    "permalink": "/docs/eLearning/elearningUsers/elearning_wbcourselist"
+  }
+}

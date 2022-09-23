@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/xml_apis/results_xml_apis/detailedreportpdf_do",
+  "id": "apis/xml_apis/results_xml_apis/detailedreportpdf_do",
+  "title": "detailedreportpdf_do",
+  "description": "The detailedreportpdf.do call downloads a PDF report of the detailed scan results for the specified build.",
+  "source": "@site/docs/apis/05_xml_apis/03_results_xml_apis/04_detailedreportpdf_do.md",
+  "sourceDirName": "apis/05_xml_apis/03_results_xml_apis",
+  "slug": "/apis/xml_apis/results_xml_apis/detailedreportpdf_do",
+  "permalink": "/docs/apis/xml_apis/results_xml_apis/detailedreportpdf_do",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/05_xml_apis/03_results_xml_apis/04_detailedreportpdf_do.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "detailedreportpdf.do",
+    "ft:prettyUrl": "r_detailedreportpdf"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "detailedreport_do",
+    "permalink": "/docs/apis/xml_apis/results_xml_apis/detailedreport_do"
+  },
+  "next": {
+    "title": "getaccountcustomfieldlist_do",
+    "permalink": "/docs/apis/xml_apis/results_xml_apis/getaccountcustomfieldlist_do"
+  }
+}

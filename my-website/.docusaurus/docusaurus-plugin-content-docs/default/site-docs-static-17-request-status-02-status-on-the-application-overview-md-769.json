@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Static/request_status/status_on_the_application_overview",
+  "id": "Static/request_status/status_on_the_application_overview",
+  "title": "status_on_the_application_overview",
+  "description": "You can view detailed information about the security policy and status of an application that Veracode is currently scanning.",
+  "source": "@site/docs/Static/17_request_status/02_status_on_the_application_overview.md",
+  "sourceDirName": "Static/17_request_status",
+  "slug": "/Static/request_status/status_on_the_application_overview",
+  "permalink": "/docs/Static/request_status/status_on_the_application_overview",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Static/17_request_status/02_status_on_the_application_overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Viewing Scan Status on the Application Overview Page",
+    "ft:prettyUrl": "Viewing_Scan_Status_on_the_Application_Overview_Page"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "status_applications_page",
+    "permalink": "/docs/Static/request_status/status_applications_page"
+  },
+  "next": {
+    "title": "progress_scans_page",
+    "permalink": "/docs/Static/request_status/progress_scans_page"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "unversionedId": "apisec/create_scan/README",
+  "id": "apisec/create_scan/README",
+  "title": "README",
+  "description": "",
+  "source": "@site/docs/apisec/03_create_scan/README.md",
+  "sourceDirName": "apisec/03_create_scan",
+  "slug": "/apisec/create_scan/",
+  "permalink": "/docs/apisec/create_scan/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apisec/03_create_scan/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Mike Howes"
+    ],
+    "ft:originID": "creating_an_api_spec_scan",
+    "ft:lang": "en-US",
+    "ft:title": "Creating an API Specification Scan",
+    "ft:prettyUrl": "Creating_an_API_Specification_Scan",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "apisec_about_specs",
+    "permalink": "/docs/apisec/apisec_about_specs"
+  },
+  "next": {
+    "title": "apisec_create_scan",
+    "permalink": "/docs/apisec/create_scan/apisec_create_scan"
+  }
+}

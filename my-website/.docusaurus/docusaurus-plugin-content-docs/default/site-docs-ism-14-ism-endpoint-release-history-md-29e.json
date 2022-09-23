@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ism/ism_endpoint_release_history",
+  "id": "ism/ism_endpoint_release_history",
+  "title": "ism_endpoint_release_history",
+  "description": "View the list of changes included in the latest versions of the Veracode Internal Scanning Management endpoint.",
+  "source": "@site/docs/ism/14_ism_endpoint_release_history.md",
+  "sourceDirName": "ism",
+  "slug": "/ism/ism_endpoint_release_history",
+  "permalink": "/docs/ism/ism_endpoint_release_history",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ism/14_ism_endpoint_release_history.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "ft:title": "ISM Endpoint Release History",
+    "ft:prettyUrl": "c_ism_endpoint_history"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "about_ism_gateway_retention",
+    "permalink": "/docs/ism/about_ism_gateway_retention"
+  },
+  "next": {
+    "title": "troubleshooting_configuration_ism_endpoint_installer",
+    "permalink": "/docs/ism/troubleshooting_configuration_ism_endpoint_installer"
+  }
+}

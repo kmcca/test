@@ -1,0 +1,27 @@
+{
+  "unversionedId": "build_systems/jenkins_integration/jenkins_installation/README",
+  "id": "build_systems/jenkins_integration/jenkins_installation/README",
+  "title": "README",
+  "description": "You can download and install or upgrade the Veracode Jenkins Plugin using the Plugin Manager from within Jenkins. You can also download the plugin from the Jenkins Marketplace and, then, install it using the Plugin Manager.",
+  "source": "@site/docs/build_systems/07_jenkins_integration/02_jenkins_installation/README.md",
+  "sourceDirName": "build_systems/07_jenkins_integration/02_jenkins_installation",
+  "slug": "/build_systems/jenkins_integration/jenkins_installation/",
+  "permalink": "/docs/build_systems/jenkins_integration/jenkins_installation/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/build_systems/07_jenkins_integration/02_jenkins_installation/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Install the Veracode Jenkins Plugin",
+    "ft:prettyUrl": "t_install_jenkins"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jenkins_prereqs",
+    "permalink": "/docs/build_systems/jenkins_integration/jenkins_prereqs"
+  },
+  "next": {
+    "title": "jenkins_configure_plugin",
+    "permalink": "/docs/build_systems/jenkins_integration/jenkins_installation/jenkins_configure_plugin"
+  }
+}

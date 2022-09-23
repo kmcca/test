@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ides/static_for_visual_studio_legacy/install_static_vs_legacy/video_install_static_vs_legacy",
+  "id": "ides/static_for_visual_studio_legacy/install_static_vs_legacy/video_install_static_vs_legacy",
+  "title": "video_install_static_vs_legacy",
+  "description": "Watch this short video to learn how to:",
+  "source": "@site/docs/ides/06_static_for_visual_studio_legacy/03_install_static_vs_legacy/01_video_install_static_vs_legacy.md",
+  "sourceDirName": "ides/06_static_for_visual_studio_legacy/03_install_static_vs_legacy",
+  "slug": "/ides/static_for_visual_studio_legacy/install_static_vs_legacy/video_install_static_vs_legacy",
+  "permalink": "/docs/ides/static_for_visual_studio_legacy/install_static_vs_legacy/video_install_static_vs_legacy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/06_static_for_visual_studio_legacy/03_install_static_vs_legacy/01_video_install_static_vs_legacy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Video: Install Veracode Static for Visual Studio (Legacy)",
+    "ft:prettyUrl": "c_video_install_vs_extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/ides/static_for_visual_studio_legacy/install_static_vs_legacy/"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/ides/static_for_visual_studio_legacy/configure_static_vs_legacy/"
+  }
+}

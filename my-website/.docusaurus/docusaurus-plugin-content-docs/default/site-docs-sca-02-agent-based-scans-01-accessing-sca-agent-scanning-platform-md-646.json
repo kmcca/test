@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/agent_based_scans/accessing_sca_agent_scanning_platform",
+  "id": "SCA/agent_based_scans/accessing_sca_agent_scanning_platform",
+  "title": "accessing_sca_agent_scanning_platform",
+  "description": "Accessing Veracode SCA agent-based scanning from the Veracode Platform allows you to benefit from a robust Software Composition Analysis \\(SCA\\) solution that can directly integrate with your continuous integration (CI) pipeline.",
+  "source": "@site/docs/SCA/02_agent_based_scans/01_accessing_sca_agent_scanning_platform.md",
+  "sourceDirName": "SCA/02_agent_based_scans",
+  "slug": "/SCA/agent_based_scans/accessing_sca_agent_scanning_platform",
+  "permalink": "/docs/SCA/agent_based_scans/accessing_sca_agent_scanning_platform",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/02_agent_based_scans/01_accessing_sca_agent_scanning_platform.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Accessing Veracode SCA Agent-Based Scanning from the Veracode Platform",
+    "ft:prettyUrl": "c_SC_platform"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/SCA/agent_based_scans/"
+  },
+  "next": {
+    "title": "using_agent_scanning_reports",
+    "permalink": "/docs/SCA/agent_based_scans/using_agent_scanning_reports"
+  }
+}

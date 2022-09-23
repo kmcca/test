@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/rest_apis/elearning_rest_apis/elearning_api_course_by_id",
+  "id": "apis/rest_apis/elearning_rest_apis/elearning_api_course_by_id",
+  "title": "elearning_api_course_by_id",
+  "description": "Use the eLearning API to return the name of a course, in JSON format, for the specified course ID. For a list of course IDs available to your organization, use the courses endpoint.",
+  "source": "@site/docs/apis/04_rest_apis/05_elearning_rest_apis/02_elearning_api_course_by_id.md",
+  "sourceDirName": "apis/04_rest_apis/05_elearning_rest_apis",
+  "slug": "/apis/rest_apis/elearning_rest_apis/elearning_api_course_by_id",
+  "permalink": "/docs/apis/rest_apis/elearning_rest_apis/elearning_api_course_by_id",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/04_rest_apis/05_elearning_rest_apis/02_elearning_api_course_by_id.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Get an eLearning Course by ID with the REST API",
+    "ft:prettyUrl": "r_course_by_ID_API"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "elearning_api_available_courses",
+    "permalink": "/docs/apis/rest_apis/elearning_rest_apis/elearning_api_available_courses"
+  },
+  "next": {
+    "title": "elearning_api_list_usersI",
+    "permalink": "/docs/apis/rest_apis/elearning_rest_apis/elearning_api_list_usersI"
+  }
+}

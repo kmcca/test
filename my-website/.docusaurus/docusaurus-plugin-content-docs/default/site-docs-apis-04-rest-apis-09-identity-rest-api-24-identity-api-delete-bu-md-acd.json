@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/rest_apis/identity_rest_api/identity_api_delete_bu",
+  "id": "apis/rest_apis/identity_rest_api/identity_api_delete_bu",
+  "title": "identity_api_delete_bu",
+  "description": "This use case scenario provides the Identity REST API command for deleting a business unit.",
+  "source": "@site/docs/apis/04_rest_apis/09_identity_rest_api/24_identity_api_delete_bu.md",
+  "sourceDirName": "apis/04_rest_apis/09_identity_rest_api",
+  "slug": "/apis/rest_apis/identity_rest_api/identity_api_delete_bu",
+  "permalink": "/docs/apis/rest_apis/identity_rest_api/identity_api_delete_bu",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/04_rest_apis/09_identity_rest_api/24_identity_api_delete_bu.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 24,
+  "frontMatter": {
+    "ft:title": "Deleting a Business Unit with the Identity API",
+    "ft:prettyUrl": "c_identity_delete_bu"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "identity_api_update_bu",
+    "permalink": "/docs/apis/rest_apis/identity_rest_api/identity_api_update_bu"
+  },
+  "next": {
+    "title": "mpt_rest_api",
+    "permalink": "/docs/apis/rest_apis/mpt_rest_api"
+  }
+}

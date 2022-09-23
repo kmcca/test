@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ides/static_for_visual_studio_legacy/manage_results_static_vs_legacy/video_working_results_static_vs_legacy",
+  "id": "ides/static_for_visual_studio_legacy/manage_results_static_vs_legacy/video_working_results_static_vs_legacy",
+  "title": "video_working_results_static_vs_legacy",
+  "description": "Watch this video to learn how to download, import, and view Veracode scan results using Veracode Static for Visual Studio. You can also learn how to mitigate findings discovered during the scan in Visual Studio.",
+  "source": "@site/docs/ides/06_static_for_visual_studio_legacy/07_manage_results_static_vs_legacy/01_video_working_results_static_vs_legacy.md",
+  "sourceDirName": "ides/06_static_for_visual_studio_legacy/07_manage_results_static_vs_legacy",
+  "slug": "/ides/static_for_visual_studio_legacy/manage_results_static_vs_legacy/video_working_results_static_vs_legacy",
+  "permalink": "/docs/ides/static_for_visual_studio_legacy/manage_results_static_vs_legacy/video_working_results_static_vs_legacy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/06_static_for_visual_studio_legacy/07_manage_results_static_vs_legacy/01_video_working_results_static_vs_legacy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Video: Working with Scan Results Using Veracode Static for Visual Studio (Legacy)",
+    "ft:prettyUrl": "c_video_visual_studio_results"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/ides/static_for_visual_studio_legacy/manage_results_static_vs_legacy/"
+  },
+  "next": {
+    "title": "import_results_api_static_vs_legacy",
+    "permalink": "/docs/ides/static_for_visual_studio_legacy/manage_results_static_vs_legacy/import_results_api_static_vs_legacy"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/setting_up_agent_based_scans/desktop/issues_integration/jira_legacy_integration_sca",
+  "id": "SCA/setting_up_agent_based_scans/desktop/issues_integration/jira_legacy_integration_sca",
+  "title": "jira_legacy_integration_sca",
+  "description": "You can configure as many Jira projects as you need. Enter your Jira details in your Manage Workspace > Issue Tracking page.",
+  "source": "@site/docs/SCA/03_setting_up_agent_based_scans/02_desktop/04_issues_integration/03_jira_legacy_integration_sca.md",
+  "sourceDirName": "SCA/03_setting_up_agent_based_scans/02_desktop/04_issues_integration",
+  "slug": "/SCA/setting_up_agent_based_scans/desktop/issues_integration/jira_legacy_integration_sca",
+  "permalink": "/docs/SCA/setting_up_agent_based_scans/desktop/issues_integration/jira_legacy_integration_sca",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/03_setting_up_agent_based_scans/02_desktop/04_issues_integration/03_jira_legacy_integration_sca.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Atlassian Jira Legacy Integration for Veracode SCA",
+    "ft:prettyUrl": "Atlassian_Jira_Legacy_Integration_for_Veracode_SCA"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "creating_jira_templates_agent",
+    "permalink": "/docs/SCA/setting_up_agent_based_scans/desktop/issues_integration/creating_jira_templates_agent"
+  },
+  "next": {
+    "title": "create_agent_integration_github",
+    "permalink": "/docs/SCA/setting_up_agent_based_scans/desktop/issues_integration/create_agent_integration_github"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "admin/managing_users_teams/managing_users/remove_user_platform",
+  "id": "admin/managing_users_teams/managing_users/remove_user_platform",
+  "title": "remove_user_platform",
+  "description": "There are two ways to remove user access from the system. You can temporarily deactivate the user using the Login Enabled field, or you can permanently delete a user from the Veracode Platform.",
+  "source": "@site/docs/admin/02_managing_users_teams/03_managing_users/03_remove_user_platform.md",
+  "sourceDirName": "admin/02_managing_users_teams/03_managing_users",
+  "slug": "/admin/managing_users_teams/managing_users/remove_user_platform",
+  "permalink": "/docs/admin/managing_users_teams/managing_users/remove_user_platform",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/admin/02_managing_users_teams/03_managing_users/03_remove_user_platform.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Remove a User in the Veracode Platform",
+    "ft:prettyUrl": "t_remove_user"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "update_user_platform",
+    "permalink": "/docs/admin/managing_users_teams/managing_users/update_user_platform"
+  },
+  "next": {
+    "title": "reset_user_password",
+    "permalink": "/docs/admin/managing_users_teams/managing_users/reset_user_password"
+  }
+}

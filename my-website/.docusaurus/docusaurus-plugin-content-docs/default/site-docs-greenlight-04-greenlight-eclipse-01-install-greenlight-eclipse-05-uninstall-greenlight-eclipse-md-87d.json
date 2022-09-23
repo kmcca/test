@@ -1,0 +1,28 @@
+{
+  "unversionedId": "greenlight/greenlight_eclipse/install_greenlight_eclipse/uninstall_greenlight_eclipse",
+  "id": "greenlight/greenlight_eclipse/install_greenlight_eclipse/uninstall_greenlight_eclipse",
+  "title": "uninstall_greenlight_eclipse",
+  "description": "You can uninstall Greenlight for Eclipse to remove it from your Eclipse IDE and, optionally, delete all Eclipse files if you need the storage capacity.",
+  "source": "@site/docs/greenlight/04_greenlight_eclipse/01_install_greenlight_eclipse/05_uninstall_greenlight_eclipse.md",
+  "sourceDirName": "greenlight/04_greenlight_eclipse/01_install_greenlight_eclipse",
+  "slug": "/greenlight/greenlight_eclipse/install_greenlight_eclipse/uninstall_greenlight_eclipse",
+  "permalink": "/docs/greenlight/greenlight_eclipse/install_greenlight_eclipse/uninstall_greenlight_eclipse",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/greenlight/04_greenlight_eclipse/01_install_greenlight_eclipse/05_uninstall_greenlight_eclipse.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "Uninstall Veracode Greenlight for Eclipse",
+    "ft:prettyUrl": "Uninstalling_Veracode_Greenlight_for_Eclipse"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "greenlight_eclipse_tutorial",
+    "permalink": "/docs/greenlight/greenlight_eclipse/install_greenlight_eclipse/greenlight_eclipse_tutorial"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/greenlight/greenlight_eclipse/scan_greenlight_eclipse/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ism/delete_ism_endpoint",
+  "id": "ism/delete_ism_endpoint",
+  "title": "delete_ism_endpoint",
+  "description": "If you created an endpoint in error or have stopped using it, you can delete it from your ISM configuration.",
+  "source": "@site/docs/ism/17_delete_ism_endpoint.md",
+  "sourceDirName": "ism",
+  "slug": "/ism/delete_ism_endpoint",
+  "permalink": "/docs/ism/delete_ism_endpoint",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ism/17_delete_ism_endpoint.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 17,
+  "frontMatter": {
+    "ft:title": "Delete an ISM Endpoint",
+    "ft:prettyUrl": "t_delete_endpoint"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "troubleshooting_ism",
+    "permalink": "/docs/ism/troubleshooting_ism"
+  },
+  "next": {
+    "title": "uninstall_ism_endpoint",
+    "permalink": "/docs/ism/uninstall_ism_endpoint"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "packaging/rpg",
+  "id": "packaging/rpg",
+  "title": "rpg",
+  "description": "Your RPG applications must meet specific packaging requirements before you can submit them for scanning.",
+  "source": "@site/docs/packaging/25_rpg.md",
+  "sourceDirName": "packaging",
+  "slug": "/packaging/rpg",
+  "permalink": "/docs/packaging/rpg",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/packaging/25_rpg.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 25,
+  "frontMatter": {
+    "ft:title": "RPG Application Packaging",
+    "ft:prettyUrl": "compilation_rpg"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "react",
+    "permalink": "/docs/packaging/react"
+  },
+  "next": {
+    "title": "ruby",
+    "permalink": "/docs/packaging/ruby"
+  }
+}

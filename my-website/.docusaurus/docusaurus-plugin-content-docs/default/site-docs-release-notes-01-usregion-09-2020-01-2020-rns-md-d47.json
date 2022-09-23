@@ -1,0 +1,27 @@
+{
+  "unversionedId": "release_notes/usregion/09_2020/01_2020_rns",
+  "id": "release_notes/usregion/09_2020/01_2020_rns",
+  "title": "01_2020_rns",
+  "description": "View the list below for highlights of releases in 2020.",
+  "source": "@site/docs/release_notes/01_usregion/09_2020/01_2020_rns.md",
+  "sourceDirName": "release_notes/01_usregion/09_2020",
+  "slug": "/release_notes/usregion/09_2020/01_2020_rns",
+  "permalink": "/docs/release_notes/usregion/09_2020/01_2020_rns",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/release_notes/01_usregion/09_2020/01_2020_rns.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "2020 Release Notes",
+    "ft:prettyUrl": "2020_Release_Notes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/release_notes/usregion/09_2020/"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/release_notes/euregion/"
+  }
+}

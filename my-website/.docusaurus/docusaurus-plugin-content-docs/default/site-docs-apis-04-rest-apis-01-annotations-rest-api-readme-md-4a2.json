@@ -1,0 +1,27 @@
+{
+  "unversionedId": "apis/rest_apis/annotations_rest_api/README",
+  "id": "apis/rest_apis/annotations_rest_api/README",
+  "title": "README",
+  "description": "You can use the Veracode Annotations API to annotate findings, including adding comments and proposing, accepting, and rejecting mitigations.",
+  "source": "@site/docs/apis/04_rest_apis/01_annotations_rest_api/README.md",
+  "sourceDirName": "apis/04_rest_apis/01_annotations_rest_api",
+  "slug": "/apis/rest_apis/annotations_rest_api/",
+  "permalink": "/docs/apis/rest_apis/annotations_rest_api/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/04_rest_apis/01_annotations_rest_api/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Annotations REST APIs",
+    "ft:prettyUrl": "c_rest_annotations_intro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/apis/rest_apis/"
+  },
+  "next": {
+    "title": "annotations_api_comment_on_findings",
+    "permalink": "/docs/apis/rest_apis/annotations_rest_api/annotations_api_comment_on_findings"
+  }
+}

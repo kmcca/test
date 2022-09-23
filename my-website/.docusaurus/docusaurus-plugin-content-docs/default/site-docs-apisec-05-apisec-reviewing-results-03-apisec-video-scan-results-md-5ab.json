@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apisec/apisec_reviewing_results/apisec_video_scan_results",
+  "id": "apisec/apisec_reviewing_results/apisec_video_scan_results",
+  "title": "apisec_video_scan_results",
+  "description": "Watch the following video to learn how to review Dynamic Analysis scan results for an API specification.",
+  "source": "@site/docs/apisec/05_apisec_reviewing_results/03_apisec_video_scan_results.md",
+  "sourceDirName": "apisec/05_apisec_reviewing_results",
+  "slug": "/apisec/apisec_reviewing_results/apisec_video_scan_results",
+  "permalink": "/docs/apisec/apisec_reviewing_results/apisec_video_scan_results",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apisec/05_apisec_reviewing_results/03_apisec_video_scan_results.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Video: Review API Scanning Results",
+    "ft:prettyUrl": "Video_Review_API_Scanning_Results"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "apisec_video_prescan_results",
+    "permalink": "/docs/apisec/apisec_reviewing_results/apisec_video_prescan_results"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/build_systems/"
+  }
+}

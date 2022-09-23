@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/rest_apis/applications_rest_api/applications_api_list_modified_date",
+  "id": "apis/rest_apis/applications_rest_api/applications_api_list_modified_date",
+  "title": "applications_api_list_modified_date",
+  "description": "Use this command to return the list of applications modified after a specific date:",
+  "source": "@site/docs/apis/04_rest_apis/02_applications_rest_api/14_applications_api_list_modified_date.md",
+  "sourceDirName": "apis/04_rest_apis/02_applications_rest_api",
+  "slug": "/apis/rest_apis/applications_rest_api/applications_api_list_modified_date",
+  "permalink": "/docs/apis/rest_apis/applications_rest_api/applications_api_list_modified_date",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/04_rest_apis/02_applications_rest_api/14_applications_api_list_modified_date.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "ft:title": "Listing Applications by Last Modified Date with the REST API",
+    "ft:prettyUrl": "r_applications_modified_date"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "applications_api_list_eval_date",
+    "permalink": "/docs/apis/rest_apis/applications_rest_api/applications_api_list_eval_date"
+  },
+  "next": {
+    "title": "applications_api_list_sandboxes",
+    "permalink": "/docs/apis/rest_apis/applications_rest_api/applications_api_list_sandboxes"
+  }
+}

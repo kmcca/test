@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/rest_apis/identity_rest_api/identity_api_list_teams",
+  "id": "apis/rest_apis/identity_rest_api/identity_api_list_teams",
+  "title": "identity_api_list_teams",
+  "description": "These use case scenarios provide the Identity REST API commands for listing all teams of which you are a member and all teams in your organization.",
+  "source": "@site/docs/apis/04_rest_apis/09_identity_rest_api/15_identity_api_list_teams.md",
+  "sourceDirName": "apis/04_rest_apis/09_identity_rest_api",
+  "slug": "/apis/rest_apis/identity_rest_api/identity_api_list_teams",
+  "permalink": "/docs/apis/rest_apis/identity_rest_api/identity_api_list_teams",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/04_rest_apis/09_identity_rest_api/15_identity_api_list_teams.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "ft:title": "Listing Teams with the Identity API",
+    "ft:prettyUrl": "c_identity_list_teams"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "identity_api_add_users_to_team",
+    "permalink": "/docs/apis/rest_apis/identity_rest_api/identity_api_add_users_to_team"
+  },
+  "next": {
+    "title": "identity_api_view_team_details",
+    "permalink": "/docs/apis/rest_apis/identity_rest_api/identity_api_view_team_details"
+  }
+}

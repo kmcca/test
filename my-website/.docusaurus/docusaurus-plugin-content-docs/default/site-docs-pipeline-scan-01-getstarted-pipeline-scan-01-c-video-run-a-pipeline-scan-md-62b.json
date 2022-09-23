@@ -1,0 +1,28 @@
+{
+  "unversionedId": "pipeline_scan/getstarted_pipeline_scan/c_video_run_a_pipeline_scan",
+  "id": "pipeline_scan/getstarted_pipeline_scan/c_video_run_a_pipeline_scan",
+  "title": "c_video_run_a_pipeline_scan",
+  "description": "Watch the following video to learn how a Pipeline Scan runs directly within a CI/CD environment. This demo takes place in a GitLab CI/CD environment where the scan is already configured. You can customize a Pipeline Scan for your unique development workflow.",
+  "source": "@site/docs/pipeline_scan/01_getstarted_pipeline_scan/01_c_video_run_a_pipeline_scan.md",
+  "sourceDirName": "pipeline_scan/01_getstarted_pipeline_scan",
+  "slug": "/pipeline_scan/getstarted_pipeline_scan/c_video_run_a_pipeline_scan",
+  "permalink": "/docs/pipeline_scan/getstarted_pipeline_scan/c_video_run_a_pipeline_scan",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/pipeline_scan/01_getstarted_pipeline_scan/01_c_video_run_a_pipeline_scan.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Video: Run a Pipeline Scan in Your CI/CD Environment",
+    "ft:prettyUrl": "c_video_run_a_pipeline_scan"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/pipeline_scan/getstarted_pipeline_scan/"
+  },
+  "next": {
+    "title": "c_pipeline_scan_prereqs",
+    "permalink": "/docs/pipeline_scan/getstarted_pipeline_scan/c_pipeline_scan_prereqs"
+  }
+}

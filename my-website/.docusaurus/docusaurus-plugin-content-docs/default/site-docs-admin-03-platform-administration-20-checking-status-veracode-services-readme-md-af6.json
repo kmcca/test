@@ -1,0 +1,32 @@
+{
+  "unversionedId": "admin/platform_administration/checking_status_veracode_services/README",
+  "id": "admin/platform_administration/checking_status_veracode_services/README",
+  "title": "README",
+  "description": "You can view the availability status of Veracode services to understand if there are any outages that may impact your ability to access the Veracode Platform and other Veracode sites.",
+  "source": "@site/docs/admin/03_platform_administration/20_checking_status_veracode_services/README.md",
+  "sourceDirName": "admin/03_platform_administration/20_checking_status_veracode_services",
+  "slug": "/admin/platform_administration/checking_status_veracode_services/",
+  "permalink": "/docs/admin/platform_administration/checking_status_veracode_services/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/admin/03_platform_administration/20_checking_status_veracode_services/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Kevin McCarthy"
+    ],
+    "ft:lang": "en-US",
+    "ft:title": "Checking the Status of Veracode Services",
+    "ft:prettyUrl": "c_about_site_status",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "custom_cleanser_administration",
+    "permalink": "/docs/admin/platform_administration/custom_cleanser_administration"
+  },
+  "next": {
+    "title": "calling_status_services_endpoint",
+    "permalink": "/docs/admin/platform_administration/checking_status_veracode_services/calling_status_services_endpoint"
+  }
+}

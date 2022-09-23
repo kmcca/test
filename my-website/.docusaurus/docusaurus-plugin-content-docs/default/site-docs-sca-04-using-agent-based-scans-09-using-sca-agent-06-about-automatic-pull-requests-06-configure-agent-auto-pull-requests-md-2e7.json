@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/using_sca_agent/about_automatic_pull_requests/configure_agent_auto_pull_requests",
+  "id": "SCA/using_agent_based_scans/using_sca_agent/about_automatic_pull_requests/configure_agent_auto_pull_requests",
+  "title": "configure_agent_auto_pull_requests",
+  "description": "You configure parameters of automatic pull requests in your Veracode Software Composition Analysis agent.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/09_using_sca_agent/06_about_automatic_pull_requests/06_configure_agent_auto_pull_requests.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/09_using_sca_agent/06_about_automatic_pull_requests",
+  "slug": "/SCA/using_agent_based_scans/using_sca_agent/about_automatic_pull_requests/configure_agent_auto_pull_requests",
+  "permalink": "/docs/SCA/using_agent_based_scans/using_sca_agent/about_automatic_pull_requests/configure_agent_auto_pull_requests",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/09_using_sca_agent/06_about_automatic_pull_requests/06_configure_agent_auto_pull_requests.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "ft:title": "Configure Agent for Automatic Pull Requests",
+    "ft:prettyUrl": "t_configure_auto_pr"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "auto_pull_request_language_support",
+    "permalink": "/docs/SCA/using_agent_based_scans/using_sca_agent/about_automatic_pull_requests/auto_pull_request_language_support"
+  },
+  "next": {
+    "title": "video_update_advisor_agent_auto_prs",
+    "permalink": "/docs/SCA/using_agent_based_scans/using_sca_agent/about_automatic_pull_requests/video_update_advisor_agent_auto_prs"
+  }
+}

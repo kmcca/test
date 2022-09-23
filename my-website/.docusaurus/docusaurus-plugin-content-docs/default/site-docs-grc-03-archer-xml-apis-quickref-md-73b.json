@@ -1,0 +1,28 @@
+{
+  "unversionedId": "grc/archer_xml_apis_quickref",
+  "id": "grc/archer_xml_apis_quickref",
+  "title": "archer_xml_apis_quickref",
+  "description": "This table lists the XML API calls for getting Archer reports, which you can use for Governance, Risk, and Compliance (GRC). For more detailed information, see the topic for a specific call.",
+  "source": "@site/docs/grc/03_archer_xml_apis_quickref.md",
+  "sourceDirName": "grc",
+  "slug": "/grc/archer_xml_apis_quickref",
+  "permalink": "/docs/grc/archer_xml_apis_quickref",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/grc/03_archer_xml_apis_quickref.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Archer XML APIs Quick Reference",
+    "ft:prettyUrl": "Archer_XML_APIs_Quick_Reference"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "c_about_archer",
+    "permalink": "/docs/grc/c_about_archer"
+  },
+  "next": {
+    "title": "c_archer_xml",
+    "permalink": "/docs/grc/c_archer_xml"
+  }
+}

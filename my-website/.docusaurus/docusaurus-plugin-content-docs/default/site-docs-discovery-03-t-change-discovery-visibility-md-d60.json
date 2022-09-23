@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Discovery/t_change_discovery_visibility",
+  "id": "Discovery/t_change_discovery_visibility",
+  "title": "t_change_discovery_visibility",
+  "description": "You can limit the visibility of the scan results to all Security Leads and specific teams. After a Veracode Discovery scan completes, you can still change who can see the results.",
+  "source": "@site/docs/Discovery/03_t_change_discovery_visibility.md",
+  "sourceDirName": "Discovery",
+  "slug": "/Discovery/t_change_discovery_visibility",
+  "permalink": "/docs/Discovery/t_change_discovery_visibility",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Discovery/03_t_change_discovery_visibility.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Change Visibility of Discovery Scan Results",
+    "ft:prettyUrl": "Change_Visibility_of_Discovery_Results"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "t_request_discovery_scan",
+    "permalink": "/docs/Discovery/t_request_discovery_scan"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/Discovery/discovery_data_dictionary/"
+  }
+}

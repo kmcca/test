@@ -1,0 +1,28 @@
+{
+  "unversionedId": "results_reports/improve/review_third_party_app_vendor",
+  "id": "results_reports/improve/review_third_party_app_vendor",
+  "title": "review_third_party_app_vendor",
+  "description": "In a third-party application scan request, a Veracode customer \\(enterprise\\) requests summary results of an application scan from another party \\(the vendor\\). The vendor receives the detailed results from Veracode, and may propose and approve mitigations for any flaws in the report at any time. If the enterprise has already received the summary results, their report is automatically updated with new approved mitigations.",
+  "source": "@site/docs/results_reports/07_improve/10_review_third_party_app_vendor.md",
+  "sourceDirName": "results_reports/07_improve",
+  "slug": "/results_reports/improve/review_third_party_app_vendor",
+  "permalink": "/docs/results_reports/improve/review_third_party_app_vendor",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/07_improve/10_review_third_party_app_vendor.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "ft:title": "Review a Third-party Application as the Vendor",
+    "ft:prettyUrl": "review_thirdparty"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "working_collaboratively_in_triage_flaws",
+    "permalink": "/docs/results_reports/improve/working_collaboratively_in_triage_flaws"
+  },
+  "next": {
+    "title": "verifying_your_fixes",
+    "permalink": "/docs/results_reports/improve/verifying_your_fixes"
+  }
+}

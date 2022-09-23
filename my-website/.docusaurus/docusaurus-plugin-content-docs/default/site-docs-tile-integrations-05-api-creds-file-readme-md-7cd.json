@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tile_integrations/api_creds_file/README",
+  "id": "tile_integrations/api_creds_file/README",
+  "title": "README",
+  "description": "Some Veracode products require that you provide your Veracode API credentials using a Veracode API credentials file.",
+  "source": "@site/docs/tile_integrations/05_api_creds_file/README.md",
+  "sourceDirName": "tile_integrations/05_api_creds_file",
+  "slug": "/tile_integrations/api_creds_file/",
+  "permalink": "/docs/tile_integrations/api_creds_file/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tile_integrations/05_api_creds_file/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Configuring an API Credentials File",
+    "ft:prettyUrl": "c_configure_api_cred_file"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revoke_api_creds",
+    "permalink": "/docs/tile_integrations/api_creds/revoke_api_creds"
+  },
+  "next": {
+    "title": "configure_creds_file_windows",
+    "permalink": "/docs/tile_integrations/api_creds_file/configure_creds_file_windows"
+  }
+}

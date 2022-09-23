@@ -1,0 +1,28 @@
+{
+  "unversionedId": "packaging/CF",
+  "id": "packaging/CF",
+  "title": "CF",
+  "description": "Your ColdFusion applications must meet specific compilation requirements before you can submit them for scanning.",
+  "source": "@site/docs/packaging/08_CF.md",
+  "sourceDirName": "packaging",
+  "slug": "/packaging/CF",
+  "permalink": "/docs/packaging/CF",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/packaging/08_CF.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "ft:title": "ColdFusion Application Packaging",
+    "ft:prettyUrl": "compilation_CF"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cobol",
+    "permalink": "/docs/packaging/cobol"
+  },
+  "next": {
+    "title": "cplusplus",
+    "permalink": "/docs/packaging/cplusplus"
+  }
+}

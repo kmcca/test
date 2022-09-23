@@ -1,0 +1,33 @@
+{
+  "unversionedId": "results_reports/improve/improve_mitigation/README",
+  "id": "results_reports/improve/improve_mitigation/README",
+  "title": "README",
+  "description": "After Veracode completes a scan of your code, you can apply mitigation actions on any discovered vulnerabilities.",
+  "source": "@site/docs/results_reports/07_improve/01_improve_mitigation/README.md",
+  "sourceDirName": "results_reports/07_improve/01_improve_mitigation",
+  "slug": "/results_reports/improve/improve_mitigation/",
+  "permalink": "/docs/results_reports/improve/improve_mitigation/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/07_improve/01_improve_mitigation/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Kevin McCarthy"
+    ],
+    "ft:originID": "improve_mitigation",
+    "ft:lang": "en-US",
+    "ft:title": "About Mitigating Flaws",
+    "ft:prettyUrl": "improve_mitigation",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/results_reports/improve/"
+  },
+  "next": {
+    "title": "reviewing_flaws_as_team",
+    "permalink": "/docs/results_reports/improve/improve_mitigation/reviewing_flaws_as_team"
+  }
+}

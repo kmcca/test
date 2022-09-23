@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ides/mobile_app_packager/video_install_mobile_pkgr_cli",
+  "id": "ides/mobile_app_packager/video_install_mobile_pkgr_cli",
+  "title": "video_install_mobile_pkgr_cli",
+  "description": "Watch the following short video to learn how to install the Veracode Mobile Application Packager Command-Line Tool and use it to prepare your iOS applications for analysis by the Veracode Platform.",
+  "source": "@site/docs/ides/02_mobile_app_packager/05_video_install_mobile_pkgr_cli.md",
+  "sourceDirName": "ides/02_mobile_app_packager",
+  "slug": "/ides/mobile_app_packager/video_install_mobile_pkgr_cli",
+  "permalink": "/docs/ides/mobile_app_packager/video_install_mobile_pkgr_cli",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/02_mobile_app_packager/05_video_install_mobile_pkgr_cli.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "Video: Install and Package iOS Applications with the Mobile Application Packager Command-Line Tool",
+    "ft:prettyUrl": "c_video_mobile_packager_cli_tool"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mobile_app_pkgr_install_cli_tool",
+    "permalink": "/docs/ides/mobile_app_packager/mobile_app_pkgr_install_cli_tool"
+  },
+  "next": {
+    "title": "manual_install_mobile_app_pkgr_cli_tool",
+    "permalink": "/docs/ides/mobile_app_packager/manual_install_mobile_app_pkgr_cli_tool"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "greenlight/greenlight_eclipse/scan_greenlight_eclipse/greenlight_eclipse_scan_jsp_webspherer",
+  "id": "greenlight/greenlight_eclipse/scan_greenlight_eclipse/greenlight_eclipse_scan_jsp_webspherer",
+  "title": "greenlight_eclipse_scan_jsp_webspherer",
+  "description": "You can use Greenlight for Eclipse to scan JSP files from a WebSphere Server.",
+  "source": "@site/docs/greenlight/04_greenlight_eclipse/02_scan_greenlight_eclipse/06_greenlight_eclipse_scan_jsp_webspherer.md",
+  "sourceDirName": "greenlight/04_greenlight_eclipse/02_scan_greenlight_eclipse",
+  "slug": "/greenlight/greenlight_eclipse/scan_greenlight_eclipse/greenlight_eclipse_scan_jsp_webspherer",
+  "permalink": "/docs/greenlight/greenlight_eclipse/scan_greenlight_eclipse/greenlight_eclipse_scan_jsp_webspherer",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/greenlight/04_greenlight_eclipse/02_scan_greenlight_eclipse/06_greenlight_eclipse_scan_jsp_webspherer.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "ft:title": "Scan JSP Files from a WebSphere Server with Greenlight for Eclipse",
+    "ft:prettyUrl": "Scan_JSP_Files_from_a_WebSphere_Server_in_Greenlight_for_Eclipse"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "greenlight_eclipse_scan_jsp_tomcat",
+    "permalink": "/docs/greenlight/greenlight_eclipse/scan_greenlight_eclipse/greenlight_eclipse_scan_jsp_tomcat"
+  },
+  "next": {
+    "title": "greenlight_eclipse_status_icons",
+    "permalink": "/docs/greenlight/greenlight_eclipse/scan_greenlight_eclipse/greenlight_eclipse_status_icons"
+  }
+}

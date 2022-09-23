@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/rest_apis/pipeline_scan_rest_apis/pipeline_scan_api_start",
+  "id": "apis/rest_apis/pipeline_scan_rest_apis/pipeline_scan_api_start",
+  "title": "pipeline_scan_api_start",
+  "description": "Use this command to start a Pipeline Scan:",
+  "source": "@site/docs/apis/04_rest_apis/11_pipeline_scan_rest_apis/04_pipeline_scan_api_start.md",
+  "sourceDirName": "apis/04_rest_apis/11_pipeline_scan_rest_apis",
+  "slug": "/apis/rest_apis/pipeline_scan_rest_apis/pipeline_scan_api_start",
+  "permalink": "/docs/apis/rest_apis/pipeline_scan_rest_apis/pipeline_scan_api_start",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/04_rest_apis/11_pipeline_scan_rest_apis/04_pipeline_scan_api_start.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "Starting a Pipeline Scan with the REST API",
+    "ft:prettyUrl": "Starting_a_Pipeline_Scan_with_the_REST_API"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pipeline_scan_api_upload_segments",
+    "permalink": "/docs/apis/rest_apis/pipeline_scan_rest_apis/pipeline_scan_api_upload_segments"
+  },
+  "next": {
+    "title": "pipeline_scan_api_view_details",
+    "permalink": "/docs/apis/rest_apis/pipeline_scan_rest_apis/pipeline_scan_api_view_details"
+  }
+}

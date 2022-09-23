@@ -1,0 +1,33 @@
+{
+  "unversionedId": "results_reports/accessing_veracode_reports/README",
+  "id": "results_reports/accessing_veracode_reports/README",
+  "title": "README",
+  "description": "From the Results page, you can view the Veracode and PCI Compliance reports to gain insights into your application security program activity and a better understanding of the business risk of vulnerabilities in your application. In addition, you can download reports, bookmark reports, share results, and schedule a consultation.",
+  "source": "@site/docs/results_reports/08_accessing_veracode_reports/README.md",
+  "sourceDirName": "results_reports/08_accessing_veracode_reports",
+  "slug": "/results_reports/accessing_veracode_reports/",
+  "permalink": "/docs/results_reports/accessing_veracode_reports/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/08_accessing_veracode_reports/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Kevin McCarthy"
+    ],
+    "ft:originID": "c_results_reports",
+    "ft:lang": "en-US",
+    "ft:title": "Accessing Veracode Reports",
+    "ft:prettyUrl": "c_results_reports",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "verifying_your_fixes",
+    "permalink": "/docs/results_reports/improve/verifying_your_fixes"
+  },
+  "next": {
+    "title": "summarized_results",
+    "permalink": "/docs/results_reports/accessing_veracode_reports/summarized_results"
+  }
+}

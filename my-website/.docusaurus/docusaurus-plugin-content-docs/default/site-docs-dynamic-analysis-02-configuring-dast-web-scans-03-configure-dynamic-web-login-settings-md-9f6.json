@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dynamic_analysis/configuring_dast_web_scans/configure_dynamic_web_login_settings",
+  "id": "dynamic_analysis/configuring_dast_web_scans/configure_dynamic_web_login_settings",
+  "title": "configure_dynamic_web_login_settings",
+  "description": "Veracode can use several authentication methods to access your web application for Dynamic Analysis scanning. You can configure an authentication method in the Veracode Platform.",
+  "source": "@site/docs/dynamic_analysis/02_configuring_dast_web_scans/03_configure_dynamic_web_login_settings.md",
+  "sourceDirName": "dynamic_analysis/02_configuring_dast_web_scans",
+  "slug": "/dynamic_analysis/configuring_dast_web_scans/configure_dynamic_web_login_settings",
+  "permalink": "/docs/dynamic_analysis/configuring_dast_web_scans/configure_dynamic_web_login_settings",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dynamic_analysis/02_configuring_dast_web_scans/03_configure_dynamic_web_login_settings.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Authentication Methods for Dynamic Analysis of Web Applications",
+    "ft:prettyUrl": "c_was_login_settings"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dynamic_web_provide_login_creds",
+    "permalink": "/docs/dynamic_analysis/configuring_dast_web_scans/dynamic_web_provide_login_creds"
+  },
+  "next": {
+    "title": "dynamic_web_auth_recommend",
+    "permalink": "/docs/dynamic_analysis/configuring_dast_web_scans/dynamic_web_auth_recommend"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Analytics/customize_visualizations/analytics_video_organizations_dashboards",
+  "id": "Analytics/customize_visualizations/analytics_video_organizations_dashboards",
+  "title": "analytics_video_organizations_dashboards",
+  "description": "Watch the following short video to learn how to create and save a personal dashboard in the Veracode Platform.",
+  "source": "@site/docs/Analytics/03_customize_visualizations/01_analytics_video_organizations_dashboards.md",
+  "sourceDirName": "Analytics/03_customize_visualizations",
+  "slug": "/Analytics/customize_visualizations/analytics_video_organizations_dashboards",
+  "permalink": "/docs/Analytics/customize_visualizations/analytics_video_organizations_dashboards",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Analytics/03_customize_visualizations/01_analytics_video_organizations_dashboards.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Video: Create a Personal Dashboard",
+    "ft:prettyUrl": "c_analytics_embed_video_personal_dashboards"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/Analytics/customize_visualizations/"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/Analytics/save_dashboards/"
+  }
+}

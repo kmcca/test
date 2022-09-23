@@ -1,0 +1,28 @@
+{
+  "unversionedId": "integrations_troubleshootting/troubleshoot_apis_integrations/r_troubleshooting_ides",
+  "id": "integrations_troubleshootting/troubleshoot_apis_integrations/r_troubleshooting_ides",
+  "title": "r_troubleshooting_ides",
+  "description": "This section helps you remedy common problems and understand how better to use Veracode IDE integrations.",
+  "source": "@site/docs/integrations_troubleshootting/03_troubleshoot_apis_integrations/06_r_troubleshooting_ides.md",
+  "sourceDirName": "integrations_troubleshootting/03_troubleshoot_apis_integrations",
+  "slug": "/integrations_troubleshootting/troubleshoot_apis_integrations/r_troubleshooting_ides",
+  "permalink": "/docs/integrations_troubleshootting/troubleshoot_apis_integrations/r_troubleshooting_ides",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/integrations_troubleshootting/03_troubleshoot_apis_integrations/06_r_troubleshooting_ides.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "ft:title": "Troubleshooting IDE Integrations",
+    "ft:prettyUrl": "Troubleshooting_IDE_Integrations"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "r_troubleshooting_greenlight",
+    "permalink": "/docs/integrations_troubleshootting/troubleshoot_apis_integrations/r_troubleshooting_greenlight"
+  },
+  "next": {
+    "title": "r_troubleshooting_sca",
+    "permalink": "/docs/integrations_troubleshootting/troubleshoot_apis_integrations/r_troubleshooting_sca"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/getting_started_sca/using_best_practices_with_sca/sca_best_practices_for_cicd",
+  "id": "SCA/getting_started_sca/using_best_practices_with_sca/sca_best_practices_for_cicd",
+  "title": "sca_best_practices_for_cicd",
+  "description": "Veracode recommends that you follow these best practices to effectively implement Veracode Software Composition Analysis in your automated CI/CD projects.",
+  "source": "@site/docs/SCA/01_getting_started_sca/04_using_best_practices_with_sca/01_sca_best_practices_for_cicd.md",
+  "sourceDirName": "SCA/01_getting_started_sca/04_using_best_practices_with_sca",
+  "slug": "/SCA/getting_started_sca/using_best_practices_with_sca/sca_best_practices_for_cicd",
+  "permalink": "/docs/SCA/getting_started_sca/using_best_practices_with_sca/sca_best_practices_for_cicd",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/01_getting_started_sca/04_using_best_practices_with_sca/01_sca_best_practices_for_cicd.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Veracode SCA Best Practices for Automated CI/CD",
+    "ft:prettyUrl": "Veracode_SCA_Best_Practices_for_Automated_CICD"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/SCA/getting_started_sca/using_best_practices_with_sca/"
+  },
+  "next": {
+    "title": "sca_best_practices_for_compliance",
+    "permalink": "/docs/SCA/getting_started_sca/using_best_practices_with_sca/sca_best_practices_for_compliance"
+  }
+}

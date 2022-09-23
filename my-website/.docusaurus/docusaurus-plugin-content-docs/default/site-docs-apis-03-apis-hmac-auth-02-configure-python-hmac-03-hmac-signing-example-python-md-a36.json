@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/apis_hmac_auth/configure_python_hmac/hmac_signing_example_python",
+  "id": "apis/apis_hmac_auth/configure_python_hmac/hmac_signing_example_python",
+  "title": "hmac_signing_example_python",
+  "description": "Veracode provides a Python library you can use to enable HMAC signing within your application. By default, the Python authentication library assumes you store your API credentials in an API credentials file or that you pass the credentials with environment variables. Veracode highly recommends you use an API credentials file.",
+  "source": "@site/docs/apis/03_apis_hmac_auth/02_configure_python_hmac/03_hmac_signing_example_python.md",
+  "sourceDirName": "apis/03_apis_hmac_auth/02_configure_python_hmac",
+  "slug": "/apis/apis_hmac_auth/configure_python_hmac/hmac_signing_example_python",
+  "permalink": "/docs/apis/apis_hmac_auth/configure_python_hmac/hmac_signing_example_python",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/03_apis_hmac_auth/02_configure_python_hmac/03_hmac_signing_example_python.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "HMAC Signing Example in Python",
+    "ft:prettyUrl": "c_hmac_signing_example_python"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "prepare_ubuntu_for_python",
+    "permalink": "/docs/apis/apis_hmac_auth/configure_python_hmac/prepare_ubuntu_for_python"
+  },
+  "next": {
+    "title": "hmac_signing_example_csharp",
+    "permalink": "/docs/apis/apis_hmac_auth/hmac_signing_example_csharp"
+  }
+}

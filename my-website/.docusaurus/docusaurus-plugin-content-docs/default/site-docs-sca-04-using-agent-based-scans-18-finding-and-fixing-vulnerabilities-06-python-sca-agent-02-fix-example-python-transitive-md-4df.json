@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/python_sca_agent/fix_example_python_transitive",
+  "id": "SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/python_sca_agent/fix_example_python_transitive",
+  "title": "fix_example_python_transitive",
+  "description": "To fix a transitive library for Python, override the transitive dependency by adding the appropriately versioned dependency as a direct library to your configuration file, which can be a requirements.txt or setup.py file.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/06_python_sca_agent/02_fix_example_python_transitive.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/06_python_sca_agent",
+  "slug": "/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/python_sca_agent/fix_example_python_transitive",
+  "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/python_sca_agent/fix_example_python_transitive",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/06_python_sca_agent/02_fix_example_python_transitive.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Fix Example Transitive Vulnerability for Python",
+    "ft:prettyUrl": "Fix_Example_Transitive_Vulnerability_for_Python"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fix_example_python_direct",
+    "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/python_sca_agent/fix_example_python_direct"
+  },
+  "next": {
+    "title": "fix_example_python_vulnerable_method",
+    "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/python_sca_agent/fix_example_python_vulnerable_method"
+  }
+}

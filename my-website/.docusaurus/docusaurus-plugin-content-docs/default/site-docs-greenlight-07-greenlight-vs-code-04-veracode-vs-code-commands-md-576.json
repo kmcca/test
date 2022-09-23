@@ -1,0 +1,28 @@
+{
+  "unversionedId": "greenlight/greenlight_vs_code/veracode_vs_code_commands",
+  "id": "greenlight/greenlight_vs_code/veracode_vs_code_commands",
+  "title": "veracode_vs_code_commands",
+  "description": "You can run Veracode commands from the Command Palette in VS Code.",
+  "source": "@site/docs/greenlight/07_greenlight_vs_code/04_veracode_vs_code_commands.md",
+  "sourceDirName": "greenlight/07_greenlight_vs_code",
+  "slug": "/greenlight/greenlight_vs_code/veracode_vs_code_commands",
+  "permalink": "/docs/greenlight/greenlight_vs_code/veracode_vs_code_commands",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/greenlight/07_greenlight_vs_code/04_veracode_vs_code_commands.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "Run Veracode for VS Code Commands",
+    "ft:prettyUrl": "Run_Veracode_for_VS_Code_Commands"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vs_code_unignore_findings",
+    "permalink": "/docs/greenlight/greenlight_vs_code/review_results_greenlight_vs_code/vs_code_unignore_findings"
+  },
+  "next": {
+    "title": "greenlight_vs_vscode_view_debug_logs",
+    "permalink": "/docs/greenlight/greenlight_vs_code/greenlight_vs_vscode_view_debug_logs"
+  }
+}

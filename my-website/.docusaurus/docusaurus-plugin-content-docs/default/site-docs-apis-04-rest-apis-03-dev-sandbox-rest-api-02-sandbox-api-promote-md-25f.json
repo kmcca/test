@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/rest_apis/dev_sandbox_rest_api/sandbox_api_promote",
+  "id": "apis/rest_apis/dev_sandbox_rest_api/sandbox_api_promote",
+  "title": "sandbox_api_promote",
+  "description": "Use this command to promote the latest scan for the specified sandbox:",
+  "source": "@site/docs/apis/04_rest_apis/03_dev_sandbox_rest_api/02_sandbox_api_promote.md",
+  "sourceDirName": "apis/04_rest_apis/03_dev_sandbox_rest_api",
+  "slug": "/apis/rest_apis/dev_sandbox_rest_api/sandbox_api_promote",
+  "permalink": "/docs/apis/rest_apis/dev_sandbox_rest_api/sandbox_api_promote",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/04_rest_apis/03_dev_sandbox_rest_api/02_sandbox_api_promote.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Promoting a Development Sandbox Scan with the REST API",
+    "ft:prettyUrl": "c_sandbox_create_rest"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sandbox_api_create",
+    "permalink": "/docs/apis/rest_apis/dev_sandbox_rest_api/sandbox_api_create"
+  },
+  "next": {
+    "title": "sandbox_api_update",
+    "permalink": "/docs/apis/rest_apis/dev_sandbox_rest_api/sandbox_api_update"
+  }
+}

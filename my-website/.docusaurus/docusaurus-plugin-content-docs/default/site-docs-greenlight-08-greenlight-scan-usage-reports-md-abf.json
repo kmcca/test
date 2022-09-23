@@ -1,0 +1,28 @@
+{
+  "unversionedId": "greenlight/greenlight_scan_usage_reports",
+  "id": "greenlight/greenlight_scan_usage_reports",
+  "title": "greenlight_scan_usage_reports",
+  "description": "In the Veracode Platform, you can access two reports for reviewing summaries of Greenlight scan usage. You must have the necessary role to access these reports.",
+  "source": "@site/docs/greenlight/08_greenlight_scan_usage_reports.md",
+  "sourceDirName": "greenlight",
+  "slug": "/greenlight/greenlight_scan_usage_reports",
+  "permalink": "/docs/greenlight/greenlight_scan_usage_reports",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/greenlight/08_greenlight_scan_usage_reports.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "ft:title": "About Veracode Greenlight Scan Usage Reports",
+    "ft:prettyUrl": "c_greenlight_reports"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "greenlight_vs_vscode_view_debug_logs",
+    "permalink": "/docs/greenlight/greenlight_vs_code/greenlight_vs_vscode_view_debug_logs"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/ides/"
+  }
+}

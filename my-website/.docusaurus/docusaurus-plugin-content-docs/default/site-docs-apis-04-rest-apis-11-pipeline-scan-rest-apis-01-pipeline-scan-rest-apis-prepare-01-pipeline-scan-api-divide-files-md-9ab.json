@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/rest_apis/pipeline_scan_rest_apis/pipeline_scan_rest_apis_prepare/pipeline_scan_api_divide_files",
+  "id": "apis/rest_apis/pipeline_scan_rest_apis/pipeline_scan_rest_apis_prepare/pipeline_scan_api_divide_files",
+  "title": "pipeline_scan_api_divide_files",
+  "description": "To prepare for uploading application files to a Pipeline Scan, you can divide the files into smaller segments.",
+  "source": "@site/docs/apis/04_rest_apis/11_pipeline_scan_rest_apis/01_pipeline_scan_rest_apis_prepare/01_pipeline_scan_api_divide_files.md",
+  "sourceDirName": "apis/04_rest_apis/11_pipeline_scan_rest_apis/01_pipeline_scan_rest_apis_prepare",
+  "slug": "/apis/rest_apis/pipeline_scan_rest_apis/pipeline_scan_rest_apis_prepare/pipeline_scan_api_divide_files",
+  "permalink": "/docs/apis/rest_apis/pipeline_scan_rest_apis/pipeline_scan_rest_apis_prepare/pipeline_scan_api_divide_files",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/04_rest_apis/11_pipeline_scan_rest_apis/01_pipeline_scan_rest_apis_prepare/01_pipeline_scan_api_divide_files.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Dividing Files into Segments for a Pipeline Scan",
+    "ft:prettyUrl": "Dividing_Files_into_Segments_for_a_Pipeline_Scan"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/apis/rest_apis/pipeline_scan_rest_apis/pipeline_scan_rest_apis_prepare/"
+  },
+  "next": {
+    "title": "pipeline_scan_api_configure",
+    "permalink": "/docs/apis/rest_apis/pipeline_scan_rest_apis/pipeline_scan_api_configure"
+  }
+}

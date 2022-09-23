@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/custom_rules_agent/adding_removing_rearranging_controls_agent",
+  "id": "SCA/using_agent_based_scans/custom_rules_agent/adding_removing_rearranging_controls_agent",
+  "title": "adding_removing_rearranging_controls_agent",
+  "description": "When a rule is in edit mode, you can add new controls, remove controls, and move controls up and down.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/12_custom_rules_agent/07_adding_removing_rearranging_controls_agent.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/12_custom_rules_agent",
+  "slug": "/SCA/using_agent_based_scans/custom_rules_agent/adding_removing_rearranging_controls_agent",
+  "permalink": "/docs/SCA/using_agent_based_scans/custom_rules_agent/adding_removing_rearranging_controls_agent",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/12_custom_rules_agent/07_adding_removing_rearranging_controls_agent.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "ft:title": "Adding, Removing, and Rearranging Controls in Agent-Based Scanning Custom Rules",
+    "ft:prettyUrl": "Adding_Removing_and_Rearranging_Controls_in_Agent_Based_Scanning_Custom_Rules"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "edit_custom_rules_agent",
+    "permalink": "/docs/SCA/using_agent_based_scans/custom_rules_agent/edit_custom_rules_agent"
+  },
+  "next": {
+    "title": "reset_custom_rules_agent",
+    "permalink": "/docs/SCA/using_agent_based_scans/custom_rules_agent/reset_custom_rules_agent"
+  }
+}

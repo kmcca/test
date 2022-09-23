@@ -1,0 +1,28 @@
+{
+  "unversionedId": "build_systems/azure_devops_integration/azure_add_static_release_pipeline",
+  "id": "build_systems/azure_devops_integration/azure_add_static_release_pipeline",
+  "title": "azure_add_static_release_pipeline",
+  "description": "You can configure the Veracode Azure DevOps Extension to add the Veracode Upload and Scan task and the Veracode Flaw Importer task to a release pipeline in Azure DevOps or Team Foundation Server (TFS).",
+  "source": "@site/docs/build_systems/04_azure_devops_integration/06_azure_add_static_release_pipeline.md",
+  "sourceDirName": "build_systems/04_azure_devops_integration",
+  "slug": "/build_systems/azure_devops_integration/azure_add_static_release_pipeline",
+  "permalink": "/docs/build_systems/azure_devops_integration/azure_add_static_release_pipeline",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/build_systems/04_azure_devops_integration/06_azure_add_static_release_pipeline.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "ft:title": "Add the Veracode Azure DevOps Extension to an Azure DevOps or TFS Release Pipeline",
+    "ft:prettyUrl": "t_TFS_config_release_pipe"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "azure_configure_dotnet_build",
+    "permalink": "/docs/build_systems/azure_devops_integration/azure_configure_dotnet_build"
+  },
+  "next": {
+    "title": "azure_create_service_connection",
+    "permalink": "/docs/build_systems/azure_devops_integration/azure_create_service_connection"
+  }
+}

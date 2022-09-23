@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ticketing/jira_integration/README",
+  "id": "ticketing/jira_integration/README",
+  "title": "README",
+  "description": "You can use the Veracode Integration for Jira to import to Jira Server and to Jira Data Center security flaws that Veracode identifies in your application.",
+  "source": "@site/docs/ticketing/04_jira_integration/README.md",
+  "sourceDirName": "ticketing/04_jira_integration",
+  "slug": "/ticketing/jira_integration/",
+  "permalink": "/docs/ticketing/jira_integration/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ticketing/04_jira_integration/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Veracode Integration for Jira",
+    "ft:prettyUrl": "c_jira_about"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "test_bugzilla_integration",
+    "permalink": "/docs/ticketing/bugzilla_integration/test_bugzilla_integration"
+  },
+  "next": {
+    "title": "jira_finding_life_cycle",
+    "permalink": "/docs/ticketing/jira_integration/jira_finding_life_cycle"
+  }
+}

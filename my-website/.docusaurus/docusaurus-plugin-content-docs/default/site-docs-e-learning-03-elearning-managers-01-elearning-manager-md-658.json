@@ -1,0 +1,28 @@
+{
+  "unversionedId": "eLearning/elearningManagers/elearning_manager",
+  "id": "eLearning/elearningManagers/elearning_manager",
+  "title": "elearning_manager",
+  "description": "You can track the progress of your learners who are taking eLearning courses. If you have the Executive and eLearning roles, you can track the progress of all learners in your organization.",
+  "source": "@site/docs/eLearning/03_elearningManagers/01_elearning_manager.md",
+  "sourceDirName": "eLearning/03_elearningManagers",
+  "slug": "/eLearning/elearningManagers/elearning_manager",
+  "permalink": "/docs/eLearning/elearningManagers/elearning_manager",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/eLearning/03_elearningManagers/01_elearning_manager.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Viewing Progress for Team Courses",
+    "ft:prettyUrl": "elearning_manager"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/eLearning/elearningManagers/"
+  },
+  "next": {
+    "title": "c_elearn_manager_learning_level_progress",
+    "permalink": "/docs/eLearning/elearningManagers/c_elearn_manager_learning_level_progress"
+  }
+}

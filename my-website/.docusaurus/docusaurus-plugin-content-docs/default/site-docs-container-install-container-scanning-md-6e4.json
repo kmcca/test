@@ -1,0 +1,27 @@
+{
+  "unversionedId": "container/install_container_scanning",
+  "id": "container/install_container_scanning",
+  "title": "install_container_scanning",
+  "description": "To use Veracode Container Security, you must install the Veracode CLI.",
+  "source": "@site/docs/container/install_container_scanning.md",
+  "sourceDirName": "container",
+  "slug": "/container/install_container_scanning",
+  "permalink": "/docs/container/install_container_scanning",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/container/install_container_scanning.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Install the Veracode CLI",
+    "ft:prettyUrl": ""
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "container_scanning_requirements",
+    "permalink": "/docs/container/container_scanning_requirements"
+  },
+  "next": {
+    "title": "review_container_findings",
+    "permalink": "/docs/container/review_container_findings"
+  }
+}

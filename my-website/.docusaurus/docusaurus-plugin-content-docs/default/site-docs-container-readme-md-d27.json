@@ -1,0 +1,33 @@
+{
+  "unversionedId": "container/README",
+  "id": "container/README",
+  "title": "README",
+  "description": "",
+  "source": "@site/docs/container/README.md",
+  "sourceDirName": "container",
+  "slug": "/container/",
+  "permalink": "/docs/container/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/container/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Mike Howes"
+    ],
+    "ft:originID": "container_security",
+    "ft:lang": "en-US",
+    "ft:title": "Container Security Scanning",
+    "ft:prettyUrl": "Container Security Scanning",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "uninstall_teamcity_plugin",
+    "permalink": "/docs/build_systems/teamcity_integration/uninstall_teamcity_plugin"
+  },
+  "next": {
+    "title": "container_commands",
+    "permalink": "/docs/container/container_commands"
+  }
+}

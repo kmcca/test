@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/api_wrappers/setup_java_wrapper/java_wrapper_config_params",
+  "id": "apis/api_wrappers/setup_java_wrapper/java_wrapper_config_params",
+  "title": "java_wrapper_config_params",
+  "description": "You can configure the API wrapper parameters to specify your Veracode API credentials, the actions to perform, and to add parameters.",
+  "source": "@site/docs/apis/06_api_wrappers/02_setup_java_wrapper/02_java_wrapper_config_params.md",
+  "sourceDirName": "apis/06_api_wrappers/02_setup_java_wrapper",
+  "slug": "/apis/api_wrappers/setup_java_wrapper/java_wrapper_config_params",
+  "permalink": "/docs/apis/api_wrappers/setup_java_wrapper/java_wrapper_config_params",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/06_api_wrappers/02_setup_java_wrapper/02_java_wrapper_config_params.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Configure Java API Wrapper Parameters",
+    "ft:prettyUrl": "t_configuring_java_parameters"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "java_wrapper_verify_authenticity",
+    "permalink": "/docs/apis/api_wrappers/setup_java_wrapper/java_wrapper_verify_authenticity"
+  },
+  "next": {
+    "title": "xml_wrappers_creds_file",
+    "permalink": "/docs/apis/api_wrappers/xml_wrappers_creds_file"
+  }
+}

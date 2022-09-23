@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ides/static_for_intellij_android_studio/manage_results_static_intellij_android/README",
+  "id": "ides/static_for_intellij_android_studio/manage_results_static_intellij_android/README",
+  "title": "README",
+  "description": "After downloading the Veracode scan results, they appear in the Results view in IntelliJ.",
+  "source": "@site/docs/ides/04_static_for_intellij_android_studio/04_manage_results_static_intellij_android/README.md",
+  "sourceDirName": "ides/04_static_for_intellij_android_studio/04_manage_results_static_intellij_android",
+  "slug": "/ides/static_for_intellij_android_studio/manage_results_static_intellij_android/",
+  "permalink": "/docs/ides/static_for_intellij_android_studio/manage_results_static_intellij_android/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/04_static_for_intellij_android_studio/04_manage_results_static_intellij_android/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Working with Scan Results from Within IntelliJ or Android Studio",
+    "ft:prettyUrl": "c_intellilJ_results"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "debug_prescan_static_intellij",
+    "permalink": "/docs/ides/static_for_intellij_android_studio/scan_static_intellij_android/debug_prescan_static_intellij"
+  },
+  "next": {
+    "title": "video_work_with_results_static_intellij",
+    "permalink": "/docs/ides/static_for_intellij_android_studio/manage_results_static_intellij_android/video_work_with_results_static_intellij"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/api_wrappers/install_csharp_wrapper",
+  "id": "apis/api_wrappers/install_csharp_wrapper",
+  "title": "install_csharp_wrapper",
+  "description": "You download the C# wrapper as a ZIP archive from Veracode, extract the installer from the archive and, then, run the installer from the command line.",
+  "source": "@site/docs/apis/06_api_wrappers/01_install_csharp_wrapper.md",
+  "sourceDirName": "apis/06_api_wrappers",
+  "slug": "/apis/api_wrappers/install_csharp_wrapper",
+  "permalink": "/docs/apis/api_wrappers/install_csharp_wrapper",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/06_api_wrappers/01_install_csharp_wrapper.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Install and Use the C# API Wrapper",
+    "ft:prettyUrl": "t_about_Csharp_wrapper"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/apis/api_wrappers/"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/apis/api_wrappers/setup_java_wrapper/"
+  }
+}

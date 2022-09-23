@@ -1,0 +1,28 @@
+{
+  "unversionedId": "admin/platform_administration/assign_application_teams",
+  "id": "admin/platform_administration/assign_application_teams",
+  "title": "assign_application_teams",
+  "description": "You can specify one or more teams that can access an application and its scan results when you create or edit an application profile.",
+  "source": "@site/docs/admin/03_platform_administration/07_assign_application_teams.md",
+  "sourceDirName": "admin/03_platform_administration",
+  "slug": "/admin/platform_administration/assign_application_teams",
+  "permalink": "/docs/admin/platform_administration/assign_application_teams",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/admin/03_platform_administration/07_assign_application_teams.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "ft:title": "Assign an Application to Teams",
+    "ft:prettyUrl": "Assign_an_Application_to_Teams"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "edit_application_profile",
+    "permalink": "/docs/admin/platform_administration/edit_application_profile"
+  },
+  "next": {
+    "title": "view_application_profile",
+    "permalink": "/docs/admin/platform_administration/view_application_profile"
+  }
+}

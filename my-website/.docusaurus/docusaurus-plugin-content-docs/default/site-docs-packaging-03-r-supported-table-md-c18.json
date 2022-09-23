@@ -1,0 +1,28 @@
+{
+  "unversionedId": "packaging/r_supported_table",
+  "id": "packaging/r_supported_table",
+  "title": "r_supported_table",
+  "description": "|Language and Platform|Supported Versions|Initial Support|",
+  "source": "@site/docs/packaging/03_r_supported_table.md",
+  "sourceDirName": "packaging",
+  "slug": "/packaging/r_supported_table",
+  "permalink": "/docs/packaging/r_supported_table",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/packaging/03_r_supported_table.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Supported Languages and Platforms",
+    "ft:prettyUrl": "r_supported_table"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "lambda_layers",
+    "permalink": "/docs/packaging/lambda_layers"
+  },
+  "next": {
+    "title": "android",
+    "permalink": "/docs/packaging/android"
+  }
+}

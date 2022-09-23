@@ -1,0 +1,31 @@
+{
+  "unversionedId": "Mobile/README",
+  "id": "Mobile/README",
+  "title": "README",
+  "description": "",
+  "source": "@site/docs/Mobile/README.md",
+  "sourceDirName": "Mobile",
+  "slug": "/Mobile/",
+  "permalink": "/docs/Mobile/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Mobile/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Scott Jordan"
+    ],
+    "ft:originID": "Mobile",
+    "ft:lang": "en-US",
+    "ft:title": "Understanding Mobile Behavioral Analysis"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "request_manual",
+    "permalink": "/docs/MPT/request_manual"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/Mobile/understanding_mobile/"
+  }
+}

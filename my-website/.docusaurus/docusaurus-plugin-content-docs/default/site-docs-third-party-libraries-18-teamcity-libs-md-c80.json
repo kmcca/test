@@ -1,0 +1,28 @@
+{
+  "unversionedId": "third_party_libraries/teamcity_libs",
+  "id": "third_party_libraries/teamcity_libs",
+  "title": "teamcity_libs",
+  "description": "This section lists the third-party components included in the Veracode TeamCity Plugin with links to the license agreements.",
+  "source": "@site/docs/third_party_libraries/18_teamcity_libs.md",
+  "sourceDirName": "third_party_libraries",
+  "slug": "/third_party_libraries/teamcity_libs",
+  "permalink": "/docs/third_party_libraries/teamcity_libs",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/third_party_libraries/18_teamcity_libs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 18,
+  "frontMatter": {
+    "ft:title": "Veracode TeamCity Plugin Components",
+    "ft:prettyUrl": "Veracode_TeamCity_Plugin_Components"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vs_static_libs",
+    "permalink": "/docs/third_party_libraries/vs_static_libs"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/thirdparty/"
+  }
+}

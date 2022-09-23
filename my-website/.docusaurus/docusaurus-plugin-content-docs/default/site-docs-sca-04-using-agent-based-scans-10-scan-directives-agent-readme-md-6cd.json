@@ -1,0 +1,32 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/scan_directives_agent/README",
+  "id": "SCA/using_agent_based_scans/scan_directives_agent/README",
+  "title": "README",
+  "description": "Veracode Software Composition Analysis (SCA) agents support scans that include per-scan directives, known as scan directives. To specify these scan directives on a per-project basis, include a srcclr.yml file at the root of the scan.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/10_scan_directives_agent/README.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/10_scan_directives_agent",
+  "slug": "/SCA/using_agent_based_scans/scan_directives_agent/",
+  "permalink": "/docs/SCA/using_agent_based_scans/scan_directives_agent/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/10_scan_directives_agent/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Kevin McCarthy"
+    ],
+    "ft:lang": "en-US",
+    "ft:title": "Using Scan Directives for Agent-Based Scanning",
+    "ft:prettyUrl": "c_sc_scan_directives",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "using_agent_ci_script",
+    "permalink": "/docs/SCA/using_agent_based_scans/using_sca_agent/using_agent_ci_script"
+  },
+  "next": {
+    "title": "agent_scan_directives",
+    "permalink": "/docs/SCA/using_agent_based_scans/scan_directives_agent/agent_scan_directives"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "unversionedId": "packaging/README",
+  "id": "packaging/README",
+  "title": "README",
+  "description": "",
+  "source": "@site/docs/packaging/README.md",
+  "sourceDirName": "packaging",
+  "slug": "/packaging/",
+  "permalink": "/docs/packaging/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/packaging/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Scott Jordan"
+    ],
+    "ft:originID": "packaging_requirements",
+    "ft:lang": "en-US",
+    "ft:title": "Veracode Packaging Requirements",
+    "ft:prettyUrl": "compilation_packaging",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ism_diagnostic_parameters",
+    "permalink": "/docs/ism/test_ism_endpoint_diagnostic/ism_diagnostic_parameters"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/packaging/understanding_packaging/"
+  }
+}

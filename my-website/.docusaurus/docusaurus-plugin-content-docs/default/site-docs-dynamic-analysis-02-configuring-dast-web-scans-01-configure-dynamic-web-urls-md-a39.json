@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dynamic_analysis/configuring_dast_web_scans/configure_dynamic_web_urls",
+  "id": "dynamic_analysis/configuring_dast_web_scans/configure_dynamic_web_urls",
+  "title": "configure_dynamic_web_urls",
+  "description": "In the Veracode Platform, you can configure Dynamic Analysis scan settings for each web application or API specification.",
+  "source": "@site/docs/dynamic_analysis/02_configuring_dast_web_scans/01_configure_dynamic_web_urls.md",
+  "sourceDirName": "dynamic_analysis/02_configuring_dast_web_scans",
+  "slug": "/dynamic_analysis/configuring_dast_web_scans/configure_dynamic_web_urls",
+  "permalink": "/docs/dynamic_analysis/configuring_dast_web_scans/configure_dynamic_web_urls",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dynamic_analysis/02_configuring_dast_web_scans/01_configure_dynamic_web_urls.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Configuring Dynamic Analysis URL Settings",
+    "ft:prettyUrl": "c_was_conf_url3"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/dynamic_analysis/configuring_dast_web_scans/"
+  },
+  "next": {
+    "title": "dynamic_web_provide_login_creds",
+    "permalink": "/docs/dynamic_analysis/configuring_dast_web_scans/dynamic_web_provide_login_creds"
+  }
+}

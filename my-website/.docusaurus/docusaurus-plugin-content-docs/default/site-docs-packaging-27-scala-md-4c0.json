@@ -1,0 +1,28 @@
+{
+  "unversionedId": "packaging/scala",
+  "id": "packaging/scala",
+  "title": "scala",
+  "description": "Your Scala applications must meet specific compilation requirements before you can submit them for scanning.",
+  "source": "@site/docs/packaging/27_scala.md",
+  "sourceDirName": "packaging",
+  "slug": "/packaging/scala",
+  "permalink": "/docs/packaging/scala",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/packaging/27_scala.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 27,
+  "frontMatter": {
+    "ft:title": "Scala Application Packaging",
+    "ft:prettyUrl": "compilation_scala"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ruby",
+    "permalink": "/docs/packaging/ruby"
+  },
+  "next": {
+    "title": "sql",
+    "permalink": "/docs/packaging/sql"
+  }
+}

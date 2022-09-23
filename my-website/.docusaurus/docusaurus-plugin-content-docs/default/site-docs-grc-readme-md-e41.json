@@ -1,0 +1,32 @@
+{
+  "unversionedId": "grc/README",
+  "id": "grc/README",
+  "title": "README",
+  "description": "",
+  "source": "@site/docs/grc/README.md",
+  "sourceDirName": "grc",
+  "slug": "/grc/",
+  "permalink": "/docs/grc/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/grc/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Mike Howes"
+    ],
+    "ft:originID": "grc",
+    "ft:lang": "en-US",
+    "ft:title": "GRCs",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "elearning_rec_courses",
+    "permalink": "/docs/eLearning/elearningUsers/elearning_rec_courses"
+  },
+  "next": {
+    "title": "c_about_grc",
+    "permalink": "/docs/grc/c_about_grc"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Static/request_static_scan_options",
+  "id": "Static/request_static_scan_options",
+  "title": "request_static_scan_options",
+  "description": "You can begin the process of requesting a static scan from the Applications page.",
+  "source": "@site/docs/Static/03_request_static_scan_options.md",
+  "sourceDirName": "Static",
+  "slug": "/Static/request_static_scan_options",
+  "permalink": "/docs/Static/request_static_scan_options",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Static/03_request_static_scan_options.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Request a Static Scan and Configure Scan Options",
+    "ft:prettyUrl": "Request_a_Static_Scan_and_Configure_Scan_Options"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "request_master",
+    "permalink": "/docs/Static/request_master"
+  },
+  "next": {
+    "title": "video_request_a_static_scan",
+    "permalink": "/docs/Static/video_request_a_static_scan"
+  }
+}

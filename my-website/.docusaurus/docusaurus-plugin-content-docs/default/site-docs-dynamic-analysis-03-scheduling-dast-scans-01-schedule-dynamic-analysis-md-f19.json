@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dynamic_analysis/scheduling_dast_scans/schedule_dynamic_analysis.",
+  "id": "dynamic_analysis/scheduling_dast_scans/schedule_dynamic_analysis.",
+  "title": "schedule_dynamic_analysis.",
+  "description": "You can configure a one-time schedule for running a Dynamic Analysis web application scan or API specification scan.",
+  "source": "@site/docs/dynamic_analysis/03_scheduling_dast_scans/01_schedule_dynamic_analysis..md",
+  "sourceDirName": "dynamic_analysis/03_scheduling_dast_scans",
+  "slug": "/dynamic_analysis/scheduling_dast_scans/schedule_dynamic_analysis.",
+  "permalink": "/docs/dynamic_analysis/scheduling_dast_scans/schedule_dynamic_analysis.",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dynamic_analysis/03_scheduling_dast_scans/01_schedule_dynamic_analysis..md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Schedule a One-Tme Dynamic Analysis",
+    "ft:prettyUrl": "t_was_schedule"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/dynamic_analysis/scheduling_dast_scans/"
+  },
+  "next": {
+    "title": "schedule_recurring_dynamic_analysis",
+    "permalink": "/docs/dynamic_analysis/scheduling_dast_scans/schedule_recurring_dynamic_analysis"
+  }
+}

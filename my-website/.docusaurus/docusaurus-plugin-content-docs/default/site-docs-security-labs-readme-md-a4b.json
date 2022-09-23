@@ -1,0 +1,33 @@
+{
+  "unversionedId": "Security_Labs/README",
+  "id": "Security_Labs/README",
+  "title": "README",
+  "description": "Veracode Security Labs provide interactive training labs that give developers practical security knowledge.",
+  "source": "@site/docs/Security_Labs/README.md",
+  "sourceDirName": "Security_Labs",
+  "slug": "/Security_Labs/",
+  "permalink": "/docs/Security_Labs/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Security_Labs/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Scott Jordan"
+    ],
+    "ft:originID": "Security_Labs",
+    "ft:lang": "en-US",
+    "ft:title": "Veracode Security Labs",
+    "ft:prettyUrl": "Veracode_Security_Labs",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "c_about_jenkins_sandbox",
+    "permalink": "/docs/Sandbox/using_dev_sandboxes_ides/c_about_jenkins_sandbox"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/Security_Labs/getting_started/"
+  }
+}

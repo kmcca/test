@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Security_Labs/customize/create_modules",
+  "id": "Security_Labs/customize/create_modules",
+  "title": "create_modules",
+  "description": "You can create Security Labs modules, which are topic holders for one or more labs.",
+  "source": "@site/docs/Security_Labs/03_customize/04_create_modules.md",
+  "sourceDirName": "Security_Labs/03_customize",
+  "slug": "/Security_Labs/customize/create_modules",
+  "permalink": "/docs/Security_Labs/customize/create_modules",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Security_Labs/03_customize/04_create_modules.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "Create Security Labs Modules",
+    "ft:prettyUrl": "Create_Security_Labs_Modules"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "edit_modules",
+    "permalink": "/docs/Security_Labs/customize/edit_modules"
+  },
+  "next": {
+    "title": "edit_labs",
+    "permalink": "/docs/Security_Labs/customize/edit_labs"
+  }
+}

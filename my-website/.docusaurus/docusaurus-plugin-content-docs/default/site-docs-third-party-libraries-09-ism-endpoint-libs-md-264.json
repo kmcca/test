@@ -1,0 +1,28 @@
+{
+  "unversionedId": "third_party_libraries/ism_endpoint_libs",
+  "id": "third_party_libraries/ism_endpoint_libs",
+  "title": "ism_endpoint_libs",
+  "description": "This section lists the third-party components included in the Veracode Internal Scanning Management (ISM) endpoint with links to the license agreements.",
+  "source": "@site/docs/third_party_libraries/09_ism_endpoint_libs.md",
+  "sourceDirName": "third_party_libraries",
+  "slug": "/third_party_libraries/ism_endpoint_libs",
+  "permalink": "/docs/third_party_libraries/ism_endpoint_libs",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/third_party_libraries/09_ism_endpoint_libs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "ft:title": "Veracode ISM Endpoint Components",
+    "ft:prettyUrl": "Veracode_ISM_Endpoint_Components"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jira_cloud_libs",
+    "permalink": "/docs/third_party_libraries/jira_cloud_libs"
+  },
+  "next": {
+    "title": "ism_gateway_libs",
+    "permalink": "/docs/third_party_libraries/ism_gateway_libs"
+  }
+}

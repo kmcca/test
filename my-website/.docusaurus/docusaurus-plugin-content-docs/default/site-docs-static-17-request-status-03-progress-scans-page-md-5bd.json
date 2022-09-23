@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Static/request_status/progress_scans_page",
+  "id": "Static/request_status/progress_scans_page",
+  "title": "progress_scans_page",
+  "description": "You can select the In Progress view to obtain the status of all applications that Veracode is currently scanning.",
+  "source": "@site/docs/Static/17_request_status/03_progress_scans_page.md",
+  "sourceDirName": "Static/17_request_status",
+  "slug": "/Static/request_status/progress_scans_page",
+  "permalink": "/docs/Static/request_status/progress_scans_page",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Static/17_request_status/03_progress_scans_page.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "View Scan Status on the In Progress Scans Page",
+    "ft:prettyUrl": "Viewing_Scan_Status_on_the_In_Progress_Scans_Page"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "status_on_the_application_overview",
+    "permalink": "/docs/Static/request_status/status_on_the_application_overview"
+  },
+  "next": {
+    "title": "understanding_status_values",
+    "permalink": "/docs/Static/request_status/understanding_status_values"
+  }
+}

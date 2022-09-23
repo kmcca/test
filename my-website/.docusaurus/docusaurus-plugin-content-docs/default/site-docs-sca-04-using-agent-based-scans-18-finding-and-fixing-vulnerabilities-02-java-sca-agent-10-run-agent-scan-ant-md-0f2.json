@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/run_agent_scan_ant",
+  "id": "SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/run_agent_scan_ant",
+  "title": "run_agent_scan_ant",
+  "description": "Before You Begin",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/02_java_sca_agent/10_run_agent_scan_ant.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/02_java_sca_agent",
+  "slug": "/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/run_agent_scan_ant",
+  "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/run_agent_scan_ant",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/02_java_sca_agent/10_run_agent_scan_ant.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "ft:title": "Run an Agent-Based Scan for Ant",
+    "ft:prettyUrl": "Run_an_Agent_Based_Scan_for_Ant"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fix_example_gradle_vulnerable_method",
+    "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/fix_example_gradle_vulnerable_method"
+  },
+  "next": {
+    "title": "fix_example_ant_direct",
+    "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/fix_example_ant_direct"
+  }
+}

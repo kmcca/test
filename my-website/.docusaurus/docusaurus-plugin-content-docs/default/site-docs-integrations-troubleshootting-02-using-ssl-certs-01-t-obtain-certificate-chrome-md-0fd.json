@@ -1,0 +1,28 @@
+{
+  "unversionedId": "integrations_troubleshootting/using_ssl_certs/t_obtain_certificate_chrome",
+  "id": "integrations_troubleshootting/using_ssl_certs/t_obtain_certificate_chrome",
+  "title": "t_obtain_certificate_chrome",
+  "description": "You can use Google Chrome to obtain an SSL certificate for accessing Veracode.",
+  "source": "@site/docs/integrations_troubleshootting/02_using_ssl_certs/01_t_obtain_certificate_chrome.md",
+  "sourceDirName": "integrations_troubleshootting/02_using_ssl_certs",
+  "slug": "/integrations_troubleshootting/using_ssl_certs/t_obtain_certificate_chrome",
+  "permalink": "/docs/integrations_troubleshootting/using_ssl_certs/t_obtain_certificate_chrome",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/integrations_troubleshootting/02_using_ssl_certs/01_t_obtain_certificate_chrome.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Obtain a Certificate Using Chrome",
+    "ft:prettyUrl": "t_obtain_certificate_chrome"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/integrations_troubleshootting/using_ssl_certs/"
+  },
+  "next": {
+    "title": "t_obtain_certificate_ie",
+    "permalink": "/docs/integrations_troubleshootting/using_ssl_certs/t_obtain_certificate_ie"
+  }
+}

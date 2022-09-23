@@ -1,0 +1,33 @@
+{
+  "unversionedId": "results_reports/review_methodology/README",
+  "id": "results_reports/review_methodology/README",
+  "title": "README",
+  "description": "Veracode provides a unique methodology with its Static Analysis and Dynamic Analysis products to identify security flaws in applications.",
+  "source": "@site/docs/results_reports/09_review_methodology/README.md",
+  "sourceDirName": "results_reports/09_review_methodology",
+  "slug": "/results_reports/review_methodology/",
+  "permalink": "/docs/results_reports/review_methodology/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/09_review_methodology/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Kevin McCarthy"
+    ],
+    "ft:originID": "review_methodology",
+    "ft:lang": "en-US",
+    "ft:title": "Understanding Veracode Scoring and Methodology",
+    "ft:prettyUrl": "review_methodology",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "share_reports_from_platform",
+    "permalink": "/docs/results_reports/accessing_veracode_reports/share_reports_from_platform"
+  },
+  "next": {
+    "title": "flaw_methodology",
+    "permalink": "/docs/results_reports/review_methodology/flaw_methodology"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Static/request_status/delete_completed_scan",
+  "id": "Static/request_status/delete_completed_scan",
+  "title": "delete_completed_scan",
+  "description": "You can use the Veracode Platform to delete a Static Analysis policy scan that completes successfully.",
+  "source": "@site/docs/Static/17_request_status/08_delete_completed_scan.md",
+  "sourceDirName": "Static/17_request_status",
+  "slug": "/Static/request_status/delete_completed_scan",
+  "permalink": "/docs/Static/request_status/delete_completed_scan",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Static/17_request_status/08_delete_completed_scan.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "ft:title": "Delete a Completed Policy Scan",
+    "ft:prettyUrl": "Delete_a_Completed_Policy_Scan"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "delete_scan_request",
+    "permalink": "/docs/Static/request_status/delete_scan_request"
+  },
+  "next": {
+    "title": "data_retention",
+    "permalink": "/docs/Static/data_retention"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "unversionedId": "admin/signing_on/jit_provisioning_migration/README",
+  "id": "admin/signing_on/jit_provisioning_migration/README",
+  "title": "README",
+  "description": "In July 2022, Veracode introduced the Single Sign-on and Just-In-Time (JIT) Provisioning feature. Because of changes in the SSO settings, there are steps you must perform to migrate to the new feature. Some benefits of the new feature include:",
+  "source": "@site/docs/admin/01_signing_on/03_jit_provisioning_migration/README.md",
+  "sourceDirName": "admin/01_signing_on/03_jit_provisioning_migration",
+  "slug": "/admin/signing_on/jit_provisioning_migration/",
+  "permalink": "/docs/admin/signing_on/jit_provisioning_migration/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/admin/01_signing_on/03_jit_provisioning_migration/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Kevin McCarthy"
+    ],
+    "ft:title": "About Migrating to JIT Provisioning",
+    "ft:prettyUrl": "About_Migrating_to_Just_In_Time_Provisioning"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "configure_saml_self_registration",
+    "permalink": "/docs/admin/signing_on/using_saml_self_registration/configure_saml_self_registration"
+  },
+  "next": {
+    "title": "migrate_to_jit_provisioning_sso",
+    "permalink": "/docs/admin/signing_on/jit_provisioning_migration/migrate_to_jit_provisioning_sso"
+  }
+}

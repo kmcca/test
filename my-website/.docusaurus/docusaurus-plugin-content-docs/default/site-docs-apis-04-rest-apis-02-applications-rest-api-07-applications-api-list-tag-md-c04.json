@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/rest_apis/applications_rest_api/applications_api_list_tag",
+  "id": "apis/rest_apis/applications_rest_api/applications_api_list_tag",
+  "title": "applications_api_list_tag",
+  "description": "Use this command to return a list of applications that have a specific tag:",
+  "source": "@site/docs/apis/04_rest_apis/02_applications_rest_api/07_applications_api_list_tag.md",
+  "sourceDirName": "apis/04_rest_apis/02_applications_rest_api",
+  "slug": "/apis/rest_apis/applications_rest_api/applications_api_list_tag",
+  "permalink": "/docs/apis/rest_apis/applications_rest_api/applications_api_list_tag",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/04_rest_apis/02_applications_rest_api/07_applications_api_list_tag.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "ft:title": "Listing Applications by Tag with the REST API",
+    "ft:prettyUrl": "r_applications_tag"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "applications_api_list",
+    "permalink": "/docs/apis/rest_apis/applications_rest_api/applications_api_list"
+  },
+  "next": {
+    "title": "applications_api_list_any_tag",
+    "permalink": "/docs/apis/rest_apis/applications_rest_api/applications_api_list_any_tag"
+  }
+}

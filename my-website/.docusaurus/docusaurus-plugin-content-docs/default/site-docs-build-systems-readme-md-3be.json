@@ -1,0 +1,33 @@
+{
+  "unversionedId": "build_systems/README",
+  "id": "build_systems/README",
+  "title": "README",
+  "description": "",
+  "source": "@site/docs/build_systems/README.md",
+  "sourceDirName": "build_systems",
+  "slug": "/build_systems/",
+  "permalink": "/docs/build_systems/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/build_systems/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Mike Howes"
+    ],
+    "ft:originID": "build_systems",
+    "ft:lang": "en-US",
+    "ft:title": "Build and Release Management",
+    "ft:prettyUrl": "Build_and_Release_Management",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "apisec_video_scan_results",
+    "permalink": "/docs/apisec/apisec_reviewing_results/apisec_video_scan_results"
+  },
+  "next": {
+    "title": "integrating_build_systems",
+    "permalink": "/docs/build_systems/integrating_build_systems"
+  }
+}

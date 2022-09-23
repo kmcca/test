@@ -1,0 +1,27 @@
+{
+  "unversionedId": "greenlight/greenlight_eclipse/scan_greenlight_eclipse/greenlight_eclipse_scan_maven_gradle/README",
+  "id": "greenlight/greenlight_eclipse/scan_greenlight_eclipse/greenlight_eclipse_scan_maven_gradle/README",
+  "title": "README",
+  "description": "Veracode Greenlight for Eclipse only supports Eclipse binaries, which means you may experience problems when scanning projects built with third-party build automation tools, such as Maven or Gradle. If you are compiling with Maven or Gradle, Veracode recommends that you use the Eclipse plugin for that build tool to import your files.",
+  "source": "@site/docs/greenlight/04_greenlight_eclipse/02_scan_greenlight_eclipse/04_greenlight_eclipse_scan_maven_gradle/README.md",
+  "sourceDirName": "greenlight/04_greenlight_eclipse/02_scan_greenlight_eclipse/04_greenlight_eclipse_scan_maven_gradle",
+  "slug": "/greenlight/greenlight_eclipse/scan_greenlight_eclipse/greenlight_eclipse_scan_maven_gradle/",
+  "permalink": "/docs/greenlight/greenlight_eclipse/scan_greenlight_eclipse/greenlight_eclipse_scan_maven_gradle/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/greenlight/04_greenlight_eclipse/02_scan_greenlight_eclipse/04_greenlight_eclipse_scan_maven_gradle/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Troubleshooting Maven or Gradle Projects Scanned with Greenlight for Eclipse",
+    "ft:prettyUrl": "c_eclipse_thirdparty"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "video_greenlight_eclipse_scan_java",
+    "permalink": "/docs/greenlight/greenlight_eclipse/scan_greenlight_eclipse/video_greenlight_eclipse_scan_java"
+  },
+  "next": {
+    "title": "greenlight_eclipse_tshoot_gradle",
+    "permalink": "/docs/greenlight/greenlight_eclipse/scan_greenlight_eclipse/greenlight_eclipse_scan_maven_gradle/greenlight_eclipse_tshoot_gradle"
+  }
+}

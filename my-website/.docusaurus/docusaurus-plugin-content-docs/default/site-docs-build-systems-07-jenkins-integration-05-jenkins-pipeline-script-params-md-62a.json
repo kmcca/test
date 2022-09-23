@@ -1,0 +1,28 @@
+{
+  "unversionedId": "build_systems/jenkins_integration/jenkins_pipeline_script_params",
+  "id": "build_systems/jenkins_integration/jenkins_pipeline_script_params",
+  "title": "jenkins_pipeline_script_params",
+  "description": "This table describes the parameters and their values for using the Jenkins Plugin in a build script. The script is Apache Groovy.",
+  "source": "@site/docs/build_systems/07_jenkins_integration/05_jenkins_pipeline_script_params.md",
+  "sourceDirName": "build_systems/07_jenkins_integration",
+  "slug": "/build_systems/jenkins_integration/jenkins_pipeline_script_params",
+  "permalink": "/docs/build_systems/jenkins_integration/jenkins_pipeline_script_params",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/build_systems/07_jenkins_integration/05_jenkins_pipeline_script_params.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "Veracode Jenkins Plugin Script Parameters",
+    "ft:prettyUrl": "r_jenkins_pipeline_script_params"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jenkins_add_pipeline_static_job_creds_binding",
+    "permalink": "/docs/build_systems/jenkins_integration/jenkins_add_pipeline_static_job_creds_binding"
+  },
+  "next": {
+    "title": "jenkins_using_sandboxes",
+    "permalink": "/docs/build_systems/jenkins_integration/jenkins_using_sandboxes"
+  }
+}

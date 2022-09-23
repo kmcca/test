@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/rest_apis/applications_rest_api/applications_api_create_assign_team",
+  "id": "apis/rest_apis/applications_rest_api/applications_api_create_assign_team",
+  "title": "applications_api_create_assign_team",
+  "description": "Use this command to create an application:",
+  "source": "@site/docs/apis/04_rest_apis/02_applications_rest_api/02_applications_api_create_assign_team.md",
+  "sourceDirName": "apis/04_rest_apis/02_applications_rest_api",
+  "slug": "/apis/rest_apis/applications_rest_api/applications_api_create_assign_team",
+  "permalink": "/docs/apis/rest_apis/applications_rest_api/applications_api_create_assign_team",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/04_rest_apis/02_applications_rest_api/02_applications_api_create_assign_team.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Creating an Application Assigned to a Team with the REST API",
+    "ft:prettyUrl": "r_applications_create_assign_team"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "applications_api_create",
+    "permalink": "/docs/apis/rest_apis/applications_rest_api/applications_api_create"
+  },
+  "next": {
+    "title": "applications_api_update",
+    "permalink": "/docs/apis/rest_apis/applications_rest_api/applications_api_update"
+  }
+}

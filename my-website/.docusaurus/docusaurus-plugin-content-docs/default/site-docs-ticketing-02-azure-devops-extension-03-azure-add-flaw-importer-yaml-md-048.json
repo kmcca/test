@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ticketing/azure_devops_extension/azure_add_flaw_importer_yaml",
+  "id": "ticketing/azure_devops_extension/azure_add_flaw_importer_yaml",
+  "title": "azure_add_flaw_importer_yaml",
+  "description": "You can use YAML to add the Veracode Flaw Importer task to your Azure DevOps and Team Foundation Server \\(TFS\\) build pipelines. The task uses the Veracode Azure DevOps Extension to automatically import flaw and vulnerabilities as work items.",
+  "source": "@site/docs/ticketing/02_azure_devops_extension/03_azure_add_flaw_importer_yaml.md",
+  "sourceDirName": "ticketing/02_azure_devops_extension",
+  "slug": "/ticketing/azure_devops_extension/azure_add_flaw_importer_yaml",
+  "permalink": "/docs/ticketing/azure_devops_extension/azure_add_flaw_importer_yaml",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ticketing/02_azure_devops_extension/03_azure_add_flaw_importer_yaml.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Use YAML to Configure Azure DevOps Pipelines for Importing Flaws and Vulnerabilities",
+    "ft:prettyUrl": "Use_YAML_to_Configure_Azure_DevOps_Pipelines_for_Importing_Flaws"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "use_custom_flaw_templates_azure",
+    "permalink": "/docs/ticketing/azure_devops_extension/use_custom_flaw_templates_azure"
+  },
+  "next": {
+    "title": "azure_flaw_import_yaml_props",
+    "permalink": "/docs/ticketing/azure_devops_extension/azure_flaw_import_yaml_props"
+  }
+}

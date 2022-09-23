@@ -1,0 +1,28 @@
+{
+  "unversionedId": "third_party_libraries/eclipse_static_libs",
+  "id": "third_party_libraries/eclipse_static_libs",
+  "title": "eclipse_static_libs",
+  "description": "This section lists the third-party components included in Veracode Static for Eclipse with links to the license agreements.",
+  "source": "@site/docs/third_party_libraries/16_eclipse_static_libs.md",
+  "sourceDirName": "third_party_libraries",
+  "slug": "/third_party_libraries/eclipse_static_libs",
+  "permalink": "/docs/third_party_libraries/eclipse_static_libs",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/third_party_libraries/16_eclipse_static_libs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "ft:title": "Veracode Static for Eclipse Components",
+    "ft:prettyUrl": "Veracode_Static_for_Eclipse_Components"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "static_analysis_libs",
+    "permalink": "/docs/third_party_libraries/static_analysis_libs"
+  },
+  "next": {
+    "title": "vs_static_libs",
+    "permalink": "/docs/third_party_libraries/vs_static_libs"
+  }
+}

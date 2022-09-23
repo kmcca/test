@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ides/static_for_visual_studio_legacy/create_build_static_vs_legacy/precompile_manually_static_vs_legacy",
+  "id": "ides/static_for_visual_studio_legacy/create_build_static_vs_legacy/precompile_manually_static_vs_legacy",
+  "title": "precompile_manually_static_vs_legacy",
+  "description": "You can choose to manually precompile your builds when they complete if you do not want them to precompile automatically, which is the default.",
+  "source": "@site/docs/ides/06_static_for_visual_studio_legacy/05_create_build_static_vs_legacy/01_precompile_manually_static_vs_legacy.md",
+  "sourceDirName": "ides/06_static_for_visual_studio_legacy/05_create_build_static_vs_legacy",
+  "slug": "/ides/static_for_visual_studio_legacy/create_build_static_vs_legacy/precompile_manually_static_vs_legacy",
+  "permalink": "/docs/ides/static_for_visual_studio_legacy/create_build_static_vs_legacy/precompile_manually_static_vs_legacy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/06_static_for_visual_studio_legacy/05_create_build_static_vs_legacy/01_precompile_manually_static_vs_legacy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Manually Precompile Web Projects Using Visual Studio (Legacy)",
+    "ft:prettyUrl": "Precompile_Web_Projects_Using_Visual_Studio"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/ides/static_for_visual_studio_legacy/create_build_static_vs_legacy/"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/ides/static_for_visual_studio_legacy/scan_static_vs_legacy/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ides/static_for_visual_studio_new/open_source_scripts_static_vs_2019_2022_new",
+  "id": "ides/static_for_visual_studio_new/open_source_scripts_static_vs_2019_2022_new",
+  "title": "open_source_scripts_static_vs_2019_2022_new",
+  "description": "Note: This topic is for the new Veracode Static for Visual Studio released April 2022. For the legacy versions of Veracode Static for Visual Studio, see Veracode Static for Visual Studio (Legacy).",
+  "source": "@site/docs/ides/05_static_for_visual_studio_new/09_open_source_scripts_static_vs_2019_2022_new.md",
+  "sourceDirName": "ides/05_static_for_visual_studio_new",
+  "slug": "/ides/static_for_visual_studio_new/open_source_scripts_static_vs_2019_2022_new",
+  "permalink": "/docs/ides/static_for_visual_studio_new/open_source_scripts_static_vs_2019_2022_new",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/05_static_for_visual_studio_new/09_open_source_scripts_static_vs_2019_2022_new.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "ft:title": "Open Source Scripts for Veracode Static for Visual Studio",
+    "ft:prettyUrl": "Open_Source_Scripts_for_Veracode_Static_for_Visual_Studio"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tshooting_static_vs_2019_2022_new",
+    "permalink": "/docs/ides/static_for_visual_studio_new/tshooting_static_vs_2019_2022_new"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/ides/static_for_visual_studio_legacy/"
+  }
+}

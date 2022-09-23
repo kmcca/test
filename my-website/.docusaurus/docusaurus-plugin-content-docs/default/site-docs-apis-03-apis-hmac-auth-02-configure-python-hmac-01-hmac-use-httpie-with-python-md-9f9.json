@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/apis_hmac_auth/configure_python_hmac/hmac_use_httpie_with_python",
+  "id": "apis/apis_hmac_auth/configure_python_hmac/hmac_use_httpie_with_python",
+  "title": "hmac_use_httpie_with_python",
+  "description": "The Veracode APIs require that you enable HMAC authentication for your Python application as a security measure for accessing API resources. The Python authentication library provides an integration between HTTPie and the Veracode APIs, which adds HMAC authentication when using the Veracode APIs from the command line.",
+  "source": "@site/docs/apis/03_apis_hmac_auth/02_configure_python_hmac/01_hmac_use_httpie_with_python.md",
+  "sourceDirName": "apis/03_apis_hmac_auth/02_configure_python_hmac",
+  "slug": "/apis/apis_hmac_auth/configure_python_hmac/hmac_use_httpie_with_python",
+  "permalink": "/docs/apis/apis_hmac_auth/configure_python_hmac/hmac_use_httpie_with_python",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/03_apis_hmac_auth/02_configure_python_hmac/01_hmac_use_httpie_with_python.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Using HTTPie with the Python Authentication Library",
+    "ft:prettyUrl": "c_httpie_tool"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/apis/apis_hmac_auth/configure_python_hmac/"
+  },
+  "next": {
+    "title": "prepare_ubuntu_for_python",
+    "permalink": "/docs/apis/apis_hmac_auth/configure_python_hmac/prepare_ubuntu_for_python"
+  }
+}

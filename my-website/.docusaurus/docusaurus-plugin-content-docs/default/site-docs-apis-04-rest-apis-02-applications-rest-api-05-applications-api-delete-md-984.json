@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/rest_apis/applications_rest_api/applications_api_delete",
+  "id": "apis/rest_apis/applications_rest_api/applications_api_delete",
+  "title": "applications_api_delete",
+  "description": "Use this command to delete an application:",
+  "source": "@site/docs/apis/04_rest_apis/02_applications_rest_api/05_applications_api_delete.md",
+  "sourceDirName": "apis/04_rest_apis/02_applications_rest_api",
+  "slug": "/apis/rest_apis/applications_rest_api/applications_api_delete",
+  "permalink": "/docs/apis/rest_apis/applications_rest_api/applications_api_delete",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/04_rest_apis/02_applications_rest_api/05_applications_api_delete.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "Deleting an Application with the REST API",
+    "ft:prettyUrl": "r_applications_delete"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "applications_api_view_details",
+    "permalink": "/docs/apis/rest_apis/applications_rest_api/applications_api_view_details"
+  },
+  "next": {
+    "title": "applications_api_list",
+    "permalink": "/docs/apis/rest_apis/applications_rest_api/applications_api_list"
+  }
+}

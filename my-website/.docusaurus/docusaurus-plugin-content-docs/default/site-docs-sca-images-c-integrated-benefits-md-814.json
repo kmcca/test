@@ -1,0 +1,24 @@
+{
+  "unversionedId": "SCA/images/c_integrated_benefits",
+  "id": "SCA/images/c_integrated_benefits",
+  "title": "About Veracode SCA {#c_integrated_benefits .concept}",
+  "description": "cintegratedbenefits .concept}",
+  "source": "@site/docs/SCA/images/c_integrated_benefits.md",
+  "sourceDirName": "SCA/images",
+  "slug": "/SCA/images/c_integrated_benefits",
+  "permalink": "/docs/SCA/images/c_integrated_benefits",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/images/c_integrated_benefits.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "generating_sbom_upload_scans",
+    "permalink": "/docs/SCA/generating_sbom_upload_scans"
+  },
+  "next": {
+    "title": "About Supported Languages for SCA Upload Scans {#c_integrated_packaging_requirements .concept}",
+    "permalink": "/docs/SCA/images/c_integrated_packaging_requirements"
+  }
+}

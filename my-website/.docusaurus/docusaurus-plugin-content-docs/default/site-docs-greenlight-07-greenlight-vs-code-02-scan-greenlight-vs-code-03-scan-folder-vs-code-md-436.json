@@ -1,0 +1,28 @@
+{
+  "unversionedId": "greenlight/greenlight_vs_code/scan_greenlight_vs_code/scan_folder_vs_code",
+  "id": "greenlight/greenlight_vs_code/scan_greenlight_vs_code/scan_folder_vs_code",
+  "title": "scan_folder_vs_code",
+  "description": "You can run a Greenlight scan on all source files in a folder from within VS Code.",
+  "source": "@site/docs/greenlight/07_greenlight_vs_code/02_scan_greenlight_vs_code/03_scan_folder_vs_code.md",
+  "sourceDirName": "greenlight/07_greenlight_vs_code/02_scan_greenlight_vs_code",
+  "slug": "/greenlight/greenlight_vs_code/scan_greenlight_vs_code/scan_folder_vs_code",
+  "permalink": "/docs/greenlight/greenlight_vs_code/scan_greenlight_vs_code/scan_folder_vs_code",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/greenlight/07_greenlight_vs_code/02_scan_greenlight_vs_code/03_scan_folder_vs_code.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Scan a Folder Using Veracode for VS Code",
+    "ft:prettyUrl": "t_scan_folder_vs_code"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "scan_file_vs_code",
+    "permalink": "/docs/greenlight/greenlight_vs_code/scan_greenlight_vs_code/scan_file_vs_code"
+  },
+  "next": {
+    "title": "enable_autoscan_vs_code",
+    "permalink": "/docs/greenlight/greenlight_vs_code/scan_greenlight_vs_code/enable_autoscan_vs_code"
+  }
+}

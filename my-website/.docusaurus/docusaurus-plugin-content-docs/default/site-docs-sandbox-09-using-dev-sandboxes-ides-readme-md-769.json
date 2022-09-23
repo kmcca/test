@@ -1,0 +1,33 @@
+{
+  "unversionedId": "Sandbox/using_dev_sandboxes_ides/README",
+  "id": "Sandbox/using_dev_sandboxes_ides/README",
+  "title": "README",
+  "description": "",
+  "source": "@site/docs/Sandbox/09_using_dev_sandboxes_ides/README.md",
+  "sourceDirName": "Sandbox/09_using_dev_sandboxes_ides",
+  "slug": "/Sandbox/using_dev_sandboxes_ides/",
+  "permalink": "/docs/Sandbox/using_dev_sandboxes_ides/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Sandbox/09_using_dev_sandboxes_ides/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Scott Jordan"
+    ],
+    "ft:originID": "use_dev_sandboxes_with_ides",
+    "ft:lang": "en-US",
+    "ft:title": "Using Development Sandboxes with IDEs",
+    "ft:prettyUrl": "zdrOx3qywJOe4bWidvJDdQ/7m8xE5_4IcCnS3iPi81OYg",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "t_download_sandbox_activity",
+    "permalink": "/docs/Sandbox/t_download_sandbox_activity"
+  },
+  "next": {
+    "title": "t_eclipse_sandbox",
+    "permalink": "/docs/Sandbox/using_dev_sandboxes_ides/t_eclipse_sandbox"
+  }
+}

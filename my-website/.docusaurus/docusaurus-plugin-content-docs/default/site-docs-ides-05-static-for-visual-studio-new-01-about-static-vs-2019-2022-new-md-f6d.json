@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ides/static_for_visual_studio_new/about_static_vs_2019_2022_new",
+  "id": "ides/static_for_visual_studio_new/about_static_vs_2019_2022_new",
+  "title": "about_static_vs_2019_2022_new",
+  "description": "Veracode Static for Visual Studio is an extension for Microsoft Visual Studio 2019 and 2022. You use the extension to assist with compiling your applications and uploading them to Veracode for Static Analysis.",
+  "source": "@site/docs/ides/05_static_for_visual_studio_new/01_about_static_vs_2019_2022_new.md",
+  "sourceDirName": "ides/05_static_for_visual_studio_new",
+  "slug": "/ides/static_for_visual_studio_new/about_static_vs_2019_2022_new",
+  "permalink": "/docs/ides/static_for_visual_studio_new/about_static_vs_2019_2022_new",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/05_static_for_visual_studio_new/01_about_static_vs_2019_2022_new.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "About Veracode Static for Visual Studio",
+    "ft:prettyUrl": "About_Veracode_Static_for_Visual_Studio_New"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/ides/static_for_visual_studio_new/"
+  },
+  "next": {
+    "title": "install_static_vs_2019_2022_new",
+    "permalink": "/docs/ides/static_for_visual_studio_new/install_static_vs_2019_2022_new"
+  }
+}

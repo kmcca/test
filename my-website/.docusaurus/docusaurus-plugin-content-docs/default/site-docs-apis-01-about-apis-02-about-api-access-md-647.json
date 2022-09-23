@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/about_apis/about_api_access",
+  "id": "apis/about_apis/about_api_access",
+  "title": "about_api_access",
+  "description": "To be able to access the Veracode APIs, you must have a Veracode account with the required roles for performing specific tasks with the APIs.",
+  "source": "@site/docs/apis/01_about_apis/02_about_api_access.md",
+  "sourceDirName": "apis/01_about_apis",
+  "slug": "/apis/about_apis/about_api_access",
+  "permalink": "/docs/apis/about_apis/about_api_access",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/01_about_apis/02_about_api_access.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Accessing the Veracode APIs",
+    "ft:prettyUrl": "c_API_roles"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "api_prerequisites",
+    "permalink": "/docs/apis/about_apis/api_prerequisites"
+  },
+  "next": {
+    "title": "api_rate_limiting",
+    "permalink": "/docs/apis/about_apis/api_rate_limiting"
+  }
+}

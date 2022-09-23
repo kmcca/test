@@ -1,0 +1,27 @@
+{
+  "unversionedId": "release_notes/usregion/09_2020/README",
+  "id": "release_notes/usregion/09_2020/README",
+  "title": "README",
+  "description": "",
+  "source": "@site/docs/release_notes/01_usregion/09_2020/README.md",
+  "sourceDirName": "release_notes/01_usregion/09_2020",
+  "slug": "/release_notes/usregion/09_2020/",
+  "permalink": "/docs/release_notes/usregion/09_2020/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/release_notes/01_usregion/09_2020/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "2020 Archive",
+    "ft:prettyUrl": "0152lUHzdfrlpRBBmxjSSQ/JM~e_oYcxwyIaK8DignmYA"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "past_training",
+    "permalink": "/docs/release_notes/usregion/08_2021/past_training"
+  },
+  "next": {
+    "title": "01_2020_rns",
+    "permalink": "/docs/release_notes/usregion/09_2020/01_2020_rns"
+  }
+}

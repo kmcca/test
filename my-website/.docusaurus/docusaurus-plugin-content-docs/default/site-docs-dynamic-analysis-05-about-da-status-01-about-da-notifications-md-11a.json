@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dynamic_analysis/about_da_status/about_da_notifications",
+  "id": "dynamic_analysis/about_da_status/about_da_notifications",
+  "title": "about_da_notifications",
+  "description": "Veracode sends email notifications at significant points during the Dynamic Analysis lifecycle.",
+  "source": "@site/docs/dynamic_analysis/05_about_da_status/01_about_da_notifications.md",
+  "sourceDirName": "dynamic_analysis/05_about_da_status",
+  "slug": "/dynamic_analysis/about_da_status/about_da_notifications",
+  "permalink": "/docs/dynamic_analysis/about_da_status/about_da_notifications",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dynamic_analysis/05_about_da_status/01_about_da_notifications.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "About Dynamic Analysis Notifications",
+    "ft:prettyUrl": "Dynamic_Analysis_Notifications"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/dynamic_analysis/about_da_status/"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/dynamic_analysis/prescan_da_web_urls/"
+  }
+}

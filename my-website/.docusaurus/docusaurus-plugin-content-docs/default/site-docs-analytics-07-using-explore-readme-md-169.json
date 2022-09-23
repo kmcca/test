@@ -1,0 +1,32 @@
+{
+  "unversionedId": "Analytics/using_explore/README",
+  "id": "Analytics/using_explore/README",
+  "title": "README",
+  "description": "From the Explore Your Data menu item, you can explore all the data that pertains to your applications.",
+  "source": "@site/docs/Analytics/07_using_explore/README.md",
+  "sourceDirName": "Analytics/07_using_explore",
+  "slug": "/Analytics/using_explore/",
+  "permalink": "/docs/Analytics/using_explore/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Analytics/07_using_explore/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Scott Jordan"
+    ],
+    "ft:lang": "en-US",
+    "ft:title": "Exploring by Applications, Scans, and Findings",
+    "ft:prettyUrl": "c_using_explore",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "analytics_FAQ",
+    "permalink": "/docs/Analytics/analytics_FAQ"
+  },
+  "next": {
+    "title": "applications_explore",
+    "permalink": "/docs/Analytics/using_explore/applications_explore"
+  }
+}

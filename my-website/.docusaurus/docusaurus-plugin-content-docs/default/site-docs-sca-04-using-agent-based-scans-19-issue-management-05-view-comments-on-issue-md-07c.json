@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/issue_management/view_comments_on_issue",
+  "id": "SCA/using_agent_based_scans/issue_management/view_comments_on_issue",
+  "title": "view_comments_on_issue",
+  "description": "Overview",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/19_issue_management/05_view_comments_on_issue.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/19_issue_management",
+  "slug": "/SCA/using_agent_based_scans/issue_management/view_comments_on_issue",
+  "permalink": "/docs/SCA/using_agent_based_scans/issue_management/view_comments_on_issue",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/19_issue_management/05_view_comments_on_issue.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "View Comments on an Issue in SCA",
+    "ft:prettyUrl": "View_Comments_on_an_Issue_in_SCA"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "add_comment_to_issue",
+    "permalink": "/docs/SCA/using_agent_based_scans/issue_management/add_comment_to_issue"
+  },
+  "next": {
+    "title": "view_sca_vulnerability_details",
+    "permalink": "/docs/SCA/using_agent_based_scans/issue_management/view_sca_vulnerability_details"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "packaging/winccpp",
+  "id": "packaging/winccpp",
+  "title": "winccpp",
+  "description": "Your C/C++ applications must meet specific compilation requirements before you can submit them for scanning.",
+  "source": "@site/docs/packaging/10_winccpp.md",
+  "sourceDirName": "packaging",
+  "slug": "/packaging/winccpp",
+  "permalink": "/docs/packaging/winccpp",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/packaging/10_winccpp.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "ft:title": "C/C++ on Windows Application Packaging",
+    "ft:prettyUrl": "compilation_winccpp"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cplusplus",
+    "permalink": "/docs/packaging/cplusplus"
+  },
+  "next": {
+    "title": "groovy",
+    "permalink": "/docs/packaging/groovy"
+  }
+}

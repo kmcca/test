@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/custom_rules_agent/properties_control_agent_custom_rules",
+  "id": "SCA/using_agent_based_scans/custom_rules_agent/properties_control_agent_custom_rules",
+  "title": "properties_control_agent_custom_rules",
+  "description": "The properties of a control are basic fields that identify a control and its severity.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/12_custom_rules_agent/02_properties_control_agent_custom_rules.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/12_custom_rules_agent",
+  "slug": "/SCA/using_agent_based_scans/custom_rules_agent/properties_control_agent_custom_rules",
+  "permalink": "/docs/SCA/using_agent_based_scans/custom_rules_agent/properties_control_agent_custom_rules",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/12_custom_rules_agent/02_properties_control_agent_custom_rules.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Properties of Controls in Agent-Based Scanning Rules",
+    "ft:prettyUrl": "Properties_of_Controls_in_Agent_Based_Scanning_Rules"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "structure_agent_custom_rules",
+    "permalink": "/docs/SCA/using_agent_based_scans/custom_rules_agent/structure_agent_custom_rules"
+  },
+  "next": {
+    "title": "conditions_control_agent_custom_rules",
+    "permalink": "/docs/SCA/using_agent_based_scans/custom_rules_agent/conditions_control_agent_custom_rules"
+  }
+}

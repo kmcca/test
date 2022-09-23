@@ -1,0 +1,28 @@
+{
+  "unversionedId": "packaging/perl",
+  "id": "packaging/perl",
+  "title": "perl",
+  "description": "Your Perl CGI applications must meet specific compilation requirements before you can submit them for scanning.",
+  "source": "@site/docs/packaging/19_perl.md",
+  "sourceDirName": "packaging",
+  "slug": "/packaging/perl",
+  "permalink": "/docs/packaging/perl",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/packaging/19_perl.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 19,
+  "frontMatter": {
+    "ft:title": "Perl Application Packaging",
+    "ft:prettyUrl": "compilation_perl"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "c_comp_troubleshoot",
+    "permalink": "/docs/packaging/net/asp_net_web_apps/c_comp_troubleshoot"
+  },
+  "next": {
+    "title": "phonegap",
+    "permalink": "/docs/packaging/phonegap"
+  }
+}

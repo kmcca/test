@@ -1,0 +1,33 @@
+{
+  "unversionedId": "dynamic_analysis/configuring_waf_rules/README",
+  "id": "dynamic_analysis/configuring_waf_rules/README",
+  "title": "README",
+  "description": "Veracode works with you to build custom rules for web application firewalls \\(WAF\\). You can use these rules to block potential attacks based on the results of your dynamic scans.",
+  "source": "@site/docs/dynamic_analysis/07_configuring_waf_rules/README.md",
+  "sourceDirName": "dynamic_analysis/07_configuring_waf_rules",
+  "slug": "/dynamic_analysis/configuring_waf_rules/",
+  "permalink": "/docs/dynamic_analysis/configuring_waf_rules/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dynamic_analysis/07_configuring_waf_rules/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Mike Howes"
+    ],
+    "ft:originID": "configuring_waf_rules",
+    "ft:lang": "en-US",
+    "ft:title": "Configuring WAF Rules for Dynamic Analysis",
+    "ft:prettyUrl": "Using_WAF",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "video_troubleshoot_prescan_errors_authenticate",
+    "permalink": "/docs/dynamic_analysis/prescan_da_web_urls/video_troubleshoot_prescan_errors_authenticate"
+  },
+  "next": {
+    "title": "create_da_waf_imperva",
+    "permalink": "/docs/dynamic_analysis/configuring_waf_rules/create_da_waf_imperva"
+  }
+}

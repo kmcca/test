@@ -1,0 +1,28 @@
+{
+  "unversionedId": "admin/signing_on/using_sso_saml/configuring_organization_account_saml",
+  "id": "admin/signing_on/using_sso_saml/configuring_organization_account_saml",
+  "title": "configuring_organization_account_saml",
+  "description": "Contact Veracode Technical Support to enable your organization account to use SAML for single sign-on. After enabling SAML for your organization, users with the Administrator role for your organization see a SAML tab on the Administration page.",
+  "source": "@site/docs/admin/01_signing_on/01_using_sso_saml/02_configuring_organization_account_saml.md",
+  "sourceDirName": "admin/01_signing_on/01_using_sso_saml",
+  "slug": "/admin/signing_on/using_sso_saml/configuring_organization_account_saml",
+  "permalink": "/docs/admin/signing_on/using_sso_saml/configuring_organization_account_saml",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/admin/01_signing_on/01_using_sso_saml/02_configuring_organization_account_saml.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Configuring Your Organization Account for SAML",
+    "ft:prettyUrl": "Configuring_Your_Organization_Account_for_SAML"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "configuring_organization_idp_saml",
+    "permalink": "/docs/admin/signing_on/using_sso_saml/configuring_organization_idp_saml"
+  },
+  "next": {
+    "title": "configuring_user_saml_access",
+    "permalink": "/docs/admin/signing_on/using_sso_saml/configuring_user_saml_access"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apisec/create_scan/video_create_api_scan",
+  "id": "apisec/create_scan/video_create_api_scan",
+  "title": "video_create_api_scan",
+  "description": "Watch the following video to learn how to create an API specification scan. This scan performs a Dynamic Analysis of the API specification to test the security of all contained endpoints.",
+  "source": "@site/docs/apisec/03_create_scan/02_video_create_api_scan.md",
+  "sourceDirName": "apisec/03_create_scan",
+  "slug": "/apisec/create_scan/video_create_api_scan",
+  "permalink": "/docs/apisec/create_scan/video_create_api_scan",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apisec/03_create_scan/02_video_create_api_scan.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Video: Create an API Specification Scan",
+    "ft:prettyUrl": "Video_Create_an_API_Specification_Scan"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "apisec_create_scan",
+    "permalink": "/docs/apisec/create_scan/apisec_create_scan"
+  },
+  "next": {
+    "title": "apisec_fix_relative_urls",
+    "permalink": "/docs/apisec/create_scan/apisec_fix_relative_urls"
+  }
+}

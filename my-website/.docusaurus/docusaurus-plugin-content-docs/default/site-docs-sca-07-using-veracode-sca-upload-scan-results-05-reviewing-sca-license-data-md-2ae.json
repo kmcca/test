@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_veracode_sca_upload_scan_results/reviewing_sca_license_data",
+  "id": "SCA/using_veracode_sca_upload_scan_results/reviewing_sca_license_data",
+  "title": "reviewing_sca_license_data",
+  "description": "Before using third-party, open-source components, Veracode recommends you review the license and associated risk to understand the implications of using the component in your application.",
+  "source": "@site/docs/SCA/07_using_veracode_sca_upload_scan_results/05_reviewing_sca_license_data.md",
+  "sourceDirName": "SCA/07_using_veracode_sca_upload_scan_results",
+  "slug": "/SCA/using_veracode_sca_upload_scan_results/reviewing_sca_license_data",
+  "permalink": "/docs/SCA/using_veracode_sca_upload_scan_results/reviewing_sca_license_data",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/07_using_veracode_sca_upload_scan_results/05_reviewing_sca_license_data.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "Reviewing Veracode SCA License Data",
+    "ft:prettyUrl": "c_sca_license_info"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "using_third_party_components_data",
+    "permalink": "/docs/SCA/using_veracode_sca_upload_scan_results/using_third_party_components_data"
+  },
+  "next": {
+    "title": "veracode_sca_legal_disclaimer",
+    "permalink": "/docs/SCA/using_veracode_sca_upload_scan_results/veracode_sca_legal_disclaimer"
+  }
+}

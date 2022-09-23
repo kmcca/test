@@ -1,0 +1,28 @@
+{
+  "unversionedId": "policies/understand",
+  "id": "policies/understand",
+  "title": "understand",
+  "description": "The Veracode Platform enables an organization to define and enforce a uniform application security policy across all applications in its portfolio. An application security policy includes these elements:",
+  "source": "@site/docs/policies/16_understand.md",
+  "sourceDirName": "policies",
+  "slug": "/policies/understand",
+  "permalink": "/docs/policies/understand",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/policies/16_understand.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "ft:title": "Understanding Policies",
+    "ft:prettyUrl": "policy_understand"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "setdefaults",
+    "permalink": "/docs/policies/setdefaults"
+  },
+  "next": {
+    "title": "veracodedefault",
+    "permalink": "/docs/policies/veracodedefault"
+  }
+}

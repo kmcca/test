@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/sca_agent_json_schema",
+  "id": "SCA/using_agent_based_scans/sca_agent_json_schema",
+  "title": "sca_agent_json_schema",
+  "description": "Version 0.9.0 (beta)",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/16_sca_agent_json_schema.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans",
+  "slug": "/SCA/using_agent_based_scans/sca_agent_json_schema",
+  "permalink": "/docs/SCA/using_agent_based_scans/sca_agent_json_schema",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/16_sca_agent_json_schema.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "ft:title": "Veracode SCA Agent JSON Schema",
+    "ft:prettyUrl": "c_sc_agent_json"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "about_veracode_rules_agent",
+    "permalink": "/docs/SCA/using_agent_based_scans/about_veracode_rules_agent"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/SCA/using_agent_based_scans/user_management/"
+  }
+}

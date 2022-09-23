@@ -1,0 +1,28 @@
+{
+  "unversionedId": "admin/signing_on/using_saml_self_registration_legacy/configure_saml_self_registration_legacy",
+  "id": "admin/signing_on/using_saml_self_registration_legacy/configure_saml_self_registration_legacy",
+  "title": "configure_saml_self_registration_legacy",
+  "description": "Note:  If you are using the new Single Sign-on and Just-In-Time Provisioning feature, see Configure JIT Provisioning.",
+  "source": "@site/docs/admin/01_signing_on/05_using_saml_self_registration_legacy/01_configure_saml_self_registration_legacy.md",
+  "sourceDirName": "admin/01_signing_on/05_using_saml_self_registration_legacy",
+  "slug": "/admin/signing_on/using_saml_self_registration_legacy/configure_saml_self_registration_legacy",
+  "permalink": "/docs/admin/signing_on/using_saml_self_registration_legacy/configure_saml_self_registration_legacy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/admin/01_signing_on/05_using_saml_self_registration_legacy/01_configure_saml_self_registration_legacy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Configure SAML Self-Registration (Legacy)",
+    "ft:prettyUrl": "Configure_SAML_Self_Registration_Legacy"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/admin/signing_on/using_saml_self_registration_legacy/"
+  },
+  "next": {
+    "title": "understanding_api_roles",
+    "permalink": "/docs/admin/signing_on/understanding_api_roles"
+  }
+}

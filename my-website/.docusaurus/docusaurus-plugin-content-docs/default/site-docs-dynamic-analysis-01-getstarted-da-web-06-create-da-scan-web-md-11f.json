@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dynamic_analysis/getstarted_da_web/create_da_scan_web",
+  "id": "dynamic_analysis/getstarted_da_web/create_da_scan_web",
+  "title": "create_da_scan_web",
+  "description": "You can create a Dynamic Analysis in the Veracode Platform for scanning a web application or API specification.",
+  "source": "@site/docs/dynamic_analysis/01_getstarted_da_web/06_create_da_scan_web.md",
+  "sourceDirName": "dynamic_analysis/01_getstarted_da_web",
+  "slug": "/dynamic_analysis/getstarted_da_web/create_da_scan_web",
+  "permalink": "/docs/dynamic_analysis/getstarted_da_web/create_da_scan_web",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dynamic_analysis/01_getstarted_da_web/06_create_da_scan_web.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "ft:title": "Create a Dynamic Analysis",
+    "ft:prettyUrl": "t_create_was"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "access_da_in_platform",
+    "permalink": "/docs/dynamic_analysis/getstarted_da_web/access_da_in_platform"
+  },
+  "next": {
+    "title": "delete_da",
+    "permalink": "/docs/dynamic_analysis/getstarted_da_web/delete_da"
+  }
+}

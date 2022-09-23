@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ides/static_for_visual_studio_legacy/configure_static_vs_legacy/README",
+  "id": "ides/static_for_visual_studio_legacy/configure_static_vs_legacy/README",
+  "title": "README",
+  "description": "You configure Veracode Static for Visual Studio to enable access to Veracode.",
+  "source": "@site/docs/ides/06_static_for_visual_studio_legacy/04_configure_static_vs_legacy/README.md",
+  "sourceDirName": "ides/06_static_for_visual_studio_legacy/04_configure_static_vs_legacy",
+  "slug": "/ides/static_for_visual_studio_legacy/configure_static_vs_legacy/",
+  "permalink": "/docs/ides/static_for_visual_studio_legacy/configure_static_vs_legacy/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/06_static_for_visual_studio_legacy/04_configure_static_vs_legacy/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Configure Veracode Static for Visual Studio (Legacy)",
+    "ft:prettyUrl": "c_vs_config"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "video_install_static_vs_legacy",
+    "permalink": "/docs/ides/static_for_visual_studio_legacy/install_static_vs_legacy/video_install_static_vs_legacy"
+  },
+  "next": {
+    "title": "configure_proxy_static_vs_legacy",
+    "permalink": "/docs/ides/static_for_visual_studio_legacy/configure_static_vs_legacy/configure_proxy_static_vs_legacy"
+  }
+}

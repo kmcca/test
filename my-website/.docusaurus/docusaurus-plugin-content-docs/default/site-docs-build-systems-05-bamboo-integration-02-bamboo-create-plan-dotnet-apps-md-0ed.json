@@ -1,0 +1,28 @@
+{
+  "unversionedId": "build_systems/bamboo_integration/bamboo_create_plan_dotnet_apps",
+  "id": "build_systems/bamboo_integration/bamboo_create_plan_dotnet_apps",
+  "title": "bamboo_create_plan_dotnet_apps",
+  "description": "You can create a plan for .NET applications using the Veracode Bamboo Integration.",
+  "source": "@site/docs/build_systems/05_bamboo_integration/02_bamboo_create_plan_dotnet_apps.md",
+  "sourceDirName": "build_systems/05_bamboo_integration",
+  "slug": "/build_systems/bamboo_integration/bamboo_create_plan_dotnet_apps",
+  "permalink": "/docs/build_systems/bamboo_integration/bamboo_create_plan_dotnet_apps",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/build_systems/05_bamboo_integration/02_bamboo_create_plan_dotnet_apps.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Create a Plan in Bamboo for .NET Applications",
+    "ft:prettyUrl": "Create_a_Plan_in_Bamboo_for_NET_Applications"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bamboo_create_plan_java_apps",
+    "permalink": "/docs/build_systems/bamboo_integration/bamboo_create_plan_java_apps"
+  },
+  "next": {
+    "title": "bamboo_build_maven_project",
+    "permalink": "/docs/build_systems/bamboo_integration/bamboo_build_maven_project"
+  }
+}

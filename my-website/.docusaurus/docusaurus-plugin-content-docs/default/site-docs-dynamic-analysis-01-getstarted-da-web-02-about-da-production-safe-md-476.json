@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dynamic_analysis/getstarted_da_web/about_da_production_safe",
+  "id": "dynamic_analysis/getstarted_da_web/about_da_production_safe",
+  "title": "about_da_production_safe",
+  "description": "The Veracode Dynamic Analysis scan engine is designed to test production web applications or API specifications with minimal impact. It uses testing approaches that do not harm or accidentally delete any data on the target website or API server. For example, the Veracode SQL injection test patterns use timing-based methods that append to the existing query without altering its logic. In addition, the XSS test strings inject JavaScript that is benign and does not execute outside the embedded browser used by the Dynamic Analysis scan engine.",
+  "source": "@site/docs/dynamic_analysis/01_getstarted_da_web/02_about_da_production_safe.md",
+  "sourceDirName": "dynamic_analysis/01_getstarted_da_web",
+  "slug": "/dynamic_analysis/getstarted_da_web/about_da_production_safe",
+  "permalink": "/docs/dynamic_analysis/getstarted_da_web/about_da_production_safe",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dynamic_analysis/01_getstarted_da_web/02_about_da_production_safe.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Production-Safe Testing of Web Applications",
+    "ft:prettyUrl": "Production_Safe_Testing"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "da_workflow",
+    "permalink": "/docs/dynamic_analysis/getstarted_da_web/da_workflow"
+  },
+  "next": {
+    "title": "supported_da_tech",
+    "permalink": "/docs/dynamic_analysis/getstarted_da_web/supported_da_tech"
+  }
+}

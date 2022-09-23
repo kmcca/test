@@ -1,0 +1,28 @@
+{
+  "unversionedId": "results_reports/review_methodology/cwes_impact_policy/cwes_owasp_mobile",
+  "id": "results_reports/review_methodology/cwes_impact_policy/cwes_owasp_mobile",
+  "title": "cwes_owasp_mobile",
+  "description": "This table lists all the CWEs that may cause an application to not pass a policy that includes an OWASP Mobile policy rule.",
+  "source": "@site/docs/results_reports/09_review_methodology/09_cwes_impact_policy/03_cwes_owasp_mobile.md",
+  "sourceDirName": "results_reports/09_review_methodology/09_cwes_impact_policy",
+  "slug": "/results_reports/review_methodology/cwes_impact_policy/cwes_owasp_mobile",
+  "permalink": "/docs/results_reports/review_methodology/cwes_impact_policy/cwes_owasp_mobile",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/09_review_methodology/09_cwes_impact_policy/03_cwes_owasp_mobile.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "CWEs That Violate the OWASP Mobile Standard",
+    "ft:prettyUrl": "CWEs_That_Violate_the_OWASP_Mobile_Standard"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cwes_owasp_2017",
+    "permalink": "/docs/results_reports/review_methodology/cwes_impact_policy/cwes_owasp_2017"
+  },
+  "next": {
+    "title": "cwes_cwe_25_2022",
+    "permalink": "/docs/results_reports/review_methodology/cwes_impact_policy/cwes_cwe_25_2022"
+  }
+}

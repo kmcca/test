@@ -1,0 +1,28 @@
+{
+  "unversionedId": "eLearning/elearningAdministrators/t_manage_elearning_managers",
+  "id": "eLearning/elearningAdministrators/t_manage_elearning_managers",
+  "title": "t_manage_elearning_managers",
+  "description": "You can add an eLearning manager and assign learners to that manager.",
+  "source": "@site/docs/eLearning/02_elearningAdministrators/08_t_manage_elearning_managers.md",
+  "sourceDirName": "eLearning/02_elearningAdministrators",
+  "slug": "/eLearning/elearningAdministrators/t_manage_elearning_managers",
+  "permalink": "/docs/eLearning/elearningAdministrators/t_manage_elearning_managers",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/eLearning/02_elearningAdministrators/08_t_manage_elearning_managers.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "ft:title": "Add eLearning Managers",
+    "ft:prettyUrl": "t_manage_elearning_managers"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "t_assign_track_bulk",
+    "permalink": "/docs/eLearning/elearningAdministrators/t_assign_track_bulk"
+  },
+  "next": {
+    "title": "t_modify_elearning_managers",
+    "permalink": "/docs/eLearning/elearningAdministrators/t_modify_elearning_managers"
+  }
+}

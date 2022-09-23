@@ -1,0 +1,28 @@
+{
+  "unversionedId": "results_reports/improve/schedule_consultation",
+  "id": "results_reports/improve/schedule_consultation",
+  "title": "schedule_consultation",
+  "description": "Consultation calls provide you the opportunity to get assistance with configuring and running a scan or with interpreting the findings in your application. During scan configuration calls, Veracode can answer specific questions you have about your scan configuration or walk you through the best practices for setting up your scan. During scan results calls, Veracode can help you understand the significance of the findings and provide guidance on remediation and mitigation.",
+  "source": "@site/docs/results_reports/07_improve/04_schedule_consultation.md",
+  "sourceDirName": "results_reports/07_improve",
+  "slug": "/results_reports/improve/schedule_consultation",
+  "permalink": "/docs/results_reports/improve/schedule_consultation",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/07_improve/04_schedule_consultation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "Schedule a Consultation",
+    "ft:prettyUrl": "t_schedule_consultation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "developing_remediation_plan",
+    "permalink": "/docs/results_reports/improve/developing_remediation_plan"
+  },
+  "next": {
+    "title": "schedule_next_day_consultation",
+    "permalink": "/docs/results_reports/improve/schedule_next_day_consultation"
+  }
+}

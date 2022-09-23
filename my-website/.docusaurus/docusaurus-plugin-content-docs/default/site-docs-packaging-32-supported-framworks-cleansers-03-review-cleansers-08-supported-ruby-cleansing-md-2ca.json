@@ -1,0 +1,28 @@
+{
+  "unversionedId": "packaging/supported_framworks_cleansers/review_cleansers/supported_ruby_cleansing",
+  "id": "packaging/supported_framworks_cleansers/review_cleansers/supported_ruby_cleansing",
+  "title": "supported_ruby_cleansing",
+  "description": "|Function| Flaw Class               |",
+  "source": "@site/docs/packaging/32_supported_framworks_cleansers/03_review_cleansers/08_supported_ruby_cleansing.md",
+  "sourceDirName": "packaging/32_supported_framworks_cleansers/03_review_cleansers",
+  "slug": "/packaging/supported_framworks_cleansers/review_cleansers/supported_ruby_cleansing",
+  "permalink": "/docs/packaging/supported_framworks_cleansers/review_cleansers/supported_ruby_cleansing",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/packaging/32_supported_framworks_cleansers/03_review_cleansers/08_supported_ruby_cleansing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "ft:title": "Supported Ruby Cleansing Functions",
+    "ft:prettyUrl": "Supported_Ruby_Cleansing_Functions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "supported_php_cleansing",
+    "permalink": "/docs/packaging/supported_framworks_cleansers/review_cleansers/supported_php_cleansing"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/pipeline_scan/"
+  }
+}

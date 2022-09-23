@@ -1,0 +1,28 @@
+{
+  "unversionedId": "pipeline_scan/r_pipeline_scan_commands",
+  "id": "pipeline_scan/r_pipeline_scan_commands",
+  "title": "r_pipeline_scan_commands",
+  "description": "You use command-line parameters to configure the Pipeline Scan settings.",
+  "source": "@site/docs/pipeline_scan/04_r_pipeline_scan_commands.md",
+  "sourceDirName": "pipeline_scan",
+  "slug": "/pipeline_scan/r_pipeline_scan_commands",
+  "permalink": "/docs/pipeline_scan/r_pipeline_scan_commands",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/pipeline_scan/04_r_pipeline_scan_commands.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "Pipeline Scan Command Parameters",
+    "ft:prettyUrl": "r_pipeline_scan_commands"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "c_pipeline_scan_logging",
+    "permalink": "/docs/pipeline_scan/c_pipeline_scan_logging"
+  },
+  "next": {
+    "title": "r_pipeline_scan_examples",
+    "permalink": "/docs/pipeline_scan/r_pipeline_scan_examples"
+  }
+}

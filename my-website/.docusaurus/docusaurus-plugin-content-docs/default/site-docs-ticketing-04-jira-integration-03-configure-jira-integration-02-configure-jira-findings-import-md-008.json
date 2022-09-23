@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ticketing/jira_integration/configure_jira_integration/configure_jira_findings_import",
+  "id": "ticketing/jira_integration/configure_jira_integration/configure_jira_findings_import",
+  "title": "configure_jira_findings_import",
+  "description": "You can configure the Veracode Integration for Jira to specify the findings identified during Veracode scanning to import into Jira.",
+  "source": "@site/docs/ticketing/04_jira_integration/03_configure_jira_integration/02_configure_jira_findings_import.md",
+  "sourceDirName": "ticketing/04_jira_integration/03_configure_jira_integration",
+  "slug": "/ticketing/jira_integration/configure_jira_integration/configure_jira_findings_import",
+  "permalink": "/docs/ticketing/jira_integration/configure_jira_integration/configure_jira_findings_import",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ticketing/04_jira_integration/03_configure_jira_integration/02_configure_jira_findings_import.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Configure Findings Import Settings for Jira",
+    "ft:prettyUrl": "t_jira_findings_import"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "add_credentials_jira",
+    "permalink": "/docs/ticketing/jira_integration/configure_jira_integration/add_credentials_jira"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/ticketing/jira_integration/jira_mapping_fields/"
+  }
+}

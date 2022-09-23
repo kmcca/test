@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/xml_apis/upload_xml_apis/getbuildinfo_do",
+  "id": "apis/xml_apis/upload_xml_apis/getbuildinfo_do",
+  "title": "getbuildinfo_do",
+  "description": "The getbuildinfo.do call provides information about the most recent scan or a specific scan of the application.",
+  "source": "@site/docs/apis/05_xml_apis/02_upload_xml_apis/11_getbuildinfo_do.md",
+  "sourceDirName": "apis/05_xml_apis/02_upload_xml_apis",
+  "slug": "/apis/xml_apis/upload_xml_apis/getbuildinfo_do",
+  "permalink": "/docs/apis/xml_apis/upload_xml_apis/getbuildinfo_do",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/05_xml_apis/02_upload_xml_apis/11_getbuildinfo_do.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "ft:title": "getbuildinfo.do",
+    "ft:prettyUrl": "r_getbuildinfo"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "getapplist_do",
+    "permalink": "/docs/apis/xml_apis/upload_xml_apis/getapplist_do"
+  },
+  "next": {
+    "title": "getbuildlist_do",
+    "permalink": "/docs/apis/xml_apis/upload_xml_apis/getbuildlist_do"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "packaging/understanding_packaging/c_comp_quickref",
+  "id": "packaging/understanding_packaging/c_comp_quickref",
+  "title": "c_comp_quickref",
+  "description": "Veracode provides compilation and packaging recommendations for popular languages and frameworks.",
+  "source": "@site/docs/packaging/01_understanding_packaging/01_c_comp_quickref.md",
+  "sourceDirName": "packaging/01_understanding_packaging",
+  "slug": "/packaging/understanding_packaging/c_comp_quickref",
+  "permalink": "/docs/packaging/understanding_packaging/c_comp_quickref",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/packaging/01_understanding_packaging/01_c_comp_quickref.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Quick Reference for Packaging Requirements",
+    "ft:prettyUrl": "c_comp_quickref"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/packaging/understanding_packaging/"
+  },
+  "next": {
+    "title": "initial_full_support",
+    "permalink": "/docs/packaging/understanding_packaging/initial_full_support"
+  }
+}

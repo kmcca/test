@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/understanding_sca_workspaces",
+  "id": "SCA/using_agent_based_scans/understanding_sca_workspaces",
+  "title": "understanding_sca_workspaces",
+  "description": "You can create workspaces to separate and manage project scan data. Each workspace can include multiple Veracode Software Composition Analysis agents that perform scans on your code projects and display the results in the workspace to which they belong. You can store scan data in different workspaces and control user access to that data based on the workspaces to which a user belongs.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/04_understanding_sca_workspaces.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans",
+  "slug": "/SCA/using_agent_based_scans/understanding_sca_workspaces",
+  "permalink": "/docs/SCA/using_agent_based_scans/understanding_sca_workspaces",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/04_understanding_sca_workspaces.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "Understanding Veracode SCA Workspaces",
+    "ft:prettyUrl": "c_sc_orgs_workspaces"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "about_vulnerability_database",
+    "permalink": "/docs/SCA/using_agent_based_scans/about_vulnerability_database"
+  },
+  "next": {
+    "title": "using_my_workspace_sca",
+    "permalink": "/docs/SCA/using_agent_based_scans/using_my_workspace_sca"
+  }
+}

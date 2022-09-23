@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/use_latest_cvss_version_sca_rules",
+  "id": "SCA/using_agent_based_scans/use_latest_cvss_version_sca_rules",
+  "title": "use_latest_cvss_version_sca_rules",
+  "description": "You can use Common Vulnerability Scoring System (CVSS) version 3 in your agent-based scanning rules to evaluate your vulnerabilities against the latest version of the standard.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/11_use_latest_cvss_version_sca_rules.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans",
+  "slug": "/SCA/using_agent_based_scans/use_latest_cvss_version_sca_rules",
+  "permalink": "/docs/SCA/using_agent_based_scans/use_latest_cvss_version_sca_rules",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/11_use_latest_cvss_version_sca_rules.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "ft:title": "Use the Latest CVSS Version in SCA Rules",
+    "ft:prettyUrl": "Use_the_Latest_CVSS_Version_in_SCA_Rules"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "automatic_pr_scan_directives",
+    "permalink": "/docs/SCA/using_agent_based_scans/scan_directives_agent/automatic_pr_scan_directives"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/SCA/using_agent_based_scans/custom_rules_agent/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "pipeline_scan/r_pipeline_scan_status_codes",
+  "id": "pipeline_scan/r_pipeline_scan_status_codes",
+  "title": "r_pipeline_scan_status_codes",
+  "description": "This table describes the status codes for a completed Pipeline Scan. You can configure your development pipeline to use these status codes for pass-fail criteria during scanning.",
+  "source": "@site/docs/pipeline_scan/12_r_pipeline_scan_status_codes.md",
+  "sourceDirName": "pipeline_scan",
+  "slug": "/pipeline_scan/r_pipeline_scan_status_codes",
+  "permalink": "/docs/pipeline_scan/r_pipeline_scan_status_codes",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/pipeline_scan/12_r_pipeline_scan_status_codes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "ft:title": "Pipeline Scan Status Codes",
+    "ft:prettyUrl": "Pipeline_Scan_Status_Codes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "r_pipeline_scan_output",
+    "permalink": "/docs/pipeline_scan/r_pipeline_scan_output"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/policies/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "container/review_container_findings",
+  "id": "container/review_container_findings",
+  "title": "review_container_findings",
+  "description": "After you complete a Veracode Container Security scan, your results appear in your CLI. The results contain security misconfigurations.",
+  "source": "@site/docs/container/review_container_findings.md",
+  "sourceDirName": "container",
+  "slug": "/container/review_container_findings",
+  "permalink": "/docs/container/review_container_findings",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/container/review_container_findings.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Review Container Security Findings",
+    "ft:prettyUrl": ""
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "install_container_scanning",
+    "permalink": "/docs/container/install_container_scanning"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/dynamic_analysis/"
+  }
+}

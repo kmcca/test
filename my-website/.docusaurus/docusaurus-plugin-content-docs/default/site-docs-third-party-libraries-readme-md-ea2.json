@@ -1,0 +1,32 @@
+{
+  "unversionedId": "third_party_libraries/README",
+  "id": "third_party_libraries/README",
+  "title": "README",
+  "description": "This section lists the third-party software distributed by Veracode and the open-source licenses under which the software is distributed.",
+  "source": "@site/docs/third_party_libraries/README.md",
+  "sourceDirName": "third_party_libraries",
+  "slug": "/third_party_libraries/",
+  "permalink": "/docs/third_party_libraries/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/third_party_libraries/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Mike Howes"
+    ],
+    "ft:originID": "third-party-sw-licenses",
+    "ft:lang": "en-US",
+    "ft:title": "Third-Party Software Acknowledgments for Veracode Distributed Software",
+    "ft:prettyUrl": "Third_Party_Software_Acknowledgments_for_Veracode_Distributed_Software"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cwes_cert",
+    "permalink": "/docs/results_reports/review_methodology/cwes_impact_policy/cwes_cert"
+  },
+  "next": {
+    "title": "azure_devops_libs",
+    "permalink": "/docs/third_party_libraries/azure_devops_libs"
+  }
+}

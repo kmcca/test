@@ -1,0 +1,28 @@
+{
+  "unversionedId": "greenlight/greenlight_eclipse/install_greenlight_eclipse/install_greenlight_eclipse_ide",
+  "id": "greenlight/greenlight_eclipse/install_greenlight_eclipse/install_greenlight_eclipse_ide",
+  "title": "install_greenlight_eclipse_ide",
+  "description": "You can install Greenlight for Eclipse as a plugin from within the IDE.",
+  "source": "@site/docs/greenlight/04_greenlight_eclipse/01_install_greenlight_eclipse/02_install_greenlight_eclipse_ide.md",
+  "sourceDirName": "greenlight/04_greenlight_eclipse/01_install_greenlight_eclipse",
+  "slug": "/greenlight/greenlight_eclipse/install_greenlight_eclipse/install_greenlight_eclipse_ide",
+  "permalink": "/docs/greenlight/greenlight_eclipse/install_greenlight_eclipse/install_greenlight_eclipse_ide",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/greenlight/04_greenlight_eclipse/01_install_greenlight_eclipse/02_install_greenlight_eclipse_ide.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Install Veracode Greenlight for Eclipse from Within the IDE",
+    "ft:prettyUrl": "t_install_greenlight_ide"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "video_install_greenlight_eclipse_marketplace",
+    "permalink": "/docs/greenlight/greenlight_eclipse/install_greenlight_eclipse/video_install_greenlight_eclipse_marketplace"
+  },
+  "next": {
+    "title": "add_creds_greenlight_eclipse",
+    "permalink": "/docs/greenlight/greenlight_eclipse/install_greenlight_eclipse/add_creds_greenlight_eclipse"
+  }
+}

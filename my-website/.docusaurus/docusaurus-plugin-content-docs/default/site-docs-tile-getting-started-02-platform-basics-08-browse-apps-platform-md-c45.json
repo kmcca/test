@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tile_getting_started/platform_basics/browse_apps_platform",
+  "id": "tile_getting_started/platform_basics/browse_apps_platform",
+  "title": "browse_apps_platform",
+  "description": "The All Applications page shows a list of the application profiles to which you have access. You can view information about the applications, view older scans, find applications, view statuses, and check next actions for applications.",
+  "source": "@site/docs/tile_getting_started/02_platform_basics/08_browse_apps_platform.md",
+  "sourceDirName": "tile_getting_started/02_platform_basics",
+  "slug": "/tile_getting_started/platform_basics/browse_apps_platform",
+  "permalink": "/docs/tile_getting_started/platform_basics/browse_apps_platform",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tile_getting_started/02_platform_basics/08_browse_apps_platform.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "ft:title": "Browsing Your Applications in the Veracode Platform",
+    "ft:prettyUrl": "using_applist"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "contact_support_platform",
+    "permalink": "/docs/tile_getting_started/platform_basics/contact_support_platform"
+  },
+  "next": {
+    "title": "bookmarking_reports_platform",
+    "permalink": "/docs/tile_getting_started/platform_basics/bookmarking_reports_platform"
+  }
+}

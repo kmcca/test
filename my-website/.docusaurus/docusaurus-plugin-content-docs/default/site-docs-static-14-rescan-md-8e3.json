@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Static/rescan",
+  "id": "Static/rescan",
+  "title": "rescan",
+  "description": "After completing the scan, you can quickly review and amend the module selection, and then rescan without having to re-upload the modules.",
+  "source": "@site/docs/Static/14_rescan.md",
+  "sourceDirName": "Static",
+  "slug": "/Static/rescan",
+  "permalink": "/docs/Static/rescan",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Static/14_rescan.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "ft:title": "Rescan Applications After Initial Scan",
+    "ft:prettyUrl": "t_rescan"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "start_scan",
+    "permalink": "/docs/Static/start_scan"
+  },
+  "next": {
+    "title": "static_details",
+    "permalink": "/docs/Static/static_details"
+  }
+}

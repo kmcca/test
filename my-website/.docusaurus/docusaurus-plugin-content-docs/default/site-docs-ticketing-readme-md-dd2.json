@@ -1,0 +1,33 @@
+{
+  "unversionedId": "ticketing/README",
+  "id": "ticketing/README",
+  "title": "README",
+  "description": "",
+  "source": "@site/docs/ticketing/README.md",
+  "sourceDirName": "ticketing",
+  "slug": "/ticketing/",
+  "permalink": "/docs/ticketing/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ticketing/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Mike Howes"
+    ],
+    "ft:originID": "ticketing",
+    "ft:lang": "en-US",
+    "ft:title": "Ticketing Systems",
+    "ft:prettyUrl": "Ticketing_Systems",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "request_cots_accept",
+    "permalink": "/docs/thirdparty/enterprise/request_cots_accept"
+  },
+  "next": {
+    "title": "about_ticketing_systems",
+    "permalink": "/docs/ticketing/about_ticketing_systems"
+  }
+}

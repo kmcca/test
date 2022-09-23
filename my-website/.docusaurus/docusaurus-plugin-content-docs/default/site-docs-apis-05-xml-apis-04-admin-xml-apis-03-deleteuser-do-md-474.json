@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/xml_apis/admin_xml_apis/deleteuser_do",
+  "id": "apis/xml_apis/admin_xml_apis/deleteuser_do",
+  "title": "deleteuser_do",
+  "description": "The deleteuser.do call deletes a user account. To delete a API service account, you must use the Veracode Platform or the Identity REST API.",
+  "source": "@site/docs/apis/05_xml_apis/04_admin_xml_apis/03_deleteuser_do.md",
+  "sourceDirName": "apis/05_xml_apis/04_admin_xml_apis",
+  "slug": "/apis/xml_apis/admin_xml_apis/deleteuser_do",
+  "permalink": "/docs/apis/xml_apis/admin_xml_apis/deleteuser_do",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/05_xml_apis/04_admin_xml_apis/03_deleteuser_do.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "deleteuser.do (Deprecated)",
+    "ft:prettyUrl": "r_deleteuser"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "createuser_do",
+    "permalink": "/docs/apis/xml_apis/admin_xml_apis/createuser_do"
+  },
+  "next": {
+    "title": "getuserinfo_do",
+    "permalink": "/docs/apis/xml_apis/admin_xml_apis/getuserinfo_do"
+  }
+}

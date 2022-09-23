@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/using_sca_agent/veracode_sca_agent_env_variables",
+  "id": "SCA/using_agent_based_scans/using_sca_agent/veracode_sca_agent_env_variables",
+  "title": "veracode_sca_agent_env_variables",
+  "description": "The Veracode Software Composition Analysis (SCA) agent can read from these environment variables instead of variables set in the agent.yml file.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/09_using_sca_agent/06_veracode_sca_agent_env_variables.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/09_using_sca_agent",
+  "slug": "/SCA/using_agent_based_scans/using_sca_agent/veracode_sca_agent_env_variables",
+  "permalink": "/docs/SCA/using_agent_based_scans/using_sca_agent/veracode_sca_agent_env_variables",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/09_using_sca_agent/06_veracode_sca_agent_env_variables.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "ft:title": "Veracode SCA Agent Environment Variables",
+    "ft:prettyUrl": "Veracode_SCA_Agent_Environment_Variables"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "troubleshooting_auto_prs",
+    "permalink": "/docs/SCA/using_agent_based_scans/using_sca_agent/about_automatic_pull_requests/troubleshooting_auto_prs"
+  },
+  "next": {
+    "title": "configure_update_advisor_sca",
+    "permalink": "/docs/SCA/using_agent_based_scans/using_sca_agent/configure_update_advisor_sca"
+  }
+}

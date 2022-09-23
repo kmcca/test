@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tile_getting_started/geting_started_veracode/access_veracode/log_in_platform/configure_mfa",
+  "id": "tile_getting_started/geting_started_veracode/access_veracode/log_in_platform/configure_mfa",
+  "title": "configure_mfa",
+  "description": "If your administrator configured your account to require multifactor authentication, you must set up your authentication method the first time you log in to the Veracode Platform.",
+  "source": "@site/docs/tile_getting_started/01_geting_started_veracode/01_access_veracode/02_log_in_platform/03_configure_mfa.md",
+  "sourceDirName": "tile_getting_started/01_geting_started_veracode/01_access_veracode/02_log_in_platform",
+  "slug": "/tile_getting_started/geting_started_veracode/access_veracode/log_in_platform/configure_mfa",
+  "permalink": "/docs/tile_getting_started/geting_started_veracode/access_veracode/log_in_platform/configure_mfa",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tile_getting_started/01_geting_started_veracode/01_access_veracode/02_log_in_platform/03_configure_mfa.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Configure Multifactor Authentication for Your New User Account",
+    "ft:prettyUrl": "t_configure_mfa"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "allow_domains_ip_addresses",
+    "permalink": "/docs/tile_getting_started/geting_started_veracode/access_veracode/log_in_platform/allow_domains_ip_addresses"
+  },
+  "next": {
+    "title": "reset_mfa",
+    "permalink": "/docs/tile_getting_started/geting_started_veracode/access_veracode/log_in_platform/reset_mfa"
+  }
+}

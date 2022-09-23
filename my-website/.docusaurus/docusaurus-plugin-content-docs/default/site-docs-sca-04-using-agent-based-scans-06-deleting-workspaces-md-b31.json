@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/deleting_workspaces",
+  "id": "SCA/using_agent_based_scans/deleting_workspaces",
+  "title": "deleting_workspaces",
+  "description": "Deleting workspaces in Veracode Software Composition Analysis permanently deletes the agents and any data associated with that workspace.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/06_deleting_workspaces.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans",
+  "slug": "/SCA/using_agent_based_scans/deleting_workspaces",
+  "permalink": "/docs/SCA/using_agent_based_scans/deleting_workspaces",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/06_deleting_workspaces.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "ft:title": "Delete a Veracode SCA Workspace",
+    "ft:prettyUrl": "Deleting_Workspaces"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "using_my_workspace_sca",
+    "permalink": "/docs/SCA/using_agent_based_scans/using_my_workspace_sca"
+  },
+  "next": {
+    "title": "faq_for_agent",
+    "permalink": "/docs/SCA/using_agent_based_scans/faq_for_agent"
+  }
+}

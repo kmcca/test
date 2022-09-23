@@ -1,0 +1,28 @@
+{
+  "unversionedId": "build_systems/jenkins_integration/jenkins_review_static_sca_results",
+  "id": "build_systems/jenkins_integration/jenkins_review_static_sca_results",
+  "title": "jenkins_review_static_sca_results",
+  "description": "You can choose to display the results of a Veracode Static Analysis and SCA scan in Jenkins for freestyle or pipeline jobs.",
+  "source": "@site/docs/build_systems/07_jenkins_integration/07_jenkins_review_static_sca_results.md",
+  "sourceDirName": "build_systems/07_jenkins_integration",
+  "slug": "/build_systems/jenkins_integration/jenkins_review_static_sca_results",
+  "permalink": "/docs/build_systems/jenkins_integration/jenkins_review_static_sca_results",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/build_systems/07_jenkins_integration/07_jenkins_review_static_sca_results.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "ft:title": "Review Static Analysis and SCA Results in Jenkins",
+    "ft:prettyUrl": "c_jenkins_results"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jenkins_using_sandboxes",
+    "permalink": "/docs/build_systems/jenkins_integration/jenkins_using_sandboxes"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/build_systems/jenkins_integration/jenkins_using_dynamic_analysis/"
+  }
+}

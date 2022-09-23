@@ -1,0 +1,33 @@
+{
+  "unversionedId": "SCA/about_sca_upload_scans",
+  "id": "SCA/about_sca_upload_scans",
+  "title": "about_sca_upload_scans",
+  "description": "Veracode Software Composition Analysis (SCA) helps you build an inventory of your third-party components to identify vulnerabilities, including open-source and commercial code.",
+  "source": "@site/docs/SCA/05_about_sca_upload_scans.md",
+  "sourceDirName": "SCA",
+  "slug": "/SCA/about_sca_upload_scans",
+  "permalink": "/docs/SCA/about_sca_upload_scans",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/05_about_sca_upload_scans.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "author": [
+      "Kevin McCarthy"
+    ],
+    "ft:lang": "en-US",
+    "ft:title": "About SCA Upload Scans",
+    "ft:prettyUrl": "c_about_SCA",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "delete_sca_project",
+    "permalink": "/docs/SCA/using_agent_based_scans/project_management/delete_sca_project"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/SCA/requesting_sca_upload_scan/"
+  }
+}

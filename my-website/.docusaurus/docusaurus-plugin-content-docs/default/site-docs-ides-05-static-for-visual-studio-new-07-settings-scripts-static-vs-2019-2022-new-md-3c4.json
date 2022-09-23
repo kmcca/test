@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ides/static_for_visual_studio_new/settings_scripts_static_vs_2019_2022_new",
+  "id": "ides/static_for_visual_studio_new/settings_scripts_static_vs_2019_2022_new",
+  "title": "settings_scripts_static_vs_2019_2022_new",
+  "description": "Note: This topic is for the new Veracode Static for Visual Studio released April 2022. For the legacy versions of Veracode Static for Visual Studio, see Veracode Static for Visual Studio (Legacy).",
+  "source": "@site/docs/ides/05_static_for_visual_studio_new/07_settings_scripts_static_vs_2019_2022_new.md",
+  "sourceDirName": "ides/05_static_for_visual_studio_new",
+  "slug": "/ides/static_for_visual_studio_new/settings_scripts_static_vs_2019_2022_new",
+  "permalink": "/docs/ides/static_for_visual_studio_new/settings_scripts_static_vs_2019_2022_new",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/05_static_for_visual_studio_new/07_settings_scripts_static_vs_2019_2022_new.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "ft:title": "Settings and Scripts for Building and Packaging",
+    "ft:prettyUrl": "Settings_and_Scripts_for_Building_and_Packaging_for_Visual_Studio"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "change_scan_name_visual_studio_new",
+    "permalink": "/docs/ides/static_for_visual_studio_new/custom_workflow_visual_studio_new/change_scan_name_visual_studio_new"
+  },
+  "next": {
+    "title": "tshooting_static_vs_2019_2022_new",
+    "permalink": "/docs/ides/static_for_visual_studio_new/tshooting_static_vs_2019_2022_new"
+  }
+}

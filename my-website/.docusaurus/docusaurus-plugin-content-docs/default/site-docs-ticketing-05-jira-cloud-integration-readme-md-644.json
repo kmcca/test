@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ticketing/jira_cloud_integration/README",
+  "id": "ticketing/jira_cloud_integration/README",
+  "title": "README",
+  "description": "You can use the Veracode Integration for Jira Cloud to import security flaws that Veracode identifies in your application to Jira Cloud.",
+  "source": "@site/docs/ticketing/05_jira_cloud_integration/README.md",
+  "sourceDirName": "ticketing/05_jira_cloud_integration",
+  "slug": "/ticketing/jira_cloud_integration/",
+  "permalink": "/docs/ticketing/jira_cloud_integration/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ticketing/05_jira_cloud_integration/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "Veracode Integration for Jira Cloud",
+    "ft:prettyUrl": "c_jira_cloud_about"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jira_enable_logging",
+    "permalink": "/docs/ticketing/jira_integration/jira_enable_logging"
+  },
+  "next": {
+    "title": "jira_finding_life_cycle",
+    "permalink": "/docs/ticketing/jira_cloud_integration/jira_finding_life_cycle"
+  }
+}

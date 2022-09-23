@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/configure_organization_rules_agent",
+  "id": "SCA/using_agent_based_scans/configure_organization_rules_agent",
+  "title": "configure_organization_rules_agent",
+  "description": "To ensure consistency and remove the redundancy of creating rules for each workspace, you can configure a custom set of rules you can apply to any of the workspaces in your organization.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/14_configure_organization_rules_agent.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans",
+  "slug": "/SCA/using_agent_based_scans/configure_organization_rules_agent",
+  "permalink": "/docs/SCA/using_agent_based_scans/configure_organization_rules_agent",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/14_configure_organization_rules_agent.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "ft:title": "Configure Organization Rules for Agent-Based Scanning",
+    "ft:prettyUrl": "t_int_create_org_rules"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "about_organization_rules_agent",
+    "permalink": "/docs/SCA/using_agent_based_scans/about_organization_rules_agent"
+  },
+  "next": {
+    "title": "about_veracode_rules_agent",
+    "permalink": "/docs/SCA/using_agent_based_scans/about_veracode_rules_agent"
+  }
+}

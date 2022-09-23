@@ -1,0 +1,28 @@
+{
+  "unversionedId": "build_systems/jenkins_integration/jenkins_installation/jenkins_configure_creds_binding_plugin",
+  "id": "build_systems/jenkins_integration/jenkins_installation/jenkins_configure_creds_binding_plugin",
+  "title": "jenkins_configure_creds_binding_plugin",
+  "description": "You can use the Jenkins Credentials Binding plugin to bind your Veracode API credentials to environment variables in a Jenkins pipeline. You generate a script containing the bound environment variables, then add this script to your Jenkins pipeline script.",
+  "source": "@site/docs/build_systems/07_jenkins_integration/02_jenkins_installation/03_jenkins_configure_creds_binding_plugin.md",
+  "sourceDirName": "build_systems/07_jenkins_integration/02_jenkins_installation",
+  "slug": "/build_systems/jenkins_integration/jenkins_installation/jenkins_configure_creds_binding_plugin",
+  "permalink": "/docs/build_systems/jenkins_integration/jenkins_installation/jenkins_configure_creds_binding_plugin",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/build_systems/07_jenkins_integration/02_jenkins_installation/03_jenkins_configure_creds_binding_plugin.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Binding Veracode Credentials in Jenkins Pipeline Builds",
+    "ft:prettyUrl": "t_binding_creds"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jenkins_install_creds_binding_plugin",
+    "permalink": "/docs/build_systems/jenkins_integration/jenkins_installation/jenkins_install_creds_binding_plugin"
+  },
+  "next": {
+    "title": "video_jenkins_use_creds_binding_plugin",
+    "permalink": "/docs/build_systems/jenkins_integration/jenkins_installation/video_jenkins_use_creds_binding_plugin"
+  }
+}

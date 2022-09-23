@@ -1,0 +1,28 @@
+{
+  "unversionedId": "apis/rest_apis/findings_rest_apis/using_dynamic_flaw_endpoint",
+  "id": "apis/rest_apis/findings_rest_apis/using_dynamic_flaw_endpoint",
+  "title": "using_dynamic_flaw_endpoint",
+  "description": "You can use the dynamicflawinfo endpoint of the Findings API to get additional information on a single flaw discovered during a Dynamic Analysis.",
+  "source": "@site/docs/apis/04_rest_apis/06_findings_rest_apis/01_using_dynamic_flaw_endpoint.md",
+  "sourceDirName": "apis/04_rest_apis/06_findings_rest_apis",
+  "slug": "/apis/rest_apis/findings_rest_apis/using_dynamic_flaw_endpoint",
+  "permalink": "/docs/apis/rest_apis/findings_rest_apis/using_dynamic_flaw_endpoint",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apis/04_rest_apis/06_findings_rest_apis/01_using_dynamic_flaw_endpoint.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Using the Dynamic Flaw Information Endpoint",
+    "ft:prettyUrl": "c_rest_dynamic_flaw_intro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/apis/rest_apis/findings_rest_apis/"
+  },
+  "next": {
+    "title": "using_static_flaw_data_path_endpoint",
+    "permalink": "/docs/apis/rest_apis/findings_rest_apis/using_static_flaw_data_path_endpoint"
+  }
+}

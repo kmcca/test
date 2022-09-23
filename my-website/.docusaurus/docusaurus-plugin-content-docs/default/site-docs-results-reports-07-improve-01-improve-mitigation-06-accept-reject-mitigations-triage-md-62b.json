@@ -1,0 +1,28 @@
+{
+  "unversionedId": "results_reports/improve/improve_mitigation/accept_reject_mitigations_triage",
+  "id": "results_reports/improve/improve_mitigation/accept_reject_mitigations_triage",
+  "title": "accept_reject_mitigations_triage",
+  "description": "A user with the Mitigation Approver role can accept or reject proposed mitigations from the Triage Flaws page of your application. To see a list of proposed mitigations, in the Search field, select Mitigation and = Mitigation Proposed. To view all mitigations except the type you selected, click the equals icon again.",
+  "source": "@site/docs/results_reports/07_improve/01_improve_mitigation/06_accept_reject_mitigations_triage.md",
+  "sourceDirName": "results_reports/07_improve/01_improve_mitigation",
+  "slug": "/results_reports/improve/improve_mitigation/accept_reject_mitigations_triage",
+  "permalink": "/docs/results_reports/improve/improve_mitigation/accept_reject_mitigations_triage",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/07_improve/01_improve_mitigation/06_accept_reject_mitigations_triage.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "ft:title": "Accept or Reject Mitigations from the Triage Flaws Page",
+    "ft:prettyUrl": "Accept_or_Reject_Mitigations_from_the_Triage_Flaws_Page"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "accepting_rejecting_mitigations",
+    "permalink": "/docs/results_reports/improve/improve_mitigation/accepting_rejecting_mitigations"
+  },
+  "next": {
+    "title": "accept_reject_mitigations_mitigated_flaws",
+    "permalink": "/docs/results_reports/improve/improve_mitigation/accept_reject_mitigations_mitigated_flaws"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dynamic_analysis/configuring_dast_web_scans/dynamic_selenium_commands",
+  "id": "dynamic_analysis/configuring_dast_web_scans/dynamic_selenium_commands",
+  "title": "dynamic_selenium_commands",
+  "description": "This table lists the Selenium commands Veracode supports in sequence scripts. You can upload scripts to a Dynamic Analysis. Your Selenium IDE version might not support all these commands.",
+  "source": "@site/docs/dynamic_analysis/02_configuring_dast_web_scans/07_dynamic_selenium_commands.md",
+  "sourceDirName": "dynamic_analysis/02_configuring_dast_web_scans",
+  "slug": "/dynamic_analysis/configuring_dast_web_scans/dynamic_selenium_commands",
+  "permalink": "/docs/dynamic_analysis/configuring_dast_web_scans/dynamic_selenium_commands",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dynamic_analysis/02_configuring_dast_web_scans/07_dynamic_selenium_commands.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "ft:title": "Selenium Commands Supported in Dynamic Analysis",
+    "ft:prettyUrl": "Selenium_Commands_Supported_in_Dynamic_Analysis"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dynamic_web_provide_crawl_script",
+    "permalink": "/docs/dynamic_analysis/configuring_dast_web_scans/dynamic_web_provide_crawl_script"
+  },
+  "next": {
+    "title": "dynamic_web_selenium_best_practices",
+    "permalink": "/docs/dynamic_analysis/configuring_dast_web_scans/dynamic_web_selenium_best_practices"
+  }
+}

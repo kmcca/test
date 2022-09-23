@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ides/static_for_visual_studio_legacy/fix_static_vs_2019_display_legacy",
+  "id": "ides/static_for_visual_studio_legacy/fix_static_vs_2019_display_legacy",
+  "title": "fix_static_vs_2019_display_legacy",
+  "description": "If you are using Visual Studio 2019 with .NET Framework version 4.8, you must clear an option in Visual Studio to ensure the downloaded scan results display in the Results window. Otherwise, the Results window may be empty.",
+  "source": "@site/docs/ides/06_static_for_visual_studio_legacy/02_fix_static_vs_2019_display_legacy.md",
+  "sourceDirName": "ides/06_static_for_visual_studio_legacy",
+  "slug": "/ides/static_for_visual_studio_legacy/fix_static_vs_2019_display_legacy",
+  "permalink": "/docs/ides/static_for_visual_studio_legacy/fix_static_vs_2019_display_legacy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ides/06_static_for_visual_studio_legacy/02_fix_static_vs_2019_display_legacy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Configure Visual Studio 2019 to Display Scan Results (Legacy)",
+    "ft:prettyUrl": "t_vs_config_2019_results"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "static_vs_prereqs_legacy",
+    "permalink": "/docs/ides/static_for_visual_studio_legacy/static_vs_prereqs_legacy"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/ides/static_for_visual_studio_legacy/install_static_vs_legacy/"
+  }
+}

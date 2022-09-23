@@ -1,0 +1,28 @@
+{
+  "unversionedId": "pipeline_scan/pipeline_scan_gitlab_examples/t_set_gitlab_environment_variables",
+  "id": "pipeline_scan/pipeline_scan_gitlab_examples/t_set_gitlab_environment_variables",
+  "title": "t_set_gitlab_environment_variables",
+  "description": "You can set environment variables for GitLab base directories to enable a Pipeline Scan to generate GitLab issues of discovered flaws when scanning Java applications.",
+  "source": "@site/docs/pipeline_scan/08_pipeline_scan_gitlab_examples/02_t_set_gitlab_environment_variables.md",
+  "sourceDirName": "pipeline_scan/08_pipeline_scan_gitlab_examples",
+  "slug": "/pipeline_scan/pipeline_scan_gitlab_examples/t_set_gitlab_environment_variables",
+  "permalink": "/docs/pipeline_scan/pipeline_scan_gitlab_examples/t_set_gitlab_environment_variables",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/pipeline_scan/08_pipeline_scan_gitlab_examples/02_t_set_gitlab_environment_variables.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Set GitLab Base Directories for a Pipeline Scan",
+    "ft:prettyUrl": "Set_Environment_Variables_for_GitLab_Base_Directories"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "t_set_access_token_gitlab",
+    "permalink": "/docs/pipeline_scan/pipeline_scan_gitlab_examples/t_set_access_token_gitlab"
+  },
+  "next": {
+    "title": "r_gitlab_gradle",
+    "permalink": "/docs/pipeline_scan/pipeline_scan_gitlab_examples/r_gitlab_gradle"
+  }
+}

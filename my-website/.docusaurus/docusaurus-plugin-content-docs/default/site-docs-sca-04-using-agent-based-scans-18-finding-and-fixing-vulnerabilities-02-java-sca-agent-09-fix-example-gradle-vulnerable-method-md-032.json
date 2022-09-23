@@ -1,0 +1,28 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/fix_example_gradle_vulnerable_method",
+  "id": "SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/fix_example_gradle_vulnerable_method",
+  "title": "fix_example_gradle_vulnerable_method",
+  "description": "Veracode SCA supports vulnerable method analysis for the Gradle, Maven, and Ant package managers.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/02_java_sca_agent/09_fix_example_gradle_vulnerable_method.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/02_java_sca_agent",
+  "slug": "/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/fix_example_gradle_vulnerable_method",
+  "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/fix_example_gradle_vulnerable_method",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/02_java_sca_agent/09_fix_example_gradle_vulnerable_method.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "ft:title": "Fix Example Vulnerable Method for Gradle",
+    "ft:prettyUrl": "Fix_Example_Vulnerable_Method_for_Gradle"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fix_example_gradle_transitive",
+    "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/fix_example_gradle_transitive"
+  },
+  "next": {
+    "title": "run_agent_scan_ant",
+    "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/run_agent_scan_ant"
+  }
+}

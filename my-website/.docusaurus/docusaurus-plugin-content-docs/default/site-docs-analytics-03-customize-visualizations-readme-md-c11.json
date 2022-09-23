@@ -1,0 +1,32 @@
+{
+  "unversionedId": "Analytics/customize_visualizations/README",
+  "id": "Analytics/customize_visualizations/README",
+  "title": "README",
+  "description": "You can customize the elements, called visualizations, in a chart if you want to change how data is displayed. You have the ability to modify many visual elements including colors, labels, and chart types.",
+  "source": "@site/docs/Analytics/03_customize_visualizations/README.md",
+  "sourceDirName": "Analytics/03_customize_visualizations",
+  "slug": "/Analytics/customize_visualizations/",
+  "permalink": "/docs/Analytics/customize_visualizations/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Analytics/03_customize_visualizations/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Scott Jordan"
+    ],
+    "ft:lang": "en-US",
+    "ft:title": "Customize Visualizations",
+    "ft:prettyUrl": "t_customize_visualizations",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "customize_dashboards",
+    "permalink": "/docs/Analytics/customize_dashboards"
+  },
+  "next": {
+    "title": "analytics_video_organizations_dashboards",
+    "permalink": "/docs/Analytics/customize_visualizations/analytics_video_organizations_dashboards"
+  }
+}

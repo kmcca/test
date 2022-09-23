@@ -1,0 +1,28 @@
+{
+  "unversionedId": "release_notes/euregion/all_eu",
+  "id": "release_notes/euregion/all_eu",
+  "title": "all_eu",
+  "description": "May 10, 2022",
+  "source": "@site/docs/release_notes/02_euregion/01_all_eu.md",
+  "sourceDirName": "release_notes/02_euregion",
+  "slug": "/release_notes/euregion/all_eu",
+  "permalink": "/docs/release_notes/euregion/all_eu",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/release_notes/02_euregion/01_all_eu.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "ft:title": "Veracode European Region Release Notes",
+    "ft:prettyUrl": "Veracode_European_Region_Release_Notes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/release_notes/euregion/"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/results_reports/"
+  }
+}

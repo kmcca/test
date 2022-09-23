@@ -1,0 +1,28 @@
+{
+  "unversionedId": "results_reports/accessing_veracode_reports/download_detailed_veracode_report",
+  "id": "results_reports/accessing_veracode_reports/download_detailed_veracode_report",
+  "title": "download_detailed_veracode_report",
+  "description": "You can generate a report of your application security findings to share vulnerability statistics of applications and websites with your stakeholders.",
+  "source": "@site/docs/results_reports/08_accessing_veracode_reports/05_download_detailed_veracode_report.md",
+  "sourceDirName": "results_reports/08_accessing_veracode_reports",
+  "slug": "/results_reports/accessing_veracode_reports/download_detailed_veracode_report",
+  "permalink": "/docs/results_reports/accessing_veracode_reports/download_detailed_veracode_report",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/results_reports/08_accessing_veracode_reports/05_download_detailed_veracode_report.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "ft:title": "Download the Detailed Veracode Report",
+    "ft:prettyUrl": "t_download_detailed_report"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "download_customizable_report",
+    "permalink": "/docs/results_reports/accessing_veracode_reports/download_customizable_report"
+  },
+  "next": {
+    "title": "download_summary_report",
+    "permalink": "/docs/results_reports/accessing_veracode_reports/download_summary_report"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "admin/managing_users_teams/managing_teams/delete_team_platform",
+  "id": "admin/managing_users_teams/managing_teams/delete_team_platform",
+  "title": "delete_team_platform",
+  "description": "You can only delete a team that has no applications associated with it.",
+  "source": "@site/docs/admin/02_managing_users_teams/04_managing_teams/03_delete_team_platform.md",
+  "sourceDirName": "admin/02_managing_users_teams/04_managing_teams",
+  "slug": "/admin/managing_users_teams/managing_teams/delete_team_platform",
+  "permalink": "/docs/admin/managing_users_teams/managing_teams/delete_team_platform",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/admin/02_managing_users_teams/04_managing_teams/03_delete_team_platform.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "ft:title": "Delete a Team in the Veracode Platform",
+    "ft:prettyUrl": "Delete_a_Team_in_the_Veracode_Platform"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "update_team_platform",
+    "permalink": "/docs/admin/managing_users_teams/managing_teams/update_team_platform"
+  },
+  "next": {
+    "title": "video_create_manage_users_teams",
+    "permalink": "/docs/admin/managing_users_teams/managing_teams/video_create_manage_users_teams"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/javascript_sca_agent/README",
+  "id": "SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/javascript_sca_agent/README",
+  "title": "README",
+  "description": "You can find vulnerabilities in your JavaScript applications using Veracode Software Composition Analysis agent-based scanning. You can run a scan on NPM, Yarn and Bower repositories using the agent-based scanning command-line interface or the CI integrations.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/03_javascript_sca_agent/README.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/03_javascript_sca_agent",
+  "slug": "/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/javascript_sca_agent/",
+  "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/javascript_sca_agent/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/18_finding_and_fixing_vulnerabilities/03_javascript_sca_agent/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ft:title": "JavaScript SCA Agent-Based Scanning",
+    "ft:prettyUrl": "c_sc_javascript"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fix_example_ant_direct",
+    "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/java_sca_agent/fix_example_ant_direct"
+  },
+  "next": {
+    "title": "run_agent_scan_npm",
+    "permalink": "/docs/SCA/using_agent_based_scans/finding_and_fixing_vulnerabilities/javascript_sca_agent/run_agent_scan_npm"
+  }
+}

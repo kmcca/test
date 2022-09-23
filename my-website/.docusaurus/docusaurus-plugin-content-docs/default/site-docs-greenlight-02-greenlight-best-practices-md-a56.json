@@ -1,0 +1,28 @@
+{
+  "unversionedId": "greenlight/greenlight_best_practices",
+  "id": "greenlight/greenlight_best_practices",
+  "title": "greenlight_best_practices",
+  "description": "Veracode Greenlight detects coding best practices in which the code has protected the application against specific Common Weakness Enumerations (CWEs).",
+  "source": "@site/docs/greenlight/02_greenlight_best_practices.md",
+  "sourceDirName": "greenlight",
+  "slug": "/greenlight/greenlight_best_practices",
+  "permalink": "/docs/greenlight/greenlight_best_practices",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/greenlight/02_greenlight_best_practices.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "Veracode Greenlight Best Practices",
+    "ft:prettyUrl": "c_best_practices"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "about_greenlight",
+    "permalink": "/docs/greenlight/about_greenlight"
+  },
+  "next": {
+    "title": "greenlight_prereqs",
+    "permalink": "/docs/greenlight/greenlight_prereqs"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "unversionedId": "pipeline_scan/pipeline_scan_gitlab_examples/README",
+  "id": "pipeline_scan/pipeline_scan_gitlab_examples/README",
+  "title": "README",
+  "description": "You can add a Pipeline Scan as a job in a GitLab pipeline. You can use the YAML code examples in this section to configure GitLab pipeline jobs for building a project and running a Pipeline Scan as a stage in the pipeline.",
+  "source": "@site/docs/pipeline_scan/08_pipeline_scan_gitlab_examples/README.md",
+  "sourceDirName": "pipeline_scan/08_pipeline_scan_gitlab_examples",
+  "slug": "/pipeline_scan/pipeline_scan_gitlab_examples/",
+  "permalink": "/docs/pipeline_scan/pipeline_scan_gitlab_examples/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/pipeline_scan/08_pipeline_scan_gitlab_examples/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Mike Howes"
+    ],
+    "ft:originID": "pipeline_scan_gitlab_examples",
+    "ft:lang": "en-US",
+    "ft:title": "GitLab Pipeline Scan Examples",
+    "ft:prettyUrl": "Gitlab_Pipeline_Scan_Examples",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "r_github_baseline_example",
+    "permalink": "/docs/pipeline_scan/pipeline_scan_github_examples/r_github_baseline_example"
+  },
+  "next": {
+    "title": "t_set_access_token_gitlab",
+    "permalink": "/docs/pipeline_scan/pipeline_scan_gitlab_examples/t_set_access_token_gitlab"
+  }
+}

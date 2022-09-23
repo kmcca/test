@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tile_all_docs_videos/all_videos_tile",
+  "id": "tile_all_docs_videos/all_videos_tile",
+  "title": "all_videos_tile",
+  "description": "Watch the following videos to understand more about the Veracode Platform and technologies.",
+  "source": "@site/docs/tile_all_docs_videos/02_all_videos_tile.md",
+  "sourceDirName": "tile_all_docs_videos",
+  "slug": "/tile_all_docs_videos/all_videos_tile",
+  "permalink": "/docs/tile_all_docs_videos/all_videos_tile",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tile_all_docs_videos/02_all_videos_tile.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "ft:title": "All Demonstration Videos",
+    "ft:prettyUrl": "all_videos_HC"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "all_docs_tile",
+    "permalink": "/docs/tile_all_docs_videos/all_docs_tile"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/tile_app_analysis/"
+  }
+}

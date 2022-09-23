@@ -1,0 +1,32 @@
+{
+  "unversionedId": "SCA/using_agent_based_scans/libraries/README",
+  "id": "SCA/using_agent_based_scans/libraries/README",
+  "title": "README",
+  "description": "Libraries represent each open-source library that Veracode Software Composition Analysis (SCA) agent-based scanning has identified within a code project.",
+  "source": "@site/docs/SCA/04_using_agent_based_scans/20_libraries/README.md",
+  "sourceDirName": "SCA/04_using_agent_based_scans/20_libraries",
+  "slug": "/SCA/using_agent_based_scans/libraries/",
+  "permalink": "/docs/SCA/using_agent_based_scans/libraries/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SCA/04_using_agent_based_scans/20_libraries/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Kevin McCarthy"
+    ],
+    "ft:lang": "en-US",
+    "ft:title": "Libraries",
+    "ft:prettyUrl": "Libraries",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "export_agent_results",
+    "permalink": "/docs/SCA/using_agent_based_scans/issue_management/export_agent_results"
+  },
+  "next": {
+    "title": "view_library_details",
+    "permalink": "/docs/SCA/using_agent_based_scans/libraries/view_library_details"
+  }
+}

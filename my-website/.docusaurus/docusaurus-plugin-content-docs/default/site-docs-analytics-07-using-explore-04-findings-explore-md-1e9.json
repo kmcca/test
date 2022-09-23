@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Analytics/using_explore/findings_explore",
+  "id": "Analytics/using_explore/findings_explore",
+  "title": "findings_explore",
+  "description": "The following definitions describe the dimensions and measures in the Findings explore in Veracode Analytics.",
+  "source": "@site/docs/Analytics/07_using_explore/04_findings_explore.md",
+  "sourceDirName": "Analytics/07_using_explore",
+  "slug": "/Analytics/using_explore/findings_explore",
+  "permalink": "/docs/Analytics/using_explore/findings_explore",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Analytics/07_using_explore/04_findings_explore.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "ft:title": "Findings Data Dictionary",
+    "ft:prettyUrl": "r_findings_explore"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "greenlight_explore",
+    "permalink": "/docs/Analytics/using_explore/greenlight_explore"
+  },
+  "next": {
+    "title": "users_explore",
+    "permalink": "/docs/Analytics/using_explore/users_explore"
+  }
+}
