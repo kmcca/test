@@ -1,0 +1,29 @@
+{
+  "unversionedId": "tile_troubleshoot/README",
+  "id": "tile_troubleshoot/README",
+  "title": "README",
+  "description": "You can use the troubleshooting information to help you resolve errors or issues with Veracode products.",
+  "source": "@site/docs/tile_troubleshoot/README.md",
+  "sourceDirName": "tile_troubleshoot",
+  "slug": "/tile_troubleshoot/",
+  "permalink": "/docs/tile_troubleshoot/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tile_troubleshoot/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "author": [
+      "Mike Howes"
+    ],
+    "ft:originID": "tshoot_tile",
+    "ft:lang": "en-US",
+    "ft:title": "Troubleshooting",
+    "ft:prettyUrl": "r_troubleshoot",
+    "media_dir": "images/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/tile_training/"
+  }
+}

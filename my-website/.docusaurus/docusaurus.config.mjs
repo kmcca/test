@@ -26,7 +26,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\users\\kmccarthy\\repos\\km-docusaurus-test\\my-website\\sidebars.js",
+          "sidebarPath": "C:\\users\\kmccarthy\\Repos\\km-docusaurus-test\\my-website\\sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -34,7 +34,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "C:\\users\\kmccarthy\\repos\\km-docusaurus-test\\my-website\\src\\css\\custom.css"
+          "customCss": "C:\\users\\kmccarthy\\Repos\\km-docusaurus-test\\my-website\\src\\css\\custom.css"
         }
       }
     ]
