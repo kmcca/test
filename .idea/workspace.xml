@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="569c75b3-dcc9-4ecf-8dc2-4fb6b713aaa1" name="Changes" comment="delete project" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FBStBCi69Co6u5Wscb4FbZ87YV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="569c75b3-dcc9-4ecf-8dc2-4fb6b713aaa1" name="Changes" comment="" />
+      <created>1663964195839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663964195839</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add all our md files">
+      <created>1663965084427</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663965084427</updated>
+    </task>
+    <task id="LOCAL-00002" summary="broken link update">
+      <created>1663968678987</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663968678987</updated>
+    </task>
+    <task id="LOCAL-00003" summary="broken link update">
+      <created>1663968818127</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663968818127</updated>
+    </task>
+    <task id="LOCAL-00004" summary="broken link update">
+      <created>1663971529288</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663971529288</updated>
+    </task>
+    <task id="LOCAL-00005" summary="move docs folders">
+      <created>1664550906641</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664550906641</updated>
+    </task>
+    <task id="LOCAL-00006" summary="move docs folders">
+      <created>1664561915185</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664561915185</updated>
+    </task>
+    <task id="LOCAL-00007" summary="move docs folder again">
+      <created>1664563160639</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664563160639</updated>
+    </task>
+    <task id="LOCAL-00008" summary="remove docs folders">
+      <created>1664565534846</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1664565534846</updated>
+    </task>
+    <task id="LOCAL-00009" summary="delete project">
+      <created>1664566764637</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664566764637</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add all our md files" />
+    <MESSAGE value="broken link update" />
+    <MESSAGE value="move docs folders" />
+    <MESSAGE value="move docs folder again" />
+    <MESSAGE value="remove docs folders" />
+    <MESSAGE value="delete project" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete project" />
+  </component>
+</project>
