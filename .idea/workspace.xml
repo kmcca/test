@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="569c75b3-dcc9-4ecf-8dc2-4fb6b713aaa1" name="Changes" comment="delete project" />
+    <list default="true" id="569c75b3-dcc9-4ecf-8dc2-4fb6b713aaa1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664566764637</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="remove blog">
+      <created>1664912642432</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664912642432</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +123,7 @@
     <MESSAGE value="move docs folder again" />
     <MESSAGE value="remove docs folders" />
     <MESSAGE value="delete project" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete project" />
+    <MESSAGE value="remove blog" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove blog" />
   </component>
 </project>
