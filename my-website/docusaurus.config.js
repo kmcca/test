@@ -6,17 +6,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Veracode Docs',
+  tagline: 'RSS feed please work!',
+  url: 'https://docs.veracode.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'ignore',
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'veracode', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -24,7 +24,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'fr',],
   },
 
   presets: [
@@ -33,16 +33,23 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          routeBasePath: '/', // Serve the docs at the site's root
-
           sidebarPath: require.resolve('./sidebars.js'),
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+         /* editUrl:
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',*/
+        },
+        blog: {
+        feedOptions: {
+                    type: 'all',
+                    copyright: `Copyright © ${new Date().getFullYear()} Facebook, Inc.`,
+                  },
+          showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: false,
-
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -54,70 +61,97 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: '',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Veracode Docs',
+          src: 'img/veracode-black-hires.svg',
+          srcDark: 'https://www.veracode.com/themes/veracode_new/library/img/veracode-black-hires.svg',
         },
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'guides/Veracode Docs',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Release Notes', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            type: 'doc',
+            docId: 'apis/Veracode_APIs',
+            position: 'left',
+            label: 'APIs',
+          },
+          {
+            type: 'doc',
+            docId: 'release_notes/Veracode_Release_Notes',
+            position: 'left',
+            label: 'Release Notes',
+          },
+          {
+            href: 'https://community.veracode.com/s/',
+            label: 'Community',
+            position: 'right',
+          },
+          {
+            href: 'https://github.com/veracode',
             label: 'GitHub',
             position: 'right',
+          },
+          {
+           type: 'localeDropdown',
+           position: 'right',
           },
         ],
       },
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
+
           {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Community',
+                href: 'https://community.veracode.com/s/',
               },
             ],
           },
           {
-            title: 'More',
+           title: 'Social',
+            items: [
+            {
+               label: 'Veracode for Developers',
+               href: 'https://veracode.github.io/',
+                },
+                        {
+                          label: 'Facebook',
+                          href: 'https://www.facebook.com/VeracodeInc/',
+                        },
+                         {
+                          label: 'Instagram',
+                          href: 'https://www.instagram.com/veracode/',
+                          },
+                        {
+                          label: 'Twitter',
+                          href: 'https://twitter.com/veracode',
+                        },
+                      ],
+                    },
+          {
+            title: 'Support',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Contact Support',
+                to: 'https://community.veracode.com/s/contact-support',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Secure Code Training',
+                href: 'https://www.veracode.com/developers/training',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Veracode`,
       },
       prism: {
         theme: lightCodeTheme,
