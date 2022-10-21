@@ -1,25 +1,9 @@
 ---
-slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
+slug: releaseNotes
+title: Release Notes
+authors: [kmccarthy]
 tags: [facebook, hello, docusaurus]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+Release notes for the United States Region describe the new Veracode features and updates available to organizations that use the United States domains. The new features available to organizations that have their Veracode account data hosted in Europe are described in the European Region Release Notes.
 
-Simply add Markdown files (or folders) to the `blog` directory.
-
-Regular blog authors can be added to `authors.yml`.
-
-The blog post date can be extracted from filenames, such as:
-
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
-
-A blog post folder can be convenient to co-locate blog post images:
-
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
-
-The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.

@@ -70,22 +70,16 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'docs/intro.md',
+            docId: 'tutorial-basics/create-a-document',
             position: 'left',
             label: 'Docs',
           },
           {to: '/blog', label: 'Release Notes', position: 'left'},
           {
             type: 'doc',
-            docId: 'blog/2021-08-26-welcome/index.md',
-            position: 'left',
-            label: 'APIs',
-          },
-          {
-            type: 'doc',
             docId: 'tutorial-basics/create-a-blog-post',
             position: 'left',
-            label: 'Release Notes',
+            label: 'APIs',
           },
           {
             href: 'https://community.veracode.com/s/',
