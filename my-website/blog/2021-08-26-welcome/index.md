@@ -1,7 +1,7 @@
 ---
 slug: releaseNotes
 title: Release Notes
-authors: [kmccarthy]
+authors: endi
 tags: [facebook, hello, docusaurus]
 ---
 
