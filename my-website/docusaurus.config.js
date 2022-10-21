@@ -70,20 +70,20 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'guides/Veracode Docs',
+            docId: 'docs/intro.md',
             position: 'left',
             label: 'Docs',
           },
           {to: '/blog', label: 'Release Notes', position: 'left'},
           {
             type: 'doc',
-            docId: 'apis/Veracode_APIs',
+            docId: 'blog/2021-08-26-welcome/index.md',
             position: 'left',
             label: 'APIs',
           },
           {
             type: 'doc',
-            docId: 'release_notes/Veracode_Release_Notes',
+            docId: 'tutorial-basics/create-a-blog-post',
             position: 'left',
             label: 'Release Notes',
           },
