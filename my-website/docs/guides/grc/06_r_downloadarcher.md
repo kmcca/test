@@ -111,7 +111,7 @@ A partial XML example. Veracode has deprecated assurance level and replaced it w
       <custom1></custom1>
       <custom2></custom2>
       <custom3></custom3>
-      <custom4></custom4>
+ &amp;    <custom4></custom4>
       <customfield name="Custom 1" value=""/>
       <customfield name="Custom 2" value=""/>
       <customfield name="Custom 3" value=""/>
@@ -157,7 +157,7 @@ A partial XML example. Veracode has deprecated assurance level and replaced it w
               This message is purely information and does not represent a flaw in the code.
               Therefore, no remediation is necessary.&#x3c;&#x2f;span&#x3e;&#x3c;span&#x3e;
               References&#x3a;&#x3c;ahref&#x3d;&#x22;https&#x3a;&#x2f;&#x2f;
-              cwe.mitre.org&#x2f;data&#x2f;definitions&#x2f;656.html&#x22;&#x3e;CWE&
+              cwe.mitre.org&#x2f;data&#x2f;definitions&#x2f;656.html&#x22;&#x3e;CWE%26
               #x3c;&#x2f;a&#x3e;&#x3c;&#x2f;span&#x3e;
             </flaw_description>
             <note></note>
@@ -198,5 +198,7 @@ A partial XML example. Veracode has deprecated assurance level and replaced it w
             <mitigations/>
             <recommendations/>
          </Record>
-...
+      </flaws>
+   </Record>
+</Records>
 ```

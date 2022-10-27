@@ -196,5 +196,8 @@ A partial XML example. Veracode has deprecated assurance level and replaced it w
                   <ArcherRecords/>
                </Field>
             </ArcherRecord>
-...
+         </ArcherRecords>
+      </Field>
+   </ArcherRecord>
+</ArcherRecords>
 ```

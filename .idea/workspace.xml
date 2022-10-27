@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="569c75b3-dcc9-4ecf-8dc2-4fb6b713aaa1" name="Changes" comment="use netlify url" />
+    <list default="true" id="569c75b3-dcc9-4ecf-8dc2-4fb6b713aaa1" name="Changes" comment="grc files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/docs/guides/grc/06_r_downloadarcher.md" beforeDir="false" afterPath="$PROJECT_DIR$/my-website/docs/guides/grc/06_r_downloadarcher.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/docs/guides/grc/07_r_archer_deprec.md" beforeDir="false" afterPath="$PROJECT_DIR$/my-website/docs/guides/grc/07_r_archer_deprec.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666905259779</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="grc files">
+      <created>1666906229869</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1666906229870</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +189,7 @@
     <MESSAGE value="doc ids" />
     <MESSAGE value="blog content" />
     <MESSAGE value="use netlify url" />
-    <option name="LAST_COMMIT_MESSAGE" value="use netlify url" />
+    <MESSAGE value="grc files" />
+    <option name="LAST_COMMIT_MESSAGE" value="grc files" />
   </component>
 </project>
