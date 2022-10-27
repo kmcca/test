@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Veracode Docs',
   tagline: 'RSS feed please work!',
-  url: 'https://docs.veracode.com',
+  url: 'profound-cocada-7061ad.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'ignore',
