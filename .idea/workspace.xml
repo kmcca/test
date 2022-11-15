@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="569c75b3-dcc9-4ecf-8dc2-4fb6b713aaa1" name="Changes" comment="delete grc folder">
+    <list default="true" id="569c75b3-dcc9-4ecf-8dc2-4fb6b713aaa1" name="Changes" comment="theme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -188,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666971751781</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="theme">
+      <created>1666975801867</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1666975801867</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,6 +225,7 @@
     <MESSAGE value="grc files" />
     <MESSAGE value="grc file errors" />
     <MESSAGE value="delete grc folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete grc folder" />
+    <MESSAGE value="theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="theme" />
   </component>
 </project>
